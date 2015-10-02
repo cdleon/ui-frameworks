@@ -13,18 +13,19 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - [Tools](#tools)
 
 ## CSS Frameworks
-- Bootsrap -f -rb me --likes 1
-- Foundation -f -rb me --likes 1
-- Materialize -f -rb me
+- Bootsrap --free --hearts 1
+- Foundation --free --hearts 1
+- Materialize --free
 
 ## CSS Snippets
 
 
-## Free Templates
-- Start Bootstrap -f -rb me
+## Templates
+- [Start Bootstrap](http://startbootstrap.com/) --free --hearts 1
 
 ## Pure JS Plugins
-
+- Sliders
+  * [Slick](https://github.com/kenwheeler/slick) --free --hearts 1
 
 ## JQuery PLugins
 
@@ -33,6 +34,10 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 
 ##Loaders
-
+- CSS
+  * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) --free --hearts 1
+  * [Single Element CSS Spinners](https://github.com/lukehaas/css-loaders) --free -hearts 1
+- SVG
+  * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) --free -likes
 
 ##Tools

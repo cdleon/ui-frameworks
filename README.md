@@ -1,6 +1,15 @@
 # Awesome Front End
 Curated list of awesome front end tools, plugins, frameworks and more!
 
+:gift_heart: => Free!
+
+:moneybag: college student affordable
+
+:moneybag: :moneybag: moderate cash
+
+:moneybag: :moneybag: :moneybag: show me the money!
+
+
 ## Table of Contents
 
 - [CSS Frameworks](#css-frameworks)
@@ -13,19 +22,19 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - [Tools](#tools)
 
 ## CSS Frameworks
-- Bootsrap --free --hearts 1
-- Foundation --free --hearts 1
-- Materialize --free
+- [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart:
+- [Foundation](https://github.com/zurb/foundation) :gift_heart:
+- [Materialize](https://github.com/Dogfalo/materialize) :gift_heart:
 
 ## CSS Snippets
 
 
 ## Templates
-- [Start Bootstrap](http://startbootstrap.com/) :heart:
+- [Start Bootstrap](http://startbootstrap.com/) :gift_heart:
 
 ## Pure JS Plugins
 - Sliders
-  * [Slick](https://github.com/kenwheeler/slick) :heart:
+  * [Slick](https://github.com/kenwheeler/slick) :gift_heart:
 
 ## JQuery PLugins
 
@@ -35,9 +44,9 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 ##Loaders
 - CSS
-  * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) :heart:
-  * [Single Element CSS Spinners](https://github.com/lukehaas/css-loaders) :heart:
+  * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) :gift_heart:
+  * [Single Element CSS Spinners](https://github.com/lukehaas/css-loaders) :gift_heart:
 - SVG
-  * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :heart:
+  * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :gift_heart:
 
 ##Tools

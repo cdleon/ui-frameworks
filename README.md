@@ -3,14 +3,14 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 ## Table of Contents
 
-- [CSS Frameworks](#CSS-Frameworks)
-- CSS Snippets
-- Free Templates
-- Pure JS Plugins
-- JQuery Plugins
-- Icons
-- Loaders
-- Tools
+- [CSS Frameworks](#css-frameworks)
+- [CSS Snippets](#css-snippets)
+- [Templates](#templates)
+- [Pure JS Plugins](#pure-js-plugins)
+- [JQuery Plugins](#jquery-plugins)
+- [Icons](#icons)
+- [Loaders](#loaders)
+- [Tools](#tools)
 
 ## CSS Frameworks
 - Bootsrap -f -rb me --likes 1

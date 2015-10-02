@@ -3,11 +3,9 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 :gift_heart: => Free!
 
-:moneybag: college student affordable
+:rainbow: Free for dev
 
-:moneybag: :moneybag: moderate cash
-
-:moneybag: :moneybag: :moneybag: show me the money!
+:moneybag: Show me the money!
 
 
 ## Table of Contents
@@ -40,7 +38,16 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 
 ## Icons
-
+- Font Icons
+  * [Font Awesome](https://github.com/FortAwesome/Font-Awesome) :gift_heart:
+  * [Ionicons](https://github.com/driftyco/ionicons) :gift_heart:
+  * [Materialize Icons](http://materializecss.com/icons.html) :gift_heart:
+  * [Devicons](https://github.com/vorillaz/devicons) :gift_hearts:
+  * [Material Design Icons](https://github.com/google/material-design-icons) :gift_heart:
+  * [Octicons](https://github.com/github/octicons/) :gift_heart:
+- CSS Icons
+  * [Littlebox](https://github.com/cmaddux/littlebox) :gift_heart:
+  * [Icono](https://github.com/saeedalipoor/icono) :gift_heart:
 
 ##Loaders
 - CSS

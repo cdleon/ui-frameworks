@@ -21,7 +21,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 
 ## Templates
-- [Start Bootstrap](http://startbootstrap.com/) --free --hearts 1
+- [Start Bootstrap](http://startbootstrap.com/) --free :heart: 1
 
 ## Pure JS Plugins
 - Sliders

@@ -38,7 +38,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 
 ## Icons
-- Font Icons
+- Font
   * [Font Awesome](https://github.com/FortAwesome/Font-Awesome) :gift_heart:
   * [Ionicons](https://github.com/driftyco/ionicons) :gift_heart:
   * [Materialize Icons](http://materializecss.com/icons.html) :gift_heart:
@@ -53,14 +53,15 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [IcoMoon](https://icomoon.io/) :gift_heart:
   * [Analog Clock](https://github.com/jhogue/PE-Analog-Clock-icon-font) :gift_heart:
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart:
-- CSS Icons
+  * [Fontello](https://github.com/fontello/fontello) :gift_heart:
+- CSS
   * [Littlebox](https://github.com/cmaddux/littlebox) :gift_heart:
   * [Icono](https://github.com/saeedalipoor/icono) :gift_heart:
-- SVG Icons
+- SVG
   * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart:
-- PNG Icons
+- PNG
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart:
-  
+
 ##Loaders
 - CSS
   * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) :gift_heart:

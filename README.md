@@ -21,11 +21,11 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 
 ## Templates
-- [Start Bootstrap](http://startbootstrap.com/) --free :heart: 1
+- [Start Bootstrap](http://startbootstrap.com/) :heart:
 
 ## Pure JS Plugins
 - Sliders
-  * [Slick](https://github.com/kenwheeler/slick) --free --hearts 1
+  * [Slick](https://github.com/kenwheeler/slick) :heart:
 
 ## JQuery PLugins
 
@@ -35,9 +35,9 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 ##Loaders
 - CSS
-  * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) --free --hearts 1
-  * [Single Element CSS Spinners](https://github.com/lukehaas/css-loaders) --free -hearts 1
+  * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) :heart:
+  * [Single Element CSS Spinners](https://github.com/lukehaas/css-loaders) :heart:
 - SVG
-  * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) --free -likes
+  * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :heart:
 
 ##Tools

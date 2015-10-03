@@ -42,6 +42,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Font Awesome](https://github.com/FortAwesome/Font-Awesome) :gift_heart:
   * [Ionicons](https://github.com/driftyco/ionicons) :gift_heart:
   * [Materialize Icons](http://materializecss.com/icons.html) :gift_heart:
+  * [Glyhish](http://www.glyphish.com/) :rainbow:
   * [Devicons](https://github.com/vorillaz/devicons) :gift_heart:
   * [Material Design Icons](https://github.com/google/material-design-icons) :gift_heart:
   * [Octicons](https://github.com/github/octicons/) :gift_heart:

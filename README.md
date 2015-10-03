@@ -13,6 +13,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - [CSS Frameworks](#css-frameworks)
 - [CSS Snippets](#css-snippets)
 - [CSS Plugins](#css-plugins)
+- [Fonts](#fonts)
 - [Icons](#icons)
 - [JQuery Plugins](#jquery-plugins)
 - [JS Frameworks](#js-frameworks)
@@ -59,6 +60,16 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [CSS Flow](http://www.cssflow.com/snippets/) :gift_heart:
   * [Cody House](http://codyhouse.co/) :rainbow:
 
+## Guides
+- Responsive
+  * [Media Queries (Examples)](http://mediaqueri.es/) :gift_heart:
+  * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart:
+
+## Fonts
+- [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart:
+- CSS
+  * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart:
+
 ## Icons
 - CSS
   * [Littlebox](https://github.com/cmaddux/littlebox) :gift_heart:
@@ -90,7 +101,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart:
   * [Nucleo](https://nucleoapp.com) :moneybag:
 
-## JQuery PLugins
+## JQuery Plugins
 - Effects
   * [Midnight](https://github.com/Aerolab/midnight.js) :gift_heart:
 - File Upload
@@ -156,3 +167,25 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 
 ##Tools
+- Browser Support
+  * [Can I Use](http://caniuse.com/) :gift_heart:
+  * [State of WebType](http://stateofwebtype.com/) :gift_heart:
+  * JS
+     + [Modernizr](https://github.com/modernizr/modernizr) :gift_heart:
+- Layout Generators
+  * [CSS Layout Generator](http://csslayoutgenerator.com/) :gift_heart:
+- Minifiers
+  * [CSS Minifier](http://cssminifier.com/) :gift_heart:
+  * [Javscript Minifier](http://javascript-minifier.com/) :gift_heart:
+- Generators
+  * Bootstrap Themes
+    + [Bootstrap Magick](http://pikock.github.io/bootstrap-magic/app/index.html#!/editor) :gift_heart:
+  * CSS Helpers
+    + [CSS Layout Generator](http://csslayoutgenerator.com/) :gift_heart:
+    + [How to Center in CSS](http://howtocenterincss.com/) :gift_heart:
+  * Buttons
+    + [Birliiant Button Maker](http://www.lucazappa.com/brilliantMaker/buttonImage.php) :gift:heart:
+- Responsive Analizers
+  * [AmIResponsive](http://ami.responsivedesign.is/) :gift_heart:
+  * [Responsinator](http://www.responsinator.com/) :gift_heart:
+  * [ViewPortResizer](http://lab.maltewassermann.com/viewport-resizer/) :gift_heart:

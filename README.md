@@ -51,6 +51,8 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Pure CSS Slider](https://github.com/drygiel/csslider) :gift_heart:
 - Plots & Charts
   * [CSS Plots](https://github.com/asciimoo/cssplot) :gift_heart:
+- Text Effects
+  * [Animate.css](https://github.com/daneden/animate.css) :gift_heart:
 
 ## CSS Snippets
 - Bootsrap
@@ -103,20 +105,71 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Nucleo](https://nucleoapp.com) :moneybag:
 
 ## JQuery Plugins
-- Effects
-  * [Midnight](https://github.com/Aerolab/midnight.js) :gift_heart:
+- Background & Background effects
+  * [Backstretch](https://github.com/srobbin/jquery-backstretch) :gift_heart:
+  * [Supersized](https://github.com/buildinternet/supersized) :gift_heart:
+  * [Tubular](http://www.seanmccambridge.com/tubular/) :gift_heart:
+- Date Pickers
+  * [Pickadate](https://github.com/amsul/pickadate.js) :gift_heart:
+- Dialogs & Alerts
+  * [Alertify](https://github.com/fabien-d/alertify.js) :gift_heart:
+  * [Avgrund](https://github.com/voronianski/jquery.avgrund.js) :gift_heart:
+- Forms & Input
+  * [Chosen](https://github.com/harvesthq/chosen) :gift_heart:
+  * [Fancy Input](https://github.com/yairEO/fancyInput) :gift_heart:
+  * [iCheck](https://github.com/fronteed/iCheck) :gift_heart:
+  * [jQuery Knobs](https://github.com/aterrien/jQuery-Knob) :gift_heart:
+  * [Parsley](https://github.com/guillaumepotier/Parsley.js/) :gift_heart:
+  * [Typehead](https://github.com/twitter/typeahead.js/) :gift_heart:
 - File Upload
   * [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) :gift_heart:
+- Grids
+  * [Freetile](https://github.com/yconst/Freetile) :gift_heart:
+  * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart:
+  * [Stalactite](https://github.com/jonobr1/stalactite) :gift_heart:
 - Image & Content Sliders
   * [Slides Js](https://github.com/nathansearles/Slides/tree/SlidesJS-3) :gift_heart:
   * [Slider](https://github.com/nolimits4web/Swiper) :gift_heart:
+  * [Swipe](https://github.com/thebird/Swipe) :gift_heart:
   * [RTP SLider](https://github.com/rtp-ch/slider) :gift_heart:
-- Image Manipulation
+- Image Manipulation & Effects
+  * [Adipoli](https://github.com/cube3x/Adipoli) :gift_heart:
+  * [CamanJS](https://github.com/meltingice/CamanJS/) :gift_heart:
+  * [iPicture](https://github.com/vincicat/jQuery-iPicture) :gift_heart:
   * [Jcrop](https://github.com/tapmodo/Jcrop) :gift_heart:
+  * [Swipebox](https://github.com/brutaldesign/swipebox) :gift_heart:
+  * [ThreeSixty](https://github.com/modernassembly/threesixtyjs/) :gift_heart:
+  * [TiltShift.js](https://github.com/noeltock/tiltShift.js) :gift_heart:
 - Loading Bars
   * [Loading Bar (Youtube-like)](https://github.com/peachananr/loading-bar) :gift_heart:
+  * [PercentageLoader](https://github.com/lepoetemaudit/percentageloader) :gift_heart:
+- Parallax & Scrolling
+  * [Scroll Path](https://github.com/JoelBesada/scrollpath) :gift_heart:
+  * [Cool Kitten](https://github.com/jalxob/cool-kitten) :gift_heart:
+  * [Stellar.js](https://github.com/markdalgleish/stellar.js) :gift_heart:
+  * [Sticky](https://github.com/garand/sticky) :gift_heart:
+  * [Superscrollorama](https://github.com/johnpolacek/superscrollorama) :gift_heart:
+  * [Windows](https://github.com/nick-jonas/nick-jonas.github.com/tree/master/windows) :gift_heart:
 - Range Sliders
   * [jQuery Vertical Slider](http://jqueryui.com/slider/#slider-vertical) :gift_heart:
+- Social Media
+  * [Social Feed](https://github.com/pavelk2/social-feed) :gift_heart:
+  * [Spectagram](https://github.com/adrianengine/jquery-spectragram) :gift_heart:
+- Scrollbars
+  * [Malihu Custom Scrollbar](https://github.com/malihu/malihu-custom-scrollbar-plugin) :gift_heart:
+  * [nanoScroller.js](https://github.com/jamesflorentino/nanoScrollerJS) :gift_heart:
+- Security
+  * [Complexify](https://github.com/danpalmer/jquery.complexify.js/) :gift_heart:
+- Text Effects
+  * [Arctext.js](https://github.com/codrops/Arctext) :gift_heart:
+  * [Bacon](https://github.com/hudsonfoo/jQuery-Bacon) :gift_heart:
+  * [FitText](https://github.com/davatron5000/FitText.js) :gift_heart:
+  * [JQuery Shuffle Letters](https://github.com/robbue/jquery-shuffle-letters-plugin) :gift_heart:
+  * [Lettering.js](https://github.com/davatron5000/Lettering.js) :gift_heart:
+  * [Midnight](https://github.com/Aerolab/midnight.js) :gift_heart:
+  * [Textillate.js](https://github.com/jschr/textillate) :gift_heart:
+- Typing
+  * [Long Press](https://github.com/quentint/long-press) :gift_heart:
 
 ## JS Frameworks
   * [Angular](https://github.com/angular/angular.js) :gift_heart:
@@ -143,6 +196,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Modernizr](https://github.com/modernizr/modernizr) :gift_heart:
 - Effects
   * [Interact.js](https://github.com/taye/interact.js) :gift_heart:
+  * [List.js](https://github.com/javve/list.js) :gift_heart:
 - Image & Content Sliders
   * [Slick](https://github.com/kenwheeler/slick) :gift_heart:
   * [Scooch](https://github.com/mobify/scooch) :gift_heart:
@@ -150,7 +204,13 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Flickity](https://github.com/metafizzy/flickity) :rainbow:
 - LazyLoaders
   * [LazyLoad](https://github.com/vvo/lazyload) :gift_heart:
+- Maps
+  * [Gmaps](https://github.com/hpneo/gmaps) :gift_heart:
+- Pointers & Tooltips
+  * [Toolbar](https://github.com/paulkinzett/toolbar) :gift_heart:
+  * [Tooltipster](https://github.com/iamceege/tooltipster) :gift_heart:
 - Plots & Charts
+  * [Chart.js](https://github.com/nnnick/Chart.js) :gift_heart:
   * [Infogr.am](https://infogr.am/) :moneybag:
 - WYSIWYG
   * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart:

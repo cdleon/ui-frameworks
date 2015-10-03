@@ -4,7 +4,7 @@
 
 + Anyone can contribute
 + Client-side only
-+ Titles should be capitilized
++ Titles should be capitilized (unlessname of item is intended to start with lower case [like for example the iPhone])
 + Make sure you follow alphabetical order
 + Check your spelling!
 + Check for trailling spaces

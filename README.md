@@ -66,6 +66,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart:
 
 ## Fonts
+- [Google Fonts](https://www.google.com/fonts) :gift_heart:
 - [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart:
 - CSS
   * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart:
@@ -112,7 +113,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [RTP SLider](https://github.com/rtp-ch/slider) :gift_heart:
 - Image Manipulation
   * [Jcrop](https://github.com/tapmodo/Jcrop) :gift_heart:
-- Loading Bar
+- Loading Bars
   * [Loading Bar (Youtube-like)](https://github.com/peachananr/loading-bar) :gift_heart:
 - Range Sliders
   * [jQuery Vertical Slider](http://jqueryui.com/slider/#slider-vertical) :gift_heart:
@@ -132,7 +133,14 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :gift_heart:
 
 ## Pure JS Plugins
+- BenchMarking
+  * [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart:
+  * [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart:
+  * [Stats.js](https://github.com/mrdoob/stats.js) :gift_heart:
+  * [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart:
 - [Cody House](http://codyhouse.co/) :rainbow:
+- Browser Support
+  * [Modernizr](https://github.com/modernizr/modernizr) :gift_heart:
 - Effects
   * [Interact.js](https://github.com/taye/interact.js) :gift_heart:
 - Image & Content Sliders
@@ -140,6 +148,8 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Scooch](https://github.com/mobify/scooch) :gift_heart:
   * [Slider](https://github.com/nolimits4web/Swiper) :gift_heart:
   * [Flickity](https://github.com/metafizzy/flickity) :rainbow:
+- LazyLoaders
+  * [LazyLoad](https://github.com/vvo/lazyload) :gift_heart:
 - Plots & Charts
   * [Infogr.am](https://infogr.am/) :moneybag:
 - WYSIWYG
@@ -167,6 +177,12 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 
 ##Tools
+- BenchMarking
+  * JS
+    + [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart:
+    + [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart:
+    + [Stats.js](https://github.com/mrdoob/stats.js) :gift_heart:
+    + [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart:
 - Browser Support
   * [Can I Use](http://caniuse.com/) :gift_heart:
   * [State of WebType](http://stateofwebtype.com/) :gift_heart:

@@ -63,7 +63,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - CSS
   * [Littlebox](https://github.com/cmaddux/littlebox) :gift_heart:
   * [Icono](https://github.com/saeedalipoor/icono) :gift_heart:
-  * * [Nucleo](https://nucleoapp.com) :moneybag:
+  * [Nucleo](https://nucleoapp.com) :moneybag:
 - Font
   * [Font Awesome](https://github.com/FortAwesome/Font-Awesome) :gift_heart:
   * [Ionicons](https://github.com/driftyco/ionicons) :gift_heart:

@@ -18,9 +18,10 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - [JQuery Plugins](#jquery-plugins)
 - [JS Frameworks](#js-frameworks)
 - [Loaders](#loaders)
-- [Pure JS Plugins](#pure-js-plugins)
 - [Templates](#templates)
 - [Tools](#tools)
+- [Vanillla JS Plugins](#vanilla-js-plugins)
+- [Vanilla JS Snippets](#vanilla-js-snippets)
 
 ## CSS Frameworks
 - [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart:
@@ -58,7 +59,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - Bootsrap
   * [Bootsnipp](http://bootsnipp.com/) :gift_heart:
   * [Design Bootsrap](http://www.designbootstrap.com/category/bootstrap-snippets/) :gift_heart:
-- Pure CSS
+- Vanilla CSS
   * [CSS Flow](http://www.cssflow.com/snippets/) :gift_heart:
   * [Cody House](http://codyhouse.co/) :rainbow:
 
@@ -185,7 +186,55 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - SVG
   * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :gift_heart:
 
-## Pure JS Plugins
+## Templates
+- Bootstrap
+  * [Start Bootstrap](http://startbootstrap.com/) :gift_heart:
+  * [Bootsrap Zero](http://www.bootstrapzero.com/) :gift_heart:
+  * [Design Bootsrap](http://www.designbootstrap.com/) :gift_heart: & :moneybag:
+  * [Wrap Bootstrap](https://wrapbootstrap.com/) :moneybag:
+  * [Bootswatch](https://bootswatch.com/) :gift_heart:
+  * [gridgum](http://gridgum.com/themes/category/bootstrap-themes/) :moneybag:
+  * [wpfreeware](http://www.wpfreeware.com/) :gift_heart:
+- [Cody House](http://codyhouse.co/) :rainbow:
+- [gridgum](http://gridgum.com/themes/) :moneybag:
+- Material Design
+  * [Material Design Lite](http://www.getmdl.io/templates/index.html) :gift_heart:
+- WordPress
+  * [gridgum](http://gridgum.com/themes/category/wordpress/) :moneybag:
+  * [wpfreeware](http://www.wpfreeware.com/) :gift_heart:
+
+
+##Tools
+- BenchMarking
+  * JS
+    + [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart:
+    + [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart:
+    + [Stats.js](https://github.com/mrdoob/stats.js) :gift_heart:
+    + [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart:
+- Browser Support
+  * [Can I Use](http://caniuse.com/) :gift_heart:
+  * [State of WebType](http://stateofwebtype.com/) :gift_heart:
+  * Vanilla JS
+     + [Modernizr](https://github.com/modernizr/modernizr) :gift_heart:
+- Layout Generators
+  * [CSS Layout Generator](http://csslayoutgenerator.com/) :gift_heart:
+- Minifiers
+  * [CSS Minifier](http://cssminifier.com/) :gift_heart:
+  * [Javscript Minifier](http://javascript-minifier.com/) :gift_heart:
+- Generators
+  * Bootstrap Themes
+    + [Bootstrap Magick](http://pikock.github.io/bootstrap-magic/app/index.html#!/editor) :gift_heart:
+  * CSS Helpers
+    + [CSS Layout Generator](http://csslayoutgenerator.com/) :gift_heart:
+    + [How to Center in CSS](http://howtocenterincss.com/) :gift_heart:
+  * Buttons
+    + [Birliiant Button Maker](http://www.lucazappa.com/brilliantMaker/buttonImage.php) :gift:heart:
+- Responsive Analizers
+  * [AmIResponsive](http://ami.responsivedesign.is/) :gift_heart:
+  * [Responsinator](http://www.responsinator.com/) :gift_heart:
+  * [ViewPortResizer](http://lab.maltewassermann.com/viewport-resizer/) :gift_heart:
+
+## Vanillla JS Plugins
 - BenchMarking
   * [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart:
   * [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart:
@@ -215,53 +264,5 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - WYSIWYG
   * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart:
 
-## Pure JS Snippets
+## Vanillla JS Snippets
   * [Cody House](http://codyhouse.co/) :rainbow:
-
-## Templates
-- Bootstrap
-  * [Start Bootstrap](http://startbootstrap.com/) :gift_heart:
-  * [Bootsrap Zero](http://www.bootstrapzero.com/) :gift_heart:
-  * [Design Bootsrap](http://www.designbootstrap.com/) :gift_heart: & :moneybag:
-  * [Wrap Bootstrap](https://wrapbootstrap.com/) :moneybag:
-  * [Bootswatch](https://bootswatch.com/) :gift_heart:
-  * [gridgum](http://gridgum.com/themes/category/bootstrap-themes/) :moneybag:
-  * [wpfreeware](http://www.wpfreeware.com/) :gift_heart:
-- [Cody House](http://codyhouse.co/) :rainbow:
-- [gridgum](http://gridgum.com/themes/) :moneybag:
-- Material Design
-  * [Material Design Lite](http://www.getmdl.io/templates/index.html) :gift_heart:
-- WordPress
-  * [gridgum](http://gridgum.com/themes/category/wordpress/) :moneybag:
-  * [wpfreeware](http://www.wpfreeware.com/) :gift_heart:
-
-
-##Tools
-- BenchMarking
-  * JS
-    + [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart:
-    + [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart:
-    + [Stats.js](https://github.com/mrdoob/stats.js) :gift_heart:
-    + [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart:
-- Browser Support
-  * [Can I Use](http://caniuse.com/) :gift_heart:
-  * [State of WebType](http://stateofwebtype.com/) :gift_heart:
-  * JS
-     + [Modernizr](https://github.com/modernizr/modernizr) :gift_heart:
-- Layout Generators
-  * [CSS Layout Generator](http://csslayoutgenerator.com/) :gift_heart:
-- Minifiers
-  * [CSS Minifier](http://cssminifier.com/) :gift_heart:
-  * [Javscript Minifier](http://javascript-minifier.com/) :gift_heart:
-- Generators
-  * Bootstrap Themes
-    + [Bootstrap Magick](http://pikock.github.io/bootstrap-magic/app/index.html#!/editor) :gift_heart:
-  * CSS Helpers
-    + [CSS Layout Generator](http://csslayoutgenerator.com/) :gift_heart:
-    + [How to Center in CSS](http://howtocenterincss.com/) :gift_heart:
-  * Buttons
-    + [Birliiant Button Maker](http://www.lucazappa.com/brilliantMaker/buttonImage.php) :gift:heart:
-- Responsive Analizers
-  * [AmIResponsive](http://ami.responsivedesign.is/) :gift_heart:
-  * [Responsinator](http://www.responsinator.com/) :gift_heart:
-  * [ViewPortResizer](http://lab.maltewassermann.com/viewport-resizer/) :gift_heart:

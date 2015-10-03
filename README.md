@@ -26,25 +26,54 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - [Materialize](https://github.com/Dogfalo/materialize) :gift_heart:
 
 ## CSS Snippets
+- Pure CSS
+  * [CSS Flow](http://www.cssflow.com/snippets/) :gift_heart:
+- Bootsrap
+  * [Bootsnip](http://bootsnipp.com/)
 
 ## CSS Plugins
+- Image Sliders
+  * [Pure CSS Slider](https://github.com/drygiel/csslider) :gift_heart:
 - Buttons
   * [Social Buttons For Bootsrap](https://github.com/lipis/bootstrap-social) :gift_heart:
   * [Zocial CSS Social Buttons](https://github.com/smcllns/css-social-buttons) :gift_heart:
+- Plots & Charts
+  * [CSS Plots](https://github.com/asciimoo/cssplot) :gift_heart:
+- Effects
+  * [iHover](https://github.com/gudh/ihover) :gift_heart:
+  * [Hover](https://github.com/IanLunn/Hover) :gift_heart:
 
 ## Templates
 - [Start Bootstrap](http://startbootstrap.com/) :gift_heart:
 
 ## Pure JS Plugins
-- Image Sliders
+- PLots & Charts
+  * [Infogr.am](https://infogr.am/) :moneybag:
+- Image & Content Sliders
   * [Slick](https://github.com/kenwheeler/slick) :gift_heart:
   * [Scooch](https://github.com/mobify/scooch) :gift_heart:
+  * [Slider](https://github.com/nolimits4web/Swiper) :gift_heart:
+  * [Flickity](https://github.com/metafizzy/flickity) :rainbow:
+- Effects
+  * [Interact.js](https://github.com/taye/interact.js) :gift_heart:
+- WYSIWYG
+  * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart:
 
 ## JQuery PLugins
+- Image & Content Sliders
+  * [Slides Js](https://github.com/nathansearles/Slides/tree/SlidesJS-3) :gift_heart:
+  * [Slider](https://github.com/nolimits4web/Swiper) :gift_heart:
+  * [RTP SLider](https://github.com/rtp-ch/slider) :gift_heart:
 - Effects
   * [Midnight](https://github.com/Aerolab/midnight.js) :gift_heart:
 - Range Sliders
   * [jQuery Vertical Slider](http://jqueryui.com/slider/#slider-vertical) :gift_heart:
+- File Upload
+  * [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) :gift_heart:
+- Image Manipulation
+  * [Jcrop](https://github.com/tapmodo/Jcrop) :gift_heart:
+- Loading Bar
+  * [Loading Bar (Youtube-like)](https://github.com/peachananr/loading-bar) :gift_heart:
 
 ## Icons
 - Font

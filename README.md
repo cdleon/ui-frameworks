@@ -43,6 +43,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [CSS Flow](http://www.cssflow.com/snippets/) :gift_heart:
 - Bootsrap
   * [Bootsnipp](http://bootsnipp.com/)
+  * [Design Bootsrap](http://www.designbootstrap.com/category/bootstrap-snippets/) :gift_heart:
 
 ## Icons
 - Font
@@ -111,6 +112,10 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart:
 
 ## Templates
-- [Start Bootstrap](http://startbootstrap.com/) :gift_heart:
+- Bootstrap
+  * [Start Bootstrap](http://startbootstrap.com/) :gift_heart:
+  * [Bootsrap Zero](http://www.bootstrapzero.com/) :gift_heart:
+  * [Design Bootsrap](http://www.designbootstrap.com/) :gift_heart: || :moneybag:
+  * [Wrap Bootstrap](https://wrapbootstrap.com/) :moneybag:
 
 ##Tools

@@ -39,7 +39,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - [Yaml](https://github.com/yamlcss/yaml) :gift_heart:
 
 ## CSS Plugins
-- Buttons
+- ###Button groups
   * [Social Buttons For Bootsrap](https://github.com/lipis/bootstrap-social) :gift_heart:
   * [Zocial CSS Social Buttons](https://github.com/smcllns/css-social-buttons) :gift_heart:
 - Effects

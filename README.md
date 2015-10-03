@@ -44,7 +44,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Materialize Icons](http://materializecss.com/icons.html) :gift_heart:
   * [Glyhish](http://www.glyphish.com/) :rainbow:
   * [Devicons](https://github.com/vorillaz/devicons) :gift_heart:
-  * [Material Design Icons](https://github.com/google/material-design-icons) :gift_heart:
+  * [Google Material Design Icons](https://github.com/google/material-design-icons) :gift_heart:
   * [Octicons](https://github.com/github/octicons/) :gift_heart:
   * [Weather Icons](https://github.com/erikflowers/weather-icons/issues) :gift_heart:
   * [Stackicons](https://github.com/parkerbennett/stackicons) :gift_heart:
@@ -55,6 +55,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Analog Clock](https://github.com/jhogue/PE-Analog-Clock-icon-font) :gift_heart:
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart:
   * [Fontello](https://github.com/fontello/fontello) :gift_heart:
+  * [Material Design icons](https://github.com/Templarian/MaterialDesign) :gift_heart:
 - CSS
   * [Littlebox](https://github.com/cmaddux/littlebox) :gift_heart:
   * [Icono](https://github.com/saeedalipoor/icono) :gift_heart:

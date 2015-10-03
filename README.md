@@ -25,7 +25,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart:
 - [Foundation](https://github.com/zurb/foundation) :gift_heart:
 - [Gumby](https://github.com/GumbyFramework/Gumby) :gift_heart:
-- [Kube](https://github.com/imperavi/kube) :gift_heart
+- [Kube](https://github.com/imperavi/kube) :gift_heart:
 - [Primer](https://github.com/primer/primer) :gift_heart:
 - [Less Framework](https://github.com/jonikorpi/Less-Framework) :gift_heart:
 - [Material Design Lite](https://github.com/google/material-design-lite) :gift_heart:

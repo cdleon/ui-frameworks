@@ -10,4 +10,4 @@
 + Check for trailling spaces
 + Make sure to include if its free, not free or free-for-dev with the corresponding emojis
 + Make sure it has a good cataegorization, if item falls into different categories, its ok to duplicate
-+ Use categories to state if item is fraemwork agnostic or not
++ Use categories to state if item is framework agnostic or not

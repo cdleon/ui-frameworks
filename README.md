@@ -29,7 +29,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - Pure CSS
   * [CSS Flow](http://www.cssflow.com/snippets/) :gift_heart:
 - Bootsrap
-  * [Bootsnip](http://bootsnipp.com/)
+  * [Bootsnipp](http://bootsnipp.com/)
 
 ## CSS Plugins
 - Image Sliders

@@ -143,7 +143,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [gridgum](http://gridgum.com/themes/category/bootstrap-themes/) :moneybags:
   * [wpfreeware](http://www.wpfreeware.com/) :gift_heart:
 - [Cody House](http://codyhouse.co/) :rainbow:
-- [gridgum](http://gridgum.com/themes/) :moneybags:
+- [gridgum](http://gridgum.com/themes/) :moneybag:
 - Material Design
   * [Material Design Lite](http://www.getmdl.io/templates/index.html) :gift_heart:
 - WordPress

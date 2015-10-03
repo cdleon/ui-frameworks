@@ -12,6 +12,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 - [CSS Frameworks](#css-frameworks)
 - [CSS Snippets](#css-snippets)
+- [CSS Plugins](#css-plugins)
 - [Icons](#icons)
 - [JQuery Plugins](#jquery-plugins)
 - [Loaders](#loaders)
@@ -26,16 +27,24 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 ## CSS Snippets
 
+## CSS Plugins
+- Buttons
+  * [Social Buttons For Bootsrap](https://github.com/lipis/bootstrap-social) :gift_heart:
+  * [Zocial CSS Social Buttons](https://github.com/smcllns/css-social-buttons) :gift_heart:
 
 ## Templates
 - [Start Bootstrap](http://startbootstrap.com/) :gift_heart:
 
 ## Pure JS Plugins
-- Sliders
+- Image Sliders
   * [Slick](https://github.com/kenwheeler/slick) :gift_heart:
+  * [Scooch](https://github.com/mobify/scooch) :gift_heart:
 
 ## JQuery PLugins
-
+- Effects
+  * [Midnight](https://github.com/Aerolab/midnight.js) :gift_heart:
+- Range Sliders
+  * [jQuery Vertical Slider](http://jqueryui.com/slider/#slider-vertical) :gift_heart:
 
 ## Icons
 - Font

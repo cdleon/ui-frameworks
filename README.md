@@ -139,15 +139,15 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Bootsrap Zero](http://www.bootstrapzero.com/) :gift_heart:
   * [Design Bootsrap](http://www.designbootstrap.com/) :gift_heart: & :moneybag:
   * [Wrap Bootstrap](https://wrapbootstrap.com/) :moneybag:
-  * [Bootswatch](https://bootswatch.com/) :gift_hearts:
-  * [gridgum](http://gridgum.com/themes/category/bootstrap-themes/) :moneybags:
+  * [Bootswatch](https://bootswatch.com/) :gift_heart:
+  * [gridgum](http://gridgum.com/themes/category/bootstrap-themes/) :moneybag:
   * [wpfreeware](http://www.wpfreeware.com/) :gift_heart:
 - [Cody House](http://codyhouse.co/) :rainbow:
 - [gridgum](http://gridgum.com/themes/) :moneybag:
 - Material Design
   * [Material Design Lite](http://www.getmdl.io/templates/index.html) :gift_heart:
 - WordPress
-  * [gridgum](http://gridgum.com/themes/category/wordpress/) :moneybags:
+  * [gridgum](http://gridgum.com/themes/category/wordpress/) :moneybag:
   * [wpfreeware](http://www.wpfreeware.com/) :gift_heart:
 
 

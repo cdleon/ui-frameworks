@@ -27,7 +27,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - [Materialize](https://github.com/Dogfalo/materialize) :gift_heart:
 
 ## CSS Plugins
-  * [Cody House](http://codyhouse.co/) :rainbow:
+- [Cody House](http://codyhouse.co/) :rainbow:
 - Image Sliders
   * [Pure CSS Slider](https://github.com/drygiel/csslider) :gift_heart:
 - Buttons

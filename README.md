@@ -223,7 +223,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Right Height](https://github.com/cferdinandi/right-height) :gift_heart:
 - Image & Content Sliders
   * [Flickity](https://github.com/metafizzy/flickity) :rainbow:
-  * [Jssor](https://github.com/jssor/slider) :git_heart:
+  * [Jssor](https://github.com/jssor/slider) :gift_heart:
   * [Lory](https://github.com/meandmax/lory) :gift_heart:
   * [PhotoSwipe](https://github.com/dimsemenov/photoswipe) :gift_heart:
   * [Slick](https://github.com/kenwheeler/slick) :gift_heart:
@@ -238,11 +238,11 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Layzr.js](https://github.com/callmecavs/layzr.js) :gift_heart:
   * [LazyLoad](https://github.com/vvo/lazyload) :gift_heart:
 - Loading Bars
-  * [PAce](https://github.com/HubSpot/pace) :gift_heart:
+  * [Pace](https://github.com/HubSpot/pace) :gift_heart:
 - Maps
   * [Gmaps](https://github.com/hpneo/gmaps) :gift_heart:
 - Parallax & Scrolling
-  * [Infinte List (Mobile)](https://github.com/roeierez/infinite-list) :gift_heart:
+  * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart:
   * [Scrollerjs](https://github.com/forcedotcom/scrollerjs) :gift_heart:
 - Pointers & Tooltips
   * [Opentip](https://github.com/enyo/opentip) :gift_heart:

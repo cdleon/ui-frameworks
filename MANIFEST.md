@@ -1,10 +1,14 @@
 # Manifest
 
-## Contriguting Guidelines
+## Contributing Guidelines
 
 + Anyone can contribute
 + Client-side only
-+ Titles should be capitilized (unlessname of item is intended to start with lower case [like for example the iPhone])
++ Item has to have demo, example or how to
++ Titles should be capitilized (unless is intended to start with lower case [like for example the iPhone])
++ If the title is sufficiently explicative only post title, else add 1 keyword in parenthesis that explains what it is about
++ Use github repo link always, unless it item does not have one
++ Format -> [Title (optional descriptive keyword)](link) :emoji:
 + Make sure you follow alphabetical order
 + Check your spelling!
 + Check for trailling spaces

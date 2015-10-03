@@ -54,7 +54,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 ## CSS Snippets
 - Bootsrap
-  * [Bootsnipp](http://bootsnipp.com/)
+  * [Bootsnipp](http://bootsnipp.com/) :gift_heart:
   * [Design Bootsrap](http://www.designbootstrap.com/category/bootstrap-snippets/) :gift_heart:
 - Pure CSS
   * [CSS Flow](http://www.cssflow.com/snippets/) :gift_heart:

@@ -107,7 +107,11 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [jQuery Vertical Slider](http://jqueryui.com/slider/#slider-vertical) :gift_heart:
 
 ## JS Frameworks
+  * [Angular](https://github.com/angular/angular.js) :gift_heart:
   * [jQuery](https://github.com/jquery/jquery) :gift_heart:
+  * [React](https://github.com/facebook/react) :gift_heart:
+  * [TuxedoJS](https://github.com/TuxedoJS/TuxedoJS) :gift_heart:
+  * [Two.js](https://github.com/jonobr1/two.js) :gift_heart:
 
 ##Loaders
 - CSS

@@ -27,6 +27,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - [Materialize](https://github.com/Dogfalo/materialize) :gift_heart:
 
 ## CSS Plugins
+  * [Cody House](http://codyhouse.co/) :rainbow:
 - Image Sliders
   * [Pure CSS Slider](https://github.com/drygiel/csslider) :gift_heart:
 - Buttons
@@ -41,6 +42,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 ## CSS Snippets
 - Pure CSS
   * [CSS Flow](http://www.cssflow.com/snippets/) :gift_heart:
+  * [Cody House](http://codyhouse.co/) :rainbow:
 - Bootsrap
   * [Bootsnipp](http://bootsnipp.com/)
   * [Design Bootsrap](http://www.designbootstrap.com/category/bootstrap-snippets/) :gift_heart:
@@ -64,13 +66,17 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart:
   * [Fontello](https://github.com/fontello/fontello) :gift_heart:
   * [Material Design icons](https://github.com/Templarian/MaterialDesign) :gift_heart:
+  * [Nucleo](https://nucleoapp.com) :moneybag:
 - CSS
   * [Littlebox](https://github.com/cmaddux/littlebox) :gift_heart:
   * [Icono](https://github.com/saeedalipoor/icono) :gift_heart:
+  * * [Nucleo](https://nucleoapp.com) :moneybag:
 - SVG
   * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart:
+  * [Nucleo](https://nucleoapp.com) :moneybag:
 - PNG
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart:
+  * [Nucleo](https://nucleoapp.com) :moneybag:
 
 ## JQuery PLugins
 - Image & Content Sliders
@@ -111,11 +117,21 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - WYSIWYG
   * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart:
 
+## Pure JS Snippets
+  * [Cody House](http://codyhouse.co/) :rainbow:
+
 ## Templates
 - Bootstrap
   * [Start Bootstrap](http://startbootstrap.com/) :gift_heart:
   * [Bootsrap Zero](http://www.bootstrapzero.com/) :gift_heart:
-  * [Design Bootsrap](http://www.designbootstrap.com/) :gift_heart: || :moneybag:
+  * [Design Bootsrap](http://www.designbootstrap.com/) :gift_heart: & :moneybag:
   * [Wrap Bootstrap](https://wrapbootstrap.com/) :moneybag:
+  * [Bootswatch](https://bootswatch.com/) :gift_hearts:
+  * [gridgum](http://gridgum.com/themes/category/bootstrap-themes/) :moneybags:
+- WordPress
+  * [gridgum](http://gridgum.com/themes/category/wordpress/) :moneybags:
+- Various
+  * [gridgum](http://gridgum.com/themes/) :moneybags:
+
 
 ##Tools

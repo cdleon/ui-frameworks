@@ -1,7 +1,7 @@
 # Awesome Front End
 Curated list of awesome front end tools, plugins, frameworks and more!
 
-&#x2665 Free!
+&hearts Free!
 
 :rainbow: Free for dev
 
@@ -22,100 +22,100 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - [Tools](#tools)
 
 ## CSS Frameworks
-- [Bootsrap](https://github.com/twbs/bootstrap) &#x2665
-- [Foundation](https://github.com/zurb/foundation) &#x2665
-- [Materialize](https://github.com/Dogfalo/materialize) &#x2665
+- [Bootsrap](https://github.com/twbs/bootstrap) &hearts
+- [Foundation](https://github.com/zurb/foundation) &hearts
+- [Materialize](https://github.com/Dogfalo/materialize) &hearts
 
 ## CSS Plugins
 - Image Sliders
-  * [Pure CSS Slider](https://github.com/drygiel/csslider) &#x2665
+  * [Pure CSS Slider](https://github.com/drygiel/csslider) &hearts
 - Buttons
-  * [Social Buttons For Bootsrap](https://github.com/lipis/bootstrap-social) &#x2665
-  * [Zocial CSS Social Buttons](https://github.com/smcllns/css-social-buttons) &#x2665
+  * [Social Buttons For Bootsrap](https://github.com/lipis/bootstrap-social) &hearts
+  * [Zocial CSS Social Buttons](https://github.com/smcllns/css-social-buttons) &hearts
 - Plots & Charts
-  * [CSS Plots](https://github.com/asciimoo/cssplot) &#x2665
+  * [CSS Plots](https://github.com/asciimoo/cssplot) &hearts
 - Effects
-  * [iHover](https://github.com/gudh/ihover) &#x2665
-  * [Hover](https://github.com/IanLunn/Hover) &#x2665
+  * [iHover](https://github.com/gudh/ihover) &hearts
+  * [Hover](https://github.com/IanLunn/Hover) &hearts
 
 ## CSS Snippets
 - Pure CSS
-  * [CSS Flow](http://www.cssflow.com/snippets/) &#x2665
+  * [CSS Flow](http://www.cssflow.com/snippets/) &hearts
 - Bootsrap
   * [Bootsnipp](http://bootsnipp.com/)
-  * [Design Bootsrap](http://www.designbootstrap.com/category/bootstrap-snippets/) &#x2665
+  * [Design Bootsrap](http://www.designbootstrap.com/category/bootstrap-snippets/) &hearts
 
 ## Icons
 - Font
-  * [Font Awesome](https://github.com/FortAwesome/Font-Awesome) &#x2665
-  * [Ionicons](https://github.com/driftyco/ionicons) &#x2665
-  * [Materialize Icons](http://materializecss.com/icons.html) &#x2665
+  * [Font Awesome](https://github.com/FortAwesome/Font-Awesome) &hearts
+  * [Ionicons](https://github.com/driftyco/ionicons) &hearts
+  * [Materialize Icons](http://materializecss.com/icons.html) &hearts
   * [Glyhish](http://www.glyphish.com/) :rainbow:
-  * [Devicons](https://github.com/vorillaz/devicons) &#x2665
-  * [Google Material Design Icons](https://github.com/google/material-design-icons) &#x2665
-  * [Octicons](https://github.com/github/octicons/) &#x2665
-  * [Weather Icons](https://github.com/erikflowers/weather-icons/issues) &#x2665
-  * [Stackicons](https://github.com/parkerbennett/stackicons) &#x2665
-  * [Open Web icons](https://github.com/pfefferle/openwebicons) &#x2665
-  * [MFG Labs](https://github.com/MfgLabs/mfglabs-iconset) &#x2665
-  * [Typicons](https://github.com/stephenhutchings/typicons.font) &#x2665
-  * [IcoMoon](https://icomoon.io/) &#x2665
-  * [Analog Clock](https://github.com/jhogue/PE-Analog-Clock-icon-font) &#x2665
-  * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) &#x2665
-  * [Fontello](https://github.com/fontello/fontello) &#x2665
-  * [Material Design icons](https://github.com/Templarian/MaterialDesign) &#x2665
+  * [Devicons](https://github.com/vorillaz/devicons) &hearts
+  * [Google Material Design Icons](https://github.com/google/material-design-icons) &hearts
+  * [Octicons](https://github.com/github/octicons/) &hearts
+  * [Weather Icons](https://github.com/erikflowers/weather-icons/issues) &hearts
+  * [Stackicons](https://github.com/parkerbennett/stackicons) &hearts
+  * [Open Web icons](https://github.com/pfefferle/openwebicons) &hearts
+  * [MFG Labs](https://github.com/MfgLabs/mfglabs-iconset) &hearts
+  * [Typicons](https://github.com/stephenhutchings/typicons.font) &hearts
+  * [IcoMoon](https://icomoon.io/) &hearts
+  * [Analog Clock](https://github.com/jhogue/PE-Analog-Clock-icon-font) &hearts
+  * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) &hearts
+  * [Fontello](https://github.com/fontello/fontello) &hearts
+  * [Material Design icons](https://github.com/Templarian/MaterialDesign) &hearts
 - CSS
-  * [Littlebox](https://github.com/cmaddux/littlebox) &#x2665
-  * [Icono](https://github.com/saeedalipoor/icono) &#x2665
+  * [Littlebox](https://github.com/cmaddux/littlebox) &hearts
+  * [Icono](https://github.com/saeedalipoor/icono) &hearts
 - SVG
-  * [SVG Porn](https://github.com/gilbarbara/logos) &#x2665
+  * [SVG Porn](https://github.com/gilbarbara/logos) &hearts
 - PNG
-  * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) &#x2665
+  * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) &hearts
 
 ## JQuery PLugins
 - Image & Content Sliders
-  * [Slides Js](https://github.com/nathansearles/Slides/tree/SlidesJS-3) &#x2665
-  * [Slider](https://github.com/nolimits4web/Swiper) &#x2665
-  * [RTP SLider](https://github.com/rtp-ch/slider) &#x2665
+  * [Slides Js](https://github.com/nathansearles/Slides/tree/SlidesJS-3) &hearts
+  * [Slider](https://github.com/nolimits4web/Swiper) &hearts
+  * [RTP SLider](https://github.com/rtp-ch/slider) &hearts
 - Effects
-  * [Midnight](https://github.com/Aerolab/midnight.js) &#x2665
+  * [Midnight](https://github.com/Aerolab/midnight.js) &hearts
 - Range Sliders
-  * [jQuery Vertical Slider](http://jqueryui.com/slider/#slider-vertical) &#x2665
+  * [jQuery Vertical Slider](http://jqueryui.com/slider/#slider-vertical) &hearts
 - File Upload
-  * [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) &#x2665
+  * [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) &hearts
 - Image Manipulation
-  * [Jcrop](https://github.com/tapmodo/Jcrop) &#x2665
+  * [Jcrop](https://github.com/tapmodo/Jcrop) &hearts
 - Loading Bar
-  * [Loading Bar (Youtube-like)](https://github.com/peachananr/loading-bar) &#x2665
+  * [Loading Bar (Youtube-like)](https://github.com/peachananr/loading-bar) &hearts
 
 ## JS Frameworks
-  * [jQuery](https://github.com/jquery/jquery) &#x2665
+  * [jQuery](https://github.com/jquery/jquery) &hearts
 
 ##Loaders
 - CSS
-  * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) &#x2665
-  * [Single Element CSS Spinners](https://github.com/lukehaas/css-loaders) &#x2665
+  * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) &hearts
+  * [Single Element CSS Spinners](https://github.com/lukehaas/css-loaders) &hearts
 - SVG
-  * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) &#x2665
+  * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) &hearts
 
 ## Pure JS Plugins
 - PLots & Charts
   * [Infogr.am](https://infogr.am/) :moneybag:
 - Image & Content Sliders
-  * [Slick](https://github.com/kenwheeler/slick) &#x2665
-  * [Scooch](https://github.com/mobify/scooch) &#x2665
-  * [Slider](https://github.com/nolimits4web/Swiper) &#x2665
+  * [Slick](https://github.com/kenwheeler/slick) &hearts
+  * [Scooch](https://github.com/mobify/scooch) &hearts
+  * [Slider](https://github.com/nolimits4web/Swiper) &hearts
   * [Flickity](https://github.com/metafizzy/flickity) :rainbow:
 - Effects
-  * [Interact.js](https://github.com/taye/interact.js) &#x2665
+  * [Interact.js](https://github.com/taye/interact.js) &hearts
 - WYSIWYG
-  * [CKEditor](https://github.com/ckeditor/ckeditor-dev) &#x2665
+  * [CKEditor](https://github.com/ckeditor/ckeditor-dev) &hearts
 
 ## Templates
 - Bootstrap
-  * [Start Bootstrap](http://startbootstrap.com/) &#x2665
-  * [Bootsrap Zero](http://www.bootstrapzero.com/) &#x2665
-  * [Design Bootsrap](http://www.designbootstrap.com/) &#x2665 || :moneybag:
+  * [Start Bootstrap](http://startbootstrap.com/) &hearts
+  * [Bootsrap Zero](http://www.bootstrapzero.com/) &hearts
+  * [Design Bootsrap](http://www.designbootstrap.com/) &hearts || :moneybag:
   * [Wrap Bootstrap](https://wrapbootstrap.com/) :moneybag:
 
 ##Tools

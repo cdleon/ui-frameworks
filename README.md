@@ -115,6 +115,8 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - Dialogs & Alerts
   * [Alertify](https://github.com/fabien-d/alertify.js) :gift_heart:
   * [Avgrund](https://github.com/voronianski/jquery.avgrund.js) :gift_heart:
+- File Upload
+  * [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) :gift_heart:
 - Forms & Input
   * [Chosen](https://github.com/harvesthq/chosen) :gift_heart:
   * [Fancy Input](https://github.com/yairEO/fancyInput) :gift_heart:
@@ -122,8 +124,6 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [jQuery Knobs](https://github.com/aterrien/jQuery-Knob) :gift_heart:
   * [Parsley](https://github.com/guillaumepotier/Parsley.js/) :gift_heart:
   * [Typehead](https://github.com/twitter/typeahead.js/) :gift_heart:
-- File Upload
-  * [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) :gift_heart:
 - Grids
   * [Freetile](https://github.com/yconst/Freetile) :gift_heart:
   * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart:
@@ -205,9 +205,15 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Sortable](https://github.com/RubaXa/Sortable) :gift_heart:
 - Effects
   * [List.js](https://github.com/javve/list.js) :gift_heart:
+- File Upload
+  * [FileDrop](https://github.com/ProgerXP/FileDrop) :gift_heart:
+  * [Plupload](https://github.com/moxiecode/plupload) :gift_heart:
+  * [Simple Ajax Uploader](https://github.com/LPology/Simple-Ajax-Uploader) :gift_heart:
+  * [Valum's File Uploader](https://github.com/Valums-File-Uploader/file-uploader) :gift_heart:
 - Forms & Input
   * [Awesomeplete](https://github.com/LeaVerou/awesomplete) :gift_heart:
   * [Countable](https://github.com/RadLikeWhoa/Countable) :gift_heart:
+  * [Floating Label](https://github.com/datuhealth/floating-label) :gift_heart:
   * [Horsey](https://github.com/bevacqua/horsey) :gift_heart:
   * [JavaScript-autoComplete](https://github.com/Pixabay/JavaScript-autoComplete) :gift_heart:
   * [Stretchy](https://github.com/LeaVerou/stretchy) :gift_heart:
@@ -225,6 +231,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Slider](https://github.com/nolimits4web/Swiper) :gift_heart:
   * [SVG Edit](https://github.com/SVG-Edit/svgedit) :gift_heart:
 - Image Manipulation
+  * [Aviary](https://developers.aviary.com/) :gift_heart:
   * [Image Crop Component](http://dev.vizuina.com/cropper/) :gift_heart:
 - LazyLoaders
   * [Blazy](https://github.com/dinbror/blazy) :gift_heart:
@@ -252,6 +259,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Aloha](https://github.com/alohaeditor/Aloha-Editor/tree/howling-mad) :gift_heart:
   * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart:
   * [Quill](https://github.com/quilljs/quill/) :gift_heart:
+  * [TinyMCE](http://www.tinymce.com/) :gift_heart: & :moneybag:
 
 ## Pure JS Snippets
   * [Cody House](http://codyhouse.co/) :rainbow:
@@ -263,14 +271,14 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Design Bootsrap](http://www.designbootstrap.com/) :gift_heart: & :moneybag:
   * [Wrap Bootstrap](https://wrapbootstrap.com/) :moneybag:
   * [Bootswatch](https://bootswatch.com/) :gift_heart:
-  * [gridgum](http://gridgum.com/themes/category/bootstrap-themes/) :moneybag:
+  * [Gridgum](http://gridgum.com/themes/category/bootstrap-themes/) :moneybag:
   * [wpfreeware](http://www.wpfreeware.com/) :gift_heart:
 - [Cody House](http://codyhouse.co/) :rainbow:
-- [gridgum](http://gridgum.com/themes/) :moneybag:
+- [Gridgum](http://gridgum.com/themes/) :moneybag:
 - Material Design
   * [Material Design Lite](http://www.getmdl.io/templates/index.html) :gift_heart:
 - WordPress
-  * [gridgum](http://gridgum.com/themes/category/wordpress/) :moneybag:
+  * [Gridgum](http://gridgum.com/themes/category/wordpress/) :moneybag:
   * [wpfreeware](http://www.wpfreeware.com/) :gift_heart:
 
 

@@ -78,6 +78,9 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 
 ## Guides
+- Browser Support
+  * [Can I Use](http://caniuse.com/) :gift_heart:
+  * [State of WebType](http://stateofwebtype.com/) :gift_heart:
 - Responsive
   * [Media Queries (Examples)](http://mediaqueri.es/) :gift_heart:
   * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart:
@@ -328,7 +331,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
     + [CSS Layout Generator](http://csslayoutgenerator.com/) :gift_heart:
     + [How to Center in CSS](http://howtocenterincss.com/) :gift_heart:
   * Buttons
-    + [Birliiant Button Maker](http://www.lucazappa.com/brilliantMaker/buttonImage.php) :gift:heart:
+    + [Birliiant Button Maker](http://www.lucazappa.com/brilliantMaker/buttonImage.php) :gift_heart:
 - Responsive Analizers
   * [AmIResponsive](http://ami.responsivedesign.is/) :gift_heart:
   * [Responsinator](http://www.responsinator.com/) :gift_heart:

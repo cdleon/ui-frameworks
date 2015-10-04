@@ -113,7 +113,7 @@ Browser Luvin'
 - Style Guides
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart:
 - [USDS Playbook](https://github.com/usds/playbook) :gift_heart:
-- [UK GovService Design Manual](https://github.com/alphagov/government-service-design-manual) :gift_heart:
+- [UK Government Service Design Manual](https://github.com/alphagov/government-service-design-manual) :gift_heart:
 
 ## Fonts
 - [Google Fonts](https://www.google.com/fonts) :gift_heart:

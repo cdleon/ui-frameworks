@@ -442,7 +442,7 @@ Browser Luvin'
     + [Jest](https://github.com/facebook/jest) :gift_heart:
     + [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart:
     + [Justice](https://github.com/okor/justice) :gift_heart:
-    + [Memory-stats.js](https://github.com/paulirish/memory-stats.js) :gift-heart:
+    + [Memory-stats.js](https://github.com/paulirish/memory-stats.js) :gift_heart:
     + [Stats.js](https://github.com/mrdoob/stats.js) :gift_heart:
     + [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart:
 - Browser Support

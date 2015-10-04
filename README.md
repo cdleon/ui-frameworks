@@ -1,5 +1,5 @@
 # Awesome Front End
-Curated list of awesome front end tools, plugins, frameworks and more!
+Curated list of awesome client-side tools, plugins, frameworks and more!
 
 :gift_heart: Free!
 

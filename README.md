@@ -462,11 +462,11 @@ Browser Luvin'
   * [ie8linter](https://github.com/israelidanny/ie8linter) :gift_heart:
 - Layout Generators
   * [CSS Layout Generator](http://csslayoutgenerator.com/) :gift_heart:
-  * [Uglify.js](https://github.com/mishoo/UglifyJS) :gift_heart:
 - Minifiers
   * [CSS Minifier](http://cssminifier.com/) :gift_heart:
   * [PurifyCSS](https://github.com/purifycss/purifycss) :gift_heart:
   * [Javscript Minifier](http://javascript-minifier.com/) :gift_heart:
+  * [Uglify.js](https://github.com/mishoo/UglifyJS) :gift_heart:
 - Responsive Analizers
   * [AmIResponsive](http://ami.responsivedesign.is/) :gift_heart:
   * [Responsinator](http://www.responsinator.com/) :gift_heart:

@@ -16,6 +16,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - [Fonts](#fonts)
 - [Icons](#icons)
 - [JQuery Plugins](#jquery-plugins)
+- [JQuery Snippets](#jquery-snippets)
 - [JS Frameworks](#js-frameworks)
 - [Loaders](#loaders)
 - [Pure JS Plugins](#pure-js-plugins)
@@ -59,9 +60,22 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - Bootsrap
   * [Bootsnipp](http://bootsnipp.com/) :gift_heart:
   * [Design Bootsrap](http://www.designbootstrap.com/category/bootstrap-snippets/) :gift_heart:
+  * [Snipplr](http://snipplr.com/) :gift_heart:
 - Pure CSS
   * [CSS Flow](http://www.cssflow.com/snippets/) :gift_heart:
   * [Cody House](http://codyhouse.co/) :rainbow:
+  * [CSS{POP}](http://www.csspop.com/) :gift_heart:
+  * [CSS Tricks](https://css-tricks.com/snippets/css/) :gift_heart:
+  * [Snipplr](http://snipplr.com/) :gift_heart:
+  * [Smipple](http://www.smipple.net/lang/css) :gift_heart:
+  * [Snipt](https://snipt.net/public/tag/css/) :gift_heart:
+- From Blogs
+  * [1stWebDesigner](http://www.1stwebdesigner.com/useful-css-snippets/) :gift_heart:
+  * [Design Your Way](http://www.designyourway.net/blog/resources/31-css-code-snippets-to-make-you-a-better-coder/) :gift_heart:
+  * [Noupe](http://www.noupe.com/design/useful-css-snippets-for-your-coding-arsenal.html) :gift_heart:
+  * [Six Revisions](http://sixrevisions.com/category/css/) :gift_heart:
+  * [Speckyboy](http://speckyboy.com/2011/04/15/25-css-snippets-for-some-of-the-most-common-and-frustrating-tasks/) :gift_heart:
+
 
 ## Guides
 - Responsive
@@ -172,6 +186,11 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - Typing
   * [Long Press](https://github.com/quentint/long-press) :gift_heart:
 
+## JQuery Snippets
+  * [Smipple](http://www.smipple.net/lang/js) :gift_heart:
+  * [Snipplr](http://snipplr.com/) :gift_heart:
+  * [Snipt](https://snipt.net/public/tag/jquery/) :gift_heart:
+
 ## JS Frameworks
   * [Angular](https://github.com/angular/angular.js) :gift_heart:
   * [jQuery](https://github.com/jquery/jquery) :gift_heart:
@@ -203,8 +222,6 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Dragula](https://github.com/bevacqua/dragula) :gift_heart:
   * [Interact.js](https://github.com/taye/interact.js) :gift_heart:
   * [Sortable](https://github.com/RubaXa/Sortable) :gift_heart:
-- Effects
-  * [List.js](https://github.com/javve/list.js) :gift_heart:
 - File Upload
   * [FileDrop](https://github.com/ProgerXP/FileDrop) :gift_heart:
   * [Plupload](https://github.com/moxiecode/plupload) :gift_heart:
@@ -216,6 +233,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
   * [Floating Label](https://github.com/datuhealth/floating-label) :gift_heart:
   * [Horsey](https://github.com/bevacqua/horsey) :gift_heart:
   * [JavaScript-autoComplete](https://github.com/Pixabay/JavaScript-autoComplete) :gift_heart:
+  * [List.js](https://github.com/javve/list.js) :gift_heart:
   * [Stretchy](https://github.com/LeaVerou/stretchy) :gift_heart:
   * [Taggle](https://github.com/okcoker/taggle.js) :gift_heart:
   * [Validate.js](https://github.com/rickharrison/validate.js/) :gift_heart:
@@ -263,6 +281,10 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 ## Pure JS Snippets
   * [Cody House](http://codyhouse.co/) :rainbow:
+  * [Smipple](http://www.smipple.net/lang/js) :gift_heart:
+  * [Snipplr](http://snipplr.com/) :gift_heart:
+  * [Snipt (tag:javascript)](https://snipt.net/public/tag/javascript/) :gift_heart:
+  * [Snipt (tag:js)](https://snipt.net/public/tag/js/) :gift_heart:
 
 ## Templates
 - Bootstrap

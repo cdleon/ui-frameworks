@@ -10,6 +10,7 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 
 ## Table of Contents
 
+- [Angular Modules](#angular-modules)
 - [CSS Frameworks](#css-frameworks)
 - [CSS Snippets](#css-snippets)
 - [CSS Plugins](#css-plugins)
@@ -23,6 +24,24 @@ Curated list of awesome front end tools, plugins, frameworks and more!
 - [Pure JS Snippets](#pure-js-snippets)
 - [Templates](#templates)
 - [Tools](#tools)
+
+## Angular Modules
+- Calendar
+  * [ui-calendar](https://github.com/angular-ui/ui-calendar) :gift_heart:
+- Data Pickers
+  * [ui-date](https://github.com/angular-ui/ui-date) :gift_heart:
+- Drag & Drop
+  * [ng-sortable](https://github.com/a5hik/ng-sortable) :gift_heart:
+- File Upload
+  * [ng-file-upload](https://github.com/danialfarid/ng-file-upload) :gift_heart:
+- Loading Bars
+  * [angular-loading-bar](https://github.com/chieffancypants/angular-loading-bar) :gift_heart:
+- Plots & Charts
+  * [ui-chart](https://github.com/angular-ui/ui-chart) :gift_heart:
+- Translation
+  * [angular-translate](https://github.com/angular-translate/angular-translate) :gift_heart:
+- [UI Bootstrap](https://github.com/angular-ui/bootstrap) :gift_heart:
+
 
 ## CSS Frameworks
 - [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart:

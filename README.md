@@ -112,45 +112,47 @@ Browser Luvin'
   * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart:
 - Style Guides
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart:
-- [USDS Playbook](https://github.com/usds/playbook) :gift_heart:
 - [UK Government Service Design Manual](https://github.com/alphagov/government-service-design-manual) :gift_heart:
+- [USDS Playbook](https://github.com/usds/playbook) :gift_heart:
 
 ## Fonts
-- [Google Fonts](https://www.google.com/fonts) :gift_heart:
-- [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart:
 - CSS
   * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart:
+- [Google Fonts](https://www.google.com/fonts) :gift_heart:
+- [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart:
+
 
 ## Icons
 - CSS
-  * [Littlebox](https://github.com/cmaddux/littlebox) :gift_heart:
   * [Icono](https://github.com/saeedalipoor/icono) :gift_heart:
+  * [Littlebox](https://github.com/cmaddux/littlebox) :gift_heart:
   * [Nucleo](https://nucleoapp.com) :moneybag:
 - Font
-  * [Font Awesome](https://github.com/FortAwesome/Font-Awesome) :gift_heart:
-  * [Ionicons](https://github.com/driftyco/ionicons) :gift_heart:
-  * [Materialize Icons](http://materializecss.com/icons.html) :gift_heart:
-  * [Glyhish](http://www.glyphish.com/) :rainbow:
-  * [Devicons](https://github.com/vorillaz/devicons) :gift_heart:
-  * [Google Material Design Icons](https://github.com/google/material-design-icons) :gift_heart:
-  * [Octicons](https://github.com/github/octicons/) :gift_heart:
-  * [Weather Icons](https://github.com/erikflowers/weather-icons/issues) :gift_heart:
-  * [Stackicons](https://github.com/parkerbennett/stackicons) :gift_heart:
-  * [Open Web icons](https://github.com/pfefferle/openwebicons) :gift_heart:
-  * [MFG Labs](https://github.com/MfgLabs/mfglabs-iconset) :gift_heart:
-  * [Typicons](https://github.com/stephenhutchings/typicons.font) :gift_heart:
-  * [IcoMoon](https://icomoon.io/) :gift_heart:
   * [Analog Clock](https://github.com/jhogue/PE-Analog-Clock-icon-font) :gift_heart:
-  * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart:
+  * [Black Tie](http://blacktie.io/) :moneybag:
+  * [Devicons](https://github.com/vorillaz/devicons) :gift_heart:
+  * [Font Awesome](https://github.com/FortAwesome/Font-Awesome) :gift_heart:
   * [Fontello](https://github.com/fontello/fontello) :gift_heart:
+  * [Glyhish](http://www.glyphish.com/) :rainbow:
+  * [Google Material Design Icons](https://github.com/google/material-design-icons) :gift_heart:
+  * [Ionicons](https://github.com/driftyco/ionicons) :gift_heart:
+  * [IcoMoon](https://icomoon.io/) :gift_heart:
   * [Material Design icons](https://github.com/Templarian/MaterialDesign) :gift_heart:
+  * [Materialize Icons](http://materializecss.com/icons.html) :gift_heart:
+  * [MFG Labs](https://github.com/MfgLabs/mfglabs-iconset) :gift_heart:
   * [Nucleo](https://nucleoapp.com) :moneybag:
-- PNG
+  * [Octicons](https://github.com/github/octicons/) :gift_heart:
+  * [Open Web icons](https://github.com/pfefferle/openwebicons) :gift_heart:
+  * [Stackicons](https://github.com/parkerbennett/stackicons) :gift_heart:
+  * [Typicons](https://github.com/stephenhutchings/typicons.font) :gift_heart:
+  * [Weather Icons](https://github.com/erikflowers/weather-icons/issues) :gift_heart:
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart:
+- PNG
   * [Nucleo](https://nucleoapp.com) :moneybag:
+  * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart:
 - SVG
-  * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart:
   * [Nucleo](https://nucleoapp.com) :moneybag:
+  * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart:
 
 ## JQuery Plugins
 - Background & Background effects

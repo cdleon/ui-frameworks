@@ -56,9 +56,11 @@ Browser Luvin'
 - [Materialize](https://github.com/Dogfalo/materialize) :gift_heart:
 - [Material UI](https://github.com/callemall/material-ui) :gift_heart:
 - [MUI](https://github.com/muicss/mui) :gift_heart:
+- [Office UI Fabric](https://github.com/OfficeDev/Office-UI-Fabric) :gift_heart:
 - [Pure](https://github.com/yahoo/pure/) :gift_heart:
 - [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) :gift_heart:
 - [Skeleton](https://github.com/dhg/Skeleton) :gift_heart:
+- [Typebase.css](https://github.com/devinhunt/typebase.css) :gift_heart:
 - [UIKit](https://github.com/uikit/uikit) :gift_heart:
 - [Yaml](https://github.com/yamlcss/yaml) :gift_heart:
 - [Yahoo User Interface Library](https://github.com/yui/yui3) :gift_heart:
@@ -112,7 +114,7 @@ Browser Luvin'
   * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart:
 - Style Guides
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart:
-- [USDS Playbook](https://github.com/usds/playbook) :gift_heart:
+- [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart:
 - [UK Government Service Design Manual](https://github.com/alphagov/government-service-design-manual) :gift_heart:
 
 ## Fonts
@@ -272,9 +274,13 @@ Browser Luvin'
   * [Clipboard.js](https://github.com/zenorocha/clipboard.js) :gift_heart:
 - Browser Support
   * [Modernizr](https://github.com/modernizr/modernizr) :gift_heart:
+- Caching & Offline First
+  * [UpUp](https://www.talater.com/upup/) :gift_heart:
 - Chat & Messaging
   * [Lets-chat](https://github.com/sdelements/lets-chat) :gift_heart:
   * [Mattermost](https://github.com/mattermost/platform) :gift_heart:
+- Databases
+  * [Lovefield (browser-database)](https://github.com/google/lovefield) :gift_heart)
 - Data Binding
   * [Way.js](https://github.com/gwendall/way.js) :gift_heart:
 - Data Processing & Visualization
@@ -282,6 +288,7 @@ Browser Luvin'
   * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) :gift_heart:
   * [Chart.js](https://github.com/nnnick/Chart.js) :gift_heart:
   * [ECharts](https://github.com/ecomfe/echarts) :gift_heart:
+  * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart:
   * [Infogr.am](https://infogr.am/) :moneybag:
   * [MetricsGraphics.js](https://github.com/mozilla/metrics-graphics) :gift_heart:
   * [Taucharts](https://github.com/TargetProcess/tauCharts) :gift_heart:
@@ -292,6 +299,7 @@ Browser Luvin'
   * [Pikaday](https://github.com/dbushell/Pikaday) :gift_heart:
   * [Rome](https://github.com/bevacqua/rome) :gift_heart:
 - Drag & Drop
+  * [Clippings.js](https://github.com/clippings/layout-grid) :gift_heart:
   * [Dragula](https://github.com/bevacqua/dragula) :gift_heart:
   * [Grid](https://github.com/hootsuite/grid) :gift_heart:
   * [Interact.js](https://github.com/taye/interact.js) :gift_heart:
@@ -312,15 +320,18 @@ Browser Luvin'
   * [Taggle](https://github.com/okcoker/taggle.js) :gift_heart:
   * [Validate.js](https://github.com/rickharrison/validate.js/) :gift_heart:
 - Graphics & Animation
+  * [LAyer Visualizer](https://github.com/romannurik/LayerVisualizer) :gift_heart:
   * [p5.js](https://github.com/processing/p5.js) :gift_heart:
   * [Phaser](https://github.com/photonstorm/phaser) :gift_heart:
   * [Pixi.js](https://github.com/pixijs/pixi.js) :gift_heart:
+  * [Popmotion](https://github.com/Popmotion/popmotion) :gift_heart:
   * [Textgen.js](https://github.com/mrdoob/texgen.js) :gift_heart:
   * [Trianglify](https://github.com/qrohlf/trianglify) :gift_heart:
   * [Velociy](https://github.com/julianshapiro/velocity) :gift_heart:
   * [Vivus.js (SVG-animations)](https://github.com/maxwellito/vivus) :gift_heart:
   * [WebGLStudio.js](https://github.com/jagenjo/webglstudio.js) :gift_heart:
 - Grid
+  * [Clippings.js](https://github.com/clippings/layout-grid) :gift_heart:
   * [Right Height](https://github.com/cferdinandi/right-height) :gift_heart:
 - Image & Content Sliders
   * [Flickity](https://github.com/metafizzy/flickity) :rainbow:
@@ -388,6 +399,7 @@ Browser Luvin'
 - WYSIWYG
   * [Aloha](https://github.com/alohaeditor/Aloha-Editor/tree/howling-mad) :gift_heart:
   * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart:
+  * [ProseMirror](https://github.com/ProseMirror/prosemirror) :gift_heart:
   * [Quill](https://github.com/quilljs/quill/) :gift_heart:
   * [Squire](https://github.com/neilj/Squire) :gift_heart:
   * [TinyMCE](http://www.tinymce.com/) :gift_heart: & :moneybag:
@@ -404,6 +416,7 @@ Browser Luvin'
   * [Elemental UI](http://elemental-ui.com/) :gift_heart:
   * [Essential](https://github.com/pheuter/essential-react) :gift_heart:
   * [Marty](https://github.com/martyjs/marty) :gift_heart:
+  * [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) :gift_heart:
   * [Reapp](https://github.com/reapp/reapp) :gift_heart:
   * [Relay](https://github.com/facebook/relay) :gift_heart:
 

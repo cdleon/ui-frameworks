@@ -119,6 +119,7 @@ Browser Luvin'
 
 ## Fonts
 - [Google Fonts](https://www.google.com/fonts) :gift_heart:
+- [Hack](https://github.com/chrissimpkins/Hack) :gift_heart:
 - [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart:
 - CSS
   * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart:

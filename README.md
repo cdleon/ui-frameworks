@@ -114,11 +114,7 @@ Browser Luvin'
   * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart:
 - Style Guides
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart:
-<<<<<<< HEAD
 - [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart:
-=======
->>>>>>> ce446098358af8d743c17c58acf0e3a212c37584
-- [UK Government Service Design Manual](https://github.com/alphagov/government-service-design-manual) :gift_heart:
 - [USDS Playbook](https://github.com/usds/playbook) :gift_heart:
 
 ## Fonts

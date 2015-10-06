@@ -284,7 +284,7 @@ Browser Luvin'
   * [Lets-chat](https://github.com/sdelements/lets-chat) :gift_heart:
   * [Mattermost](https://github.com/mattermost/platform) :gift_heart:
 - Databases
-  * [Lovefield (browser-database)](https://github.com/google/lovefield) :gift_heart)
+  * [Lovefield (browser-database)](https://github.com/google/lovefield) :gift_heart:
 - Data Binding
   * [Way.js](https://github.com/gwendall/way.js) :gift_heart:
 - Data Processing & Visualization

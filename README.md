@@ -345,11 +345,11 @@ Browser Luvin'
   * [Slick](https://github.com/kenwheeler/slick) :gift_heart:
   * [Scooch](https://github.com/mobify/scooch) :gift_heart:
   * [Swiper](https://github.com/nolimits4web/Swiper) :gift_heart:
-  * [SVG Edit](https://github.com/SVG-Edit/svgedit) :gift_heart:
 - Image Manipulation
   * [Aviary](https://developers.aviary.com/) :gift_heart:
   * [Image Crop Component](http://dev.vizuina.com/cropper/) :gift_heart:
   * [Nude.js (nudity-detection)](https://github.com/pa7/nude.js) :gift_heart:
+  * [SVG Edit](https://github.com/SVG-Edit/svgedit) :gift_heart:
   * [Watermark.js](https://github.com/brianium/watermarkjs) :gift_heart:
 - LazyLoaders
   * [Blazy](https://github.com/dinbror/blazy) :gift_heart:

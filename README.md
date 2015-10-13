@@ -107,15 +107,15 @@ Browser Luvin'
 
 ## Guides
 - Browser Support
-  * [Can I Use](http://caniuse.com/) :gift_heart:
-  * [State of WebType](http://stateofwebtype.com/) :gift_heart:
+  * [Can I Use](http://caniuse.com/) :gift_heart: - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+  * [State of WebType](http://stateofwebtype.com/) :gift_heart: - Up-to-date data on support for type and typographic features on the web.
 - Javascript
-  * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :gift_heart:
+  * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :gift_heart: - A book series on JavaScript.
 - Responsive
-  * [Media Queries (Examples)](http://mediaqueri.es/) :gift_heart:
-  * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart:
+  * [Media Queries (Examples)](http://mediaqueri.es/) :gift_heart: - A collection of inspirational websites using media queries and responsive web design.
+  * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart: - We built screensiz.es to help you quickly find the screen specifications of the most popular devices and monitors currently on the market.
 - Style Guides
-  * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart:
+  * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart: - JavaScript Style Guide.
 - [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart:
 - [USDS Playbook](https://github.com/usds/playbook) :gift_heart:
 

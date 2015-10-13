@@ -29,20 +29,20 @@ Browser Luvin'
 
 ## Angular Modules
 - Calendar
-  * [ui-calendar](https://github.com/angular-ui/ui-calendar) :gift_heart:
+  * [ui-calendar](https://github.com/angular-ui/ui-calendar) :gift_heart: - A complete AngularJS directive for the Arshaw FullCalendar.
 - Data Pickers
-  * [ui-date](https://github.com/angular-ui/ui-date) :gift_heart:
+  * [ui-date](https://github.com/angular-ui/ui-date) :gift_heart: - jQuery UI Datepicker for AngularJS.
 - Drag & Drop
-  * [ng-sortable](https://github.com/a5hik/ng-sortable) :gift_heart:
+  * [ng-sortable](https://github.com/a5hik/ng-sortable) :gift_heart: - AngularJS Library for Drag and Drop, supports Sortable and Draggable. No JQuery/JQuery UI used. Supports Touch devices.
 - File Upload
-  * [ng-file-upload](https://github.com/danialfarid/ng-file-upload) :gift_heart:
+  * [ng-file-upload](https://github.com/danialfarid/ng-file-upload) :gift_heart: - Lightweight Angular directive to upload files with optional FileAPI shim for cross browser support.
 - Loading Bars
-  * [angular-loading-bar](https://github.com/chieffancypants/angular-loading-bar) :gift_heart:
+  * [angular-loading-bar](https://github.com/chieffancypants/angular-loading-bar) :gift_heart: - A fully automatic loading / progress bar for your angular apps.
 - Plots & Charts
-  * [ui-chart](https://github.com/angular-ui/ui-chart) :gift_heart:
+  * [ui-chart](https://github.com/angular-ui/ui-chart) :gift_heart: - This directive lets you use jqPlot with Angular.
 - Translation
-  * [angular-translate](https://github.com/angular-translate/angular-translate) :gift_heart:
-- [UI Bootstrap](https://github.com/angular-ui/bootstrap) :gift_heart:
+  * [angular-translate](https://github.com/angular-translate/angular-translate) :gift_heart: - i18n in your Angular apps, made easy.
+- [UI Bootstrap](https://github.com/angular-ui/bootstrap) :gift_heart: - 
 
 
 ## CSS Frameworks

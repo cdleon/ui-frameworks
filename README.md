@@ -121,10 +121,10 @@ Browser Luvin'
 
 ## Fonts
 - CSS
-  * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart:
-- [Google Fonts](https://www.google.com/fonts) :gift_heart:
-- [Hack](https://github.com/chrissimpkins/Hack) :gift_heart:
-- [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart:
+  * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart: - CSS SANS is the font created by CSS, the programming language for web designing and typesetting.
+- [Google Fonts](https://www.google.com/fonts) :gift_heart: - Our goal is to create a directory of web fonts for the world to use. Our API service makes it easy to add Google Fonts to a website in seconds. The service runs on Google's servers which are fast, reliable and tested. Google provides this service free of charge.
+- [Hack](https://github.com/chrissimpkins/Hack) :gift_heart: - A typeface designed for source code.
+- [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart: - Source for the Sans Bullshit Sans font.
 
 
 

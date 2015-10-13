@@ -28,6 +28,8 @@ Browser Luvin'
 - [Tools](#tools)
 
 ## Angular Modules
+- Bootstrap
+  * [UI Bootstrap](https://github.com/angular-ui/bootstrap) :gift_heart: - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required.
 - Calendar
   * [ui-calendar](https://github.com/angular-ui/ui-calendar) :gift_heart: - A complete AngularJS directive for the Arshaw FullCalendar.
 - Data Pickers
@@ -42,45 +44,45 @@ Browser Luvin'
   * [ui-chart](https://github.com/angular-ui/ui-chart) :gift_heart: - This directive lets you use jqPlot with Angular.
 - Translation
   * [angular-translate](https://github.com/angular-translate/angular-translate) :gift_heart: - i18n in your Angular apps, made easy.
-- [UI Bootstrap](https://github.com/angular-ui/bootstrap) :gift_heart: - 
 
 
 ## CSS Frameworks
-- [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart:
-- [Foundation](https://github.com/zurb/foundation) :gift_heart:
-- [Gumby](https://github.com/GumbyFramework/Gumby) :gift_heart:
-- [Kube](https://github.com/imperavi/kube) :gift_heart:
-- [Primer](https://github.com/primer/primer) :gift_heart:
-- [Less Framework](https://github.com/jonikorpi/Less-Framework) :gift_heart:
-- [Material Design Lite](https://github.com/google/material-design-lite) :gift_heart:
-- [Materialize](https://github.com/Dogfalo/materialize) :gift_heart:
-- [Material UI](https://github.com/callemall/material-ui) :gift_heart:
-- [MUI](https://github.com/muicss/mui) :gift_heart:
-- [Office UI Fabric](https://github.com/OfficeDev/Office-UI-Fabric) :gift_heart:
-- [Pure](https://github.com/yahoo/pure/) :gift_heart:
-- [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) :gift_heart:
-- [Skeleton](https://github.com/dhg/Skeleton) :gift_heart:
-- [Typebase.css](https://github.com/devinhunt/typebase.css) :gift_heart:
-- [UIKit](https://github.com/uikit/uikit) :gift_heart:
-- [Yaml](https://github.com/yamlcss/yaml) :gift_heart:
-- [Yahoo User Interface Library](https://github.com/yui/yui3) :gift_heart:
+- [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart: - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [Foundation](https://github.com/zurb/foundation) :gift_heart: - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
+- [Gumby](https://github.com/GumbyFramework/Gumby) :gift_heart: - A Flexible, Responsive CSS Framework - Powered by Sass.
+- [Kube](https://github.com/imperavi/kube) :gift_heart: - Kube is a minimalistic Web framework for professional developers and designers.
+- [Primer](https://github.com/primer/primer) :gift_heart: - The base coat of GitHub. Our internal CSS toolkit and guidelines.
+- [Less Framework](https://github.com/jonikorpi/Less-Framework) :gift_heart: - An adaptive CSS grid system.
+- [Material Design Lite](https://github.com/google/material-design-lite) :gift_heart: - Material Design Lite (MDL) lets you add a Material Design look and feel to your static content websites. It doesn't rely on any JavaScript frameworks or libraries.
+- [Materialize](https://github.com/Dogfalo/materialize) :gift_heart: - CSS Framework based on Material Design.
+- [Material UI](https://github.com/callemall/material-ui) :gift_heart: - React Components that Implement Google's Material Design.
+- [MUI](https://github.com/muicss/mui) :gift_heart: - MUI is a lightweight CSS framework that follows Google's Material Design guidelines.
+- [Office UI Fabric](https://github.com/OfficeDev/Office-UI-Fabric) :gift_heart: - The front-end framework for building experiences for Office 365.
+- [Pure](https://github.com/yahoo/pure/) :gift_heart: - A set of small, responsive CSS modules that you can use in every web project.
+- [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) :gift_heart: - Semantic is a UI component framework based around useful principles from natural language.
+- [Skeleton](https://github.com/dhg/Skeleton) :gift_heart: - A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development.
+- [Typebase.css](https://github.com/devinhunt/typebase.css) :gift_heart: - A starting point for good typography on the web.
+- [UIKit](https://github.com/uikit/uikit) :gift_heart: - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+- [Yaml](https://github.com/yamlcss/yaml) :gift_heart: - YAML (Yet Another Multicolumn Layout) is a modular CSS framework for truly flexible, accessible and responsive websites. It is based on Sass and has a very slim framework core that weights only ~6kB.
+- [Yahoo User Interface Library](https://github.com/yui/yui3) :gift_heart: - YUI is a free, open source JavaScript and CSS framework for building richly interactive web applications.
 
 ## CSS Plugins
 - Button groups
-  * [Social Buttons For Bootsrap](https://github.com/lipis/bootstrap-social) :gift_heart:
-  * [Zocial CSS Social Buttons](https://github.com/smcllns/css-social-buttons) :gift_heart:
-- [Cody House](http://codyhouse.co/) :rainbow:
+  * [Social Buttons For Bootsrap](https://github.com/lipis/bootstrap-social) :gift_heart: - Social Sign-In Buttons for Bootstrap.
+  * [Zocial CSS Social Buttons](https://github.com/smcllns/css-social-buttons) :gift_heart: - Zocial button set with CSS. Entirely vector-based social buttons.
 - Effects
-  * [iHover](https://github.com/gudh/ihover) :gift_heart:
-  * [Hover](https://github.com/IanLunn/Hover) :gift_heart:
+  * [iHover](https://github.com/gudh/ihover) :gift_heart: - iHover is a collection of hover effects using pure CSS, powered by Sass. 
+  * [Hover](https://github.com/IanLunn/Hover) :gift_heart: - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - Graphics & Animations
-  * [Asorted CSS Expermints](https://github.com/hakimel/css) :gift_heart:
+  * [Asorted CSS Expermints](https://github.com/hakimel/css) :gift_heart: - Assorted CSS and UI experiments.
 - Image Sliders
-  * [Pure CSS Slider](https://github.com/drygiel/csslider) :gift_heart:
+  * [Pure CSS Slider](https://github.com/drygiel/csslider) :gift_heart: - Pure CSS slider.
 - Plots & Charts
-  * [CSS Plots](https://github.com/asciimoo/cssplot) :gift_heart:
+  * [CSS Plots](https://github.com/asciimoo/cssplot) :gift_heart: - Pure CSS charts.
 - Text Effects
-  * [Animate.css](https://github.com/daneden/animate.css) :gift_heart:
+  * [Animate.css](https://github.com/daneden/animate.css) :gift_heart: - A cross-browser library of CSS animations. As easy to use as an easy thing.
+- Various
+  * [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
 
 ## CSS Snippets
 - Bootsrap

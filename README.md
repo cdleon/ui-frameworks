@@ -86,9 +86,9 @@ Browser Luvin'
 
 ## CSS Snippets
 - Bootsrap
-  * [Bootsnipp](http://bootsnipp.com/) :gift_heart:
-  * [Design Bootsrap](http://www.designbootstrap.com/category/bootstrap-snippets/) :gift_heart:
-  * [Snipplr](http://snipplr.com/) :gift_heart:
+  * [Bootsnipp](http://bootsnipp.com/) :gift_heart: -  Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework.
+  * [Design Bootsrap](http://www.designbootstrap.com/category/bootstrap-snippets/) :gift_heart: - 100% Free and unique bootstrap themes, templates, snippets and Bootstrap design tools for personal and commercial use.
+  * [Snipplr](http://snipplr.com/) :gift_heart: - Lets your store and share all of your commonly used pieces of code and HTML with other programmers and designers.
 - Pure CSS
   * [CSS Flow](http://www.cssflow.com/snippets/) :gift_heart:
   * [Cody House](http://codyhouse.co/) :rainbow:

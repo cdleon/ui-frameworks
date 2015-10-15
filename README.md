@@ -154,11 +154,11 @@ Browser Luvin'
   * [Weather Icons](https://github.com/erikflowers/weather-icons) :gift_heart: - 215 Weather Themed Icons and CSS.
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart: - High quality icons that are easy to use with Bootstrap, other CSS frameworks and in any web projects.
 - PNG
-  * [Nucleo](https://nucleoapp.com) :moneybag:
-  * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart:
+  * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them.
+  * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart: - High quality icons that are easy to use with Bootstrap, other CSS frameworks and in any web projects.
 - SVG
-  * [Nucleo](https://nucleoapp.com) :moneybag:
-  * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart:
+  * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them.
+  * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos.
 
 ## JQuery Plugins
 - Background & Background effects

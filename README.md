@@ -63,6 +63,7 @@ Browser Luvin'
 - [Skeleton](https://github.com/dhg/Skeleton) :gift_heart: - A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development.
 - [Typebase.css](https://github.com/devinhunt/typebase.css) :gift_heart: - A starting point for good typography on the web.
 - [UIKit](https://github.com/uikit/uikit) :gift_heart: - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+- [USDS Web Design Standards](https://github.com/18F/web-design-standards) :gift_heart: Open source UI components and visual style guide for U.S. government websites
 - [Yaml](https://github.com/yamlcss/yaml) :gift_heart: - YAML (Yet Another Multicolumn Layout) is a modular CSS framework for truly flexible, accessible and responsive websites. It is based on Sass and has a very slim framework core that weights only ~6kB.
 - [Yahoo User Interface Library](https://github.com/yui/yui3) :gift_heart: - YUI is a free, open source JavaScript and CSS framework for building richly interactive web applications.
 
@@ -117,7 +118,6 @@ Browser Luvin'
 - Style Guides
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart: - JavaScript Style Guide.
 - [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart:
-- [USDS Playbook](https://github.com/usds/playbook) :gift_heart:
 
 ## Fonts
 - CSS

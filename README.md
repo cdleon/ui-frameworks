@@ -117,7 +117,7 @@ Browser Luvin'
   * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart: - We built screensiz.es to help you quickly find the screen specifications of the most popular devices and monitors currently on the market.
 - Style Guides
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart: - JavaScript Style Guide.
-- [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart:
+- [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart: - The U.S. Digital Services Playbook
 
 ## Fonts
 - CSS
@@ -130,29 +130,29 @@ Browser Luvin'
 
 ## Icons
 - CSS
-  * [Icono](https://github.com/saeedalipoor/icono) :gift_heart:
-  * [Littlebox](https://github.com/cmaddux/littlebox) :gift_heart:
-  * [Nucleo](https://nucleoapp.com) :moneybag:
+  * [Icono](https://github.com/saeedalipoor/icono) :gift_heart: - One tag One icon, no font or svg, Pure CSS.
+  * [Littlebox](https://github.com/cmaddux/littlebox) :gift_heart: - Super simple to implement, CSS-only icons.
+  * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them.
 - Font
-  * [Analog Clock](https://github.com/jhogue/PE-Analog-Clock-icon-font) :gift_heart:
-  * [Black Tie](http://blacktie.io/) :moneybag:
-  * [Devicons](https://github.com/vorillaz/devicons) :gift_heart:
-  * [Font Awesome](https://github.com/FortAwesome/Font-Awesome) :gift_heart:
-  * [Fontello](https://github.com/fontello/fontello) :gift_heart:
-  * [Glyhish](http://www.glyphish.com/) :rainbow:
-  * [Google Material Design Icons](https://github.com/google/material-design-icons) :gift_heart:
-  * [Ionicons](https://github.com/driftyco/ionicons) :gift_heart:
-  * [IcoMoon](https://icomoon.io/) :gift_heart:
-  * [Material Design icons](https://github.com/Templarian/MaterialDesign) :gift_heart:
-  * [Materialize Icons](http://materializecss.com/icons.html) :gift_heart:
-  * [MFG Labs](https://github.com/MfgLabs/mfglabs-iconset) :gift_heart:
-  * [Nucleo](https://nucleoapp.com) :moneybag:
-  * [Octicons](https://github.com/github/octicons/) :gift_heart:
-  * [Open Web icons](https://github.com/pfefferle/openwebicons) :gift_heart:
-  * [Stackicons](https://github.com/parkerbennett/stackicons) :gift_heart:
-  * [Typicons](https://github.com/stephenhutchings/typicons.font) :gift_heart:
-  * [Weather Icons](https://github.com/erikflowers/weather-icons/issues) :gift_heart:
-  * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart:
+  * [Analog Clock](https://github.com/jhogue/PE-Analog-Clock-icon-font) :gift_heart: - A set of icons for displaying a visual ("analog") representation of time stamps.
+  * [Black Tie](http://blacktie.io/) :moneybag: - The multi-weight icon font from the creator of Font Awesome.
+  * [Devicons](https://github.com/vorillaz/devicons) :gift_heart: - An iconic font made for developers.
+  * [Font Awesome](https://github.com/FortAwesome/Font-Awesome) :gift_heart: - The iconic font and CSS toolkit.
+  * [Fontello](https://github.com/fontello/fontello) :gift_heart: - Icon fonts generator.
+  * [Glyhish](http://www.glyphish.com/) :rainbow: - Great icons for everything.
+  * [Google Material Design Icons](https://github.com/google/material-design-icons) :gift_heart: - Material Design icons by Google.
+  * [Ionicons](https://github.com/driftyco/ionicons) :gift_heart: - The premium icon font for Ionic.
+  * [IcoMoon](https://icomoon.io/) :gift_heart: - Custom built and crisp icon fonts.
+  * [Material Design icons](https://github.com/Templarian/MaterialDesign) :gift_heart: - Design resources for Material Design.
+  * [Materialize Icons](http://materializecss.com/icons.html) :gift_heart: - We have included 740 Material Design Icons courtesy of Google.
+  * [MFG Labs](https://github.com/MfgLabs/mfglabs-iconset) :gift_heart: - Awesome web font icon by MFG Labs.
+  * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them.
+  * [Octicons](https://github.com/github/octicons/) :gift_heart: - GitHub's icon font.
+  * [Open Web icons](https://github.com/pfefferle/openwebicons) :gift_heart: - Web-font that gives you scalable vector icons/logos of some open community, standards or projects.
+  * [Stackicons](https://github.com/parkerbennett/stackicons) :gift_heart: - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands.
+  * [Typicons](https://github.com/stephenhutchings/typicons.font) :gift_heart: - 336 pixel perfect, all-purpose vector icons in a web-font kit.
+  * [Weather Icons](https://github.com/erikflowers/weather-icons) :gift_heart: - 215 Weather Themed Icons and CSS.
+  * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart: - High quality icons that are easy to use with Bootstrap, other CSS frameworks and in any web projects.
 - PNG
   * [Nucleo](https://nucleoapp.com) :moneybag:
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart:

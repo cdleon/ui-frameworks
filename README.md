@@ -120,7 +120,8 @@ Browser Luvin'
   * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart: - We built screensiz.es to help you quickly find the screen specifications of the most popular devices and monitors currently on the market.
 - Style Guides
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart: - JavaScript Style Guide.
-- [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart: - The U.S. Digital Services Playbook
+  * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) :gift_heart: - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
+  * [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart: - The U.S. Digital Services Playbook
 
 ## Fonts
 - CSS
@@ -266,6 +267,7 @@ Browser Luvin'
   * [Trine](https://github.com/jussi-kalliokoski/trine) :gift_heart:
   * [TuxedoJS](https://github.com/TuxedoJS/TuxedoJS) :gift_heart:
   * [Two.js](https://github.com/jonobr1/two.js) :gift_heart:
+  * [Vue.js](https://github.com/yyx990803/vue) :gift_heart: - Simple yet powerful library for building modern web interfaces.
   * [Zepto.js](https://github.com/madrobby/zepto) :gift_heart: - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API.
 
 ##Loaders

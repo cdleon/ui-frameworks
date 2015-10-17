@@ -78,6 +78,8 @@ Browser Luvin'
   * [Asorted CSS Expermints](https://github.com/hakimel/css) :gift_heart: - Assorted CSS and UI experiments.
 - Image Sliders
   * [Pure CSS Slider](https://github.com/drygiel/csslider) :gift_heart: - Pure CSS slider.
+- Modal
+  * [CSS Modal](https://github.com/drublic/css-modal) :gift_heart: - A modal built out of pure CSS.
 - Plots & Charts
   * [CSS Plots](https://github.com/asciimoo/cssplot) :gift_heart: - Pure CSS charts.
 - Text Effects
@@ -198,6 +200,9 @@ Browser Luvin'
   * [ThreeSixty](https://github.com/modernassembly/threesixtyjs/) :gift_heart:
   * [TiltShift.js](https://github.com/noeltock/tiltShift.js) :gift_heart:
   * [Zoom.js](https://github.com/fat/zoom.js) :gift_heart:
+- Modal
+  * [FancyBox](https://github.com/fancyapps/fancyBox) :rainbow: - Tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
+  * [Magnificent Popup](https://github.com/dimsemenov/Magnific-Popup) :gift_heart: - Light and responsive lightbox script with focus on performance.
 - Parallax & Scrolling
   * [Scroll Path](https://github.com/JoelBesada/scrollpath) :gift_heart:
   * [Cool Kitten](https://github.com/jalxob/cool-kitten) :gift_heart:
@@ -371,6 +376,8 @@ Browser Luvin'
   * [Winamp2-js](https://github.com/captbaritone/winamp2-js) :gift_heart:
 - Menus & Navigation
   * [Slideout.js (For-Mobile)](https://github.com/Mango/slideout) :gift_heart:
+- Modal
+  * [jsModal](https://github.com/utveckla/jsModal) :gift_heart: - Modal generator in pure JavaScript.
 - Parallax & Scrolling
   * [Elevator.js](https://github.com/tholman/elevator.js) :gift_heart:
   * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart:

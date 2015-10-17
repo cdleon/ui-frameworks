@@ -47,6 +47,7 @@ Browser Luvin'
 
 
 ## CSS Frameworks
+- [Amaze UI](https://github.com/allmobilize/amazeui) :gift_heart: - Amaze UI, a mobile-first and modular front-end framework.
 - [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart: - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [Foundation](https://github.com/zurb/foundation) :gift_heart: - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [Gumby](https://github.com/GumbyFramework/Gumby) :gift_heart: - A Flexible, Responsive CSS Framework - Powered by Sass.
@@ -145,6 +146,7 @@ Browser Luvin'
   * [Google Material Design Icons](https://github.com/google/material-design-icons) :gift_heart: - Material Design icons by Google.
   * [Ionicons](https://github.com/driftyco/ionicons) :gift_heart: - The premium icon font for Ionic.
   * [IcoMoon](https://icomoon.io/) :gift_heart: - Custom built and crisp icon fonts.
+  * [IconFinder](https://www.iconfinder.com/) :rainbow: - Search through 644,909 icons or browse 11,838 icon sets.
   * [Material Design icons](https://github.com/Templarian/MaterialDesign) :gift_heart: - Design resources for Material Design.
   * [Materialize Icons](http://materializecss.com/icons.html) :gift_heart: - We have included 740 Material Design Icons courtesy of Google.
   * [MFG Labs](https://github.com/MfgLabs/mfglabs-iconset) :gift_heart: - Awesome web font icon by MFG Labs.
@@ -159,6 +161,7 @@ Browser Luvin'
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them.
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart: - High quality icons that are easy to use with Bootstrap, other CSS frameworks and in any web projects.
 - SVG
+  * [Evil Icons](https://github.com/outpunk/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them.
   * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos.
 
@@ -254,6 +257,7 @@ Browser Luvin'
   * [History.js](https://github.com/browserstate/history.js) :gift_heart:
   * [Jaws](https://github.com/jaws-framework/JAWS) :gift_heart:
   * [jQuery](https://github.com/jquery/jquery) :gift_heart:
+  * [Mustache.js](https://github.com/janl/mustache.js/_ :gift_heart: - Minimal templating with {{mustaches}} in JavaScript.
   * [Polymer](https://www.polymer-project.org/1.0/) :gift_heart:
   * [Radioactive](https://github.com/radioactive/radioactive) :gift_heart:
   * [React](https://github.com/facebook/react) :gift_heart:
@@ -262,9 +266,11 @@ Browser Luvin'
   * [Trine](https://github.com/jussi-kalliokoski/trine) :gift_heart:
   * [TuxedoJS](https://github.com/TuxedoJS/TuxedoJS) :gift_heart:
   * [Two.js](https://github.com/jonobr1/two.js) :gift_heart:
+  * [Zepto.js](https://github.com/madrobby/zepto) :gift_heart: - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API.
 
 ##Loaders
 - CSS
+  * [Css-spinners](https://github.com/jlong/css-spinners) :gift_heart: - Simple CSS spinners and throbbers made with CSS and minimal HTML markup.
   * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) :gift_heart:
   * [Single Element CSS Spinners](https://github.com/lukehaas/css-loaders) :gift_heart:
 - JS
@@ -377,7 +383,7 @@ Browser Luvin'
 - Menus & Navigation
   * [Slideout.js (For-Mobile)](https://github.com/Mango/slideout) :gift_heart:
 - Modal
-  * [jsModal](https://github.com/utveckla/jsModal) :gift_heart: - Modal generator in pure JavaScript.
+  * [jsModal](http://jsmodal.com/) :gift_heart: - Modal generator in pure JavaScript.
 - Parallax & Scrolling
   * [Elevator.js](https://github.com/tholman/elevator.js) :gift_heart:
   * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart:

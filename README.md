@@ -69,44 +69,44 @@ Browser Luvin'
 - [Yahoo User Interface Library](https://github.com/yui/yui3) :gift_heart: - YUI is a free, open source JavaScript and CSS framework for building richly interactive web applications.
 
 ## CSS Plugins
-- Button groups
+- **Button groups**
   * [Social Buttons For Bootsrap](https://github.com/lipis/bootstrap-social) :gift_heart: - Social Sign-In Buttons for Bootstrap.
   * [Zocial CSS Social Buttons](https://github.com/smcllns/css-social-buttons) :gift_heart: - Zocial button set with CSS. Entirely vector-based social buttons.
-- Effects
+- **Effects**
   * [iHover](https://github.com/gudh/ihover) :gift_heart: - iHover is a collection of hover effects using pure CSS, powered by Sass. 
   * [Hover](https://github.com/IanLunn/Hover) :gift_heart: - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
-- Graphics & Animations
+- **Graphics & Animations**
   * [Asorted CSS Expermints](https://github.com/hakimel/css) :gift_heart: - Assorted CSS and UI experiments.
-- Image Sliders
+- **Image Sliders**
   * [Pure CSS Slider](https://github.com/drygiel/csslider) :gift_heart: - Pure CSS slider.
-- Modal
+- **Modal**
   * [CSS Modal](https://github.com/drublic/css-modal) :gift_heart: - A modal built out of pure CSS.
-- Plots & Charts
+- **Plots & Charts**
   * [CSS Plots](https://github.com/asciimoo/cssplot) :gift_heart: - Pure CSS charts.
-- Text Effects
+- **Text Effects**
   * [Animate.css](https://github.com/daneden/animate.css) :gift_heart: - A cross-browser library of CSS animations. As easy to use as an easy thing.
-- Various
+- **Various**
   * [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
 
 ## CSS Snippets
-- Bootsrap
+- **Bootsrap**
   * [Bootsnipp](http://bootsnipp.com/) :gift_heart: -  Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework.
   * [Design Bootsrap](http://www.designbootstrap.com/category/bootstrap-snippets/) :gift_heart: - 100% Free and unique bootstrap themes, templates, snippets and Bootstrap design tools for personal and commercial use.
   * [Snipplr](http://snipplr.com/) :gift_heart: - Lets your store and share all of your commonly used pieces of code and HTML with other programmers and designers.
-- Pure CSS
-  * [CSS Flow](http://www.cssflow.com/snippets/) :gift_heart:
-  * [Cody House](http://codyhouse.co/) :rainbow:
-  * [CSS{POP}](http://www.csspop.com/) :gift_heart:
-  * [CSS Tricks](https://css-tricks.com/snippets/css/) :gift_heart:
-  * [Snipplr](http://snipplr.com/) :gift_heart:
-  * [Smipple](http://www.smipple.net/lang/css) :gift_heart:
-  * [Snipt](https://snipt.net/public/tag/css/) :gift_heart:
-- From Blogs
-  * [1stWebDesigner](http://www.1stwebdesigner.com/useful-css-snippets/) :gift_heart:
-  * [Design Your Way](http://www.designyourway.net/blog/resources/31-css-code-snippets-to-make-you-a-better-coder/) :gift_heart:
-  * [Noupe](http://www.noupe.com/design/useful-css-snippets-for-your-coding-arsenal.html) :gift_heart:
-  * [Six Revisions](http://sixrevisions.com/category/css/) :gift_heart:
-  * [Speckyboy](http://speckyboy.com/2011/04/15/25-css-snippets-for-some-of-the-most-common-and-frustrating-tasks/) :gift_heart:
+- **Pure CSS**
+  * [CSS Flow](http://www.cssflow.com/snippets/) :gift_heart: - Free UI elements and widgets coded with HTML5, CSS3, and Sass.
+  * [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets.
+  * [CSS{POP}](http://www.csspop.com/) :gift_heart: - A Community Collection of CSS Snippets.
+  * [CSS Tricks](https://css-tricks.com/snippets/css/) :gift_heart: - Site about all things web design and development.
+  * [Snipplr](http://snipplr.com/) :gift_heart: - All of our code snippets are stored in one place.
+  * [Smipple](http://www.smipple.net/lang/css) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
+  * [Snipt](https://snipt.net/public/tag/css/) :gift_heart: - The publishing platform for coders.
+- **From Blogs**
+  * [1stWebDesigner](http://www.1stwebdesigner.com/useful-css-snippets/) :gift_heart: - 25 Incredibly Useful CSS Snippets for Developers.
+  * [Design Your Way](http://www.designyourway.net/blog/resources/31-css-code-snippets-to-make-you-a-better-coder/) :gift_heart: - Here are some of the ones that you would need more often than others.
+  * [Noupe](http://www.noupe.com/design/useful-css-snippets-for-your-coding-arsenal.html) :gift_heart: - In this article we have listed 30 CSS snippets that we think you will find very useful.
+  * [Six Revisions](http://sixrevisions.com/category/css/) :gift_heart: - Six Revisions is a web publication for web developers and web designers. We publish articles, guides, tutorials, news and other forms of content for people who design and build sites and apps.
+  * [Speckyboy](http://speckyboy.com/2011/04/15/25-css-snippets-for-some-of-the-most-common-and-frustrating-tasks/) :gift_heart: - 25 CSS Snippets for Some of the Most Common and Frustrating Tasks.
 
 
 ## Guides

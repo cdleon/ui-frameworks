@@ -168,82 +168,83 @@ Browser Luvin'
 
 ## JQuery Plugins
 - Background & Background effects
-  * [Backstretch](https://github.com/srobbin/jquery-backstretch) :gift_heart:
-  * [JQuery.Bgwitcher](https://github.com/rewish/jquery-bgswitcher) :gift_heart:
-  * [Supersized](https://github.com/buildinternet/supersized) :gift_heart:
-  * [Tubular](http://www.seanmccambridge.com/tubular/) :gift_heart:
+  * [Backstretch](https://github.com/srobbin/jquery-backstretch) :gift_heart: - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.
+  * [JQuery.Bgwitcher](https://github.com/rewish/jquery-bgswitcher) :gift_heart: - Switch the background-image with using effect.
+  * [Supersized](https://github.com/buildinternet/supersized) :gift_heart: - Full screen background slideshow plugin for jQuery.
+  * [Tubular](http://www.seanmccambridge.com/tubular/) :gift_heart: - Tubular is a jQuery plugin that lets you set a YouTube video as your page background. Just attach it to your page wrapper element, set some options, and you're on your way.
 - Date Pickers
-  * [Pickadate](https://github.com/amsul/pickadate.js) :gift_heart:
+  * [Pickadate](https://github.com/amsul/pickadate.js) :gift_heart: - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 - Dialogs & Alerts
-  * [Alertify](https://github.com/fabien-d/alertify.js) :gift_heart:
-  * [Avgrund](https://github.com/voronianski/jquery.avgrund.js) :gift_heart:
+  * [Alertify](https://github.com/fabien-d/alertify.js) :gift_heart: - JavaScript Alert/Notification System.
+  * [Avgrund](https://github.com/voronianski/jquery.avgrund.js) :gift_heart: - Avgrund is a jQuery plugin with new modal concept for popups.
 - File Upload
-  * [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) :gift_heart:
+  * [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) :gift_heart: - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery.
 - Forms & Input
-  * [Chosen](https://github.com/harvesthq/chosen) :gift_heart:
-  * [Fancy Input](https://github.com/yairEO/fancyInput) :gift_heart:
-  * [iCheck](https://github.com/fronteed/iCheck) :gift_heart:
-  * [jQuery Knobs](https://github.com/aterrien/jQuery-Knob) :gift_heart:
-  * [Parsley](https://github.com/guillaumepotier/Parsley.js/) :gift_heart:
-  * [Tag-it](https://github.com/aehlke/tag-it) :gift_heart:
-  * [Typehead](https://github.com/twitter/typeahead.js/) :gift_heart:
+  * [Chosen](https://github.com/harvesthq/chosen) :gift_heart: - Chosen is a library for making long, unwieldy select boxes more friendly.
+  * [Fancy Input](https://github.com/yairEO/fancyInput) :gift_heart: - Makes typing in input fields fun with CSS3 effects.
+  * [iCheck](https://github.com/fronteed/iCheck) :gift_heart: - Highly customizable checkboxes and radio buttons.
+  * [jQuery Knobs](https://github.com/aterrien/jQuery-Knob) :gift_heart: - Nice, downward compatible, touchable, jQuery dial.
+  * [Parsley](https://github.com/guillaumepotier/Parsley.js/) :gift_heart: - Validate your forms, frontend, without writing a single line of javascript.
+  * [Tag-it](https://github.com/aehlke/tag-it) :gift_heart: - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
+  * [Typehead](https://github.com/twitter/typeahead.js/) :gift_heart: - Typeahead.js is a fast and fully-featured autocomplete library
 - Grids
-  * [Freetile](https://github.com/yconst/Freetile) :gift_heart:
-  * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart:
-  * [Stalactite](https://github.com/jonobr1/stalactite) :gift_heart:
+  * [Freetile](https://github.com/yconst/Freetile) :gift_heart: - Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout.
+  * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart: - Gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
+  * [Stalactite](https://github.com/jonobr1/stalactite) :gift_heart: - Stalactite is a jQuery plugin that packs child elements together.
 - Image & Content Sliders
-  * [Slides Js](https://github.com/nathansearles/Slides/tree/SlidesJS-3) :gift_heart:
-  * [Swipe](https://github.com/thebird/Swipe) :gift_heart:
-  * [RTP SLider](https://github.com/rtp-ch/slider) :gift_heart:
+  * [Slides Js](https://github.com/nathansearles/Slides/tree/SlidesJS-3) :gift_heart: - Slides is a crazy simple slideshow plugin for jQuery.
+  * [Swipe](https://github.com/thebird/Swipe) :gift_heart: - Swipe is the most accurate touch slider.
+  * [RTP SLider](https://github.com/rtp-ch/slider) :gift_heart: - A flexible slider plugin. Fluid, touch-compatible and extendable.
 - Image Manipulation & Effects
-  * [Adipoli](https://github.com/cube3x/Adipoli) :gift_heart:
-  * [CamanJS](https://github.com/meltingice/CamanJS/) :gift_heart:
-  * [iPicture](https://github.com/vincicat/jQuery-iPicture) :gift_heart:
-  * [Jcrop](https://github.com/tapmodo/Jcrop) :gift_heart:
-  * [Swipebox](https://github.com/brutaldesign/swipebox) :gift_heart:
-  * [ThreeSixty](https://github.com/modernassembly/threesixtyjs/) :gift_heart:
-  * [TiltShift.js](https://github.com/noeltock/tiltShift.js) :gift_heart:
-  * [Zoom.js](https://github.com/fat/zoom.js) :gift_heart:
+  * [Adipoli](https://github.com/cube3x/Adipoli) :gift_heart: - jQuery Image Hover Plugin from cube3x.
+  * [CamanJS](https://github.com/meltingice/CamanJS/) :gift_heart: - Javascript HTML5 (Ca)nvas (Man)ipulation.
+  * [iPicture](https://github.com/vincicat/jQuery-iPicture) :gift_heart: - Tooltip your images.
+  * [Jcrop](https://github.com/tapmodo/Jcrop) :gift_heart: - Image Cropping Plugin for jQuery.
+  * [Swipebox](https://github.com/brutaldesign/swipebox) :gift_heart: - A touchable jQuery lightbox.
+  * [ThreeSixty](https://github.com/modernassembly/threesixtyjs/) :gift_heart: - A jQuery plugin for generating a draggable 360 preview from an image sequence.
+  * [TiltShift.js](https://github.com/noeltock/tiltShift.js) :gift_heart: - A jQuery plugin using CSS3 filters to replicate the tilt shift effect.
+  * [Zoom.js](https://github.com/fat/zoom.js) :gift_heart: - Medium's Image Zoom for jQuery.
 - Modal
   * [FancyBox](https://github.com/fancyapps/fancyBox) :rainbow: - Tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
   * [Magnificent Popup](https://github.com/dimsemenov/Magnific-Popup) :gift_heart: - Light and responsive lightbox script with focus on performance.
 - Parallax & Scrolling
-  * [Scroll Path](https://github.com/JoelBesada/scrollpath) :gift_heart:
-  * [Cool Kitten](https://github.com/jalxob/cool-kitten) :gift_heart:
-  * [Stellar.js](https://github.com/markdalgleish/stellar.js) :gift_heart:
-  * [Sticky](https://github.com/garand/sticky) :gift_heart:
-  * [Superscrollorama](https://github.com/johnpolacek/superscrollorama) :gift_heart:
-  * [Windows](https://github.com/nick-jonas/nick-jonas.github.com/tree/master/windows) :gift_heart:
+  * [ScrollMagic](https://github.com/janpaepke/ScrollMagic) :gift_heart: - The javascript library for magical scroll interactions.
+  * [Scroll Path](https://github.com/JoelBesada/scrollpath) :gift_heart: - A plugin for defining custom scroll paths.
+  * [Cool Kitten](https://github.com/jalxob/cool-kitten) :gift_heart: - A parallax scrolling responsive framework.
+  * [Stellar.js](https://github.com/markdalgleish/stellar.js) :gift_heart: - Parallax scrolling made easy.
+  * [Sticky](https://github.com/garand/sticky) :gift_heart: - Sticky is a jQuery plugin that gives you the ability to make any element on your page always stay visible.
+  * [Superscrollorama](https://github.com/johnpolacek/superscrollorama) :gift_heart: - The original jQuery plugin for supercool scroll animation. NOTE: No longer under active development. New version is ScrollMagic.js.
+  * [Windows](https://github.com/nick-jonas/nick-jonas.github.com/tree/master/windows) :gift_heart: - A handy, loosely-coupled jQuery plugin for full-screen scrolling windows.
 - Printing
-  * [PDFMake](https://github.com/bpampuch/pdfmake) :gift_heart:
+  * [PDFMake](https://github.com/bpampuch/pdfmake) :gift_heart: - Client/server side PDF printing in pure JavaScript.
 - Progress & Loading Bars
-  * [Loading Bar (Youtube-like)](https://github.com/peachananr/loading-bar) :gift_heart:
-  * [PercentageLoader](https://github.com/lepoetemaudit/percentageloader) :gift_heart:
+  * [Loading Bar](https://github.com/peachananr/loading-bar) :gift_heart: - Add a Youtube-like loading bar to all your ajax links.
+  * [PercentageLoader](https://github.com/lepoetemaudit/percentageloader) :gift_heart: - jQuery plugin for displaying an animated percentage loader.
 - Range Sliders
-  * [jQuery Vertical Slider](http://jqueryui.com/slider/#slider-vertical) :gift_heart:
+  * [jQuery Vertical Slider](http://jqueryui.com/slider/#slider-vertical) :gift_heart: - Drag a handle to select a numeric value.
 - Social Media
-  * [Social Feed](https://github.com/pavelk2/social-feed) :gift_heart:
-  * [Spectagram](https://github.com/adrianengine/jquery-spectragram) :gift_heart:
+  * [Social Feed](https://github.com/pavelk2/social-feed) :gift_heart: - A jQuery plugin that shows a user feed from the most popular social networks.
+  * [Spectagram](https://github.com/adrianengine/jquery-spectragram) :gift_heart: - A jQuery plugin using the Instagram API to fetch and display user, popular or tags photo feeds inside a list or any container you define.
 - Scrollbars
-  * [Malihu Custom Scrollbar](https://github.com/malihu/malihu-custom-scrollbar-plugin) :gift_heart:
-  * [nanoScroller.js](https://github.com/jamesflorentino/nanoScrollerJS) :gift_heart:
+  * [Malihu Custom Scrollbar](https://github.com/malihu/malihu-custom-scrollbar-plugin) :gift_heart: - Highly customizable custom scrollbar jQuery plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support etc.
+  * [nanoScroller.js](https://github.com/jamesflorentino/nanoScrollerJS) :gift_heart: - A jQuery plugin that offers a simplistic way of implementing Lion OS scrollbars.
 - Security
-  * [Complexify](https://github.com/danpalmer/jquery.complexify.js/) :gift_heart:
+  * [Complexify](https://github.com/danpalmer/jquery.complexify.js/) :gift_heart: - Complexify helps you to accurately gauge the quality of a user's password to give them visual feedback, and to enforce a minimum level of security.
 - State Management
-  * [pjax](https://github.com/defunkt/jquery-pjax) :gift_heart:
+  * [pjax](https://github.com/defunkt/jquery-pjax) :gift_heart: - pushState + ajax = pjax
 - Text Editors
-  * [Markdownify](https://github.com/tibastral/markdownify) :gift_heart:
+  * [Markdownify](https://github.com/tibastral/markdownify) :gift_heart: - The simplest markdown editor with built in cloudinary image upload.
 - Text Effects
-  * [Arctext.js](https://github.com/codrops/Arctext) :gift_heart:
-  * [Bacon](https://github.com/hudsonfoo/jQuery-Bacon) :gift_heart:
-  * [FitText](https://github.com/davatron5000/FitText.js) :gift_heart:
-  * [JQuery Shuffle Letters](https://github.com/robbue/jquery-shuffle-letters-plugin) :gift_heart:
-  * [Lettering.js](https://github.com/davatron5000/Lettering.js) :gift_heart:
-  * [Marklib (highlighting)](https://github.com/BowlingX/marklib) :gift_heart:
-  * [Midnight](https://github.com/Aerolab/midnight.js) :gift_heart:
-  * [Textillate.js](https://github.com/jschr/textillate) :gift_heart:
+  * [Arctext.js](https://github.com/codrops/Arctext) :gift_heart: - While CSS3 allows us to rotate letters, it is quite complicated to arrange each letter along a curved path. Arctext.js is a jQuery plugin that let's you do exactly that. Based on Lettering.js, it calculates the right rotation of each letter and distributes the letters equally across the imaginary arc of the given radius.
+  * [Bacon](https://github.com/hudsonfoo/jQuery-Bacon) :gift_heart: - Allows you to align text to a bezier curve or a line.
+  * [FitText](https://github.com/davatron5000/FitText.js) :gift_heart: - A jQuery plugin for inflating web type.
+  * [JQuery Shuffle Letters](https://github.com/robbue/jquery-shuffle-letters-plugin) :gift_heart: - A JQuery plugin that shuffles the text content of an element.
+  * [Lettering.js](https://github.com/davatron5000/Lettering.js) :gift_heart: - A lightweight, easy to use Javascript <span> injector for radical Web Typography.
+  * [Marklib (highlighting)](https://github.com/BowlingX/marklib) :gift_heart: - A simple and fast zero-dependencies-library to transform text-selections into serializable markings.
+  * [Midnight](https://github.com/Aerolab/midnight.js) :gift_heart: - A jQuery plugin that switches between multiple header designs as you scroll, so you always have a header that looks great with the content below it.
+  * [Textillate.js](https://github.com/jschr/textillate) :gift_heart: - Textillate.js combines some awesome libraries to provide an easy-to-use plugin for applying CSS3 animations to any text.
 - Typing
-  * [Long Press](https://github.com/quentint/long-press) :gift_heart:
+  * [Long Press](https://github.com/quentint/long-press) :gift_heart: - jQuery plugin to ease the writing of accented or rare characters.
 
 ## JQuery Snippets
   * [Smipple](http://www.smipple.net/lang/js) :gift_heart:

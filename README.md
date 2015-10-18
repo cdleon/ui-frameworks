@@ -280,38 +280,38 @@ Browser Luvin'
   * [Zepto.js](https://github.com/madrobby/zepto) :gift_heart: - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API.
 
 ##Loaders
-- CSS
+- **CSS**
   * [Css-spinners](https://github.com/jlong/css-spinners) :gift_heart: - Simple CSS spinners and throbbers made with CSS and minimal HTML markup.
   * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) :gift_heart: - Delightful, performance-focused pure css loading animations.
   * [CSS Loaders](https://github.com/lukehaas/css-loaders) :gift_heart: - This is a collection of loading spinners animated with CSS.
-- JS
+- **JS**
   * [Spin.js](https://github.com/fgnass/spin.js) :gift_heart: - A spinning activity indicator.
-- SVG
+- **SVG**
   * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :gift_heart: - Loading icons and small animations built purely in SVG, no CSS or JS.
 
 ## Pure JS Plugins
-- Accesibility
+- **Accesibility**
   * [Tota11y](https://github.com/Khan/tota11y) :gift_heart:
-- BenchMarking
+- **BenchMarking**
   * [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart:
   * [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart:
   * [Stats.js](https://github.com/mrdoob/stats.js) :gift_heart:
   * [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart:
 - [Cody House](http://codyhouse.co/) :rainbow:
-- Cut & Paste
+- **Cut & Paste**
   * [Clipboard.js](https://github.com/zenorocha/clipboard.js) :gift_heart:
-- Browser Support
+- **Browser Support**
   * [Modernizr](https://github.com/modernizr/modernizr) :gift_heart:
-- Caching & Offline First
+- **Caching & Offline First**
   * [UpUp](https://www.talater.com/upup/) :gift_heart:
-- Chat & Messaging
+- **Chat & Messaging**
   * [Lets-chat](https://github.com/sdelements/lets-chat) :gift_heart:
   * [Mattermost](https://github.com/mattermost/platform) :gift_heart:
-- Databases
+- **Databases**
   * [Lovefield (browser-database)](https://github.com/google/lovefield) :gift_heart:
-- Data Binding
+- **Data Binding**
   * [Way.js](https://github.com/gwendall/way.js) :gift_heart:
-- Data Processing & Visualization
+- **Data Processing & Visualization**
   * [c3](https://github.com/masayuki0812/c3) :gift_heart:
   * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) :gift_heart:
   * [Chart.js](https://github.com/nnnick/Chart.js) :gift_heart:
@@ -322,22 +322,22 @@ Browser Luvin'
   * [Taucharts](https://github.com/TargetProcess/tauCharts) :gift_heart:
   * [Timesheets.js](https://github.com/sbstjn/timesheet.js) :gift_heart:
   * [Vis](https://github.com/almende/vis) :gift_heart:
-- Date Pickers
+- **Date Pickers**
   * [DatePickr](https://github.com/joshsalverda/datepickr) :gift_heart:
   * [Pikaday](https://github.com/dbushell/Pikaday) :gift_heart:
   * [Rome](https://github.com/bevacqua/rome) :gift_heart:
-- Drag & Drop
+- **Drag & Drop**
   * [Clippings.js](https://github.com/clippings/layout-grid) :gift_heart:
   * [Dragula](https://github.com/bevacqua/dragula) :gift_heart:
   * [Grid](https://github.com/hootsuite/grid) :gift_heart:
   * [Interact.js](https://github.com/taye/interact.js) :gift_heart:
   * [Sortable](https://github.com/RubaXa/Sortable) :gift_heart:
-- File Upload
+- **File Upload**
   * [FileDrop](https://github.com/ProgerXP/FileDrop) :gift_heart:
   * [Plupload](https://github.com/moxiecode/plupload) :gift_heart:
   * [Simple Ajax Uploader](https://github.com/LPology/Simple-Ajax-Uploader) :gift_heart:
   * [Valum's File Uploader](https://github.com/Valums-File-Uploader/file-uploader) :gift_heart:
-- Forms & Input
+- **Forms & Input**
   * [Awesomeplete](https://github.com/LeaVerou/awesomplete) :gift_heart:
   * [Countable](https://github.com/RadLikeWhoa/Countable) :gift_heart:
   * [Floating Label](https://github.com/datuhealth/floating-label) :gift_heart:
@@ -347,7 +347,7 @@ Browser Luvin'
   * [Stretchy](https://github.com/LeaVerou/stretchy) :gift_heart:
   * [Taggle](https://github.com/okcoker/taggle.js) :gift_heart:
   * [Validate.js](https://github.com/rickharrison/validate.js/) :gift_heart:
-- Graphics & Animation
+- **Graphics & Animation**
   * [LAyer Visualizer](https://github.com/romannurik/LayerVisualizer) :gift_heart:
   * [p5.js](https://github.com/processing/p5.js) :gift_heart:
   * [Phaser](https://github.com/photonstorm/phaser) :gift_heart:
@@ -358,10 +358,10 @@ Browser Luvin'
   * [Velociy](https://github.com/julianshapiro/velocity) :gift_heart:
   * [Vivus.js (SVG-animations)](https://github.com/maxwellito/vivus) :gift_heart:
   * [WebGLStudio.js](https://github.com/jagenjo/webglstudio.js) :gift_heart:
-- Grid
+- **Grid**
   * [Clippings.js](https://github.com/clippings/layout-grid) :gift_heart:
   * [Right Height](https://github.com/cferdinandi/right-height) :gift_heart:
-- Image & Content Sliders
+- **Image & Content Sliders**
   * [Flickity](https://github.com/metafizzy/flickity) :rainbow:
   * [Jssor](https://github.com/jssor/slider) :gift_heart:
   * [Lory](https://github.com/meandmax/lory) :gift_heart:
@@ -369,65 +369,65 @@ Browser Luvin'
   * [Slick](https://github.com/kenwheeler/slick) :gift_heart:
   * [Scooch](https://github.com/mobify/scooch) :gift_heart:
   * [Swiper](https://github.com/nolimits4web/Swiper) :gift_heart:
-- Image Manipulation
+- **Image Manipulation**
   * [Aviary](https://developers.aviary.com/) :gift_heart:
   * [Image Crop Component](http://dev.vizuina.com/cropper/) :gift_heart:
   * [Nude.js (nudity-detection)](https://github.com/pa7/nude.js) :gift_heart:
   * [SVG Edit](https://github.com/SVG-Edit/svgedit) :gift_heart:
   * [Watermark.js](https://github.com/brianium/watermarkjs) :gift_heart:
-- LazyLoaders
+- **LazyLoaders**
   * [Blazy](https://github.com/dinbror/blazy) :gift_heart:
   * [Echo.js](https://github.com/toddmotto/echo) :gift_heart:
   * [Layzr.js](https://github.com/callmecavs/layzr.js) :gift_heart:
   * [LazyLoad](https://github.com/vvo/lazyload) :gift_heart:
   * [Responsively Lazy](https://github.com/ivopetkov/responsively-lazy) :gift_heart:
-- Loaders
+- **Loaders**
   * [Spin.js](https://github.com/fgnass/spin.js) :gift_heart:
-- Maps
+- **Maps**
   * [Gmaps](https://github.com/hpneo/gmaps) :gift_heart:
   * [Turf](https://github.com/Turfjs/turf) :gift_heart:
-- Media Players
+- **Media Players**
   * [Clappr](https://github.com/clappr/clappr) :gift_heart:
   * [Plyr](https://github.com/Selz/plyr) :gift_heart:
   * [Streama](https://github.com/dularion/streama) :gift_heart:
   * [Winamp2-js](https://github.com/captbaritone/winamp2-js) :gift_heart:
-- Menus & Navigation
+- **Menus & Navigation**
   * [Slideout.js (For-Mobile)](https://github.com/Mango/slideout) :gift_heart:
-- Modal
+- **Modal**
   * [jsModal](http://jsmodal.com/) :gift_heart: - Modal generator in pure JavaScript.
-- Parallax & Scrolling
+- **Parallax & Scrolling**
   * [Elevator.js](https://github.com/tholman/elevator.js) :gift_heart:
   * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart:
   * [Scrollerjs](https://github.com/forcedotcom/scrollerjs) :gift_heart:
-- Pointers & Tooltips
+- **Pointers & Tooltips**
   * [focusable](https://github.com/zzarcon/focusable) :gift_heart:
   * [Opentip](https://github.com/enyo/opentip) :gift_heart:
   * [Tether](https://github.com/HubSpot/tether) :gift_heart:
   * [Toolbar](https://github.com/paulkinzett/toolbar) :gift_heart:
   * [Tooltipster](https://github.com/iamceege/tooltipster) :gift_heart:
-- Progress & Loading Bars
+- **Progress & Loading Bars**
   * [NProgress](https://github.com/rstacruz/nprogress) :gift_heart:
   * [Pace](https://github.com/HubSpot/pace) :gift_heart:
   * [Progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) :gift_heart:
-- Range Sliders
+- **Range Sliders**
   * [rangeslider.js](https://github.com/andreruffert/rangeslider.js) :gift_heart:
-- Scroll Bars
+- **Scroll Bars**
   * [Tiny Scrollbar](https://github.com/wieringen/tinyscrollbar) :gift_heart:
-- State Management
+- **State Management**
   * [Redux](https://github.com/rackt/redux) :gift_heart:
-- Transition & Effects
+- **Transition & Effects**
   * [Ramjet](https://github.com/Rich-Harris/ramjet) :gift_heart:
   * [Snabbt.js](https://github.com/daniel-lundin/snabbt.js) :gift_heart:
-- Text Effects & Text Manipulation
+- **Text Effects & Text Manipulation**
   * [Iconate (icon-effects)](https://github.com/bitshadow/iconate) :gift_heart:
   * [Knwl.js (date-parser)](https://github.com/loadfive/Knwl.js) :gift_heart:
   * [Highlight.js](https://github.com/isagalaev/highlight.js) :gift_heart:
   * [Underline.js](https://github.com/wentin/underlineJS) :gift_heart:
-- Text Editors
+- **Text Editors**
   * [Highlight.js](https://github.com/isagalaev/highlight.js) :gift_heart:
   * [Nuclide](https://github.com/facebook/nuclide) :gift_heart:
   * [Ritzy](https://github.com/ritzyed/ritzy) :gift_heart:
-- WYSIWYG
+- **WYSIWYG**
   * [Aloha](https://github.com/alohaeditor/Aloha-Editor/tree/howling-mad) :gift_heart:
   * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart:
   * [ProseMirror](https://github.com/ProseMirror/prosemirror) :gift_heart:
@@ -452,13 +452,13 @@ Browser Luvin'
   * [Relay](https://github.com/facebook/relay) :gift_heart:
 
 ## React Plugins
-- Graphics & Animation
+- **Graphics & Animation**
   * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart:
-- Loading Bars
+- **Loading Bars**
   * [react-rogressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart:
 
 ## Templates
-- Bootstrap
+- **Bootstrap**
   * [Start Bootstrap](http://startbootstrap.com/) :gift_heart:
   * [Bootsrap Zero](http://www.bootstrapzero.com/) :gift_heart:
   * [Design Bootsrap](http://www.designbootstrap.com/) :gift_heart: & :moneybag:
@@ -468,19 +468,19 @@ Browser Luvin'
   * [wpfreeware](http://www.wpfreeware.com/) :gift_heart:
 - [Cody House](http://codyhouse.co/) :rainbow:
 - [Gridgum](http://gridgum.com/themes/) :moneybag:
-- Kanban
+- **Kanban**
   * [Wekan](https://github.com/wekan/wekan) :gift_heart:
-- Material Design
+- **Material Design**
   * [Material Design Lite](http://www.getmdl.io/templates/index.html) :gift_heart:
-- React
+- **React**
   * [Blog](https://github.com/jlongster/blog) :gift_heart:
-- WordPress
+- **WordPress**
   * [Gridgum](http://gridgum.com/themes/category/wordpress/) :moneybag:
   * [wpfreeware](http://www.wpfreeware.com/) :gift_heart:
 
 
 ##Tools
-- BenchMarking & Testing
+- **BenchMarking & Testing**
   * JS
     + [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart:
     + [Jest](https://github.com/facebook/jest) :gift_heart:
@@ -489,12 +489,12 @@ Browser Luvin'
     + [Memory-stats.js](https://github.com/paulirish/memory-stats.js) :gift_heart:
     + [Stats.js](https://github.com/mrdoob/stats.js) :gift_heart:
     + [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart:
-- Browser Support
+- **Browser Support**
   * [Can I Use](http://caniuse.com/) :gift_heart:
   * [State of WebType](http://stateofwebtype.com/) :gift_heart:
   * Pure JS
      + [Modernizr](https://github.com/modernizr/modernizr) :gift_heart:
-- Generators
+- **Generators**
   * Bootstrap Themes
     + [Bootstrap Magick](http://pikock.github.io/bootstrap-magic/app/index.html#!/editor) :gift_heart:
   * CSS Helpers
@@ -502,16 +502,16 @@ Browser Luvin'
     + [How to Center in CSS](http://howtocenterincss.com/) :gift_heart:
   * Buttons
     + [Birliiant Button Maker](http://www.lucazappa.com/brilliantMaker/buttonImage.php) :gift_heart:
-- Linters
+- **Linters**
   * [ie8linter](https://github.com/israelidanny/ie8linter) :gift_heart:
-- Layout Generators
+- **Layout Generators**
   * [CSS Layout Generator](http://csslayoutgenerator.com/) :gift_heart:
-- Minifiers
+- **Minifiers**
   * [CSS Minifier](http://cssminifier.com/) :gift_heart:
   * [PurifyCSS](https://github.com/purifycss/purifycss) :gift_heart:
   * [Javscript Minifier](http://javascript-minifier.com/) :gift_heart:
   * [Uglify.js](https://github.com/mishoo/UglifyJS) :gift_heart:
-- Responsive Analizers
+- **Responsive Analizers**
   * [AmIResponsive](http://ami.responsivedesign.is/) :gift_heart:
   * [Responsinator](http://www.responsinator.com/) :gift_heart:
   * [ViewPortResizer](http://lab.maltewassermann.com/viewport-resizer/) :gift_heart:

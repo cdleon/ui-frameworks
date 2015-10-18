@@ -15,3 +15,4 @@
 + Make sure to include if its free, not free or free-for-dev with the corresponding emojis
 + Make sure it has a good categorization, if item falls into different categories, its ok to duplicate
 + Use categories to state if item is framework agnostic or not
++ Sections and subsections go in bold

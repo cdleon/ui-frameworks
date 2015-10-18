@@ -98,8 +98,8 @@ Browser Luvin'
   * [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets.
   * [CSS{POP}](http://www.csspop.com/) :gift_heart: - A Community Collection of CSS Snippets.
   * [CSS Tricks](https://css-tricks.com/snippets/css/) :gift_heart: - Site about all things web design and development.
-  * [Snipplr](http://snipplr.com/) :gift_heart: - All of our code snippets are stored in one place.
   * [Smipple](http://www.smipple.net/lang/css) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
+  * [Snipplr](http://snipplr.com/) :gift_heart: - All of our code snippets are stored in one place.
   * [Snipt](https://snipt.net/public/tag/css/) :gift_heart: - The publishing platform for coders.
 - **From Blogs**
   * [1stWebDesigner](http://www.1stwebdesigner.com/useful-css-snippets/) :gift_heart: - 25 Incredibly Useful CSS Snippets for Developers.
@@ -110,34 +110,37 @@ Browser Luvin'
 
 
 ## Guides
-- Browser Support
+- **Browser Support**
   * [Can I Use](http://caniuse.com/) :gift_heart: - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
   * [State of WebType](http://stateofwebtype.com/) :gift_heart: - Up-to-date data on support for type and typographic features on the web.
-- Javascript
-  * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :gift_heart: - A book series on JavaScript.
-- Responsive
-  * [Media Queries (Examples)](http://mediaqueri.es/) :gift_heart: - A collection of inspirational websites using media queries and responsive web design.
-  * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart: - We built screensiz.es to help you quickly find the screen specifications of the most popular devices and monitors currently on the market.
-- Style Guides
+- **Javascript**
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart: - JavaScript Style Guide.
   * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) :gift_heart: - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
+  * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :gift_heart: - A book series on JavaScript.
+- **Responsive**
+  * [Media Queries (Examples)](http://mediaqueri.es/) :gift_heart: - A collection of inspirational websites using media queries and responsive web design.
+  * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart: - We built screensiz.es to help you quickly find the screen specifications of the most popular devices and monitors currently on the market.
+- **Style / Design / CSS Guides**
   * [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart: - The U.S. Digital Services Playbook
 
 ## Fonts
-- CSS
+- **CSS**
   * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart: - CSS SANS is the font created by CSS, the programming language for web designing and typesetting.
-- [Google Fonts](https://www.google.com/fonts) :gift_heart: - Our goal is to create a directory of web fonts for the world to use. Our API service makes it easy to add Google Fonts to a website in seconds. The service runs on Google's servers which are fast, reliable and tested. Google provides this service free of charge.
-- [Hack](https://github.com/chrissimpkins/Hack) :gift_heart: - A typeface designed for source code.
-- [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart: - Source for the Sans Bullshit Sans font.
+- **Libraries**
+  * [Font Squirrel](http://www.fontsquirrel.com/) :gift_heart: - Free fonts have met their match. We know how hard it is to find quality freeware that is licensed for commercial work. We've done the hard work, hand-selecting these typefaces and presenting them in an easy-to-use format.
+  * [Google Fonts](https://www.google.com/fonts) :gift_heart: - Our goal is to create a directory of web fonts for the world to use. Our API service makes it easy to add Google Fonts to a website in seconds. The service runs on Google's servers which are fast, reliable and tested. Google provides this service free of charge.
+- **Typeface**
+  * [Hack](https://github.com/chrissimpkins/Hack) :gift_heart: - A typeface designed for source code.
+  * [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart: - Source for the Sans Bullshit Sans font.
 
 
 
 ## Icons
-- CSS
+- **CSS**
   * [Icono](https://github.com/saeedalipoor/icono) :gift_heart: - One tag One icon, no font or svg, Pure CSS.
   * [Littlebox](https://github.com/cmaddux/littlebox) :gift_heart: - Super simple to implement, CSS-only icons.
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them.
-- Font
+- **Font**
   * [Analog Clock](https://github.com/jhogue/PE-Analog-Clock-icon-font) :gift_heart: - A set of icons for displaying a visual ("analog") representation of time stamps.
   * [Black Tie](http://blacktie.io/) :moneybag: - The multi-weight icon font from the creator of Font Awesome.
   * [Devicons](https://github.com/vorillaz/devicons) :gift_heart: - An iconic font made for developers.
@@ -158,28 +161,28 @@ Browser Luvin'
   * [Typicons](https://github.com/stephenhutchings/typicons.font) :gift_heart: - 336 pixel perfect, all-purpose vector icons in a web-font kit.
   * [Weather Icons](https://github.com/erikflowers/weather-icons) :gift_heart: - 215 Weather Themed Icons and CSS.
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart: - High quality icons that are easy to use with Bootstrap, other CSS frameworks and in any web projects.
-- PNG
+- **PNG**
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them.
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart: - High quality icons that are easy to use with Bootstrap, other CSS frameworks and in any web projects.
-- SVG
+- **SVG**
   * [Evil Icons](https://github.com/outpunk/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them.
   * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos.
 
 ## JQuery Plugins
-- Background & Background effects
+- **Background & Background effects**
   * [Backstretch](https://github.com/srobbin/jquery-backstretch) :gift_heart: - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.
   * [JQuery.Bgwitcher](https://github.com/rewish/jquery-bgswitcher) :gift_heart: - Switch the background-image with using effect.
   * [Supersized](https://github.com/buildinternet/supersized) :gift_heart: - Full screen background slideshow plugin for jQuery.
   * [Tubular](http://www.seanmccambridge.com/tubular/) :gift_heart: - Tubular is a jQuery plugin that lets you set a YouTube video as your page background. Just attach it to your page wrapper element, set some options, and you're on your way.
-- Date Pickers
+- **Date Pickers**
   * [Pickadate](https://github.com/amsul/pickadate.js) :gift_heart: - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
-- Dialogs & Alerts
+- **Dialogs & Alerts**
   * [Alertify](https://github.com/fabien-d/alertify.js) :gift_heart: - JavaScript Alert/Notification System.
   * [Avgrund](https://github.com/voronianski/jquery.avgrund.js) :gift_heart: - Avgrund is a jQuery plugin with new modal concept for popups.
-- File Upload
+- **File Upload**
   * [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) :gift_heart: - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery.
-- Forms & Input
+- **Forms & Input**
   * [Chosen](https://github.com/harvesthq/chosen) :gift_heart: - Chosen is a library for making long, unwieldy select boxes more friendly.
   * [Fancy Input](https://github.com/yairEO/fancyInput) :gift_heart: - Makes typing in input fields fun with CSS3 effects.
   * [iCheck](https://github.com/fronteed/iCheck) :gift_heart: - Highly customizable checkboxes and radio buttons.
@@ -187,15 +190,15 @@ Browser Luvin'
   * [Parsley](https://github.com/guillaumepotier/Parsley.js/) :gift_heart: - Validate your forms, frontend, without writing a single line of javascript.
   * [Tag-it](https://github.com/aehlke/tag-it) :gift_heart: - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
   * [Typehead](https://github.com/twitter/typeahead.js/) :gift_heart: - Typeahead.js is a fast and fully-featured autocomplete library
-- Grids
+- **Grids**
   * [Freetile](https://github.com/yconst/Freetile) :gift_heart: - Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout.
   * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart: - Gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
   * [Stalactite](https://github.com/jonobr1/stalactite) :gift_heart: - Stalactite is a jQuery plugin that packs child elements together.
-- Image & Content Sliders
+- **Image & Content Sliders**
   * [Slides Js](https://github.com/nathansearles/Slides/tree/SlidesJS-3) :gift_heart: - Slides is a crazy simple slideshow plugin for jQuery.
   * [Swipe](https://github.com/thebird/Swipe) :gift_heart: - Swipe is the most accurate touch slider.
   * [RTP SLider](https://github.com/rtp-ch/slider) :gift_heart: - A flexible slider plugin. Fluid, touch-compatible and extendable.
-- Image Manipulation & Effects
+- **Image Manipulation & Effects**
   * [Adipoli](https://github.com/cube3x/Adipoli) :gift_heart: - jQuery Image Hover Plugin from cube3x.
   * [CamanJS](https://github.com/meltingice/CamanJS/) :gift_heart: - Javascript HTML5 (Ca)nvas (Man)ipulation.
   * [iPicture](https://github.com/vincicat/jQuery-iPicture) :gift_heart: - Tooltip your images.
@@ -204,10 +207,10 @@ Browser Luvin'
   * [ThreeSixty](https://github.com/modernassembly/threesixtyjs/) :gift_heart: - A jQuery plugin for generating a draggable 360 preview from an image sequence.
   * [TiltShift.js](https://github.com/noeltock/tiltShift.js) :gift_heart: - A jQuery plugin using CSS3 filters to replicate the tilt shift effect.
   * [Zoom.js](https://github.com/fat/zoom.js) :gift_heart: - Medium's Image Zoom for jQuery.
-- Modal
+- **Modal**
   * [FancyBox](https://github.com/fancyapps/fancyBox) :rainbow: - Tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
   * [Magnificent Popup](https://github.com/dimsemenov/Magnific-Popup) :gift_heart: - Light and responsive lightbox script with focus on performance.
-- Parallax & Scrolling
+- **Parallax & Scrolling**
   * [ScrollMagic](https://github.com/janpaepke/ScrollMagic) :gift_heart: - The javascript library for magical scroll interactions.
   * [Scroll Path](https://github.com/JoelBesada/scrollpath) :gift_heart: - A plugin for defining custom scroll paths.
   * [Cool Kitten](https://github.com/jalxob/cool-kitten) :gift_heart: - A parallax scrolling responsive framework.
@@ -215,26 +218,26 @@ Browser Luvin'
   * [Sticky](https://github.com/garand/sticky) :gift_heart: - Sticky is a jQuery plugin that gives you the ability to make any element on your page always stay visible.
   * [Superscrollorama](https://github.com/johnpolacek/superscrollorama) :gift_heart: - The original jQuery plugin for supercool scroll animation. NOTE: No longer under active development. New version is ScrollMagic.js.
   * [Windows](https://github.com/nick-jonas/nick-jonas.github.com/tree/master/windows) :gift_heart: - A handy, loosely-coupled jQuery plugin for full-screen scrolling windows.
-- Printing
+- **Printing**
   * [PDFMake](https://github.com/bpampuch/pdfmake) :gift_heart: - Client/server side PDF printing in pure JavaScript.
-- Progress & Loading Bars
+- **Progress & Loading Bars**
   * [Loading Bar](https://github.com/peachananr/loading-bar) :gift_heart: - Add a Youtube-like loading bar to all your ajax links.
   * [PercentageLoader](https://github.com/lepoetemaudit/percentageloader) :gift_heart: - jQuery plugin for displaying an animated percentage loader.
-- Range Sliders
+- **Range Sliders**
   * [jQuery Vertical Slider](http://jqueryui.com/slider/#slider-vertical) :gift_heart: - Drag a handle to select a numeric value.
-- Social Media
+- **Social Media**
   * [Social Feed](https://github.com/pavelk2/social-feed) :gift_heart: - A jQuery plugin that shows a user feed from the most popular social networks.
   * [Spectagram](https://github.com/adrianengine/jquery-spectragram) :gift_heart: - A jQuery plugin using the Instagram API to fetch and display user, popular or tags photo feeds inside a list or any container you define.
-- Scrollbars
+- **Scrollbars**
   * [Malihu Custom Scrollbar](https://github.com/malihu/malihu-custom-scrollbar-plugin) :gift_heart: - Highly customizable custom scrollbar jQuery plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support etc.
   * [nanoScroller.js](https://github.com/jamesflorentino/nanoScrollerJS) :gift_heart: - A jQuery plugin that offers a simplistic way of implementing Lion OS scrollbars.
-- Security
+- **Security**
   * [Complexify](https://github.com/danpalmer/jquery.complexify.js/) :gift_heart: - Complexify helps you to accurately gauge the quality of a user's password to give them visual feedback, and to enforce a minimum level of security.
-- State Management
+- **State Management**
   * [pjax](https://github.com/defunkt/jquery-pjax) :gift_heart: - pushState + ajax = pjax
-- Text Editors
+- **Text Editors**
   * [Markdownify](https://github.com/tibastral/markdownify) :gift_heart: - The simplest markdown editor with built in cloudinary image upload.
-- Text Effects
+- **Text Effects**
   * [Arctext.js](https://github.com/codrops/Arctext) :gift_heart: - While CSS3 allows us to rotate letters, it is quite complicated to arrange each letter along a curved path. Arctext.js is a jQuery plugin that let's you do exactly that. Based on Lettering.js, it calculates the right rotation of each letter and distributes the letters equally across the imaginary arc of the given radius.
   * [Bacon](https://github.com/hudsonfoo/jQuery-Bacon) :gift_heart: - Allows you to align text to a bezier curve or a line.
   * [FitText](https://github.com/davatron5000/FitText.js) :gift_heart: - A jQuery plugin for inflating web type.
@@ -243,43 +246,48 @@ Browser Luvin'
   * [Marklib (highlighting)](https://github.com/BowlingX/marklib) :gift_heart: - A simple and fast zero-dependencies-library to transform text-selections into serializable markings.
   * [Midnight](https://github.com/Aerolab/midnight.js) :gift_heart: - A jQuery plugin that switches between multiple header designs as you scroll, so you always have a header that looks great with the content below it.
   * [Textillate.js](https://github.com/jschr/textillate) :gift_heart: - Textillate.js combines some awesome libraries to provide an easy-to-use plugin for applying CSS3 animations to any text.
-- Typing
+- **Typing**
   * [Long Press](https://github.com/quentint/long-press) :gift_heart: - jQuery plugin to ease the writing of accented or rare characters.
 
 ## JQuery Snippets
-  * [Smipple](http://www.smipple.net/lang/js) :gift_heart:
-  * [Snipplr](http://snipplr.com/) :gift_heart:
-  * [Snipt](https://snipt.net/public/tag/jquery/) :gift_heart:
+  * [Smipple](http://www.smipple.net/lang/js) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
+  * [Snipplr](http://snipplr.com/) :gift_heart: - All of our code snippets are stored in one place.
+  * [Snipt](https://snipt.net/public/tag/jquery/) :gift_heart: - The publishing platform for coders.
 
 ## JS Frameworks
-  * [Angular](https://github.com/angular/angular.js) :gift_heart:
-  * [Aurelia](https://github.com/aurelia/framework) :gift_heart:
-  * [Backbone.js](https://github.com/jashkenas/backbone) :gift_heart:
-  * [Composer.js](https://github.com/lyonbros/composer.js) :gift_heart:
-  * [History.js](https://github.com/browserstate/history.js) :gift_heart:
-  * [Jaws](https://github.com/jaws-framework/JAWS) :gift_heart:
-  * [jQuery](https://github.com/jquery/jquery) :gift_heart:
-  * [Mustache.js](https://github.com/janl/mustache.js/_ :gift_heart: - Minimal templating with {{mustaches}} in JavaScript.
-  * [Polymer](https://www.polymer-project.org/1.0/) :gift_heart:
-  * [Radioactive](https://github.com/radioactive/radioactive) :gift_heart:
-  * [React](https://github.com/facebook/react) :gift_heart:
-  * [Sprint](https://github.com/bendc/sprint) :gift_heart:
-  * [Riot.js](http://riotjs.com/) :gift_heart:
-  * [Trine](https://github.com/jussi-kalliokoski/trine) :gift_heart:
-  * [TuxedoJS](https://github.com/TuxedoJS/TuxedoJS) :gift_heart:
-  * [Two.js](https://github.com/jonobr1/two.js) :gift_heart:
+  * [Angular](https://github.com/angular/angular.js) :gift_heart: - HTML enhanced for web apps.
+  * [Aurelia](https://github.com/aurelia/framework) :gift_heart: - The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.
+  * [Backbone.js](https://github.com/jashkenas/backbone) :gift_heart: -  - Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.
+  * [Composer.js](https://github.com/lyonbros/composer.js) :gift_heart: - Composer is a library for building complex single-page applications.
+  * [History.js](https://github.com/browserstate/history.js) :gift_heart: - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.
+  * [Jaws](https://github.com/jaws-framework/JAWS) :gift_heart: - The Server-less Application Framework. Uses bleeding-edge AWS services to redefine how to build massively scalable (and cheap) apps!
+  * [jQuery](https://github.com/jquery/jquery) :gift_heart: - jQuery JavaScript Library.
+  * [Lodash](https://github.com/lodash/lodash) :gift_heart: - A JavaScript utility library delivering consistency, modularity, performance, & extras.
+  * [MooTools](http://mootools.net/) :gift_heart: - MooTools is a collection of JavaScript utilities designed for the intermediate to advanced JavaScript developer. It allows you to write powerful and flexible code with its elegant, well documented, and coherent APIs.
+  * [Mustache.js](https://github.com/janl/mustache.js/) :gift_heart: - Minimal templating with {{mustaches}} in JavaScript.
+  * [Polymer](https://github.com/Polymer/polymer) :gift_heart: - Polymer lets you build encapsulated, re-usable elements that work just like HTML elements, to use in building web applications.
+  * [Prototype](https://github.com/sstephenson/prototype) :gift_heart: - Prototype is a JavaScript framework that aims to ease development of dynamic web applications. It offers a familiar class-style OO framework, extensive Ajax support, higher-order programming constructs, and easy DOM manipulation.
+  * [Radioactive](https://github.com/radioactive/radioactive) :gift_heart: - Radioactive is a Native FRP ( Functional Reactive Programming ) environment for Javascript.
+  * [React](https://github.com/facebook/react) :gift_heart: - React is a JavaScript library for building user interfaces.
+  * [Sprint](https://github.com/bendc/sprint) :gift_heart: - A tiny, lightning fast jQuery-like library for modern browsers.
+  * [Ramda](https://github.com/ramda/ramda) :gift_heart: - A practical functional library for Javascript programmers.
+  * [Riot.js](https://github.com/riot/riot) :gift_heart: - A React-like, user interface library
+  * [Trine](https://github.com/jussi-kalliokoski/trine) :gift_heart: - Trine is a utility library geared at tapping the full potential of functional programming in JS, in the vein of lodash, underscore and Ramda.
+  * [TuxedoJS](https://github.com/TuxedoJS/TuxedoJS) :gift_heart: - A feature-complete framework built on React and Flux.
+  * [Two.js](https://github.com/jonobr1/two.js) :gift_heart: - A two-dimensional drawing api meant for modern browsers. It is renderer agnostic enabling the same api to render in multiple contexts: webgl, canvas2d, and svg.
+  * [Underscore.js](https://github.com/jashkenas/underscore) :gift_heart: - Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
   * [Vue.js](https://github.com/yyx990803/vue) :gift_heart: - Simple yet powerful library for building modern web interfaces.
   * [Zepto.js](https://github.com/madrobby/zepto) :gift_heart: - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API.
 
 ##Loaders
 - CSS
   * [Css-spinners](https://github.com/jlong/css-spinners) :gift_heart: - Simple CSS spinners and throbbers made with CSS and minimal HTML markup.
-  * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) :gift_heart:
-  * [Single Element CSS Spinners](https://github.com/lukehaas/css-loaders) :gift_heart:
+  * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) :gift_heart: - Delightful, performance-focused pure css loading animations.
+  * [CSS Loaders](https://github.com/lukehaas/css-loaders) :gift_heart: - This is a collection of loading spinners animated with CSS.
 - JS
-  * [Spin.js](https://github.com/fgnass/spin.js) :gift_heart:
+  * [Spin.js](https://github.com/fgnass/spin.js) :gift_heart: - A spinning activity indicator.
 - SVG
-  * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :gift_heart:
+  * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :gift_heart: - Loading icons and small animations built purely in SVG, no CSS or JS.
 
 ## Pure JS Plugins
 - Accesibility

@@ -273,7 +273,6 @@ Browser Luvin'
   * [Ramda](https://github.com/ramda/ramda) :gift_heart: - A practical functional library for Javascript programmers.
   * [Riot.js](https://github.com/riot/riot) :gift_heart: - A React-like, user interface library
   * [Trine](https://github.com/jussi-kalliokoski/trine) :gift_heart: - Trine is a utility library geared at tapping the full potential of functional programming in JS, in the vein of lodash, underscore and Ramda.
-  * [TuxedoJS](https://github.com/TuxedoJS/TuxedoJS) :gift_heart: - A feature-complete framework built on React and Flux.
   * [Two.js](https://github.com/jonobr1/two.js) :gift_heart: - A two-dimensional drawing api meant for modern browsers. It is renderer agnostic enabling the same api to render in multiple contexts: webgl, canvas2d, and svg.
   * [Underscore.js](https://github.com/jashkenas/underscore) :gift_heart: - Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
   * [Vue.js](https://github.com/yyx990803/vue) :gift_heart: - Simple yet powerful library for building modern web interfaces.
@@ -446,10 +445,12 @@ Browser Luvin'
 ## React Frameworks
   * [Elemental UI](http://elemental-ui.com/) :gift_heart:
   * [Essential](https://github.com/pheuter/essential-react) :gift_heart:
+  * [Flux](https://github.com/facebook/flux) :gift_heart: - An application architecture for React utilizing a unidirectional data flow.
   * [Marty](https://github.com/martyjs/marty) :gift_heart:
   * [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) :gift_heart:
   * [Reapp](https://github.com/reapp/reapp) :gift_heart:
   * [Relay](https://github.com/facebook/relay) :gift_heart:
+  * [TuxedoJS](https://github.com/TuxedoJS/TuxedoJS) :gift_heart: - A feature-complete framework built on React and Flux.
 
 ## React Plugins
 - **Graphics & Animation**
@@ -497,7 +498,7 @@ Browser Luvin'
 - **Generators**
   * Bootstrap Themes
     + [Bootstrap Magick](http://pikock.github.io/bootstrap-magic/app/index.html#!/editor) :gift_heart:
-  * CSS Helpers
+  * CSS
     + [CSS Layout Generator](http://csslayoutgenerator.com/) :gift_heart:
     + [How to Center in CSS](http://howtocenterincss.com/) :gift_heart:
   * Buttons

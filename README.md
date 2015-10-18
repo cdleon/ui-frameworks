@@ -28,21 +28,21 @@ Browser Luvin'
 - [Tools](#tools)
 
 ## Angular Modules
-- Bootstrap
+- **Bootstrap**
   * [UI Bootstrap](https://github.com/angular-ui/bootstrap) :gift_heart: - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required.
-- Calendar
+- **Calendar**
   * [ui-calendar](https://github.com/angular-ui/ui-calendar) :gift_heart: - A complete AngularJS directive for the Arshaw FullCalendar.
-- Data Pickers
+- **Data Pickers**
   * [ui-date](https://github.com/angular-ui/ui-date) :gift_heart: - jQuery UI Datepicker for AngularJS.
-- Drag & Drop
+- **Drag & Drop**
   * [ng-sortable](https://github.com/a5hik/ng-sortable) :gift_heart: - AngularJS Library for Drag and Drop, supports Sortable and Draggable. No JQuery/JQuery UI used. Supports Touch devices.
-- File Upload
+- **File Upload**
   * [ng-file-upload](https://github.com/danialfarid/ng-file-upload) :gift_heart: - Lightweight Angular directive to upload files with optional FileAPI shim for cross browser support.
-- Loading Bars
+- **Loading Bars**
   * [angular-loading-bar](https://github.com/chieffancypants/angular-loading-bar) :gift_heart: - A fully automatic loading / progress bar for your angular apps.
-- Plots & Charts
+- **Plots & Charts**
   * [ui-chart](https://github.com/angular-ui/ui-chart) :gift_heart: - This directive lets you use jqPlot with Angular.
-- Translation
+- **Translation**
   * [angular-translate](https://github.com/angular-translate/angular-translate) :gift_heart: - i18n in your Angular apps, made easy.
 
 

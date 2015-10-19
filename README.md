@@ -352,6 +352,7 @@ Browser Luvin'
   * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart: - Draws simple SVG flow chart diagrams from textual representation of the diagram.
   * [Infogr.am](https://infogr.am/) :moneybag: - Charts & Infographics the Easy Way.
   * [MetricsGraphics.js](https://github.com/mozilla/metrics-graphics) :gift_heart: - A library optimized for concise, principled data graphics and layouts.
+  * [Morris.js](https://github.com/morrisjs/morris.js/) :gift_heart: - Pretty time-series line graphs.
   * [Taucharts](https://github.com/TargetProcess/tauCharts) :gift_heart: - D3 based data-focused charting library. Designed with passion. Flexible.
   * [Timesheets.js](https://github.com/sbstjn/timesheet.js) :gift_heart: - JavaScript library for HTML5 & CSS3 time sheets.
   * [Vis](https://github.com/almende/vis) :gift_heart: - Dynamic, browser-based visualization library.

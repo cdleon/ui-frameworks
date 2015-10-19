@@ -10,24 +10,24 @@ Browser Luvin'
 
 ## Table of Contents
 
-- [Angular Modules](#angular-modules)
-- [CSS Frameworks](#css-frameworks)
-- [CSS Snippets](#css-snippets)
-- [CSS Plugins](#css-plugins)
-- [Fonts](#fonts)
-- [Icons](#icons)
-- [JQuery Plugins](#jquery-plugins)
-- [JQuery Snippets](#jquery-snippets)
-- [JS Frameworks](#js-frameworks)
-- [Loaders](#loaders)
-- [Pure JS Plugins](#pure-js-plugins)
-- [Pure JS Snippets](#pure-js-snippets)
-- [React Frameworks](#react-frameworks)
-- [React Plugins](#react-plugins)
-- [Templates](#templates)
-- [Tools](#tools)
+1. [Angular Modules](#angular-modules)
+1. [CSS Frameworks](#css-frameworks)
+1. [CSS Snippets](#css-snippets)
+1. [CSS Plugins](#css-plugins)
+1. [Fonts](#fonts)
+1. [Icons](#icons)
+1. [JQuery Plugins](#jquery-plugins)
+1. [JQuery Snippets](#jquery-snippets)
+1. [JS Frameworks](#js-frameworks)
+1. [Loaders](#loaders)
+1. [Pure JS Plugins](#pure-js-plugins)
+1. [Pure JS Snippets](#pure-js-snippets)
+1. [React Frameworks](#react-frameworks)
+1. [React Plugins](#react-plugins)
+1. [Templates](#templates)
+1. [Tools](#tools)
 
-## Angular Modules
+## 1.Angular Modules
 - **Bootstrap**
   * [UI Bootstrap](https://github.com/angular-ui/bootstrap) :gift_heart: - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required.
 - **Calendar**
@@ -46,7 +46,7 @@ Browser Luvin'
   * [angular-translate](https://github.com/angular-translate/angular-translate) :gift_heart: - i18n in your Angular apps, made easy.
 
 
-## CSS Frameworks
+## 2.CSS Frameworks
 - [Amaze UI](https://github.com/allmobilize/amazeui) :gift_heart: - Amaze UI, a mobile-first and modular front-end framework.
 - [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart: - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [Foundation](https://github.com/zurb/foundation) :gift_heart: - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
@@ -70,7 +70,7 @@ Browser Luvin'
 - [Yaml](https://github.com/yamlcss/yaml) :gift_heart: - YAML (Yet Another Multicolumn Layout) is a modular CSS framework for truly flexible, accessible and responsive websites. It is based on Sass and has a very slim framework core that weights only ~6kB.
 - [Yahoo User Interface Library](https://github.com/yui/yui3) :gift_heart: - YUI is a free, open source JavaScript and CSS framework for building richly interactive web applications.
 
-## CSS Plugins
+## 3.CSS Plugins
 - **Button groups**
   * [Social Buttons For Bootsrap](https://github.com/lipis/bootstrap-social) :gift_heart: - Social Sign-In Buttons for Bootstrap.
   * [Zocial CSS Social Buttons](https://github.com/smcllns/css-social-buttons) :gift_heart: - Zocial button set with CSS. Entirely vector-based social buttons.
@@ -82,7 +82,7 @@ Browser Luvin'
   * [iHover](https://github.com/gudh/ihover) :gift_heart: - iHover is a collection of hover effects using pure CSS, powered by Sass. 
   * [Hover](https://github.com/IanLunn/Hover) :gift_heart: - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - **Graphics & Animations**
-  * [Asorted CSS Expermints](https://github.com/hakimel/css) :gift_heart: - Assorted CSS and UI experiments.
+  * [Asorted CSS Experiments](https://github.com/hakimel/css) :gift_heart: - Assorted CSS and UI experiments.
 - **Image Sliders**
   * [Pure CSS Slider](https://github.com/drygiel/csslider) :gift_heart: - Pure CSS slider.
 - **Modal**
@@ -95,7 +95,7 @@ Browser Luvin'
   * [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
   * [Pure CSS Components](https://github.com/LFeh/css-components/) :gift_heart: - A set of common UI Components using the power of CSS and without Javascript.
 
-## CSS Snippets
+## 4.CSS Snippets
 - **Bootsrap Libraries**
   * [Bootsnipp](http://bootsnipp.com/) :gift_heart: -  Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework.
   * [Design Bootsrap](http://www.designbootstrap.com/category/bootstrap-snippets/) :gift_heart: - 100% Free and unique bootstrap themes, templates, snippets and Bootstrap design tools for personal and commercial use.
@@ -116,7 +116,7 @@ Browser Luvin'
   * [Speckyboy](http://speckyboy.com/2011/04/15/25-css-snippets-for-some-of-the-most-common-and-frustrating-tasks/) :gift_heart: - 25 CSS Snippets for Some of the Most Common and Frustrating Tasks.
 
 
-## Guides
+## 5.Guides
 - **Browser Support**
   * [Can I Use](http://caniuse.com/) :gift_heart: - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
   * [State of WebType](http://stateofwebtype.com/) :gift_heart: - Up-to-date data on support for type and typographic features on the web.
@@ -135,7 +135,7 @@ Browser Luvin'
   * [Styling with SASS](http://juliocesar.github.io/styling-with-sass/) :gift_heart: - What most hate, perhaps without even knowing, is not CSS per se, but non-systematic styling.
   * [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart: - The U.S. Digital Services Playbook
 
-## Fonts
+## 6.Fonts
 - **CSS**
   * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart: - CSS SANS is the font created by CSS, the programming language for web designing and typesetting.
 - **Libraries**
@@ -147,7 +147,7 @@ Browser Luvin'
 
 
 
-## Icons
+## 7.Icons
 - **CSS**
   * [Icono](https://github.com/saeedalipoor/icono) :gift_heart: - One tag One icon, no font or svg, Pure CSS.
   * [Littlebox](https://github.com/cmaddux/littlebox) :gift_heart: - Super simple to implement, CSS-only icons.
@@ -181,7 +181,7 @@ Browser Luvin'
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them.
   * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos.
 
-## JQuery Plugins
+## 8.JQuery Plugins
 - **Background & Background effects**
   * [Backstretch](https://github.com/srobbin/jquery-backstretch) :gift_heart: - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.
   * [JQuery.Bgwitcher](https://github.com/rewish/jquery-bgswitcher) :gift_heart: - Switch the background-image with using effect.
@@ -266,13 +266,13 @@ Browser Luvin'
 - **Typing**
   * [Long Press](https://github.com/quentint/long-press) :gift_heart: - jQuery plugin to ease the writing of accented or rare characters.
 
-## JQuery Snippets
+## 9.JQuery Snippets
   * **Libraries**
     + [Smipple](http://www.smipple.net/lang/js) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
     + [Snipplr](http://snipplr.com/) :gift_heart: - All of our code snippets are stored in one place.
     + [Snipt](https://snipt.net/public/tag/jquery/) :gift_heart: - The publishing platform for coders.
 
-## JS Frameworks
+## 10.JS Frameworks
   * [Amp HTML](https://github.com/ampproject/amphtml) :gift_heart: - AMP HTML is a way to build web pages for static content that render with reliable, fast performance. It is our attempt at fixing what many perceive as painfully slow page load times – especially when reading content on the mobile web.
   * [Angular](https://github.com/angular/angular.js) :gift_heart: - HTML enhanced for web apps.
   * [App.js](https://github.com/kikinteractive/app) :gift_heart: - App.js is a lightweight JavaScript UI library for creating mobile webapps that behave like native apps, sacrificing neither performance nor polish.
@@ -313,7 +313,7 @@ Browser Luvin'
   * [Way.js](https://github.com/gwendall/way.js) :gift_heart: - Simple, lightweight, persistent two-way databinding.
   * [Zepto.js](https://github.com/madrobby/zepto) :gift_heart: - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API.
 
-##Loaders
+## 11.Loaders
 - **CSS**
   * [Css-spinners](https://github.com/jlong/css-spinners) :gift_heart: - Simple CSS spinners and throbbers made with CSS and minimal HTML markup.
   * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) :gift_heart: - Delightful, performance-focused pure css loading animations.
@@ -323,7 +323,7 @@ Browser Luvin'
 - **SVG**
   * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :gift_heart: - Loading icons and small animations built purely in SVG, no CSS or JS.
 
-## Pure JS Plugins
+## 12.Pure JS Plugins
 - **Accesibility**
   * [Tota11y](https://github.com/Khan/tota11y) :gift_heart: - an accessibility (a11y) visualization toolkit.
 - **BenchMarking**
@@ -477,7 +477,7 @@ Browser Luvin'
   * [TinyMCE](http://www.tinymce.com/) :gift_heart: & :moneybag: - inyMCE is a platform independent web-based JavaScript WYSIWYG HTML editor control released as open source under LGPL.
   * [Wysihtml](https://github.com/Voog/wysihtml) :gift_heart: - Open source rich text editor for the modern web.
 
-## Pure JS Snippets
+## 13.Pure JS Snippets
   * **Libraries**
     + [Cody House](http://codyhouse.co/) :rainbow:
     + [Smipple](http://www.smipple.net/lang/js) :gift_heart:
@@ -485,7 +485,7 @@ Browser Luvin'
     + [Snipt (tag:javascript)](https://snipt.net/public/tag/javascript/) :gift_heart:
     + [Snipt (tag:js)](https://snipt.net/public/tag/js/) :gift_heart:
 
-## React Frameworks
+## 14.React Frameworks
   * [Elemental UI](http://elemental-ui.com/) :gift_heart:
   * [Essential](https://github.com/pheuter/essential-react) :gift_heart:
   * [Flux](https://github.com/facebook/flux) :gift_heart: - An application architecture for React utilizing a unidirectional data flow.
@@ -495,7 +495,7 @@ Browser Luvin'
   * [Relay](https://github.com/facebook/relay) :gift_heart:
   * [TuxedoJS](https://github.com/TuxedoJS/TuxedoJS) :gift_heart: - A feature-complete framework built on React and Flux.
 
-## React Plugins
+## 15.React Plugins
 - **Chat & Messaging**
   * [Mattermost](https://github.com/mattermost/platform) :gift_heart: - Open source Slack-alternative in Golang and React.
 - **Graphics & Animation**
@@ -503,7 +503,7 @@ Browser Luvin'
 - **Loading Bars**
   * [react-rogressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart:
 
-## Templates
+## 16.Templates
 - **Bootstrap**
   * [Start Bootstrap](http://startbootstrap.com/) :gift_heart:
   * [Bootsrap Zero](http://www.bootstrapzero.com/) :gift_heart:
@@ -525,7 +525,7 @@ Browser Luvin'
   * [wpfreeware](http://www.wpfreeware.com/) :gift_heart:
 
 
-##Tools
+## 17.Tools
 - **BenchMarking & Testing**
   * JS
     + [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart:

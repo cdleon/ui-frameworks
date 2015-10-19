@@ -96,11 +96,11 @@ Browser Luvin'
   * [Pure CSS Components](https://github.com/LFeh/css-components/) :gift_heart: - A set of common UI Components using the power of CSS and without Javascript.
 
 ## CSS Snippets
-- **Bootsrap**
+- **Bootsrap Libraries**
   * [Bootsnipp](http://bootsnipp.com/) :gift_heart: -  Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework.
   * [Design Bootsrap](http://www.designbootstrap.com/category/bootstrap-snippets/) :gift_heart: - 100% Free and unique bootstrap themes, templates, snippets and Bootstrap design tools for personal and commercial use.
   * [Snipplr](http://snipplr.com/) :gift_heart: - Lets your store and share all of your commonly used pieces of code and HTML with other programmers and designers.
-- **Pure CSS**
+- **Pure CSS Libraries**
   * [CSS Flow](http://www.cssflow.com/snippets/) :gift_heart: - Free UI elements and widgets coded with HTML5, CSS3, and Sass.
   * [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets.
   * [CSS{POP}](http://www.csspop.com/) :gift_heart: - A Community Collection of CSS Snippets.
@@ -108,7 +108,7 @@ Browser Luvin'
   * [Smipple](http://www.smipple.net/lang/css) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
   * [Snipplr](http://snipplr.com/) :gift_heart: - All of our code snippets are stored in one place.
   * [Snipt](https://snipt.net/public/tag/css/) :gift_heart: - The publishing platform for coders.
-- **From Blogs**
+- **Blog Libraries**
   * [1stWebDesigner](http://www.1stwebdesigner.com/useful-css-snippets/) :gift_heart: - 25 Incredibly Useful CSS Snippets for Developers.
   * [Design Your Way](http://www.designyourway.net/blog/resources/31-css-code-snippets-to-make-you-a-better-coder/) :gift_heart: - Here are some of the ones that you would need more often than others.
   * [Noupe](http://www.noupe.com/design/useful-css-snippets-for-your-coding-arsenal.html) :gift_heart: - In this article we have listed 30 CSS snippets that we think you will find very useful.
@@ -232,6 +232,9 @@ Browser Luvin'
   * [Sticky](https://github.com/garand/sticky) :gift_heart: - Sticky is a jQuery plugin that gives you the ability to make any element on your page always stay visible.
   * [Superscrollorama](https://github.com/johnpolacek/superscrollorama) :gift_heart: - The original jQuery plugin for supercool scroll animation. NOTE: No longer under active development. New version is ScrollMagic.js.
   * [Windows](https://github.com/nick-jonas/nick-jonas.github.com/tree/master/windows) :gift_heart: - A handy, loosely-coupled jQuery plugin for full-screen scrolling windows.
+- **Pointers & Tooltips**
+  * [Toolbar](https://github.com/paulkinzett/toolbar) :gift_heart: - A tooltip style toolbar jQuery plugin.
+  * [Tooltipster](https://github.com/iamceege/tooltipster) :gift_heart: - A jQuery tooltip plugin.
 - **Printing**
   * [PDFMake](https://github.com/bpampuch/pdfmake) :gift_heart: - Client/server side PDF printing in pure JavaScript.
 - **Progress & Loading Bars**
@@ -264,9 +267,10 @@ Browser Luvin'
   * [Long Press](https://github.com/quentint/long-press) :gift_heart: - jQuery plugin to ease the writing of accented or rare characters.
 
 ## JQuery Snippets
-  * [Smipple](http://www.smipple.net/lang/js) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
-  * [Snipplr](http://snipplr.com/) :gift_heart: - All of our code snippets are stored in one place.
-  * [Snipt](https://snipt.net/public/tag/jquery/) :gift_heart: - The publishing platform for coders.
+  * **Libraries**
+    + [Smipple](http://www.smipple.net/lang/js) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
+    + [Snipplr](http://snipplr.com/) :gift_heart: - All of our code snippets are stored in one place.
+    + [Snipt](https://snipt.net/public/tag/jquery/) :gift_heart: - The publishing platform for coders.
 
 ## JS Frameworks
   * [Amp HTML](https://github.com/ampproject/amphtml) :gift_heart: - AMP HTML is a way to build web pages for static content that render with reliable, fast performance. It is our attempt at fixing what many perceive as painfully slow page load times – especially when reading content on the mobile web.
@@ -399,89 +403,87 @@ Browser Luvin'
   * [Scooch](https://github.com/mobify/scooch) :gift_heart: - A mobile-first JavaScript-driven content and image carousel.
   * [Swiper](https://github.com/nolimits4web/Swiper) :gift_heart: - Most modern mobile touch slider with hardware accelerated transitions.
 - **Image Manipulation**
-  * [Aviary](https://developers.aviary.com/) :gift_heart:
-  * [Image Crop Component](http://dev.vizuina.com/cropper/) :gift_heart:
-  * [Nude.js (nudity-detection)](https://github.com/pa7/nude.js) :gift_heart:
+  * [Aviary](https://developers.aviary.com/) :gift_heart: - A complete set of photo editing tools comes standard in Aviary’s cross-platform SDK. Select the tools that are best for your app, or use them all.
+  * [Image Crop Component](http://dev.vizuina.com/cropper/) :gift_heart: - Pure JavaScript Image Crop Component.
+  * [Nude.js (nudity-detection)](https://github.com/pa7/nude.js) :gift_heart: - Nudity detection with JavaScript and HTMLCanvas.
   * [Smartcrop.js](https://github.com/jwagner/smartcrop.js) :gift_heart: - Smartcrop.js implements an algorithm to find good crops for images.
-  * [SVG Edit](https://github.com/SVG-Edit/svgedit) :gift_heart:
-  * [Watermark.js](https://github.com/brianium/watermarkjs) :gift_heart:
+  * [SVG Edit](https://github.com/SVG-Edit/svgedit) :gift_heart: - Powerful SVG-Editor on your browser.
+  * [Watermark.js](https://github.com/brianium/watermarkjs) :gift_heart: - Watermarking for the browser.
 - **Key Bindings & Mouse Events**
   * [Keys.js](https://github.com/bitwalker/keys.js) :gift_heart: - Easy keybindings for browser applications!
   * [Mousetrap](https://github.com/ccampbell/mousetrap) :gift_heart: - Simple library for handling keyboard shortcuts in Javascript.
   * [Simple Hotkeys](https://github.com/mycolorway/simple-hotkeys) :gift_heart: - Simple hotkeys.
 - **LazyLoaders**
-  * [Blazy](https://github.com/dinbror/blazy) :gift_heart:
-  * [Echo.js](https://github.com/toddmotto/echo) :gift_heart:
-  * [Layzr.js](https://github.com/callmecavs/layzr.js) :gift_heart:
-  * [LazyLoad](https://github.com/vvo/lazyload) :gift_heart:
-  * [Responsively Lazy](https://github.com/ivopetkov/responsively-lazy) :gift_heart:
+  * [Blazy](https://github.com/dinbror/blazy) :gift_heart: - Hey, be lazy! bLazy.JS is a lightweight pure JavaScript script for lazy loading and multi-serving images. It's working in all modern browsers including IE7+.
+  * [Echo.js](https://github.com/toddmotto/echo) :gift_heart: - Lazy-loading images with data-* attributes.
+  * [Layzr.js](https://github.com/callmecavs/layzr.js) :gift_heart: - A small, fast, modern, and dependency-free library for lazy loading.
+  * [LazyLoad](https://github.com/vvo/lazyload) :gift_heart: - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader.
+  * [Responsively Lazy](https://github.com/ivopetkov/responsively-lazy) :gift_heart: - Lazy load responsive images.
 - **Loaders**
-  * [Spin.js](https://github.com/fgnass/spin.js) :gift_heart:
+  * [Spin.js](https://github.com/fgnass/spin.js) :gift_heart: - A spinning activity indicator.
 - **Maps**
-  * [Gmaps](https://github.com/hpneo/gmaps) :gift_heart:
-  * [Turf](https://github.com/Turfjs/turf) :gift_heart:
+  * [Gmaps](https://github.com/hpneo/gmaps) :gift_heart: - The easiest way to use Google Maps.
+  * [Turf](https://github.com/Turfjs/turf) :gift_heart: - A modular geospatial engine written in JavaScript.
 - **Media Queries**
   * [Enquire.js](https://github.com/WickyNilliams/enquire.js) :gift_heart: - Enquire.js is a lightweight, pure javascript library (with no dependencies) for programmatically responding to media queries. 
 - **Media Players**
-  * [Clappr](https://github.com/clappr/clappr) :gift_heart:
+  * [Clappr](https://github.com/clappr/clappr) :gift_heart: - An extensible media player for the web.
   * [FLowplayer](https://github.com/flowplayer/flowplayer) :gift_heart: - The HTML5 video player for the web.
   * [JWPlayer](http://www.jwplayer.com/) :gift_heart: & :moneybag: - The most-used and fastest loading video player on the web, our signature product enables online publishers to deliver and monetize video across all devices in any browser.
   * [Media Element](https://github.com/johndyer/mediaelement) :gift_heart: - HTML5 <audio/> or <video/> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers.
-  * [Plyr](https://github.com/Selz/plyr) :gift_heart:
-  * [Streama](https://github.com/dularion/streama) :gift_heart:
-  * [Winamp2-js](https://github.com/captbaritone/winamp2-js) :gift_heart:
+  * [Plyr](https://github.com/Selz/plyr) :gift_heart: - A simple HTML5 media player.
+  * [Streama](https://github.com/dularion/streama) :gift_heart: - It's like Netflix, but self-hosted!
+  * [Winamp2-js](https://github.com/captbaritone/winamp2-js) :gift_heart: - A reimplementation of Winamp 2.9 in HTML5 and Javascript.
 - **Menus & Navigation**
-  * [Slideout.js (For-Mobile)](https://github.com/Mango/slideout) :gift_heart:
+  * [Slideout.js (For-Mobile)](https://github.com/Mango/slideout) :gift_heart: - A touch slideout navigation menu for your mobile web apps.
 - **Modal**
-  * [jsModal](http://jsmodal.com/) :gift_heart: - Modal generator in pure JavaScript.
+  * [jsModal](http://jsmodal.com/) :gift_heart: - Modal generator in pure JavaScript. - An open-source modal box engine written in pure JavaScript.
 - **Parallax & Scrolling**
-  * [Elevator.js](https://github.com/tholman/elevator.js) :gift_heart:
-  * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart:
-  * [Scrollerjs](https://github.com/forcedotcom/scrollerjs) :gift_heart:
+  * [Elevator.js](https://github.com/tholman/elevator.js) :gift_heart: - Finally, a "back to top" button that behaves like a real elevator.
+  * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart: - Infinite list in javascript that scrolls in 60fps.
+  * [Scrollerjs](https://github.com/forcedotcom/scrollerjs) :gift_heart: - A JavaScript library that helps you build performant UI components for the web.
 - **Pointers & Tooltips**
-  * [focusable](https://github.com/zzarcon/focusable) :gift_heart:
-  * [Opentip](https://github.com/enyo/opentip) :gift_heart:
-  * [Tether](https://github.com/HubSpot/tether) :gift_heart:
-  * [Toolbar](https://github.com/paulkinzett/toolbar) :gift_heart:
-  * [Tooltipster](https://github.com/iamceege/tooltipster) :gift_heart:
+  * [Focusable](https://github.com/zzarcon/focusable) :gift_heart: - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page.
+  * [Opentip](https://github.com/enyo/opentip) :gift_heart: - Opentip is an open source javascript tooltip based on the protoype framework.
+  * [Tether](https://github.com/HubSpot/tether) :gift_heart: - A positioning engine to make overlays, tooltips and dropdowns better.
 - **Progress & Loading Bars**
-  * [NProgress](https://github.com/rstacruz/nprogress) :gift_heart:
-  * [Pace](https://github.com/HubSpot/pace) :gift_heart:
-  * [Progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) :gift_heart:
+  * [NProgress](https://github.com/rstacruz/nprogress) :gift_heart: - For slim progress bars like on YouTube, Medium, etc.
+  * [Pace](https://github.com/HubSpot/pace) :gift_heart: - Automatically add a progress bar to your site.
+  * [Progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) :gift_heart: - Responsive and slick progress bars.
 - **Range Sliders**
-  * [rangeslider.js](https://github.com/andreruffert/rangeslider.js) :gift_heart:
+  * [rangeslider.js](https://github.com/andreruffert/rangeslider.js) :gift_heart: - HTML5 input range slider element polyfill.
 - **Scroll Bars**
-  * [Tiny Scrollbar](https://github.com/wieringen/tinyscrollbar) :gift_heart:
+  * [Tiny Scrollbar](https://github.com/wieringen/tinyscrollbar) :gift_heart: - A lightweight cross browser javascript scrollbar.
 - **State Management**
-  * [Redux](https://github.com/rackt/redux) :gift_heart:
+  * [Redux](https://github.com/rackt/redux) :gift_heart: - Predictable state container for JavaScript apps.
 - **Transition & Effects**
-  * [Ramjet](https://github.com/Rich-Harris/ramjet) :gift_heart:
-  * [Snabbt.js](https://github.com/daniel-lundin/snabbt.js) :gift_heart:
+  * [Ramjet](https://github.com/Rich-Harris/ramjet) :gift_heart: - Morph DOM elements from one state to another with smooth transitions.
+  * [Snabbt.js](https://github.com/daniel-lundin/snabbt.js) :gift_heart: - Fast animations with javascript and CSS transforms.
 - **Text Effects & Text Manipulation**
-  * [Iconate (icon-effects)](https://github.com/bitshadow/iconate) :gift_heart:
-  * [Knwl.js (date-parser)](https://github.com/loadfive/Knwl.js) :gift_heart:
-  * [Highlight.js](https://github.com/isagalaev/highlight.js) :gift_heart:
-  * [Underline.js](https://github.com/wentin/underlineJS) :gift_heart:
+  * [Iconate (icon-effects)](https://github.com/bitshadow/iconate) :gift_heart: - Transform your icons with trendy animations.
+  * [Knwl.js (date-parser)](https://github.com/loadfive/Knwl.js) :gift_heart: - Find Dates, Places, Times, and More. A .js library for parsing text for specific information.
+  * [Highlight.js](https://github.com/isagalaev/highlight.js) :gift_heart: - Javascript syntax highlighter.
+  * [Underline.js](https://github.com/wentin/underlineJS) :gift_heart: - Pushing the boundary of browser typography rendering!
   * [Underscore.string](https://github.com/epeli/underscore.string) :gift_heart: - String manipulation helpers for javascript.
 - **Text Editors**
-  * [Highlight.js](https://github.com/isagalaev/highlight.js) :gift_heart:
-  * [Nuclide](https://github.com/facebook/nuclide) :gift_heart:
-  * [Ritzy](https://github.com/ritzyed/ritzy) :gift_heart:
+  * [Highlight.js](https://github.com/isagalaev/highlight.js) :gift_heart: - Javascript syntax highlighter.
+  * [Ritzy](https://github.com/ritzyed/ritzy) :gift_heart: - Collaborative web-based rich text editor.
 - **WYSIWYG**
-  * [Aloha](https://github.com/alohaeditor/Aloha-Editor/tree/howling-mad) :gift_heart:
-  * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart:
-  * [ProseMirror](https://github.com/ProseMirror/prosemirror) :gift_heart:
-  * [Quill](https://github.com/quilljs/quill/) :gift_heart:
-  * [Squire](https://github.com/neilj/Squire) :gift_heart:
-  * [TinyMCE](http://www.tinymce.com/) :gift_heart: & :moneybag:
-  * [Wysihtml](https://github.com/Voog/wysihtml) :gift_heart:
+  * [Aloha](https://github.com/alohaeditor/Aloha-Editor/tree/howling-mad) :gift_heart: - Aloha Editor is a JavaScript content editing library.
+  * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart: - The development repository of CKEditor.
+  * [ProseMirror](https://github.com/ProseMirror/prosemirror) :gift_heart: - The ProseMirror WYSIWYM editor.
+  * [Quill](https://github.com/quilljs/quill/) :gift_heart: - A cross browser rich text editor with an API.
+  * [Squire](https://github.com/neilj/Squire) :gift_heart: - HTML5 rich text editor.
+  * [TinyMCE](http://www.tinymce.com/) :gift_heart: & :moneybag: - inyMCE is a platform independent web-based JavaScript WYSIWYG HTML editor control released as open source under LGPL.
+  * [Wysihtml](https://github.com/Voog/wysihtml) :gift_heart: - Open source rich text editor for the modern web.
 
 ## Pure JS Snippets
-  * [Cody House](http://codyhouse.co/) :rainbow:
-  * [Smipple](http://www.smipple.net/lang/js) :gift_heart:
-  * [Snipplr](http://snipplr.com/) :gift_heart:
-  * [Snipt (tag:javascript)](https://snipt.net/public/tag/javascript/) :gift_heart:
-  * [Snipt (tag:js)](https://snipt.net/public/tag/js/) :gift_heart:
+  * **Libraries**
+    + [Cody House](http://codyhouse.co/) :rainbow:
+    + [Smipple](http://www.smipple.net/lang/js) :gift_heart:
+    + [Snipplr](http://snipplr.com/) :gift_heart:
+    + [Snipt (tag:javascript)](https://snipt.net/public/tag/javascript/) :gift_heart:
+    + [Snipt (tag:js)](https://snipt.net/public/tag/js/) :gift_heart:
 
 ## React Frameworks
   * [Elemental UI](http://elemental-ui.com/) :gift_heart:

@@ -284,6 +284,7 @@ Browser Luvin'
   * [Prototype](https://github.com/sstephenson/prototype) :gift_heart: - Prototype is a JavaScript framework that aims to ease development of dynamic web applications. It offers a familiar class-style OO framework, extensive Ajax support, higher-order programming constructs, and easy DOM manipulation.
   * [Radioactive](https://github.com/radioactive/radioactive) :gift_heart: - Radioactive is a Native FRP ( Functional Reactive Programming ) environment for Javascript.
   * [React](https://github.com/facebook/react) :gift_heart: - React is a JavaScript library for building user interfaces.
+  * [Skel](https://github.com/n33/skel) :gift_heart: - A lightweight responsive framework for the www.
   * [Sprint](https://github.com/bendc/sprint) :gift_heart: - A tiny, lightning fast jQuery-like library for modern browsers.
   * [Ramda](https://github.com/ramda/ramda) :gift_heart: - A practical functional library for Javascript programmers.
   * [Riot.js](https://github.com/riot/riot) :gift_heart: - A React-like, user interface library.

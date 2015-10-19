@@ -321,84 +321,83 @@ Browser Luvin'
 
 ## Pure JS Plugins
 - **Accesibility**
-  * [Tota11y](https://github.com/Khan/tota11y) :gift_heart:
+  * [Tota11y](https://github.com/Khan/tota11y) :gift_heart: - an accessibility (a11y) visualization toolkit.
 - **BenchMarking**
-  * [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart:
-  * [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart:
-  * [Stats.js](https://github.com/mrdoob/stats.js) :gift_heart:
-  * [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart:
+  * [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart: - A benchmarking library. As used on jsPerf.com.
+  * [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart: - Simple, easy, javascript benchmark testing.
+  * [Stats.js](https://github.com/mrdoob/stats.js) :gift_heart: - JavaScript Performance Monitor.
+  * [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart: - Navigation Timing API measurement helpers.
 - [Cody House](http://codyhouse.co/) :rainbow:
 - **Cut & Paste**
-  * [Clipboard.js](https://github.com/zenorocha/clipboard.js) :gift_heart:
+  * [Clipboard.js](https://github.com/zenorocha/clipboard.js) :gift_heart: - Modern copy to clipboard. No Flash. Just 2kb.
 - **Browser Support**
-  * [Modernizr](https://github.com/modernizr/modernizr) :gift_heart:
+  * [Modernizr](https://github.com/modernizr/modernizr) :gift_heart: - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - **Caching & Offline First**
-  * [UpUp](https://www.talater.com/upup/) :gift_heart:
+  * [UpUp](https://github.com/TalAter/UpUp/) :gift_heart: - UpUp is a tiny javascript library that makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea.
 - **Chat & Messaging**
-  * [Lets-chat](https://github.com/sdelements/lets-chat) :gift_heart:
-  * [Mattermost](https://github.com/mattermost/platform) :gift_heart:
+  * [Lets-chat](https://github.com/sdelements/lets-chat) :gift_heart: - Self-hosted chat app for small teams.
 - **Databases**
-  * [Lovefield (browser-database)](https://github.com/google/lovefield) :gift_heart:
+  * [Lovefield (browser-database)](https://github.com/google/lovefield) :gift_heart: - Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use.
 - **Data Binding**
-  * [Way.js](https://github.com/gwendall/way.js) :gift_heart:
+  * [Way.js](https://github.com/gwendall/way.js) :gift_heart: - Simple, lightweight, persistent two-way databinding.
 - **Data Processing & Visualization**
-  * [c3](https://github.com/masayuki0812/c3) :gift_heart:
-  * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) :gift_heart:
-  * [Chart.js](https://github.com/nnnick/Chart.js) :gift_heart:
-  * [ECharts](https://github.com/ecomfe/echarts) :gift_heart:
-  * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart:
-  * [Infogr.am](https://infogr.am/) :moneybag:
-  * [MetricsGraphics.js](https://github.com/mozilla/metrics-graphics) :gift_heart:
-  * [Taucharts](https://github.com/TargetProcess/tauCharts) :gift_heart:
-  * [Timesheets.js](https://github.com/sbstjn/timesheet.js) :gift_heart:
-  * [Vis](https://github.com/almende/vis) :gift_heart:
+  * [c3](https://github.com/masayuki0812/c3) :gift_heart: - A D3-based reusable chart library.
+  * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) :gift_heart: - Tiny vanilla JS plugin to display large data sets easily.
+  * [Chart.js](https://github.com/nnnick/Chart.js) :gift_heart: - Simple HTML5 Charts using the <canvas></canvas> tag.
+  * [ECharts](https://github.com/ecomfe/echarts) :gift_heart: - Enterprise Charts.
+  * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart: - Draws simple SVG flow chart diagrams from textual representation of the diagram.
+  * [Infogr.am](https://infogr.am/) :moneybag: - Charts & Infographics the Easy Way.
+  * [MetricsGraphics.js](https://github.com/mozilla/metrics-graphics) :gift_heart: - A library optimized for concise, principled data graphics and layouts.
+  * [Taucharts](https://github.com/TargetProcess/tauCharts) :gift_heart: - D3 based data-focused charting library. Designed with passion. Flexible.
+  * [Timesheets.js](https://github.com/sbstjn/timesheet.js) :gift_heart: - JavaScript library for HTML5 & CSS3 time sheets.
+  * [Vis](https://github.com/almende/vis) :gift_heart: - Dynamic, browser-based visualization library.
 - **Date Pickers**
-  * [DatePickr](https://github.com/joshsalverda/datepickr) :gift_heart:
-  * [Pikaday](https://github.com/dbushell/Pikaday) :gift_heart:
-  * [Rome](https://github.com/bevacqua/rome) :gift_heart:
+  * [DatePickr](https://github.com/joshsalverda/datepickr) :gift_heart: - A simple JavaScript date picker.
+  * [Pikaday](https://github.com/dbushell/Pikaday) :gift_heart: - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS.
+  * [Rome](https://github.com/bevacqua/rome) :gift_heart: - Customizable date (and time) picker. Opt-in UI, no jQuery!
 - **Drag & Drop**
-  * [Clippings.js](https://github.com/clippings/layout-grid) :gift_heart:
-  * [Dragula](https://github.com/bevacqua/dragula) :gift_heart:
-  * [Grid](https://github.com/hootsuite/grid) :gift_heart:
-  * [Interact.js](https://github.com/taye/interact.js) :gift_heart:
-  * [Sortable](https://github.com/RubaXa/Sortable) :gift_heart:
+  * [Layout Grid](https://github.com/clippings/layout-grid) :gift_heart: - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile.
+  * [Dragula](https://github.com/bevacqua/dragula) :gift_heart: - Drag and drop so simple it hurts.
+  * [Grid](https://github.com/hootsuite/grid) :gift_heart: - Drag and drop library for two-dimensional, resizable and responsive lists.
+  * [Interact.js](https://github.com/taye/interact.js) :gift_heart: - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+).
+  * [Sortable](https://github.com/RubaXa/Sortable) :gift_heart: - Sortable — is a minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer and any CSS library, e.g. Bootstrap.
 - **File Upload**
-  * [FileDrop](https://github.com/ProgerXP/FileDrop) :gift_heart:
-  * [Plupload](https://github.com/moxiecode/plupload) :gift_heart:
-  * [Simple Ajax Uploader](https://github.com/LPology/Simple-Ajax-Uploader) :gift_heart:
-  * [Valum's File Uploader](https://github.com/Valums-File-Uploader/file-uploader) :gift_heart:
+  * [FileDrop](https://github.com/ProgerXP/FileDrop) :gift_heart: - Self-contained cross-browser pure JavaScript class for Drag & Drop and AJAX (multi) file upload.
+  * [Plupload](https://github.com/moxiecode/plupload) :gift_heart: - Plupload is JavaScript API for building file uploaders. It supports multiple file selection, file filtering, chunked upload, client side image downsizing and when necessary can fallback to alternative runtimes, like Flash and Silverlight.
+  * [Simple Ajax Uploader](https://github.com/LPology/Simple-Ajax-Uploader) :gift_heart: - Javascript plugin for cross-browser Ajax file uploading with progress bar support. Works in all major browsers, including IE7+, Chrome, Firefox, Safari, and Opera. No dependencies - use it with or without jQuery.
+  * [Valum's File Uploader](https://github.com/Valums-File-Uploader/file-uploader) :gift_heart: - Multiple file upload plugin for HTML forms. User-friendly progress-bar + uploads via drag-and-drop. Coded in Javascript + AJAX, not Flash. Server-side PHP, Java, & ColdFusion examples included.
 - **Forms & Input**
-  * [Awesomeplete](https://github.com/LeaVerou/awesomplete) :gift_heart:
-  * [Countable](https://github.com/RadLikeWhoa/Countable) :gift_heart:
-  * [Floating Label](https://github.com/datuhealth/floating-label) :gift_heart:
-  * [Horsey](https://github.com/bevacqua/horsey) :gift_heart:
-  * [JavaScript-autoComplete](https://github.com/Pixabay/JavaScript-autoComplete) :gift_heart:
-  * [List.js](https://github.com/javve/list.js) :gift_heart:
-  * [Stretchy](https://github.com/LeaVerou/stretchy) :gift_heart:
-  * [Taggle](https://github.com/okcoker/taggle.js) :gift_heart:
-  * [Validate.js](https://github.com/rickharrison/validate.js/) :gift_heart:
+  * [Awesomeplete](https://github.com/LeaVerou/awesomplete) :gift_heart: - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
+  * [Countable](https://github.com/RadLikeWhoa/Countable) :gift_heart: - Add live paragraph-, word- and character-counting to an HTML element.
+  * [Floating Label](https://github.com/datuhealth/floating-label) :gift_heart: - A floating label plugin written in vanilla javascript.
+  * [Horsey](https://github.com/bevacqua/horsey) :gift_heart: - Progressive and customizable autocomplete component.
+  * [JavaScript-autoComplete](https://github.com/Pixabay/JavaScript-autoComplete) :gift_heart: - An extremely lightweight and powerful vanilla JavaScript completion suggester.
+  * [List.js](https://github.com/javve/list.js) :gift_heart: - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
+  * [Stretchy](https://github.com/LeaVerou/stretchy) :gift_heart: - Form element autosizing, the way it should be.
+  * [Taggle](https://github.com/okcoker/taggle.js) :gift_heart: - Form-ready dependency-less tagging.
+  * [Validate.js](https://github.com/rickharrison/validate.js/) :gift_heart: - Lightweight JavaScript form validation library inspired by CodeIgniter.
 - **Graphics & Animation**
-  * [Layer Visualizer](https://github.com/romannurik/LayerVisualizer) :gift_heart:
-  * [p5.js](https://github.com/processing/p5.js) :gift_heart:
-  * [Phaser](https://github.com/photonstorm/phaser) :gift_heart:
-  * [Pixi.js](https://github.com/pixijs/pixi.js) :gift_heart:
-  * [Popmotion](https://github.com/Popmotion/popmotion) :gift_heart:
-  * [Textgen.js](https://github.com/mrdoob/texgen.js) :gift_heart:
-  * [Trianglify](https://github.com/qrohlf/trianglify) :gift_heart:
-  * [Velociy](https://github.com/julianshapiro/velocity) :gift_heart:
-  * [Vivus.js (SVG-animations)](https://github.com/maxwellito/vivus) :gift_heart:
-  * [WebGLStudio.js](https://github.com/jagenjo/webglstudio.js) :gift_heart:
+  * [Layer Visualizer](https://github.com/romannurik/LayerVisualizer) :gift_heart: - A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows).
+  * [p5.js](https://github.com/processing/p5.js) :gift_heart: - p5.js is a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
+  * [Phaser](https://github.com/photonstorm/phaser) :gift_heart: - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+  * [Pixi.js](https://github.com/pixijs/pixi.js) :gift_heart: - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
+  * [Popmotion](https://github.com/Popmotion/popmotion) :gift_heart: - A 12kb Javascript motion engine. Use for animation, physics and input tracking.
+  * [Textgen.js](https://github.com/mrdoob/texgen.js) :gift_heart: - Procedural Texture Generator.
+  * [Trianglify](https://github.com/qrohlf/trianglify) :gift_heart: - Algorithmically generated triangle art.
+  * [Velociy](https://github.com/julianshapiro/velocity) :gift_heart: - Accelerated JavaScript animation.
+  * [Vivus.js (SVG-animations)](https://github.com/maxwellito/vivus) :gift_heart: - JavaScript library to make drawing animation on SVG.
+  * [WebGLStudio.js](https://github.com/jagenjo/webglstudio.js) :gift_heart: - A full 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.
 - **Grid**
-  * [Clippings.js](https://github.com/clippings/layout-grid) :gift_heart:
-  * [Right Height](https://github.com/cferdinandi/right-height) :gift_heart:
+  * [Layout Grid](https://github.com/clippings/layout-grid) :gift_heart: - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile.
+  * [Right Height](https://github.com/cferdinandi/right-height) :gift_heart: - Dynamically set content areas of different lengths to the same height.
 - **Image & Content Sliders**
-  * [Flickity](https://github.com/metafizzy/flickity) :rainbow:
-  * [Jssor](https://github.com/jssor/slider) :gift_heart:
-  * [Lory](https://github.com/meandmax/lory) :gift_heart:
-  * [PhotoSwipe](https://github.com/dimsemenov/photoswipe) :gift_heart:
-  * [Slick](https://github.com/kenwheeler/slick) :gift_heart:
-  * [Scooch](https://github.com/mobify/scooch) :gift_heart:
-  * [Swiper](https://github.com/nolimits4web/Swiper) :gift_heart:
+  * [Flickity](https://github.com/metafizzy/flickity) :rainbow: - Touch, responsive, flickable galleries.
+  * [Jssor](https://github.com/jssor/slider) :gift_heart: - Bootstrap Javascript jQuery Carousel/Slider/Slideshow/Gallery/Banner Responsive Image.
+  * [Lory](https://github.com/meandmax/lory) :gift_heart: - Touch enabled minimalistic slider written in vanilla JavaScript.
+  * [PhotoSwipe](https://github.com/dimsemenov/photoswipe) :gift_heart: - JavaScript image gallery for mobile and desktop, modular, framework independent.
+  * [Slick](https://github.com/kenwheeler/slick) :gift_heart: - The last carousel you'll ever need.
+  * [Scooch](https://github.com/mobify/scooch) :gift_heart: - A mobile-first JavaScript-driven content and image carousel.
+  * [Swiper](https://github.com/nolimits4web/Swiper) :gift_heart: - Most modern mobile touch slider with hardware accelerated transitions.
 - **Image Manipulation**
   * [Aviary](https://developers.aviary.com/) :gift_heart:
   * [Image Crop Component](http://dev.vizuina.com/cropper/) :gift_heart:
@@ -495,6 +494,8 @@ Browser Luvin'
   * [TuxedoJS](https://github.com/TuxedoJS/TuxedoJS) :gift_heart: - A feature-complete framework built on React and Flux.
 
 ## React Plugins
+- **Chat & Messaging**
+  * [Mattermost](https://github.com/mattermost/platform) :gift_heart: - Open source Slack-alternative in Golang and React.
 - **Graphics & Animation**
   * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart:
 - **Loading Bars**

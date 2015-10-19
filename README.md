@@ -116,11 +116,15 @@ Browser Luvin'
 - **Javascript**
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart: - JavaScript Style Guide.
   * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) :gift_heart: - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
+  * [Full Text Search in JavaScript](http://burakkanber.com/blog/machine-learning-full-text-search-in-javascript-relevance-scoring/) :gift_heart: - Full-text search, unlike most of the topics in this machine learning series, is a problem that most web developers have encountered at some point in their daily work.
   * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :gift_heart: - A book series on JavaScript.
 - **Responsive**
   * [Media Queries (Examples)](http://mediaqueri.es/) :gift_heart: - A collection of inspirational websites using media queries and responsive web design.
   * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart: - We built screensiz.es to help you quickly find the screen specifications of the most popular devices and monitors currently on the market.
 - **Style / Design / CSS Guides**
+  * [3 Things (Almost) No One Knows About CSS](http://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - Think you know CSS?
+  * [CSS Guidelines](http://cssguidelin.es/) :gift_heart: - High-level advice and guidelines for writing sane, manageable, scalable CSS.
+  * [Styling with SASS](http://juliocesar.github.io/styling-with-sass/) :gift_heart: - What most hate, perhaps without even knowing, is not CSS per se, but non-systematic styling.
   * [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart: - The U.S. Digital Services Playbook
 
 ## Fonts
@@ -195,6 +199,7 @@ Browser Luvin'
   * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart: - Gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
   * [Stalactite](https://github.com/jonobr1/stalactite) :gift_heart: - Stalactite is a jQuery plugin that packs child elements together.
 - **Image & Content Sliders**
+  * [](https://github.com/gilbitron/Nivo-Slider) :gift_heart: - The Most Awesome jQuery Image Slider.
   * [Slides Js](https://github.com/nathansearles/Slides/tree/SlidesJS-3) :gift_heart: - Slides is a crazy simple slideshow plugin for jQuery.
   * [Swipe](https://github.com/thebird/Swipe) :gift_heart: - Swipe is the most accurate touch slider.
   * [RTP SLider](https://github.com/rtp-ch/slider) :gift_heart: - A flexible slider plugin. Fluid, touch-compatible and extendable.
@@ -259,9 +264,11 @@ Browser Luvin'
   * [Aurelia](https://github.com/aurelia/framework) :gift_heart: - The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.
   * [Backbone.js](https://github.com/jashkenas/backbone) :gift_heart: -  - Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.
   * [Composer.js](https://github.com/lyonbros/composer.js) :gift_heart: - Composer is a library for building complex single-page applications.
+  * [Handlebars.js](https://github.com/wycats/handlebars.js) :gift_heart: - Handlebars.js is an extension to the Mustache templating language created by Chris Wanstrath. Handlebars.js and Mustache are both logicless templating languages that keep the view and the code separated like we all know they should be.
   * [History.js](https://github.com/browserstate/history.js) :gift_heart: - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.
   * [Jaws](https://github.com/jaws-framework/JAWS) :gift_heart: - The Server-less Application Framework. Uses bleeding-edge AWS services to redefine how to build massively scalable (and cheap) apps!
   * [jQuery](https://github.com/jquery/jquery) :gift_heart: - jQuery JavaScript Library.
+  * [jQuery Mobile](https://github.com/jquery/jquery-mobile) :gift_heart: - jQuery Mobile is a unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation.
   * [Lodash](https://github.com/lodash/lodash) :gift_heart: - A JavaScript utility library delivering consistency, modularity, performance, & extras.
   * [MooTools](http://mootools.net/) :gift_heart: - MooTools is a collection of JavaScript utilities designed for the intermediate to advanced JavaScript developer. It allows you to write powerful and flexible code with its elegant, well documented, and coherent APIs.
   * [Mustache.js](https://github.com/janl/mustache.js/) :gift_heart: - Minimal templating with {{mustaches}} in JavaScript.
@@ -271,7 +278,8 @@ Browser Luvin'
   * [React](https://github.com/facebook/react) :gift_heart: - React is a JavaScript library for building user interfaces.
   * [Sprint](https://github.com/bendc/sprint) :gift_heart: - A tiny, lightning fast jQuery-like library for modern browsers.
   * [Ramda](https://github.com/ramda/ramda) :gift_heart: - A practical functional library for Javascript programmers.
-  * [Riot.js](https://github.com/riot/riot) :gift_heart: - A React-like, user interface library
+  * [Riot.js](https://github.com/riot/riot) :gift_heart: - A React-like, user interface library.
+  * [t3js](https://github.com/box/t3js/) :gift_heart: - T3 is a client-side JavaScript framework for building large-scale web applications.
   * [Trine](https://github.com/jussi-kalliokoski/trine) :gift_heart: - Trine is a utility library geared at tapping the full potential of functional programming in JS, in the vein of lodash, underscore and Ramda.
   * [Two.js](https://github.com/jonobr1/two.js) :gift_heart: - A two-dimensional drawing api meant for modern browsers. It is renderer agnostic enabling the same api to render in multiple contexts: webgl, canvas2d, and svg.
   * [Underscore.js](https://github.com/jashkenas/underscore) :gift_heart: - Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
@@ -374,6 +382,8 @@ Browser Luvin'
   * [Nude.js (nudity-detection)](https://github.com/pa7/nude.js) :gift_heart:
   * [SVG Edit](https://github.com/SVG-Edit/svgedit) :gift_heart:
   * [Watermark.js](https://github.com/brianium/watermarkjs) :gift_heart:
+- **Key Bindings & Mouse Events**
+  * [Mousetrap](https://github.com/ccampbell/mousetrap) :gift_heart: - Simple library for handling keyboard shortcuts in Javascript.
 - **LazyLoaders**
   * [Blazy](https://github.com/dinbror/blazy) :gift_heart:
   * [Echo.js](https://github.com/toddmotto/echo) :gift_heart:
@@ -387,6 +397,9 @@ Browser Luvin'
   * [Turf](https://github.com/Turfjs/turf) :gift_heart:
 - **Media Players**
   * [Clappr](https://github.com/clappr/clappr) :gift_heart:
+  * [FLowplayer](https://github.com/flowplayer/flowplayer) :gift_heart: - The HTML5 video player for the web.
+  * [JWPlayer](http://www.jwplayer.com/) :gift_heart: & :moneybag: - The most-used and fastest loading video player on the web, our signature product enables online publishers to deliver and monetize video across all devices in any browser.
+  * [Media Element](https://github.com/johndyer/mediaelement) :gift_heart: - HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers.
   * [Plyr](https://github.com/Selz/plyr) :gift_heart:
   * [Streama](https://github.com/dularion/streama) :gift_heart:
   * [Winamp2-js](https://github.com/captbaritone/winamp2-js) :gift_heart:

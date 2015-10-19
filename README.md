@@ -60,8 +60,10 @@ Browser Luvin'
 - [MUI](https://github.com/muicss/mui) :gift_heart: - MUI is a lightweight CSS framework that follows Google's Material Design guidelines.
 - [Office UI Fabric](https://github.com/OfficeDev/Office-UI-Fabric) :gift_heart: - The front-end framework for building experiences for Office 365.
 - [Pure](https://github.com/yahoo/pure/) :gift_heart: - A set of small, responsive CSS modules that you can use in every web project.
+- [Responsive](https://github.com/ResponsiveBP/Responsive) :gift_heart: - A powerful, accessible, developer friendly framework for building responsive websites.
 - [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) :gift_heart: - Semantic is a UI component framework based around useful principles from natural language.
 - [Skeleton](https://github.com/dhg/Skeleton) :gift_heart: - A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development.
+- [Topcoat](https://github.com/topcoat/topcoat) :gift_heart: - CSS for clean and fast web apps.
 - [Typebase.css](https://github.com/devinhunt/typebase.css) :gift_heart: - A starting point for good typography on the web.
 - [UIKit](https://github.com/uikit/uikit) :gift_heart: - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 - [USDS Web Design Standards](https://github.com/18F/web-design-standards) :gift_heart: Open source UI components and visual style guide for U.S. government websites
@@ -72,6 +74,10 @@ Browser Luvin'
 - **Button groups**
   * [Social Buttons For Bootsrap](https://github.com/lipis/bootstrap-social) :gift_heart: - Social Sign-In Buttons for Bootstrap.
   * [Zocial CSS Social Buttons](https://github.com/smcllns/css-social-buttons) :gift_heart: - Zocial button set with CSS. Entirely vector-based social buttons.
+- **Browser Support**
+  * [HTML5 Shiv](https://github.com/afarkas/html5shiv) :gift_heart: - The HTML5 Shiv enables use of HTML5 sectioning elements in legacy Internet Explorer and provides basic HTML5 styling for Internet Explorer 6-9, Safari 4.x (and iPhone 3.x), and Firefox 3.x.
+- **Cross Browser Rendering & Consistency**
+  * [Normalize.css](https://github.com/necolas/normalize.css/) - Normalize.css is a customisable CSS file that makes browsers render all elements more consistently and in line with modern standards.
 - **Effects**
   * [iHover](https://github.com/gudh/ihover) :gift_heart: - iHover is a collection of hover effects using pure CSS, powered by Sass. 
   * [Hover](https://github.com/IanLunn/Hover) :gift_heart: - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
@@ -87,6 +93,7 @@ Browser Luvin'
   * [Animate.css](https://github.com/daneden/animate.css) :gift_heart: - A cross-browser library of CSS animations. As easy to use as an easy thing.
 - **Various**
   * [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
+  * [Pure CSS Components](https://github.com/LFeh/css-components/) :gift_heart: - A set of common UI Components using the power of CSS and without Javascript.
 
 ## CSS Snippets
 - **Bootsrap**
@@ -124,6 +131,7 @@ Browser Luvin'
 - **Style / Design / CSS Guides**
   * [3 Things (Almost) No One Knows About CSS](http://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - Think you know CSS?
   * [CSS Guidelines](http://cssguidelin.es/) :gift_heart: - High-level advice and guidelines for writing sane, manageable, scalable CSS.
+  * [Magic of CSS](https://github.com/adamschwartz/magic-of-css) :gift_heart: - A CSS course for web developers who want to be magicians.
   * [Styling with SASS](http://juliocesar.github.io/styling-with-sass/) :gift_heart: - What most hate, perhaps without even knowing, is not CSS per se, but non-systematic styling.
   * [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart: - The U.S. Digital Services Playbook
 
@@ -196,6 +204,7 @@ Browser Luvin'
   * [Typehead](https://github.com/twitter/typeahead.js/) :gift_heart: - Typeahead.js is a fast and fully-featured autocomplete library
 - **Grids**
   * [Freetile](https://github.com/yconst/Freetile) :gift_heart: - Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout.
+  * [Freewall](https://github.com/kombai/freewall) :gift_heart: - Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts for desktop, mobile, and tablet.
   * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart: - Gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
   * [Stalactite](https://github.com/jonobr1/stalactite) :gift_heart: - Stalactite is a jQuery plugin that packs child elements together.
 - **Image & Content Sliders**
@@ -260,12 +269,16 @@ Browser Luvin'
   * [Snipt](https://snipt.net/public/tag/jquery/) :gift_heart: - The publishing platform for coders.
 
 ## JS Frameworks
+  * [Amp HTML](https://github.com/ampproject/amphtml) :gift_heart: - AMP HTML is a way to build web pages for static content that render with reliable, fast performance. It is our attempt at fixing what many perceive as painfully slow page load times – especially when reading content on the mobile web.
   * [Angular](https://github.com/angular/angular.js) :gift_heart: - HTML enhanced for web apps.
+  * [App.js](https://github.com/kikinteractive/app) :gift_heart: - App.js is a lightweight JavaScript UI library for creating mobile webapps that behave like native apps, sacrificing neither performance nor polish.
   * [Aurelia](https://github.com/aurelia/framework) :gift_heart: - The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.
   * [Backbone.js](https://github.com/jashkenas/backbone) :gift_heart: -  - Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.
   * [Bacon.js](https://github.com/baconjs/bacon.js/) :gift_heart: - FRP (functional reactive programming) library for Javascript.
+  * [Brunch](https://github.com/brunch/brunch) :gift_heart: - Fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps.
   * [Can.js](https://github.com/bitovi/canjs) :gift_heart: - CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy.
   * [Composer.js](https://github.com/lyonbros/composer.js) :gift_heart: - Composer is a library for building complex single-page applications.
+  * [Dojo](https://github.com/dojo) :gift_heart: - A JavaScript toolkit that saves you time and scales with your development process. Provides everything you need to build a Web app. Language utilities, UI components, and more, all in one place, designed to work together perfectly.
   * [Fn.js](https://github.com/eliperelman/fn.js) :gift_heart: - A JavaScript library built to encourage a functional programming style & strategy
   * [Functional.js](https://github.com/leecrossley/functional-js/) :gift_heart: - A functional js library that facilitates currying and point-free / tacit programming.
   * [Handlebars.js](https://github.com/wycats/handlebars.js) :gift_heart: - Handlebars.js is an extension to the Mustache templating language created by Chris Wanstrath. Handlebars.js and Mustache are both logicless templating languages that keep the view and the code separated like we all know they should be.
@@ -275,8 +288,8 @@ Browser Luvin'
   * [jQuery Mobile](https://github.com/jquery/jquery-mobile) :gift_heart: - jQuery Mobile is a unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation.
   * [JsBlocks](https://github.com/astoilkov/jsblocks) :gift_heart: - Better MV-ish Framework.
   * [Knockout.js](https://github.com/knockout/knockout) :gift_heart: - Knockout makes it easier to create rich, responsive UIs with JavaScript.
-  * [Lodash](https://github.com/lodash/lodash) :gift_heart: - A JavaScript utility library delivering consistency, modularity, performance, & extras.
   * [Lazy.js](https://github.com/dtao/lazy.js) :gift_heart: - Lazy.js is a functional utility library for JavaScript, similar to Underscore and Lo-Dash, but with an underlying engine that supports many more use cases than those libraries, while offering comparable or superior performance in most scenarios.
+  * [Lodash](https://github.com/lodash/lodash) :gift_heart: - A JavaScript utility library delivering consistency, modularity, performance, & extras.
   * [Min.js](https://github.com/remy/min.js) :gift_heart: - Super minimal selector and event library.
   * [MooTools](http://mootools.net/) :gift_heart: - MooTools is a collection of JavaScript utilities designed for the intermediate to advanced JavaScript developer. It allows you to write powerful and flexible code with its elegant, well documented, and coherent APIs.
   * [Mustache.js](https://github.com/janl/mustache.js/) :gift_heart: - Minimal templating with {{mustaches}} in JavaScript.
@@ -293,6 +306,7 @@ Browser Luvin'
   * [Two.js](https://github.com/jonobr1/two.js) :gift_heart: - A two-dimensional drawing api meant for modern browsers. It is renderer agnostic enabling the same api to render in multiple contexts: webgl, canvas2d, and svg.
   * [Underscore.js](https://github.com/jashkenas/underscore) :gift_heart: - Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
   * [Vue.js](https://github.com/yyx990803/vue) :gift_heart: - Simple yet powerful library for building modern web interfaces.
+  * [Way.js](https://github.com/gwendall/way.js) :gift_heart: - Simple, lightweight, persistent two-way databinding.
   * [Zepto.js](https://github.com/madrobby/zepto) :gift_heart: - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API.
 
 ##Loaders
@@ -364,7 +378,7 @@ Browser Luvin'
   * [Taggle](https://github.com/okcoker/taggle.js) :gift_heart:
   * [Validate.js](https://github.com/rickharrison/validate.js/) :gift_heart:
 - **Graphics & Animation**
-  * [LAyer Visualizer](https://github.com/romannurik/LayerVisualizer) :gift_heart:
+  * [Layer Visualizer](https://github.com/romannurik/LayerVisualizer) :gift_heart:
   * [p5.js](https://github.com/processing/p5.js) :gift_heart:
   * [Phaser](https://github.com/photonstorm/phaser) :gift_heart:
   * [Pixi.js](https://github.com/pixijs/pixi.js) :gift_heart:
@@ -393,6 +407,7 @@ Browser Luvin'
   * [SVG Edit](https://github.com/SVG-Edit/svgedit) :gift_heart:
   * [Watermark.js](https://github.com/brianium/watermarkjs) :gift_heart:
 - **Key Bindings & Mouse Events**
+  * [Keys.js](https://github.com/bitwalker/keys.js) :gift_heart: - Easy keybindings for browser applications!
   * [Mousetrap](https://github.com/ccampbell/mousetrap) :gift_heart: - Simple library for handling keyboard shortcuts in Javascript.
   * [Simple Hotkeys](https://github.com/mycolorway/simple-hotkeys) :gift_heart: - Simple hotkeys.
 - **LazyLoaders**
@@ -406,6 +421,8 @@ Browser Luvin'
 - **Maps**
   * [Gmaps](https://github.com/hpneo/gmaps) :gift_heart:
   * [Turf](https://github.com/Turfjs/turf) :gift_heart:
+- **Media Queries**
+  * [Enquire.js](https://github.com/WickyNilliams/enquire.js) :gift_heart: - Enquire.js is a lightweight, pure javascript library (with no dependencies) for programmatically responding to media queries. 
 - **Media Players**
   * [Clappr](https://github.com/clappr/clappr) :gift_heart:
   * [FLowplayer](https://github.com/flowplayer/flowplayer) :gift_heart: - The HTML5 video player for the web.
@@ -518,10 +535,16 @@ Browser Luvin'
     + [TestSwarm](https://github.com/jquery/testswarm) :gift_heart: - Distributed continuous integration testing for JavaScript.
     + [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart:
 - **Browser Support**
-  * [Can I Use](http://caniuse.com/) :gift_heart:
-  * [State of WebType](http://stateofwebtype.com/) :gift_heart:
+  * CSS
+    + [HTML5 Shiv](https://github.com/afarkas/html5shiv) :gift_heart: - The HTML5 Shiv enables use of HTML5 sectioning elements in legacy Internet Explorer and provides basic HTML5 styling for Internet Explorer 6-9, Safari 4.x (and iPhone 3.x), and Firefox 3.x.
+  * Guides
+    + [Can I Use](http://caniuse.com/) :gift_heart:
+    + [State of WebType](http://stateofwebtype.com/) :gift_heart:
   * Pure JS
      + [Modernizr](https://github.com/modernizr/modernizr) :gift_heart:
+- **Cross Browser Rendering & Consistency
+  * CSS
+    + [Normalize.css](https://github.com/necolas/normalize.css/) - Normalize.css is a customisable CSS file that makes browsers render all elements more consistently and in line with modern standards.
 - **Generators**
   * Bootstrap Themes
     + [Bootstrap Magick](http://pikock.github.io/bootstrap-magic/app/index.html#!/editor) :gift_heart:

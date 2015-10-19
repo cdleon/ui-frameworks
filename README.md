@@ -247,7 +247,7 @@ Browser Luvin'
   * [Bacon](https://github.com/hudsonfoo/jQuery-Bacon) :gift_heart: - Allows you to align text to a bezier curve or a line.
   * [FitText](https://github.com/davatron5000/FitText.js) :gift_heart: - A jQuery plugin for inflating web type.
   * [JQuery Shuffle Letters](https://github.com/robbue/jquery-shuffle-letters-plugin) :gift_heart: - A JQuery plugin that shuffles the text content of an element.
-  * [Lettering.js](https://github.com/davatron5000/Lettering.js) :gift_heart: - A lightweight, easy to use Javascript <span> injector for radical Web Typography.
+  * [Lettering.js](https://github.com/davatron5000/Lettering.js) :gift_heart: - A lightweight, easy to use Javascript <span></span> injector for radical Web Typography.
   * [Marklib (highlighting)](https://github.com/BowlingX/marklib) :gift_heart: - A simple and fast zero-dependencies-library to transform text-selections into serializable markings.
   * [Midnight](https://github.com/Aerolab/midnight.js) :gift_heart: - A jQuery plugin that switches between multiple header designs as you scroll, so you always have a header that looks great with the content below it.
   * [Textillate.js](https://github.com/jschr/textillate) :gift_heart: - Textillate.js combines some awesome libraries to provide an easy-to-use plugin for applying CSS3 animations to any text.
@@ -263,13 +263,21 @@ Browser Luvin'
   * [Angular](https://github.com/angular/angular.js) :gift_heart: - HTML enhanced for web apps.
   * [Aurelia](https://github.com/aurelia/framework) :gift_heart: - The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.
   * [Backbone.js](https://github.com/jashkenas/backbone) :gift_heart: -  - Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.
+  * [Bacon.js](https://github.com/baconjs/bacon.js/) :gift_heart: - FRP (functional reactive programming) library for Javascript.
+  * [Can.js](https://github.com/bitovi/canjs) :gift_heart: - CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy.
   * [Composer.js](https://github.com/lyonbros/composer.js) :gift_heart: - Composer is a library for building complex single-page applications.
+  * [Fn.js](https://github.com/eliperelman/fn.js) :gift_heart: - A JavaScript library built to encourage a functional programming style & strategy
+  * [Functional.js](https://github.com/leecrossley/functional-js/) :gift_heart: - A functional js library that facilitates currying and point-free / tacit programming.
   * [Handlebars.js](https://github.com/wycats/handlebars.js) :gift_heart: - Handlebars.js is an extension to the Mustache templating language created by Chris Wanstrath. Handlebars.js and Mustache are both logicless templating languages that keep the view and the code separated like we all know they should be.
   * [History.js](https://github.com/browserstate/history.js) :gift_heart: - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.
   * [Jaws](https://github.com/jaws-framework/JAWS) :gift_heart: - The Server-less Application Framework. Uses bleeding-edge AWS services to redefine how to build massively scalable (and cheap) apps!
   * [jQuery](https://github.com/jquery/jquery) :gift_heart: - jQuery JavaScript Library.
   * [jQuery Mobile](https://github.com/jquery/jquery-mobile) :gift_heart: - jQuery Mobile is a unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation.
+  * [JsBlocks](https://github.com/astoilkov/jsblocks) :gift_heart: - Better MV-ish Framework.
+  * [Knockout.js](https://github.com/knockout/knockout) :gift_heart: - Knockout makes it easier to create rich, responsive UIs with JavaScript.
   * [Lodash](https://github.com/lodash/lodash) :gift_heart: - A JavaScript utility library delivering consistency, modularity, performance, & extras.
+  * [Lazy.js](https://github.com/dtao/lazy.js) :gift_heart: - Lazy.js is a functional utility library for JavaScript, similar to Underscore and Lo-Dash, but with an underlying engine that supports many more use cases than those libraries, while offering comparable or superior performance in most scenarios.
+  * [Min.js](https://github.com/remy/min.js) :gift_heart: - Super minimal selector and event library.
   * [MooTools](http://mootools.net/) :gift_heart: - MooTools is a collection of JavaScript utilities designed for the intermediate to advanced JavaScript developer. It allows you to write powerful and flexible code with its elegant, well documented, and coherent APIs.
   * [Mustache.js](https://github.com/janl/mustache.js/) :gift_heart: - Minimal templating with {{mustaches}} in JavaScript.
   * [Polymer](https://github.com/Polymer/polymer) :gift_heart: - Polymer lets you build encapsulated, re-usable elements that work just like HTML elements, to use in building web applications.
@@ -380,10 +388,12 @@ Browser Luvin'
   * [Aviary](https://developers.aviary.com/) :gift_heart:
   * [Image Crop Component](http://dev.vizuina.com/cropper/) :gift_heart:
   * [Nude.js (nudity-detection)](https://github.com/pa7/nude.js) :gift_heart:
+  * [Smartcrop.js](https://github.com/jwagner/smartcrop.js) :gift_heart: - Smartcrop.js implements an algorithm to find good crops for images.
   * [SVG Edit](https://github.com/SVG-Edit/svgedit) :gift_heart:
   * [Watermark.js](https://github.com/brianium/watermarkjs) :gift_heart:
 - **Key Bindings & Mouse Events**
   * [Mousetrap](https://github.com/ccampbell/mousetrap) :gift_heart: - Simple library for handling keyboard shortcuts in Javascript.
+  * [Simple Hotkeys](https://github.com/mycolorway/simple-hotkeys) :gift_heart: - Simple hotkeys.
 - **LazyLoaders**
   * [Blazy](https://github.com/dinbror/blazy) :gift_heart:
   * [Echo.js](https://github.com/toddmotto/echo) :gift_heart:
@@ -399,7 +409,7 @@ Browser Luvin'
   * [Clappr](https://github.com/clappr/clappr) :gift_heart:
   * [FLowplayer](https://github.com/flowplayer/flowplayer) :gift_heart: - The HTML5 video player for the web.
   * [JWPlayer](http://www.jwplayer.com/) :gift_heart: & :moneybag: - The most-used and fastest loading video player on the web, our signature product enables online publishers to deliver and monetize video across all devices in any browser.
-  * [Media Element](https://github.com/johndyer/mediaelement) :gift_heart: - HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers.
+  * [Media Element](https://github.com/johndyer/mediaelement) :gift_heart: - HTML5 <audio/> or <video/> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers.
   * [Plyr](https://github.com/Selz/plyr) :gift_heart:
   * [Streama](https://github.com/dularion/streama) :gift_heart:
   * [Winamp2-js](https://github.com/captbaritone/winamp2-js) :gift_heart:
@@ -435,6 +445,7 @@ Browser Luvin'
   * [Knwl.js (date-parser)](https://github.com/loadfive/Knwl.js) :gift_heart:
   * [Highlight.js](https://github.com/isagalaev/highlight.js) :gift_heart:
   * [Underline.js](https://github.com/wentin/underlineJS) :gift_heart:
+  * [Underscore.string](https://github.com/epeli/underscore.string) :gift_heart: - String manipulation helpers for javascript.
 - **Text Editors**
   * [Highlight.js](https://github.com/isagalaev/highlight.js) :gift_heart:
   * [Nuclide](https://github.com/facebook/nuclide) :gift_heart:
@@ -501,7 +512,9 @@ Browser Luvin'
     + [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart:
     + [Justice](https://github.com/okor/justice) :gift_heart:
     + [Memory-stats.js](https://github.com/paulirish/memory-stats.js) :gift_heart:
+    + [QUnit](https://github.com/jquery/qunitjs.com) :gift_heart: - QUnit is a powerful, easy-to-use JavaScript unit testing framework. 
     + [Stats.js](https://github.com/mrdoob/stats.js) :gift_heart:
+    + [TestSwarm](https://github.com/jquery/testswarm) :gift_heart: - Distributed continuous integration testing for JavaScript.
     + [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart:
 - **Browser Support**
   * [Can I Use](http://caniuse.com/) :gift_heart:

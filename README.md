@@ -259,7 +259,7 @@ Browser Luvin'
   * [Bacon](https://github.com/hudsonfoo/jQuery-Bacon) :gift_heart: - Allows you to align text to a bezier curve or a line.
   * [FitText](https://github.com/davatron5000/FitText.js) :gift_heart: - A jQuery plugin for inflating web type.
   * [JQuery Shuffle Letters](https://github.com/robbue/jquery-shuffle-letters-plugin) :gift_heart: - A JQuery plugin that shuffles the text content of an element.
-  * [Lettering.js](https://github.com/davatron5000/Lettering.js) :gift_heart: - A lightweight, easy to use Javascript <span></span> injector for radical Web Typography.
+  * [Lettering.js](https://github.com/davatron5000/Lettering.js) :gift_heart: - A lightweight, easy to use Javascript <span> injector for radical Web Typography.
   * [Marklib (highlighting)](https://github.com/BowlingX/marklib) :gift_heart: - A simple and fast zero-dependencies-library to transform text-selections into serializable markings.
   * [Midnight](https://github.com/Aerolab/midnight.js) :gift_heart: - A jQuery plugin that switches between multiple header designs as you scroll, so you always have a header that looks great with the content below it.
   * [Textillate.js](https://github.com/jschr/textillate) :gift_heart: - Textillate.js combines some awesome libraries to provide an easy-to-use plugin for applying CSS3 animations to any text.
@@ -347,7 +347,7 @@ Browser Luvin'
 - **Data Processing & Visualization**
   * [c3](https://github.com/masayuki0812/c3) :gift_heart: - A D3-based reusable chart library.
   * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) :gift_heart: - Tiny vanilla JS plugin to display large data sets easily.
-  * [Chart.js](https://github.com/nnnick/Chart.js) :gift_heart: - Simple HTML5 Charts using the <canvas></canvas> tag.
+  * [Chart.js](https://github.com/nnnick/Chart.js) :gift_heart: - Simple HTML5 Charts using the <canvas> tag.
   * [ECharts](https://github.com/ecomfe/echarts) :gift_heart: - Enterprise Charts.
   * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart: - Draws simple SVG flow chart diagrams from textual representation of the diagram.
   * [Infogr.am](https://infogr.am/) :moneybag: - Charts & Infographics the Easy Way.
@@ -378,6 +378,7 @@ Browser Luvin'
   * [Horsey](https://github.com/bevacqua/horsey) :gift_heart: - Progressive and customizable autocomplete component.
   * [JavaScript-autoComplete](https://github.com/Pixabay/JavaScript-autoComplete) :gift_heart: - An extremely lightweight and powerful vanilla JavaScript completion suggester.
   * [List.js](https://github.com/javve/list.js) :gift_heart: - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
+  * [Selected.js](https://github.com/Fizzadar/selected.js) - A simple, dependency free <select> replacement
   * [Stretchy](https://github.com/LeaVerou/stretchy) :gift_heart: - Form element autosizing, the way it should be.
   * [Taggle](https://github.com/okcoker/taggle.js) :gift_heart: - Form-ready dependency-less tagging.
   * [Validate.js](https://github.com/rickharrison/validate.js/) :gift_heart: - Lightweight JavaScript form validation library inspired by CodeIgniter.

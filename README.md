@@ -187,6 +187,8 @@ Browser Luvin'
   * [JQuery.Bgwitcher](https://github.com/rewish/jquery-bgswitcher) :gift_heart: - Switch the background-image with using effect.
   * [Supersized](https://github.com/buildinternet/supersized) :gift_heart: - Full screen background slideshow plugin for jQuery.
   * [Tubular](http://www.seanmccambridge.com/tubular/) :gift_heart: - Tubular is a jQuery plugin that lets you set a YouTube video as your page background. Just attach it to your page wrapper element, set some options, and you're on your way.
+- **Data Processing & Visualization**
+  * [Flot](https://github.com/flot/flot) :gift_heart: - Attractive JavaScript charts for jQuery.
 - **Date Pickers**
   * [Pickadate](https://github.com/amsul/pickadate.js) :gift_heart: - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 - **Dialogs & Alerts**
@@ -208,7 +210,7 @@ Browser Luvin'
   * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart: - Gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
   * [Stalactite](https://github.com/jonobr1/stalactite) :gift_heart: - Stalactite is a jQuery plugin that packs child elements together.
 - **Image & Content Sliders**
-  * [](https://github.com/gilbitron/Nivo-Slider) :gift_heart: - The Most Awesome jQuery Image Slider.
+  * [Nivo](https://github.com/gilbitron/Nivo-Slider) :gift_heart: - The Most Awesome jQuery Image Slider.
   * [Slides Js](https://github.com/nathansearles/Slides/tree/SlidesJS-3) :gift_heart: - Slides is a crazy simple slideshow plugin for jQuery.
   * [Swipe](https://github.com/thebird/Swipe) :gift_heart: - Swipe is the most accurate touch slider.
   * [RTP SLider](https://github.com/rtp-ch/slider) :gift_heart: - A flexible slider plugin. Fluid, touch-compatible and extendable.

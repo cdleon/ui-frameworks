@@ -380,7 +380,7 @@ Browser Luvin'
   * [Horsey](https://github.com/bevacqua/horsey) :gift_heart: - Progressive and customizable autocomplete component.
   * [JavaScript-autoComplete](https://github.com/Pixabay/JavaScript-autoComplete) :gift_heart: - An extremely lightweight and powerful vanilla JavaScript completion suggester.
   * [List.js](https://github.com/javve/list.js) :gift_heart: - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
-  * [Selected.js](https://github.com/Fizzadar/selected.js) - A simple, dependency free <select> replacement
+  * [Selected.js](https://github.com/Fizzadar/selected.js) :gift_heart: - A simple, dependency free <select> replacement
   * [Stretchy](https://github.com/LeaVerou/stretchy) :gift_heart: - Form element autosizing, the way it should be.
   * [Taggle](https://github.com/okcoker/taggle.js) :gift_heart: - Form-ready dependency-less tagging.
   * [Validate.js](https://github.com/rickharrison/validate.js/) :gift_heart: - Lightweight JavaScript form validation library inspired by CodeIgniter.

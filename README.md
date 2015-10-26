@@ -210,7 +210,7 @@ Browser Luvin'
   * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart: - Gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
   * [Stalactite](https://github.com/jonobr1/stalactite) :gift_heart: - Stalactite is a jQuery plugin that packs child elements together.
 - **Image & Content Sliders**
-  * [Nivo](https://github.com/gilbitron/Nivo-Slider) :gift_heart: - The Most Awesome jQuery Image Slider.
+  * [Nivo Slider](https://github.com/gilbitron/Nivo-Slider) :gift_heart: - The Most Awesome jQuery Image Slider.
   * [Slides Js](https://github.com/nathansearles/Slides/tree/SlidesJS-3) :gift_heart: - Slides is a crazy simple slideshow plugin for jQuery.
   * [Swipe](https://github.com/thebird/Swipe) :gift_heart: - Swipe is the most accurate touch slider.
   * [RTP SLider](https://github.com/rtp-ch/slider) :gift_heart: - A flexible slider plugin. Fluid, touch-compatible and extendable.
@@ -261,7 +261,7 @@ Browser Luvin'
   * [Bacon](https://github.com/hudsonfoo/jQuery-Bacon) :gift_heart: - Allows you to align text to a bezier curve or a line.
   * [FitText](https://github.com/davatron5000/FitText.js) :gift_heart: - A jQuery plugin for inflating web type.
   * [JQuery Shuffle Letters](https://github.com/robbue/jquery-shuffle-letters-plugin) :gift_heart: - A JQuery plugin that shuffles the text content of an element.
-  * [Lettering.js](https://github.com/davatron5000/Lettering.js) :gift_heart: - A lightweight, easy to use Javascript <span> injector for radical Web Typography.
+  * [Lettering.js](https://github.com/davatron5000/Lettering.js) :gift_heart: - A lightweight, easy to use Javascript ```<span>``` injector for radical Web Typography.
   * [Marklib (highlighting)](https://github.com/BowlingX/marklib) :gift_heart: - A simple and fast zero-dependencies-library to transform text-selections into serializable markings.
   * [Midnight](https://github.com/Aerolab/midnight.js) :gift_heart: - A jQuery plugin that switches between multiple header designs as you scroll, so you always have a header that looks great with the content below it.
   * [Textillate.js](https://github.com/jschr/textillate) :gift_heart: - Textillate.js combines some awesome libraries to provide an easy-to-use plugin for applying CSS3 animations to any text.
@@ -333,7 +333,6 @@ Browser Luvin'
   * [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart: - Simple, easy, javascript benchmark testing.
   * [Stats.js](https://github.com/mrdoob/stats.js) :gift_heart: - JavaScript Performance Monitor.
   * [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart: - Navigation Timing API measurement helpers.
-- [Cody House](http://codyhouse.co/) :rainbow:
 - **Cut & Paste**
   * [Clipboard.js](https://github.com/zenorocha/clipboard.js) :gift_heart: - Modern copy to clipboard. No Flash. Just 2kb.
 - **Browser Support**
@@ -349,7 +348,7 @@ Browser Luvin'
 - **Data Processing & Visualization**
   * [c3](https://github.com/masayuki0812/c3) :gift_heart: - A D3-based reusable chart library.
   * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) :gift_heart: - Tiny vanilla JS plugin to display large data sets easily.
-  * [Chart.js](https://github.com/nnnick/Chart.js) :gift_heart: - Simple HTML5 Charts using the <canvas> tag.
+  * [Chart.js](https://github.com/nnnick/Chart.js) :gift_heart: - Simple HTML5 Charts using the ```<canvas>``` tag.
   * [ECharts](https://github.com/ecomfe/echarts) :gift_heart: - Enterprise Charts.
   * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart: - Draws simple SVG flow chart diagrams from textual representation of the diagram.
   * [Infogr.am](https://infogr.am/) :moneybag: - Charts & Infographics the Easy Way.
@@ -423,6 +422,8 @@ Browser Luvin'
   * [Layzr.js](https://github.com/callmecavs/layzr.js) :gift_heart: - A small, fast, modern, and dependency-free library for lazy loading.
   * [LazyLoad](https://github.com/vvo/lazyload) :gift_heart: - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader.
   * [Responsively Lazy](https://github.com/ivopetkov/responsively-lazy) :gift_heart: - Lazy load responsive images.
+- **Libraries-
+  * [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
 - **Loaders**
   * [Spin.js](https://github.com/fgnass/spin.js) :gift_heart: - A spinning activity indicator.
 - **Maps**
@@ -434,7 +435,7 @@ Browser Luvin'
   * [Clappr](https://github.com/clappr/clappr) :gift_heart: - An extensible media player for the web.
   * [FLowplayer](https://github.com/flowplayer/flowplayer) :gift_heart: - The HTML5 video player for the web.
   * [JWPlayer](http://www.jwplayer.com/) :gift_heart: & :moneybag: - The most-used and fastest loading video player on the web, our signature product enables online publishers to deliver and monetize video across all devices in any browser.
-  * [Media Element](https://github.com/johndyer/mediaelement) :gift_heart: - HTML5 <audio/> or <video/> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers.
+  * [Media Element](https://github.com/johndyer/mediaelement) :gift_heart: - HTML5 ```<audio/>``` or ```<video/>``` player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers.
   * [Plyr](https://github.com/Selz/plyr) :gift_heart: - A simple HTML5 media player.
   * [Streama](https://github.com/dularion/streama) :gift_heart: - It's like Netflix, but self-hosted!
   * [Winamp2-js](https://github.com/captbaritone/winamp2-js) :gift_heart: - A reimplementation of Winamp 2.9 in HTML5 and Javascript.
@@ -483,29 +484,29 @@ Browser Luvin'
 
 ## 13.Pure JS Snippets
   * **Libraries**
-    + [Cody House](http://codyhouse.co/) :rainbow:
-    + [Smipple](http://www.smipple.net/lang/js) :gift_heart:
-    + [Snipplr](http://snipplr.com/) :gift_heart:
-    + [Snipt (tag:javascript)](https://snipt.net/public/tag/javascript/) :gift_heart:
-    + [Snipt (tag:js)](https://snipt.net/public/tag/js/) :gift_heart:
+    + [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
+    + [Smipple](http://www.smipple.net/lang/js) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
+    + [Snipplr](http://snipplr.com/) :gift_heart: - Lets you store and share all of your commonly used pieces of code and HTML with other programmers and designers.
+    + [Snipt (tag:javascript)](https://snipt.net/public/tag/javascript/) :gift_heart: -  - The publishing platform for coders.
+    + [Snipt (tag:js)](https://snipt.net/public/tag/js/) :gift_heart: -  - The publishing platform for coders.
 
 ## 14.React Frameworks
-  * [Elemental UI](http://elemental-ui.com/) :gift_heart:
-  * [Essential](https://github.com/pheuter/essential-react) :gift_heart:
+  * [Elemental UI](http://elemental-ui.com/) :gift_heart: - A UI Toolkit for React.js Websites and Apps.
+  * [Essential](https://github.com/pheuter/essential-react) :gift_heart: - A minimal skeleton for building testable React apps using ES6.
   * [Flux](https://github.com/facebook/flux) :gift_heart: - An application architecture for React utilizing a unidirectional data flow.
-  * [Marty](https://github.com/martyjs/marty) :gift_heart:
-  * [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) :gift_heart:
-  * [Reapp](https://github.com/reapp/reapp) :gift_heart:
-  * [Relay](https://github.com/facebook/relay) :gift_heart:
+  * [Marty](https://github.com/martyjs/marty) :gift_heart: - A Javascript library for state management in React applications.
+  * [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) :gift_heart: - A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
+  * [Reapp](https://github.com/reapp/reapp) :gift_heart: - Reapp - next gen hybrid apps.
+  * [Relay](https://github.com/facebook/relay) :gift_heart: - Relay is a JavaScript framework for building data-driven React applications.
   * [TuxedoJS](https://github.com/TuxedoJS/TuxedoJS) :gift_heart: - A feature-complete framework built on React and Flux.
 
 ## 15.React Plugins
 - **Chat & Messaging**
   * [Mattermost](https://github.com/mattermost/platform) :gift_heart: - Open source Slack-alternative in Golang and React.
 - **Graphics & Animation**
-  * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart:
+  * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components
 - **Loading Bars**
-  * [react-rogressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart:
+  * [react-rogressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart: - Responsive and slick progress bars for React.
 
 ## 16.Templates
 - **Bootstrap**
@@ -516,7 +517,7 @@ Browser Luvin'
   * [Bootswatch](https://bootswatch.com/) :gift_heart:
   * [Gridgum](http://gridgum.com/themes/category/bootstrap-themes/) :moneybag:
   * [wpfreeware](http://www.wpfreeware.com/) :gift_heart:
-- [Cody House](http://codyhouse.co/) :rainbow:
+- [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
 - [Gridgum](http://gridgum.com/themes/) :moneybag:
 - **Kanban**
   * [Wekan](https://github.com/wekan/wekan) :gift_heart:

@@ -422,7 +422,7 @@ Browser Luvin'
   * [Layzr.js](https://github.com/callmecavs/layzr.js) :gift_heart: - A small, fast, modern, and dependency-free library for lazy loading.
   * [LazyLoad](https://github.com/vvo/lazyload) :gift_heart: - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader.
   * [Responsively Lazy](https://github.com/ivopetkov/responsively-lazy) :gift_heart: - Lazy load responsive images.
-- **Libraries-
+- **Libraries**
   * [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
 - **Loaders**
   * [Spin.js](https://github.com/fgnass/spin.js) :gift_heart: - A spinning activity indicator.
@@ -510,24 +510,25 @@ Browser Luvin'
 
 ## 16.Templates
 - **Bootstrap**
-  * [Start Bootstrap](http://startbootstrap.com/) :gift_heart:
-  * [Bootsrap Zero](http://www.bootstrapzero.com/) :gift_heart:
-  * [Design Bootsrap](http://www.designbootstrap.com/) :gift_heart: & :moneybag:
-  * [Wrap Bootstrap](https://wrapbootstrap.com/) :moneybag:
-  * [Bootswatch](https://bootswatch.com/) :gift_heart:
-  * [Gridgum](http://gridgum.com/themes/category/bootstrap-themes/) :moneybag:
-  * [wpfreeware](http://www.wpfreeware.com/) :gift_heart:
-- [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
-- [Gridgum](http://gridgum.com/themes/) :moneybag:
+  * [Start Bootstrap](http://startbootstrap.com/) :gift_heart: - Free Bootstrap Themes & Templates.
+  * [Bootsrap Zero](http://www.bootstrapzero.com/) :gift_heart: - The largest open-source, free Bootstrap template collection.
+  * [Design Bootsrap](http://www.designbootstrap.com/) :gift_heart: & :moneybag: - 100% Free and unique bootstrap themes, templates, snippets and Bootstrap design tools for personal and commercial use.
+  * [Wrap Bootstrap](https://wrapbootstrap.com/) :moneybag: - WrapBootstrap is a marketplace for premium Bootstrap themes and templates.
+  * [Bootswatch](https://bootswatch.com/) :gift_heart: - Free themes for Bootstrap.
+  * [Gridgum](http://gridgum.com/themes/category/bootstrap-themes/) :moneybag: - Gridgum is a marketplace for responsive themes and templates.
+  * [wpfreeware](http://www.wpfreeware.com/) :gift_heart: - Free Responsive WordPress Themes & Bootstrap Templates, Made With LOVE!
+- **HTML**
+  * [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
+  * [Gridgum](http://gridgum.com/themes/) :moneybag: - Gridgum is a marketplace for responsive themes and templates.
 - **Kanban**
-  * [Wekan](https://github.com/wekan/wekan) :gift_heart:
+  * [Wekan](https://github.com/wekan/wekan) :gift_heart: - The open-source Trello-like kanban.
 - **Material Design**
-  * [Material Design Lite](http://www.getmdl.io/templates/index.html) :gift_heart:
+  * [Material Design Lite](http://www.getmdl.io/templates/index.html) :gift_heart: - Material Design Lite lets you add a Material Design look and feel to your websites.
 - **React**
-  * [Blog](https://github.com/jlongster/blog) :gift_heart:
+  * [Blog](https://github.com/jlongster/blog) :gift_heart: - All the sources for my react-powered blog.
 - **WordPress**
-  * [Gridgum](http://gridgum.com/themes/category/wordpress/) :moneybag:
-  * [wpfreeware](http://www.wpfreeware.com/) :gift_heart:
+  * [Gridgum](http://gridgum.com/themes/category/wordpress/) :moneybag: - Gridgum is a marketplace for responsive themes and templates.
+  * [wpfreeware](http://www.wpfreeware.com/) :gift_heart: - Free Responsive WordPress Themes & Bootstrap Templates, Made With LOVE!
 
 
 ## 17.Tools

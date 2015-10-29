@@ -351,6 +351,7 @@ Browser Luvin'
   * [Chart.js](https://github.com/nnnick/Chart.js) :gift_heart: - Simple HTML5 Charts using the ```<canvas>``` tag.
   * [ECharts](https://github.com/ecomfe/echarts) :gift_heart: - Enterprise Charts.
   * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart: - Draws simple SVG flow chart diagrams from textual representation of the diagram.
+  * [graph-scroll.js] :gift_heart: - Simple scrolling events for d3 graphs. Based on stack.
   * [Infogr.am](https://infogr.am/) :moneybag: - Charts & Infographics the Easy Way.
   * [MetricsGraphics.js](https://github.com/mozilla/metrics-graphics) :gift_heart: - A library optimized for concise, principled data graphics and layouts.
   * [Morris.js](https://github.com/morrisjs/morris.js/) :gift_heart: - Pretty time-series line graphs.
@@ -432,6 +433,7 @@ Browser Luvin'
 - **Media Queries**
   * [Enquire.js](https://github.com/WickyNilliams/enquire.js) :gift_heart: - Enquire.js is a lightweight, pure javascript library (with no dependencies) for programmatically responding to media queries. 
 - **Media Players**
+  * [Canvid.js](https://github.com/gka/canvid) :gift_heart: - tiny js library for playing video on canvas elements (without audio)
   * [Clappr](https://github.com/clappr/clappr) :gift_heart: - An extensible media player for the web.
   * [FLowplayer](https://github.com/flowplayer/flowplayer) :gift_heart: - The HTML5 video player for the web.
   * [JWPlayer](http://www.jwplayer.com/) :gift_heart: & :moneybag: - The most-used and fastest loading video player on the web, our signature product enables online publishers to deliver and monetize video across all devices in any browser.
@@ -447,6 +449,7 @@ Browser Luvin'
   * [Elevator.js](https://github.com/tholman/elevator.js) :gift_heart: - Finally, a "back to top" button that behaves like a real elevator.
   * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart: - Infinite list in javascript that scrolls in 60fps.
   * [Scrollerjs](https://github.com/forcedotcom/scrollerjs) :gift_heart: - A JavaScript library that helps you build performant UI components for the web.
+  * [Stack.js](https://github.com/mbostock/stack) :gift_heart: - A presentation library with intuitive, scroll-based navigation.
 - **Pointers & Tooltips**
   * [Focusable](https://github.com/zzarcon/focusable) :gift_heart: - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page.
   * [Opentip](https://github.com/enyo/opentip) :gift_heart: - Opentip is an open source javascript tooltip based on the protoype framework.

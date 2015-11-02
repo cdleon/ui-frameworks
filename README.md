@@ -124,13 +124,17 @@ Browser Luvin'
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart: - JavaScript Style Guide.
   * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) :gift_heart: - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
   * [Full Text Search in JavaScript](http://burakkanber.com/blog/machine-learning-full-text-search-in-javascript-relevance-scoring/) :gift_heart: - Full-text search, unlike most of the topics in this machine learning series, is a problem that most web developers have encountered at some point in their daily work.
+  * [Khan ACademy JS Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md) :gift_heart: - This guide is adapted from the jQuery style guide.
   * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :gift_heart: - A book series on JavaScript.
 - **Responsive**
   * [Media Queries (Examples)](http://mediaqueri.es/) :gift_heart: - A collection of inspirational websites using media queries and responsive web design.
   * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart: - We built screensiz.es to help you quickly find the screen specifications of the most popular devices and monitors currently on the market.
+- **React**
+  * [Khan Academy React Style Guide](https://github.com/Khan/style-guides/blob/master/style/react.md) :gift_heart: - In addition to these style rules, you may also be interested in React best practices.
 - **Style / Design / CSS Guides**
   * [3 Things (Almost) No One Knows About CSS](http://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - Think you know CSS?
   * [CSS Guidelines](http://cssguidelin.es/) :gift_heart: - High-level advice and guidelines for writing sane, manageable, scalable CSS.
+  * [Khan Academy CSS Style Guide](https://github.com/Khan/style-guides/blob/master/style/css.md) :gift_heart: - Welcome to the CSS style guide. This guide borrows heavily from Github's Primer CSS guidelines, so thanks to them!
   * [Magic of CSS](https://github.com/adamschwartz/magic-of-css) :gift_heart: - A CSS course for web developers who want to be magicians.
   * [Styling with SASS](http://juliocesar.github.io/styling-with-sass/) :gift_heart: - What most hate, perhaps without even knowing, is not CSS per se, but non-systematic styling.
   * [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart: - The U.S. Digital Services Playbook
@@ -483,6 +487,7 @@ Browser Luvin'
   * [Quill](https://github.com/quilljs/quill/) :gift_heart: - A cross browser rich text editor with an API.
   * [Squire](https://github.com/neilj/Squire) :gift_heart: - HTML5 rich text editor.
   * [TinyMCE](http://www.tinymce.com/) :gift_heart: & :moneybag: - inyMCE is a platform independent web-based JavaScript WYSIWYG HTML editor control released as open source under LGPL.
+  * [Trix](https://github.com/basecamp/trix) :gift_heart: - A Rich Text Editor for Everyday Writing.
   * [Wysihtml](https://github.com/Voog/wysihtml) :gift_heart: - Open source rich text editor for the modern web.
 
 ## 13.Pure JS Snippets

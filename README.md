@@ -15,6 +15,7 @@ Browser Luvin'
 1. [CSS Snippets](#css-snippets)
 1. [CSS Plugins](#css-plugins)
 1. [Fonts](#fonts)
+2. [Guides](#6.guides)
 1. [Icons](#icons)
 1. [JQuery Plugins](#jquery-plugins)
 1. [JQuery Snippets](#jquery-snippets)
@@ -115,8 +116,17 @@ Browser Luvin'
   * [Six Revisions](http://sixrevisions.com/category/css/) :gift_heart: - Six Revisions is a web publication for web developers and web designers. We publish articles, guides, tutorials, news and other forms of content for people who design and build sites and apps.
   * [Speckyboy](http://speckyboy.com/2011/04/15/25-css-snippets-for-some-of-the-most-common-and-frustrating-tasks/) :gift_heart: - 25 CSS Snippets for Some of the Most Common and Frustrating Tasks.
 
+## 5.Fonts
+- **CSS**
+  * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart: - CSS SANS is the font created by CSS, the programming language for web designing and typesetting.
+- **Libraries**
+  * [Font Squirrel](http://www.fontsquirrel.com/) :gift_heart: - Free fonts have met their match. We know how hard it is to find quality freeware that is licensed for commercial work. We've done the hard work, hand-selecting these typefaces and presenting them in an easy-to-use format.
+  * [Google Fonts](https://www.google.com/fonts) :gift_heart: - Our goal is to create a directory of web fonts for the world to use. Our API service makes it easy to add Google Fonts to a website in seconds. The service runs on Google's servers which are fast, reliable and tested. Google provides this service free of charge.
+- **Typeface**
+  * [Hack](https://github.com/chrissimpkins/Hack) :gift_heart: - A typeface designed for source code.
+  * [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart: - Source for the Sans Bullshit Sans font.
 
-## 5.Guides
+## 6.Guides
 - **Browser Support**
   * [Can I Use](http://caniuse.com/) :gift_heart: - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
   * [State of WebType](http://stateofwebtype.com/) :gift_heart: - Up-to-date data on support for type and typographic features on the web.
@@ -138,18 +148,6 @@ Browser Luvin'
   * [Magic of CSS](https://github.com/adamschwartz/magic-of-css) :gift_heart: - A CSS course for web developers who want to be magicians.
   * [Styling with SASS](http://juliocesar.github.io/styling-with-sass/) :gift_heart: - What most hate, perhaps without even knowing, is not CSS per se, but non-systematic styling.
   * [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart: - The U.S. Digital Services Playbook
-
-## 6.Fonts
-- **CSS**
-  * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart: - CSS SANS is the font created by CSS, the programming language for web designing and typesetting.
-- **Libraries**
-  * [Font Squirrel](http://www.fontsquirrel.com/) :gift_heart: - Free fonts have met their match. We know how hard it is to find quality freeware that is licensed for commercial work. We've done the hard work, hand-selecting these typefaces and presenting them in an easy-to-use format.
-  * [Google Fonts](https://www.google.com/fonts) :gift_heart: - Our goal is to create a directory of web fonts for the world to use. Our API service makes it easy to add Google Fonts to a website in seconds. The service runs on Google's servers which are fast, reliable and tested. Google provides this service free of charge.
-- **Typeface**
-  * [Hack](https://github.com/chrissimpkins/Hack) :gift_heart: - A typeface designed for source code.
-  * [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart: - Source for the Sans Bullshit Sans font.
-
-
 
 ## 7.Icons
 - **CSS**

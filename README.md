@@ -15,7 +15,7 @@ Browser Luvin'
 1. [CSS Snippets](#css-snippets)
 1. [CSS Plugins](#css-plugins)
 1. [Fonts](#fonts)
-2. [Guides](#6.guides)
+2. [Guides](#6-guides)
 1. [Icons](#icons)
 1. [JQuery Plugins](#jquery-plugins)
 1. [JQuery Snippets](#jquery-snippets)

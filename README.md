@@ -357,6 +357,7 @@ Browser Luvin'
   * [Infogr.am](https://infogr.am/) :moneybag: - Charts & Infographics the Easy Way.
   * [MetricsGraphics.js](https://github.com/mozilla/metrics-graphics) :gift_heart: - A library optimized for concise, principled data graphics and layouts.
   * [Morris.js](https://github.com/morrisjs/morris.js/) :gift_heart: - Pretty time-series line graphs.
+  * [Sigma.js](https://github.com/jacomyal/sigma.js) :gift_heart: - Sigma is a JavaScript library dedicated to graph drawing.
   * [Taucharts](https://github.com/TargetProcess/tauCharts) :gift_heart: - D3 based data-focused charting library. Designed with passion. Flexible.
   * [Timesheets.js](https://github.com/sbstjn/timesheet.js) :gift_heart: - JavaScript library for HTML5 & CSS3 time sheets.
   * [Vis](https://github.com/almende/vis) :gift_heart: - Dynamic, browser-based visualization library.
@@ -364,7 +365,6 @@ Browser Luvin'
   * [DatePickr](https://github.com/joshsalverda/datepickr) :gift_heart: - A simple JavaScript date picker.
   * [Pikaday](https://github.com/dbushell/Pikaday) :gift_heart: - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS.
   * [Rome](https://github.com/bevacqua/rome) :gift_heart: - Customizable date (and time) picker. Opt-in UI, no jQuery!
-  * [Sigma.js](https://github.com/jacomyal/sigma.js) :gift_heart: - Sigma is a JavaScript library dedicated to graph drawing.
 - **Drag & Drop**
   * [Layout Grid](https://github.com/clippings/layout-grid) :gift_heart: - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile.
   * [Dragula](https://github.com/bevacqua/dragula) :gift_heart: - Drag and drop so simple it hurts.

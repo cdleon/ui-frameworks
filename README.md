@@ -335,14 +335,14 @@ Browser Luvin'
   * [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart: - Simple, easy, javascript benchmark testing.
   * [Stats.js](https://github.com/mrdoob/stats.js) :gift_heart: - JavaScript Performance Monitor.
   * [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart: - Navigation Timing API measurement helpers.
-- **Cut & Paste**
-  * [Clipboard.js](https://github.com/zenorocha/clipboard.js) :gift_heart: - Modern copy to clipboard. No Flash. Just 2kb.
 - **Browser Support**
   * [Modernizr](https://github.com/modernizr/modernizr) :gift_heart: - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - **Caching & Offline First**
   * [UpUp](https://github.com/TalAter/UpUp/) :gift_heart: - UpUp is a tiny javascript library that makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea.
 - **Chat & Messaging**
   * [Lets-chat](https://github.com/sdelements/lets-chat) :gift_heart: - Self-hosted chat app for small teams.
+- **Cut & Paste**
+  * [Clipboard.js](https://github.com/zenorocha/clipboard.js) :gift_heart: - Modern copy to clipboard. No Flash. Just 2kb.
 - **Databases**
   * [Lovefield (browser-database)](https://github.com/google/lovefield) :gift_heart: - Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use.
 - **Data Binding**
@@ -364,6 +364,7 @@ Browser Luvin'
   * [DatePickr](https://github.com/joshsalverda/datepickr) :gift_heart: - A simple JavaScript date picker.
   * [Pikaday](https://github.com/dbushell/Pikaday) :gift_heart: - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS.
   * [Rome](https://github.com/bevacqua/rome) :gift_heart: - Customizable date (and time) picker. Opt-in UI, no jQuery!
+  * [Sigma.js](https://github.com/jacomyal/sigma.js) :gift_heart: - Sigma is a JavaScript library dedicated to graph drawing.
 - **Drag & Drop**
   * [Layout Grid](https://github.com/clippings/layout-grid) :gift_heart: - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile.
   * [Dragula](https://github.com/bevacqua/dragula) :gift_heart: - Drag and drop so simple it hurts.

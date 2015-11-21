@@ -480,6 +480,8 @@ Browser Luvin'
 - **Text Editors**
   * [Highlight.js](https://github.com/isagalaev/highlight.js) :gift_heart: - Javascript syntax highlighter.
   * [Ritzy](https://github.com/ritzyed/ritzy) :gift_heart: - Collaborative web-based rich text editor.
+- **Torrents**
+  * [Webtorrent](https://github.com/feross/webtorrent) :gift_heart: - Streaming torrent client for node & the browser.
 - **WYSIWYG**
   * [Aloha](https://github.com/alohaeditor/Aloha-Editor/tree/howling-mad) :gift_heart: - Aloha Editor is a JavaScript content editing library.
   * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart: - The development repository of CKEditor.

@@ -3,7 +3,7 @@ Browser Luvin'
 
 :gift_heart: Free!
 
-:rainbow: Free for dev
+:rainbow: Free for non-profit / dev
 
 :moneybag: Show me the money
 

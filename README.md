@@ -134,6 +134,7 @@ Browser Luvin'
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart: - JavaScript Style Guide.
   * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) :gift_heart: - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
   * [Full Text Search in JavaScript](http://burakkanber.com/blog/machine-learning-full-text-search-in-javascript-relevance-scoring/) :gift_heart: - Full-text search, unlike most of the topics in this machine learning series, is a problem that most web developers have encountered at some point in their daily work.
+  * [Google JAvascript Style Guide](https://google.github.io/styleguide/javascriptguide.xml) :gift_heart: - JavaScript is the main client-side scripting language used by many of Google's open-source projects. This style guide is a list of dos and don'ts for JavaScript programs. 
   * [Khan ACademy JS Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md) :gift_heart: - This guide is adapted from the jQuery style guide.
   * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :gift_heart: - A book series on JavaScript.
 - **Responsive**
@@ -573,6 +574,10 @@ Browser Luvin'
   * Buttons
     + [Birliiant Button Maker](http://www.lucazappa.com/brilliantMaker/buttonImage.php) :gift_heart: - 80x15 Brilliant Button Maker.
 - **Linters**
+  * JS
+    + [Eslint](https://github.com/eslint/eslint) :gift_heart: - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+    + [JSHint](https://github.com/jshint/jshint) :gift_heart: - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
+    + [JSLint](https://github.com/reid/node-jslint) :gift_heart: - The JavaScript Code Quality Tool — for Node.js.
   * [ie8linter](https://github.com/israelidanny/ie8linter) :gift_heart: - A little tool to lint websites for IE8 compatibility, with warnings for possible pitfalls.
 - **Layout Generators**
   * [CSS Layout Generator](http://csslayoutgenerator.com/) :gift_heart: - CSS layout generator
@@ -581,6 +586,11 @@ Browser Luvin'
   * [PurifyCSS](https://github.com/purifycss/purifycss) :gift_heart: - Remove unused CSS. Also works with single-page apps.
   * [Javscript Minifier](http://javascript-minifier.com/) :gift_heart: - JavaScript Minifier/Compressor. Free! Provides an API. Simple Quick and Fast.
   * [Uglify.js](https://github.com/mishoo/UglifyJS) :gift_heart: - JavaScript parser / mangler / compressor / beautifier library for NodeJS.
+- **Package Managers / module loaders**
+  * [Bower](https://github.com/bower/bower) :gift_heart: - A package manager for the web.
+  * [Browserify](https://github.com/substack/node-browserify) :gift_heart: - Browser-side require() the node.js way.
+  * [require.js](https://github.com/jrburke/requirejs) :gift_heart: - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
+  * [Webpack](https://github.com/webpack/webpack) :gift_heart: - Webpack is a bundler for modules. The main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
 - **Responsive Analizers**
   * [AmIResponsive](http://ami.responsivedesign.is/) :gift_heart: - See your site responsive.
   * [Responsinator](http://www.responsinator.com/) :gift_heart: - Responsinator helps website makers quickly get an indication of how their responsive site will look on the most popular devices.

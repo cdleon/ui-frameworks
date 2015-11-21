@@ -575,10 +575,11 @@ Browser Luvin'
     + [Birliiant Button Maker](http://www.lucazappa.com/brilliantMaker/buttonImage.php) :gift_heart: - 80x15 Brilliant Button Maker.
 - **Linters**
   * JS
-    + [Eslint](https://github.com/eslint/eslint) :gift_heart: - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+    + [ESLint](https://github.com/eslint/eslint) :gift_heart: - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
     + [JSHint](https://github.com/jshint/jshint) :gift_heart: - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
     + [JSLint](https://github.com/reid/node-jslint) :gift_heart: - The JavaScript Code Quality Tool — for Node.js.
-  * [ie8linter](https://github.com/israelidanny/ie8linter) :gift_heart: - A little tool to lint websites for IE8 compatibility, with warnings for possible pitfalls.
+  * CrossBrowser Support
+    + [ie8linter](https://github.com/israelidanny/ie8linter) :gift_heart: - A little tool to lint websites for IE8 compatibility, with warnings for possible pitfalls.
 - **Layout Generators**
   * [CSS Layout Generator](http://csslayoutgenerator.com/) :gift_heart: - CSS layout generator
 - **Minifiers**

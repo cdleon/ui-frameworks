@@ -192,6 +192,8 @@ Browser Luvin'
   * [Tubular](http://www.seanmccambridge.com/tubular/) :gift_heart: - Tubular is a jQuery plugin that lets you set a YouTube video as your page background. Just attach it to your page wrapper element, set some options, and you're on your way.
 - **Data Processing & Visualization**
   * [Flot](https://github.com/flot/flot) :gift_heart: - Attractive JavaScript charts for jQuery.
+  * [JQuery Sparklines](http://omnipotent.net/jquery.sparkline/#s-about) :gift_heart: - This jQuery plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.
+  * [Peity.js](https://github.com/benpickles/peity) :gift_heart: - Progressive <svg> pie, donut, bar and line charts.
 - **Date Pickers**
   * [Pickadate](https://github.com/amsul/pickadate.js) :gift_heart: - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 - **Dialogs & Alerts**
@@ -349,20 +351,25 @@ Browser Luvin'
 - **Data Binding**
   * [Way.js](https://github.com/gwendall/way.js) :gift_heart: - Simple, lightweight, persistent two-way databinding.
 - **Data Processing & Visualization**
-  * [c3](https://github.com/masayuki0812/c3) :gift_heart: - A D3-based reusable chart library.
+  * [C3](https://github.com/masayuki0812/c3) :gift_heart: - A D3-based reusable chart library.
   * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) :gift_heart: - Tiny vanilla JS plugin to display large data sets easily.
   * [Chart.js](https://github.com/nnnick/Chart.js) :gift_heart: - Simple HTML5 Charts using the ```<canvas>``` tag.
+  * [D3](https://github.com/mbostock/d3) :gift_heart: - A JavaScript visualization library for HTML and SVG.
   * [ECharts](https://github.com/ecomfe/echarts) :gift_heart: - Enterprise Charts.
   * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart: - Draws simple SVG flow chart diagrams from textual representation of the diagram.
   * [graph-scroll.js](https://github.com/1wheel/graph-scroll) :gift_heart: - Simple scrolling events for d3 graphs. Based on stack.
+  * [Heatmap.js](https://github.com/pa7/heatmap.js) :gift_heart: - JavaScript Library for HTML5 canvas based heatmaps.
+  * [Highcharts](http://www.highcharts.com/) :rainbow: - Add interactive charts to your web site or web application.
   * [Infogr.am](https://infogr.am/) :moneybag: - Charts & Infographics the Easy Way.
   * [MetricsGraphics.js](https://github.com/mozilla/metrics-graphics) :gift_heart: - A library optimized for concise, principled data graphics and layouts.
   * [Morris.js](https://github.com/morrisjs/morris.js/) :gift_heart: - Pretty time-series line graphs.
   * [Plotly.js](https://github.com/plotly/plotly.js) :gift_heart: - Built on top of d3.js and stack.gl, plotly.js is a high-level, declarative charting library. plotly.js ships with 20 chart types, including 3D charts, statistical graphs, and SVG maps.
+  * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael/) :gift_heart: - JavaScript Vector Library.
   * [Sigma.js](https://github.com/jacomyal/sigma.js) :gift_heart: - Sigma is a JavaScript library dedicated to graph drawing.
   * [Taucharts](https://github.com/TargetProcess/tauCharts) :gift_heart: - D3 based data-focused charting library. Designed with passion. Flexible.
   * [Timesheets.js](https://github.com/sbstjn/timesheet.js) :gift_heart: - JavaScript library for HTML5 & CSS3 time sheets.
   * [Vis](https://github.com/almende/vis) :gift_heart: - Dynamic, browser-based visualization library.
+  * [WebCola](https://github.com/tgdwyer/WebCola) :gift_heart: - Javascript constraint-based graph layout.
 - **Date Pickers**
   * [DatePickr](https://github.com/joshsalverda/datepickr) :gift_heart: - A simple JavaScript date picker.
   * [Pikaday](https://github.com/dbushell/Pikaday) :gift_heart: - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS.
@@ -395,6 +402,7 @@ Browser Luvin'
   * [Phaser](https://github.com/photonstorm/phaser) :gift_heart: - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
   * [Pixi.js](https://github.com/pixijs/pixi.js) :gift_heart: - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
   * [Popmotion](https://github.com/Popmotion/popmotion) :gift_heart: - A 12kb Javascript motion engine. Use for animation, physics and input tracking.
+  * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael/) :gift_heart: - JavaScript Vector Library.
   * [Textgen.js](https://github.com/mrdoob/texgen.js) :gift_heart: - Procedural Texture Generator.
   * [Trianglify](https://github.com/qrohlf/trianglify) :gift_heart: - Algorithmically generated triangle art.
   * [Velociy](https://github.com/julianshapiro/velocity) :gift_heart: - Accelerated JavaScript animation.
@@ -408,8 +416,10 @@ Browser Luvin'
   * [Jssor](https://github.com/jssor/slider) :gift_heart: - Bootstrap Javascript jQuery Carousel/Slider/Slideshow/Gallery/Banner Responsive Image.
   * [Lory](https://github.com/meandmax/lory) :gift_heart: - Touch enabled minimalistic slider written in vanilla JavaScript.
   * [PhotoSwipe](https://github.com/dimsemenov/photoswipe) :gift_heart: - JavaScript image gallery for mobile and desktop, modular, framework independent.
+  * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael/) :gift_heart: - JavaScript Vector Library.
   * [Slick](https://github.com/kenwheeler/slick) :gift_heart: - The last carousel you'll ever need.
   * [Scooch](https://github.com/mobify/scooch) :gift_heart: - A mobile-first JavaScript-driven content and image carousel.
+  * [Springy](https://github.com/dhotson/springy/) :gift_heart: - A force directed graph layout algorithm in JavaScript.
   * [Swiper](https://github.com/nolimits4web/Swiper) :gift_heart: - Most modern mobile touch slider with hardware accelerated transitions.
 - **Image Manipulation**
   * [Aviary](https://developers.aviary.com/) :gift_heart: - A complete set of photo editing tools comes standard in Aviary’s cross-platform SDK. Select the tools that are best for your app, or use them all.

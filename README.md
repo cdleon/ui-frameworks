@@ -355,6 +355,7 @@ Browser Luvin'
   * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) :gift_heart: - Tiny vanilla JS plugin to display large data sets easily.
   * [Chart.js](https://github.com/nnnick/Chart.js) :gift_heart: - Simple HTML5 Charts using the ```<canvas>``` tag.
   * [D3](https://github.com/mbostock/d3) :gift_heart: - A JavaScript visualization library for HTML and SVG.
+  * [D3.Compose](https://github.com/CSNW/d3.compose) :gift_heart: - Compose complex, data-driven visualizations from reusable charts and components with d3.
   * [ECharts](https://github.com/ecomfe/echarts) :gift_heart: - Enterprise Charts.
   * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart: - Draws simple SVG flow chart diagrams from textual representation of the diagram.
   * [graph-scroll.js](https://github.com/1wheel/graph-scroll) :gift_heart: - Simple scrolling events for d3 graphs. Based on stack.

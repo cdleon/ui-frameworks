@@ -12,8 +12,8 @@ Browser Luvin'
 
 1. [Angular Modules](#1angular-modules)
 1. [CSS Frameworks](#2css-frameworks)
-1. [CSS Snippets](#3css-snippets)
-1. [CSS Plugins](#4css-plugins)
+1. [CSS Plugins](#3css-plugins)
+1. [CSS Snippets](#4css-snippets)
 1. [Fonts](#5fonts)
 2. [Guides](#6guides)
 1. [Icons](#7icons)

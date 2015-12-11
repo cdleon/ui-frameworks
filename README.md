@@ -65,6 +65,7 @@ Browser Luvin'
 - [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) :gift_heart: - Semantic is a UI component framework based around useful principles from natural language.
 - [Skeleton](https://github.com/dhg/Skeleton) :gift_heart: - A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development.
 - [Topcoat](https://github.com/topcoat/topcoat) :gift_heart: - CSS for clean and fast web apps.
+- [Tufte-css](https://github.com/edwardtufte/tufte-css) :gift_heart: - Style your webpage like Edward Tufte's handouts.
 - [Typebase.css](https://github.com/devinhunt/typebase.css) :gift_heart: - A starting point for good typography on the web.
 - [UIKit](https://github.com/uikit/uikit) :gift_heart: - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 - [USDS Web Design Standards](https://github.com/18F/web-design-standards) :gift_heart: Open source UI components and visual style guide for U.S. government websites
@@ -137,6 +138,7 @@ Browser Luvin'
   * [Google JAvascript Style Guide](https://google.github.io/styleguide/javascriptguide.xml) :gift_heart: - JavaScript is the main client-side scripting language used by many of Google's open-source projects. This style guide is a list of dos and don'ts for JavaScript programs. 
   * [Khan ACademy JS Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md) :gift_heart: - This guide is adapted from the jQuery style guide.
   * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :gift_heart: - A book series on JavaScript.
+  * [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) :gift_heart: - You don't need jQuery any more, here is how you can get rid of it. 
 - **Responsive**
   * [Media Queries (Examples)](http://mediaqueri.es/) :gift_heart: - A collection of inspirational websites using media queries and responsive web design.
   * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart: - We built screensiz.es to help you quickly find the screen specifications of the most popular devices and monitors currently on the market.
@@ -147,6 +149,7 @@ Browser Luvin'
   * [CSS Guidelines](http://cssguidelin.es/) :gift_heart: - High-level advice and guidelines for writing sane, manageable, scalable CSS.
   * [Khan Academy CSS Style Guide](https://github.com/Khan/style-guides/blob/master/style/css.md) :gift_heart: - Welcome to the CSS style guide. This guide borrows heavily from Github's Primer CSS guidelines, so thanks to them!
   * [Magic of CSS](https://github.com/adamschwartz/magic-of-css) :gift_heart: - A CSS course for web developers who want to be magicians.
+  * [RCSS](https://github.com/rstacruz/rscss) :gift_heart: - Reasonable System for CSS Stylesheet Structure.
   * [Styling with SASS](http://juliocesar.github.io/styling-with-sass/) :gift_heart: - What most hate, perhaps without even knowing, is not CSS per se, but non-systematic styling.
   * [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart: - The U.S. Digital Services Playbook
 
@@ -356,6 +359,7 @@ Browser Luvin'
   * [Chart.js](https://github.com/nnnick/Chart.js) :gift_heart: - Simple HTML5 Charts using the ```<canvas>``` tag.
   * [D3](https://github.com/mbostock/d3) :gift_heart: - A JavaScript visualization library for HTML and SVG.
   * [D3.Compose](https://github.com/CSNW/d3.compose) :gift_heart: - Compose complex, data-driven visualizations from reusable charts and components with d3.
+  * [D3-Shape](https://github.com/d3/d3-shape) :gift_heart: - Graphical primitives for visualization, such as lines and areas.
   * [ECharts](https://github.com/ecomfe/echarts) :gift_heart: - Enterprise Charts.
   * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart: - Draws simple SVG flow chart diagrams from textual representation of the diagram.
   * [graph-scroll.js](https://github.com/1wheel/graph-scroll) :gift_heart: - Simple scrolling events for d3 graphs. Based on stack.
@@ -399,6 +403,7 @@ Browser Luvin'
   * [Validate.js](https://github.com/rickharrison/validate.js/) :gift_heart: - Lightweight JavaScript form validation library inspired by CodeIgniter.
 - **Graphics & Animation**
   * [Layer Visualizer](https://github.com/romannurik/LayerVisualizer) :gift_heart: - A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows).
+  * [Mojs](https://github.com/legomushroom/mojs) :gift_heart: - Motion graphics toolbelt for the web.
   * [p5.js](https://github.com/processing/p5.js) :gift_heart: - p5.js is a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
   * [Phaser](https://github.com/photonstorm/phaser) :gift_heart: - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
   * [Pixi.js](https://github.com/pixijs/pixi.js) :gift_heart: - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
@@ -459,8 +464,9 @@ Browser Luvin'
   * [Winamp2-js](https://github.com/captbaritone/winamp2-js) :gift_heart: - A reimplementation of Winamp 2.9 in HTML5 and Javascript.
 - **Menus & Navigation**
   * [Slideout.js (For-Mobile)](https://github.com/Mango/slideout) :gift_heart: - A touch slideout navigation menu for your mobile web apps.
-- **Modal**
+- **Modals & Alerts**
   * [jsModal](http://jsmodal.com/) :gift_heart: - Modal generator in pure JavaScript. - An open-source modal box engine written in pure JavaScript.
+  * [Notiejs](https://github.com/jaredreich/notie.js) :gift_heart: - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies.
 - **Parallax & Scrolling**
   * [Elevator.js](https://github.com/tholman/elevator.js) :gift_heart: - Finally, a "back to top" button that behaves like a real elevator.
   * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart: - Infinite list in javascript that scrolls in 60fps.

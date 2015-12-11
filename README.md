@@ -596,6 +596,9 @@ Browser Luvin'
     + [How to Center in CSS](http://howtocenterincss.com/) :gift_heart: - Centering in CSS is a pain in the ass. There seems to be a gazillion ways to do it, depending on a variety of factors. This consolidates them and gives you the code you need for each situation.
   * Buttons
     + [Birliiant Button Maker](http://www.lucazappa.com/brilliantMaker/buttonImage.php) :gift_heart: - 80x15 Brilliant Button Maker.
+- **Debuging**
+  * Network
+   + [Betwixt](https://github.com/kdzwinel/betwixt) :gift_heart: - Web Debugging Proxy based on Chrome DevTools Network panel.
 - **Linters**
   * JS
     + [ESLint](https://github.com/eslint/eslint) :gift_heart: - A fully pluggable tool for identifying and reporting on patterns in JavaScript.

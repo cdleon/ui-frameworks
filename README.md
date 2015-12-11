@@ -98,6 +98,12 @@ Browser Luvin'
   * [Pure CSS Components](https://github.com/LFeh/css-components/) :gift_heart: - A set of common UI Components using the power of CSS and without Javascript.
 
 ## 4.CSS Snippets
+- **Blog Libraries**
+  * [1stWebDesigner](http://www.1stwebdesigner.com/useful-css-snippets/) :gift_heart: - 25 Incredibly Useful CSS Snippets for Developers.
+  * [Design Your Way](http://www.designyourway.net/blog/resources/31-css-code-snippets-to-make-you-a-better-coder/) :gift_heart: - Here are some of the ones that you would need more often than others.
+  * [Noupe](http://www.noupe.com/design/useful-css-snippets-for-your-coding-arsenal.html) :gift_heart: - In this article we have listed 30 CSS snippets that we think you will find very useful.
+  * [Six Revisions](http://sixrevisions.com/category/css/) :gift_heart: - Six Revisions is a web publication for web developers and web designers. We publish articles, guides, tutorials, news and other forms of content for people who design and build sites and apps.
+  * [Speckyboy](http://speckyboy.com/2011/04/15/25-css-snippets-for-some-of-the-most-common-and-frustrating-tasks/) :gift_heart: - 25 CSS Snippets for Some of the Most Common and Frustrating Tasks.
 - **Bootsrap Libraries**
   * [Bootsnipp](http://bootsnipp.com/) :gift_heart: -  Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework.
   * [Design Bootsrap](http://www.designbootstrap.com/category/bootstrap-snippets/) :gift_heart: - 100% Free and unique bootstrap themes, templates, snippets and Bootstrap design tools for personal and commercial use.
@@ -110,12 +116,8 @@ Browser Luvin'
   * [Smipple](http://www.smipple.net/lang/css) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
   * [Snipplr](http://snipplr.com/) :gift_heart: - All of our code snippets are stored in one place.
   * [Snipt](https://snipt.net/public/tag/css/) :gift_heart: - The publishing platform for coders.
-- **Blog Libraries**
-  * [1stWebDesigner](http://www.1stwebdesigner.com/useful-css-snippets/) :gift_heart: - 25 Incredibly Useful CSS Snippets for Developers.
-  * [Design Your Way](http://www.designyourway.net/blog/resources/31-css-code-snippets-to-make-you-a-better-coder/) :gift_heart: - Here are some of the ones that you would need more often than others.
-  * [Noupe](http://www.noupe.com/design/useful-css-snippets-for-your-coding-arsenal.html) :gift_heart: - In this article we have listed 30 CSS snippets that we think you will find very useful.
-  * [Six Revisions](http://sixrevisions.com/category/css/) :gift_heart: - Six Revisions is a web publication for web developers and web designers. We publish articles, guides, tutorials, news and other forms of content for people who design and build sites and apps.
-  * [Speckyboy](http://speckyboy.com/2011/04/15/25-css-snippets-for-some-of-the-most-common-and-frustrating-tasks/) :gift_heart: - 25 CSS Snippets for Some of the Most Common and Frustrating Tasks.
+- **Other**
+  * [Github Corners](https://github.com/tholman/github-corners) :gift_heart: - "Fork me on GitHub" ribbons are 7 years old. This is a cleaner alternative. 
 
 ## 5.Fonts
 - **CSS**
@@ -521,8 +523,6 @@ Browser Luvin'
     + [Snipplr](http://snipplr.com/) :gift_heart: - Lets you store and share all of your commonly used pieces of code and HTML with other programmers and designers.
     + [Snipt (tag:javascript)](https://snipt.net/public/tag/javascript/) :gift_heart: -  - The publishing platform for coders.
     + [Snipt (tag:js)](https://snipt.net/public/tag/js/) :gift_heart: -  - The publishing platform for coders.
-  * **Other**
-    + [Github Corners](https://github.com/tholman/github-corners) :gift_heart: - "Fork me on GitHub" ribbons are 7 years old. This is a cleaner alternative. 
 
 ## 14.React Frameworks
   * [Elemental UI](http://elemental-ui.com/) :gift_heart: - A UI Toolkit for React.js Websites and Apps.

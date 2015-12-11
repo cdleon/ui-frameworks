@@ -529,6 +529,7 @@ Browser Luvin'
   * [Essential](https://github.com/pheuter/essential-react) :gift_heart: - A minimal skeleton for building testable React apps using ES6.
   * [Flux](https://github.com/facebook/flux) :gift_heart: - An application architecture for React utilizing a unidirectional data flow.
   * [Marty](https://github.com/martyjs/marty) :gift_heart: - A Javascript library for state management in React applications.
+  * [React Toolbox](https://github.com/react-toolbox/react-toolbox) :gift_heart: - A set of React components implementing Google's Material Design specification with the power of CSS Modules.
   * [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) :gift_heart: - A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
   * [Reapp](https://github.com/reapp/reapp) :gift_heart: - Reapp - next gen hybrid apps.
   * [Relay](https://github.com/facebook/relay) :gift_heart: - Relay is a JavaScript framework for building data-driven React applications.
@@ -541,6 +542,8 @@ Browser Luvin'
   * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components
 - **Loading Bars**
   * [react-rogressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart: - Responsive and slick progress bars for React.
+- **Maps**
+  * [react-map-gl](https://github.com/uber/react-map-gl) :gift_heart: - react-map-gl provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library.
 
 ## 16.Templates
 - **Bootstrap**

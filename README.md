@@ -238,6 +238,7 @@ Browser Luvin'
   * [FancyBox](https://github.com/fancyapps/fancyBox) :rainbow: - Tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
   * [Magnificent Popup](https://github.com/dimsemenov/Magnific-Popup) :gift_heart: - Light and responsive lightbox script with focus on performance.
 - **Parallax & Scrolling**
+  *[Fullpage.js](https://github.com/alvarotrigo/fullPage.js) :gift_heart: - Create full screen pages fast and simple.
   * [ScrollMagic](https://github.com/janpaepke/ScrollMagic) :gift_heart: - The javascript library for magical scroll interactions.
   * [Scroll Path](https://github.com/JoelBesada/scrollpath) :gift_heart: - A plugin for defining custom scroll paths.
   * [Cool Kitten](https://github.com/jalxob/cool-kitten) :gift_heart: - A parallax scrolling responsive framework.

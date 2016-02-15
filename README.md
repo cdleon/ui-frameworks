@@ -48,13 +48,13 @@ Browser Luvin'
 
 
 ## 2.CSS Frameworks
-- [Amaze UI](https://github.com/allmobilize/amazeui) :gift_heart: - Amaze UI, a mobile-first and modular front-end framework.
-- [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart: - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [Bulma](https://github.com/jgthms/bulma) :gift_heart: - Modern CSS framework based on Flexbox [http://bulma.io](http://bulma.io)
-- [Foundation](https://github.com/zurb/foundation) :gift_heart: - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-- [Gumby](https://github.com/GumbyFramework/Gumby) :gift_heart: - A Flexible, Responsive CSS Framework - Powered by Sass.
-- [Kube](https://github.com/imperavi/kube) :gift_heart: - Kube is a minimalistic Web framework for professional developers and designers.
-- [Primer](https://github.com/primer/primer) :gift_heart: - The base coat of GitHub. Our internal CSS toolkit and guidelines.
+- [Amaze UI](https://github.com/allmobilize/amazeui) :gift_heart: - Amaze UI, a mobile-first and modular front-end framework. [http://amazeui.org/](http://amazeui.org/)
+- [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart: - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. [http://getbootstrap.com](http://getbootstrap.com)
+- [Bulma](https://github.com/jgthms/bulma) :gift_heart: - Modern CSS framework based on Flexbox. [http://bulma.io](http://bulma.io)
+- [Foundation](https://github.com/zurb/foundation) :gift_heart: - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device. [http://foundation.zurb.com](http://foundation.zurb.com)
+- [Gumby](https://github.com/GumbyFramework/Gumby) :gift_heart: - A Flexible, Responsive CSS Framework - Powered by Sass. [http://gumbyframework.com/](http://gumbyframework.com/)
+- [Kube](https://github.com/imperavi/kube) :gift_heart: - Kube is a minimalistic Web framework for professional developers and designers. [https://imperavi.com/kube/](https://imperavi.com/kube/)
+- [Primer](https://github.com/primer/primer) :gift_heart: - The base coat of GitHub. Our internal CSS toolkit and guidelines. [https://github.com/primer/primer](https://github.com/primer/primer)
 - [Less Framework](https://github.com/jonikorpi/Less-Framework) :gift_heart: - An adaptive CSS grid system.
 - [Material Design Lite](https://github.com/google/material-design-lite) :gift_heart: - Material Design Lite (MDL) lets you add a Material Design look and feel to your static content websites. It doesn't rely on any JavaScript frameworks or libraries.
 - [Materialize](https://github.com/Dogfalo/materialize) :gift_heart: - CSS Framework based on Material Design.

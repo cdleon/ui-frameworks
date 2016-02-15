@@ -50,6 +50,7 @@ Browser Luvin'
 ## 2.CSS Frameworks
 - [Amaze UI](https://github.com/allmobilize/amazeui) :gift_heart: - Amaze UI, a mobile-first and modular front-end framework.
 - [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart: - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [Bulma](https://github.com/jgthms/bulma) :gift_heart: - Modern CSS framework based on Flexbox [http://bulma.io](http://bulma.io)
 - [Foundation](https://github.com/zurb/foundation) :gift_heart: - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [Gumby](https://github.com/GumbyFramework/Gumby) :gift_heart: - A Flexible, Responsive CSS Framework - Powered by Sass.
 - [Kube](https://github.com/imperavi/kube) :gift_heart: - Kube is a minimalistic Web framework for professional developers and designers.

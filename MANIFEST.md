@@ -8,7 +8,7 @@
 + Titles should be capitilized (unless is intended to start with lower case [like for example the iPhone])
 + Post title and useful description
 + Use github repo link always, unless item does not have one
-+ Format -> \[title\]\(link\) :emoji: - description
++ Format -> \[title\]\(link\) :emoji: - description website (if available)
 + Make sure you follow alphabetical order
 + Check your spelling!
 + Check for trailling spaces

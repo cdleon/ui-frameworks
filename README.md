@@ -55,15 +55,15 @@ Browser Luvin'
 - [Gumby](https://github.com/GumbyFramework/Gumby) :gift_heart: - A Flexible, Responsive CSS Framework - Powered by Sass. [http://gumbyframework.com/](http://gumbyframework.com/)
 - [Kube](https://github.com/imperavi/kube) :gift_heart: - Kube is a minimalistic Web framework for professional developers and designers. [https://imperavi.com/kube/](https://imperavi.com/kube/)
 - [Primer](https://github.com/primer/primer) :gift_heart: - The base coat of GitHub. Our internal CSS toolkit and guidelines. [https://github.com/primer/primer](https://github.com/primer/primer)
-- [Less Framework](https://github.com/jonikorpi/Less-Framework) :gift_heart: - An adaptive CSS grid system.
-- [Material Design Lite](https://github.com/google/material-design-lite) :gift_heart: - Material Design Lite (MDL) lets you add a Material Design look and feel to your static content websites. It doesn't rely on any JavaScript frameworks or libraries.
-- [Materialize](https://github.com/Dogfalo/materialize) :gift_heart: - CSS Framework based on Material Design.
-- [Material UI](https://github.com/callemall/material-ui) :gift_heart: - React Components that Implement Google's Material Design.
-- [MUI](https://github.com/muicss/mui) :gift_heart: - MUI is a lightweight CSS framework that follows Google's Material Design guidelines.
-- [Office UI Fabric](https://github.com/OfficeDev/Office-UI-Fabric) :gift_heart: - The front-end framework for building experiences for Office 365.
-- [Pure](https://github.com/yahoo/pure/) :gift_heart: - A set of small, responsive CSS modules that you can use in every web project.
-- [Responsive](https://github.com/ResponsiveBP/Responsive) :gift_heart: - A powerful, accessible, developer friendly framework for building responsive websites.
-- [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) :gift_heart: - Semantic is a UI component framework based around useful principles from natural language.
+- [Less Framework](https://github.com/jonikorpi/Less-Framework) :gift_heart: - An adaptive CSS grid system. [http://lessframework.com/](http://lessframework.com/)
+- [Material Design Lite](https://github.com/google/material-design-lite) :gift_heart: - Material Design Lite (MDL) lets you add a Material Design look and feel to your static content websites. It doesn't rely on any JavaScript frameworks or libraries. [http://getmdl.io](http://getmdl.io)
+- [Materialize](https://github.com/Dogfalo/materialize) :gift_heart: - CSS Framework based on Material Design. [http://materializecss.com](http://materializecss.com)
+- [Material UI](https://github.com/callemall/material-ui) :gift_heart: - React Components that Implement Google's Material Design. [http://www.material-ui.com](http://www.material-ui.com)
+- [MUI](https://github.com/muicss/mui) :gift_heart: - MUI is a lightweight CSS framework that follows Google's Material Design guidelines. [https://www.muicss.com](https://www.muicss.com)
+- [Office UI Fabric](https://github.com/OfficeDev/Office-UI-Fabric) :gift_heart: - The front-end framework for building experiences for Office 365. [http://dev.office.com/fabric](http://dev.office.com/fabric)
+- [Pure](https://github.com/yahoo/pure/) :gift_heart: - A set of small, responsive CSS modules that you can use in every web project. 
+- [Responsive](https://github.com/ResponsiveBP/Responsive) :gift_heart: - A powerful, accessible, developer friendly framework for building responsive websites. [http://responsivebp.com](http://responsivebp.com)
+- [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) :gift_heart: - Semantic is a UI component framework based around useful principles from natural language. [http://www.semantic-ui.com](http://www.semantic-ui.com)
 - [Skeleton](https://github.com/dhg/Skeleton) :gift_heart: - A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development.
 - [Topcoat](https://github.com/topcoat/topcoat) :gift_heart: - CSS for clean and fast web apps.
 - [Tufte-css](https://github.com/edwardtufte/tufte-css) :gift_heart: - Style your webpage like Edward Tufte's handouts.

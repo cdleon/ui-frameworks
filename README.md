@@ -92,7 +92,7 @@ Browser Luvin'
   * [CSS Modal](https://github.com/drublic/css-modal) :gift_heart: - A modal built out of pure CSS.
 - **Plots & Charts**
   * [CSS Plots](https://github.com/asciimoo/cssplot) :gift_heart: - Pure CSS charts.
-- ** Pointers & Tooltips**
+- **Pointers & Tooltips**
   * [Hint.css](https://github.com/chinchang/hint.css) :gift_heart: - A CSS only tooltip library for your lovely websites. [http://kushagragour.in/lab/hint/](http://kushagragour.in/lab/hint/)
 - **Text Effects**
   * [Animate.css](https://github.com/daneden/animate.css) :gift_heart: - A cross-browser library of CSS animations. As easy to use as an easy thing.

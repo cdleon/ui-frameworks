@@ -61,17 +61,17 @@ Browser Luvin'
 - [Material UI](https://github.com/callemall/material-ui) :gift_heart: - React Components that Implement Google's Material Design. [http://www.material-ui.com](http://www.material-ui.com)
 - [MUI](https://github.com/muicss/mui) :gift_heart: - MUI is a lightweight CSS framework that follows Google's Material Design guidelines. [https://www.muicss.com](https://www.muicss.com)
 - [Office UI Fabric](https://github.com/OfficeDev/Office-UI-Fabric) :gift_heart: - The front-end framework for building experiences for Office 365. [http://dev.office.com/fabric](http://dev.office.com/fabric)
-- [Pure](https://github.com/yahoo/pure/) :gift_heart: - A set of small, responsive CSS modules that you can use in every web project. 
+- [Pure](https://github.com/yahoo/pure/) :gift_heart: - A set of small, responsive CSS modules that you can use in every web project. [http://purecss.io/](http://purecss.io/)
 - [Responsive](https://github.com/ResponsiveBP/Responsive) :gift_heart: - A powerful, accessible, developer friendly framework for building responsive websites. [http://responsivebp.com](http://responsivebp.com)
 - [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) :gift_heart: - Semantic is a UI component framework based around useful principles from natural language. [http://www.semantic-ui.com](http://www.semantic-ui.com)
-- [Skeleton](https://github.com/dhg/Skeleton) :gift_heart: - A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development.
-- [Topcoat](https://github.com/topcoat/topcoat) :gift_heart: - CSS for clean and fast web apps.
-- [Tufte-css](https://github.com/edwardtufte/tufte-css) :gift_heart: - Style your webpage like Edward Tufte's handouts.
-- [Typebase.css](https://github.com/devinhunt/typebase.css) :gift_heart: - A starting point for good typography on the web.
-- [UIKit](https://github.com/uikit/uikit) :gift_heart: - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
-- [USDS Web Design Standards](https://github.com/18F/web-design-standards) :gift_heart: Open source UI components and visual style guide for U.S. government websites
-- [Yaml](https://github.com/yamlcss/yaml) :gift_heart: - YAML (Yet Another Multicolumn Layout) is a modular CSS framework for truly flexible, accessible and responsive websites. It is based on Sass and has a very slim framework core that weights only ~6kB.
-- [Yahoo User Interface Library](https://github.com/yui/yui3) :gift_heart: - YUI is a free, open source JavaScript and CSS framework for building richly interactive web applications.
+- [Skeleton](https://github.com/dhg/Skeleton) :gift_heart: - A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development. [http://www.getskeleton.com](http://www.getskeleton.com)
+- [Topcoat](https://github.com/topcoat/topcoat) :gift_heart: - CSS for clean and fast web apps. [http://topcoat.io](http://topcoat.io)
+- [Tufte-css](https://github.com/edwardtufte/tufte-css) :gift_heart: - Style your webpage like Edward Tufte's handouts. [https://edwardtufte.github.io/tufte-css/](https://edwardtufte.github.io/tufte-css/)
+- [Typebase.css](https://github.com/devinhunt/typebase.css) :gift_heart: - A starting point for good typography on the web. [http://devinhunt.github.io/typebase.css/](http://devinhunt.github.io/typebase.css/)
+- [UIKit](https://github.com/uikit/uikit) :gift_heart: - A lightweight and modular front-end framework for developing fast and powerful web interfaces. [http://getuikit.com](http://getuikit.com)
+- [USDS Web Design Standards](https://github.com/18F/web-design-standards) :gift_heart: Open source UI components and visual style guide for U.S. government websites. [https://playbook.cio.gov/designstandards](https://playbook.cio.gov/designstandards)
+- [Yaml](https://github.com/yamlcss/yaml) :gift_heart: - YAML (Yet Another Multicolumn Layout) is a modular CSS framework for truly flexible, accessible and responsive websites. It is based on Sass and has a very slim framework core that weights only ~6kB. [http://www.yaml.de](http://www.yaml.de)
+- [Yahoo User Interface Library](https://github.com/yui/yui3) :gift_heart: - YUI is a free, open source JavaScript and CSS framework for building richly interactive web applications. [http://yuilibrary.com/](http://yuilibrary.com/)
 
 ## 3.CSS Plugins
 - **Button groups**

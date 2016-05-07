@@ -1,5 +1,7 @@
 # Awesome Front End
-Browser Luvin'
+Browser Luvin', OCD friendly
+
+Please read manifest to contribute :)
 
 :gift_heart: Free!
 

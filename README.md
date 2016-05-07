@@ -86,7 +86,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Browser Support**
   * [HTML5 Shiv](https://github.com/afarkas/html5shiv) :gift_heart: - The HTML5 Shiv enables use of HTML5 sectioning elements in legacy Internet Explorer and provides basic HTML5 styling for Internet Explorer 6-9, Safari 4.x (and iPhone 3.x), and Firefox 3.x.
 - **Cross Browser Rendering & Consistency**
-  * [Normalize.css](https://github.com/necolas/normalize.css/) - Normalize.css is a customisable CSS file that makes browsers render all elements more consistently and in line with modern standards.
+  * [Normalize.css](https://github.com/necolas/normalize.css/) :gift_heart: - Normalize.css is a customisable CSS file that makes browsers render all elements more consistently and in line with modern standards.
 - **Effects**
   * [iHover](https://github.com/gudh/ihover) :gift_heart: - iHover is a collection of hover effects using pure CSS, powered by Sass. 
   * [Hover](https://github.com/IanLunn/Hover) :gift_heart: - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.

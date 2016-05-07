@@ -1,4 +1,6 @@
 # Awesome Front End
+
+[![Join the chat at https://gitter.im/cdleon/awesome-front-end](https://badges.gitter.im/cdleon/awesome-front-end.svg)](https://gitter.im/cdleon/awesome-front-end?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Browser Luvin'
 
 OCD friendly

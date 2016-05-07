@@ -11,6 +11,8 @@ Please read manifest to contribute :)
 
 :moneybag: Show me the money
 
+## Todo
+- Add missing website links
 
 ## Table of Contents
 

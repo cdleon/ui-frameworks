@@ -1,5 +1,6 @@
 # Awesome Front End
-Browser Luvin', OCD friendly
+Browser Luvin'
+OCD friendly
 
 Please read manifest to contribute :)
 

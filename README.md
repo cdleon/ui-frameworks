@@ -18,7 +18,7 @@ Please read manifest to contribute :)
 
 ## Table of Contents
 
-1. [Angular Modules](#1angular-modules)
+1. [Angular Directives](#1angular-directives)
 1. [CSS Frameworks](#2css-frameworks)
 1. [CSS Plugins](#3css-plugins)
 1. [CSS Snippets](#4css-snippets)
@@ -36,7 +36,7 @@ Please read manifest to contribute :)
 1. [Templates](#16templates)
 1. [Tools](#17tools)
 
-## 1.Angular Modules
+## 1.Angular Directives
 - **Bootstrap**
   * [UI Bootstrap](https://github.com/angular-ui/bootstrap) :gift_heart: - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required.
 - **Calendar**

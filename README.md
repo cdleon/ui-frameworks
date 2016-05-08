@@ -1,6 +1,7 @@
 # Awesome Front End
 
-[![Join the chat at https://gitter.im/cdleon/awesome-front-end](https://badges.gitter.im/cdleon/awesome-front-end.svg)](https://gitter.im/cdleon/awesome-front-end?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/cdleon/awesome-front-end](https://badges.gitter.im/cdleon/awesome-front-end.svg)](https://gitter.im/cdleon/awesome-front-end?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
+[![Build Status](https://travis-ci.org/cdleon/awesome-front-end.svg?branch=master)](https://travis-ci.org/cdleon/awesome-front-end)
 
 Browser Luvin'
 

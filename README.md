@@ -31,8 +31,8 @@ Please read manifest to contribute :)
 1. [Loaders](#11loaders)
 1. [Pure JS Plugins](#12pure-js-plugins)
 1. [Pure JS Snippets](#13pure-js-snippets)
+1. [React Components](#15react-components)
 1. [React Frameworks](14#react-frameworks)
-1. [React Plugins](#15react-plugins)
 1. [Templates](#16templates)
 1. [Tools](#17tools)
 
@@ -537,7 +537,17 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
     + [Snipt (tag:javascript)](https://snipt.net/public/tag/javascript/) :gift_heart: -  - The publishing platform for coders.
     + [Snipt (tag:js)](https://snipt.net/public/tag/js/) :gift_heart: -  - The publishing platform for coders.
 
-## 14.React Frameworks
+## 14.React Components
+- **Chat & Messaging**
+  * [Mattermost](https://github.com/mattermost/platform) :gift_heart: - Open source Slack-alternative in Golang and React.
+- **Graphics & Animation**
+  * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components
+- **Loading Bars**
+  * [react-rogressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart: - Responsive and slick progress bars for React.
+- **Maps**
+  * [react-map-gl](https://github.com/uber/react-map-gl) :gift_heart: - react-map-gl provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library.
+
+## 15.React Frameworks
   * [Elemental UI](http://elemental-ui.com/) :gift_heart: - A UI Toolkit for React.js Websites and Apps.
   * [Essential](https://github.com/pheuter/essential-react) :gift_heart: - A minimal skeleton for building testable React apps using ES6.
   * [Flux](https://github.com/facebook/flux) :gift_heart: - An application architecture for React utilizing a unidirectional data flow.
@@ -547,16 +557,6 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Reapp](https://github.com/reapp/reapp) :gift_heart: - Reapp - next gen hybrid apps.
   * [Relay](https://github.com/facebook/relay) :gift_heart: - Relay is a JavaScript framework for building data-driven React applications.
   * [TuxedoJS](https://github.com/TuxedoJS/TuxedoJS) :gift_heart: - A feature-complete framework built on React and Flux.
-
-## 15.React Plugins
-- **Chat & Messaging**
-  * [Mattermost](https://github.com/mattermost/platform) :gift_heart: - Open source Slack-alternative in Golang and React.
-- **Graphics & Animation**
-  * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components
-- **Loading Bars**
-  * [react-rogressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart: - Responsive and slick progress bars for React.
-- **Maps**
-  * [react-map-gl](https://github.com/uber/react-map-gl) :gift_heart: - react-map-gl provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library.
 
 ## 16.Templates
 - **Bootstrap**

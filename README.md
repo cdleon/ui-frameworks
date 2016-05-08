@@ -57,17 +57,17 @@ Please read manifest to contribute :)
 
 
 ## 2.CSS Frameworks
-- [Amaze UI](https://github.com/allmobilize/amazeui) :gift_heart: - Amaze UI, a mobile-first and modular front-end framework. [http://amazeui.org/](http://amazeui.org/)
+- [Amaze UI](https://github.com/amazeui/amazeui) :gift_heart: - Amaze UI, a mobile-first and modular front-end framework. [http://amazeui.org/](http://amazeui.org/)
 - [Bootmetro](https://github.com/aozora/bootmetro) :gift_heart: - Simple and flexible web framework to create elegant and modern web applications 
 with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](http://www.marcellop.com/bootmetro/)
 - [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart: - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. [http://getbootstrap.com](http://getbootstrap.com)
 - [Bulma](https://github.com/jgthms/bulma) :gift_heart: - Modern CSS framework based on Flexbox. [http://bulma.io](http://bulma.io)
-- [Foundation](https://github.com/zurb/foundation) :gift_heart: - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device. [http://foundation.zurb.com](http://foundation.zurb.com)
-- [Gumby](https://github.com/GumbyFramework/Gumby) :gift_heart: - A Flexible, Responsive CSS Framework - Powered by Sass. [http://gumbyframework.com/](http://gumbyframework.com/)
+- [Foundation](https://github.com/zurb/foundation-sites) :gift_heart: - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device. [http://foundation.zurb.com](http://foundation.zurb.com)
+- [Gumby](https://github.com/GumbyFramework/Gumby) :gift_heart: - A Flexible, Responsive CSS Framework - Powered by Sass. [http://www.gumbyframework.com/](http://www.gumbyframework.com/)
 - [Kube](https://github.com/imperavi/kube) :gift_heart: - Kube is a minimalistic Web framework for professional developers and designers. [https://imperavi.com/kube/](https://imperavi.com/kube/)
 - [Primer](https://github.com/primer/primer) :gift_heart: - The base coat of GitHub. Our internal CSS toolkit and guidelines. [https://github.com/primer/primer](https://github.com/primer/primer)
-- [Less Framework](https://github.com/jonikorpi/Less-Framework) :gift_heart: - An adaptive CSS grid system. [http://lessframework.com/](http://lessframework.com/)
-- [Material Design Lite](https://github.com/google/material-design-lite) :gift_heart: - Material Design Lite (MDL) lets you add a Material Design look and feel to your static content websites. It doesn't rely on any JavaScript frameworks or libraries. [http://getmdl.io](http://getmdl.io)
+- [Less Framework](https://github.com/jonikorpi/Less-Framework) :gift_heart: - An adaptive CSS grid system. [http://www.jonikorpi.com/less-framework/](http://www.jonikorpi.com/less-framework/)
+- [Material Design Lite](https://github.com/google/material-design-lite) :gift_heart: - Material Design Lite (MDL) lets you add a Material Design look and feel to your static content websites. It doesn't rely on any JavaScript frameworks or libraries. [https://getmdl.io/](https://getmdl.io/)
 - [Materialize](https://github.com/Dogfalo/materialize) :gift_heart: - CSS Framework based on Material Design. [http://materializecss.com](http://materializecss.com)
 - [Material UI](https://github.com/callemall/material-ui) :gift_heart: - React Components that Implement Google's Material Design. [http://www.material-ui.com](http://www.material-ui.com)
 - [MUI](https://github.com/muicss/mui) :gift_heart: - MUI is a lightweight CSS framework that follows Google's Material Design guidelines. [https://www.muicss.com](https://www.muicss.com)
@@ -75,13 +75,13 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - [Penguin](https://github.com/bq/penguin) :gift_heart: - A front-end framework created for front-end developers. [http://penguin.docs.bqws.io/](http://penguin.docs.bqws.io/)
 - [Pure](https://github.com/yahoo/pure/) :gift_heart: - A set of small, responsive CSS modules that you can use in every web project. [http://purecss.io/](http://purecss.io/)
 - [Responsive](https://github.com/ResponsiveBP/Responsive) :gift_heart: - A powerful, accessible, developer friendly framework for building responsive websites. [http://responsivebp.com](http://responsivebp.com)
-- [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) :gift_heart: - Semantic is a UI component framework based around useful principles from natural language. [http://www.semantic-ui.com](http://www.semantic-ui.com)
-- [Skeleton](https://github.com/dhg/Skeleton) :gift_heart: - A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development. [http://www.getskeleton.com](http://www.getskeleton.com)
+- [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) :gift_heart: - Semantic is a UI component framework based around useful principles from natural language. [http://semantic-ui.com/](http://semantic-ui.com/)
+- [Skeleton](https://github.com/dhg/Skeleton) :gift_heart: - A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development. [http://getskeleton.com/](http://getskeleton.com/)
 - [Topcoat](https://github.com/topcoat/topcoat) :gift_heart: - CSS for clean and fast web apps. [http://topcoat.io](http://topcoat.io)
 - [Tufte-css](https://github.com/edwardtufte/tufte-css) :gift_heart: - Style your webpage like Edward Tufte's handouts. [https://edwardtufte.github.io/tufte-css/](https://edwardtufte.github.io/tufte-css/)
 - [Typebase.css](https://github.com/devinhunt/typebase.css) :gift_heart: - A starting point for good typography on the web. [http://devinhunt.github.io/typebase.css/](http://devinhunt.github.io/typebase.css/)
 - [UIKit](https://github.com/uikit/uikit) :gift_heart: - A lightweight and modular front-end framework for developing fast and powerful web interfaces. [http://getuikit.com](http://getuikit.com)
-- [USDS Web Design Standards](https://github.com/18F/web-design-standards) :gift_heart: Open source UI components and visual style guide for U.S. government websites. [https://playbook.cio.gov/designstandards](https://playbook.cio.gov/designstandards)
+- [USDS Web Design Standards](https://github.com/18F/web-design-standards) :gift_heart: Open source UI components and visual style guide for U.S. government websites. [https://standards.usa.gov](https://standards.usa.gov)
 - [Yaml](https://github.com/yamlcss/yaml) :gift_heart: - YAML (Yet Another Multicolumn Layout) is a modular CSS framework for truly flexible, accessible and responsive websites. It is based on Sass and has a very slim framework core that weights only ~6kB. [http://www.yaml.de](http://www.yaml.de)
 - [Yahoo User Interface Library](https://github.com/yui/yui3) :gift_heart: - YUI is a free, open source JavaScript and CSS framework for building richly interactive web applications. [http://yuilibrary.com/](http://yuilibrary.com/)
 
@@ -109,23 +109,22 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Text Effects**
   * [Animate.css](https://github.com/daneden/animate.css) :gift_heart: - A cross-browser library of CSS animations. As easy to use as an easy thing.
 - **Various**
-  * [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
+  * [Cody House](https://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
   * [Pure CSS Components](https://github.com/LFeh/css-components/) :gift_heart: - A set of common UI Components using the power of CSS and without Javascript.
 
 ## 4.CSS Snippets
 - **Blog Libraries**
-  * [1stWebDesigner](http://www.1stwebdesigner.com/useful-css-snippets/) :gift_heart: - 25 Incredibly Useful CSS Snippets for Developers.
+  * [1stWebDesigner](http://1stwebdesigner.com/css-cheat-sheet/) :gift_heart: - 25 Incredibly Useful CSS Snippets for Developers.
   * [Design Your Way](http://www.designyourway.net/blog/resources/31-css-code-snippets-to-make-you-a-better-coder/) :gift_heart: - Here are some of the ones that you would need more often than others.
   * [Noupe](http://www.noupe.com/design/useful-css-snippets-for-your-coding-arsenal.html) :gift_heart: - In this article we have listed 30 CSS snippets that we think you will find very useful.
   * [Six Revisions](http://sixrevisions.com/category/css/) :gift_heart: - Six Revisions is a web publication for web developers and web designers. We publish articles, guides, tutorials, news and other forms of content for people who design and build sites and apps.
-  * [Speckyboy](http://speckyboy.com/2011/04/15/25-css-snippets-for-some-of-the-most-common-and-frustrating-tasks/) :gift_heart: - 25 CSS Snippets for Some of the Most Common and Frustrating Tasks.
+  * [Speckyboy](https://speckyboy.com/2011/04/15/25-css-snippets-for-some-of-the-most-common-and-frustrating-tasks/) :gift_heart: - 25 CSS Snippets for Some of the Most Common and Frustrating Tasks.
 - **Bootsrap Libraries**
   * [Bootsnipp](http://bootsnipp.com/) :gift_heart: -  Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework.
-  * [Design Bootsrap](http://www.designbootstrap.com/category/bootstrap-snippets/) :gift_heart: - 100% Free and unique bootstrap themes, templates, snippets and Bootstrap design tools for personal and commercial use.
   * [Snipplr](http://snipplr.com/) :gift_heart: - Lets your store and share all of your commonly used pieces of code and HTML with other programmers and designers.
 - **Pure CSS Libraries**
   * [CSS Flow](http://www.cssflow.com/snippets/) :gift_heart: - Free UI elements and widgets coded with HTML5, CSS3, and Sass.
-  * [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets.
+  * [Cody House](https://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets.
   * [CSS{POP}](http://www.csspop.com/) :gift_heart: - A Community Collection of CSS Snippets.
   * [CSS Tricks](https://css-tricks.com/snippets/css/) :gift_heart: - Site about all things web design and development.
   * [Smipple](http://www.smipple.net/lang/css) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
@@ -138,7 +137,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **CSS**
   * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart: - CSS SANS is the font created by CSS, the programming language for web designing and typesetting.
 - **Libraries**
-  * [Font Squirrel](http://www.fontsquirrel.com/) :gift_heart: - Free fonts have met their match. We know how hard it is to find quality freeware that is licensed for commercial work. We've done the hard work, hand-selecting these typefaces and presenting them in an easy-to-use format.
+  * [Font Squirrel](https://www.fontsquirrel.com/) :gift_heart: - Free fonts have met their match. We know how hard it is to find quality freeware that is licensed for commercial work. We've done the hard work, hand-selecting these typefaces and presenting them in an easy-to-use format.
   * [Google Fonts](https://www.google.com/fonts) :gift_heart: - Our goal is to create a directory of web fonts for the world to use. Our API service makes it easy to add Google Fonts to a website in seconds. The service runs on Google's servers which are fast, reliable and tested. Google provides this service free of charge.
 - **Typeface**
   * [Hack](https://github.com/chrissimpkins/Hack) :gift_heart: - A typeface designed for source code.
@@ -309,14 +308,12 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Backbone.js](https://github.com/jashkenas/backbone) :gift_heart: -  - Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.
   * [Bacon.js](https://github.com/baconjs/bacon.js/) :gift_heart: - FRP (functional reactive programming) library for Javascript.
   * [Brunch](https://github.com/brunch/brunch) :gift_heart: - Fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps.
-  * [Can.js](https://github.com/bitovi/canjs) :gift_heart: - CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy.
+  * [Can.js](https://github.com/canjs/canjs) :gift_heart: - CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy.
   * [Composer.js](https://github.com/lyonbros/composer.js) :gift_heart: - Composer is a library for building complex single-page applications.
   * [Dojo](https://github.com/dojo) :gift_heart: - A JavaScript toolkit that saves you time and scales with your development process. Provides everything you need to build a Web app. Language utilities, UI components, and more, all in one place, designed to work together perfectly.
   * [Fn.js](https://github.com/eliperelman/fn.js) :gift_heart: - A JavaScript library built to encourage a functional programming style & strategy
-  * [Functional.js](https://github.com/leecrossley/functional-js/) :gift_heart: - A functional js library that facilitates currying and point-free / tacit programming.
   * [Handlebars.js](https://github.com/wycats/handlebars.js) :gift_heart: - Handlebars.js is an extension to the Mustache templating language created by Chris Wanstrath. Handlebars.js and Mustache are both logicless templating languages that keep the view and the code separated like we all know they should be.
   * [History.js](https://github.com/browserstate/history.js) :gift_heart: - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.
-  * [Jaws](https://github.com/jaws-framework/JAWS) :gift_heart: - The Server-less Application Framework. Uses bleeding-edge AWS services to redefine how to build massively scalable (and cheap) apps!
   * [jQuery](https://github.com/jquery/jquery) :gift_heart: - jQuery JavaScript Library.
   * [jQuery Mobile](https://github.com/jquery/jquery-mobile) :gift_heart: - jQuery Mobile is a unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation.
   * [JsBlocks](https://github.com/astoilkov/jsblocks) :gift_heart: - Better MV-ish Framework.
@@ -330,6 +327,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Prototype](https://github.com/sstephenson/prototype) :gift_heart: - Prototype is a JavaScript framework that aims to ease development of dynamic web applications. It offers a familiar class-style OO framework, extensive Ajax support, higher-order programming constructs, and easy DOM manipulation.
   * [Radioactive](https://github.com/radioactive/radioactive) :gift_heart: - Radioactive is a Native FRP ( Functional Reactive Programming ) environment for Javascript.
   * [React](https://github.com/facebook/react) :gift_heart: - React is a JavaScript library for building user interfaces.
+  * [Serverless](https://github.com/serverless/serverless) :gift_heart: - The Server-less Application Framework. Uses bleeding-edge AWS services to redefine how to build massively scalable (and cheap) apps!
   * [Skel](https://github.com/n33/skel) :gift_heart: - A lightweight responsive framework for the www.
   * [Sprint](https://github.com/bendc/sprint) :gift_heart: - A tiny, lightning fast jQuery-like library for modern browsers.
   * [Ramda](https://github.com/ramda/ramda) :gift_heart: - A practical functional library for Javascript programmers.
@@ -338,7 +336,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Trine](https://github.com/jussi-kalliokoski/trine) :gift_heart: - Trine is a utility library geared at tapping the full potential of functional programming in JS, in the vein of lodash, underscore and Ramda.
   * [Two.js](https://github.com/jonobr1/two.js) :gift_heart: - A two-dimensional drawing api meant for modern browsers. It is renderer agnostic enabling the same api to render in multiple contexts: webgl, canvas2d, and svg.
   * [Underscore.js](https://github.com/jashkenas/underscore) :gift_heart: - Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
-  * [Vue.js](https://github.com/yyx990803/vue) :gift_heart: - Simple yet powerful library for building modern web interfaces.
+  * [Vue.js](https://github.com/vuejs/vue) :gift_heart: - Simple yet powerful library for building modern web interfaces.
   * [Way.js](https://github.com/gwendall/way.js) :gift_heart: - Simple, lightweight, persistent two-way databinding.
   * [Zepto.js](https://github.com/madrobby/zepto) :gift_heart: - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API.
 
@@ -373,9 +371,9 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Data Binding**
   * [Way.js](https://github.com/gwendall/way.js) :gift_heart: - Simple, lightweight, persistent two-way databinding.
 - **Data Processing & Visualization**
-  * [C3](https://github.com/masayuki0812/c3) :gift_heart: - A D3-based reusable chart library.
+  * [C3](https://github.com/c3js/c3) :gift_heart: - A D3-based reusable chart library.
   * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) :gift_heart: - Tiny vanilla JS plugin to display large data sets easily.
-  * [Chart.js](https://github.com/nnnick/Chart.js) :gift_heart: - Simple HTML5 Charts using the ```<canvas>``` tag.
+  * [Chart.js](https://github.com/chartjs/Chart.js) :gift_heart: - Simple HTML5 Charts using the ```<canvas>``` tag.
   * [D3](https://github.com/mbostock/d3) :gift_heart: - A JavaScript visualization library for HTML and SVG.
   * [D3.Compose](https://github.com/CSNW/d3.compose) :gift_heart: - Compose complex, data-driven visualizations from reusable charts and components with d3.
   * [D3-Shape](https://github.com/d3/d3-shape) :gift_heart: - Graphical primitives for visualization, such as lines and areas.
@@ -464,7 +462,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [LazyLoad](https://github.com/vvo/lazyload) :gift_heart: - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader.
   * [Responsively Lazy](https://github.com/ivopetkov/responsively-lazy) :gift_heart: - Lazy load responsive images.
 - **Libraries**
-  * [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
+  * [Cody House](https://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
 - **Loaders**
   * [Spin.js](https://github.com/fgnass/spin.js) :gift_heart: - A spinning activity indicator.
 - **Maps**
@@ -476,7 +474,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Canvid.js](https://github.com/gka/canvid) :gift_heart: - tiny js library for playing video on canvas elements (without audio)
   * [Clappr](https://github.com/clappr/clappr) :gift_heart: - An extensible media player for the web.
   * [FLowplayer](https://github.com/flowplayer/flowplayer) :gift_heart: - The HTML5 video player for the web.
-  * [JWPlayer](http://www.jwplayer.com/) :gift_heart: & :moneybag: - The most-used and fastest loading video player on the web, our signature product enables online publishers to deliver and monetize video across all devices in any browser.
+  * [JWPlayer](https://www.jwplayer.com/) :gift_heart: & :moneybag: - The most-used and fastest loading video player on the web, our signature product enables online publishers to deliver and monetize video across all devices in any browser.
   * [Media Element](https://github.com/johndyer/mediaelement) :gift_heart: - HTML5 ```<audio/>``` or ```<video/>``` player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers.
   * [Plyr](https://github.com/Selz/plyr) :gift_heart: - A simple HTML5 media player.
   * [Streama](https://github.com/dularion/streama) :gift_heart: - It's like Netflix, but self-hosted!
@@ -485,7 +483,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Slideout.js (For-Mobile)](https://github.com/Mango/slideout) :gift_heart: - A touch slideout navigation menu for your mobile web apps.
 - **Modals & Alerts**
   * [jsModal](http://jsmodal.com/) :gift_heart: - Modal generator in pure JavaScript. - An open-source modal box engine written in pure JavaScript.
-  * [Notiejs](https://github.com/jaredreich/notie.js) :gift_heart: - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies.
+  * [Notiejs](https://github.com/jaredreich/notie) :gift_heart: - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies.
 - **Parallax & Scrolling**
   * [Elevator.js](https://github.com/tholman/elevator.js) :gift_heart: - Finally, a "back to top" button that behaves like a real elevator.
   * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart: - Infinite list in javascript that scrolls in 60fps.
@@ -504,7 +502,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Scroll Bars**
   * [Tiny Scrollbar](https://github.com/wieringen/tinyscrollbar) :gift_heart: - A lightweight cross browser javascript scrollbar.
 - **State Management**
-  * [Redux](https://github.com/rackt/redux) :gift_heart: - Predictable state container for JavaScript apps.
+  * [Redux](https://github.com/reactjs/redux) :gift_heart: - Predictable state container for JavaScript apps.
 - **Transition & Effects**
   * [Ramjet](https://github.com/Rich-Harris/ramjet) :gift_heart: - Morph DOM elements from one state to another with smooth transitions.
   * [Snabbt.js](https://github.com/daniel-lundin/snabbt.js) :gift_heart: - Fast animations with javascript and CSS transforms.
@@ -525,7 +523,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [ProseMirror](https://github.com/ProseMirror/prosemirror) :gift_heart: - The ProseMirror WYSIWYM editor.
   * [Quill](https://github.com/quilljs/quill/) :gift_heart: - A cross browser rich text editor with an API.
   * [Squire](https://github.com/neilj/Squire) :gift_heart: - HTML5 rich text editor.
-  * [TinyMCE](http://www.tinymce.com/) :gift_heart: & :moneybag: - inyMCE is a platform independent web-based JavaScript WYSIWYG HTML editor control released as open source under LGPL.
+  * [TinyMCE](https://www.tinymce.com/) :gift_heart: & :moneybag: - inyMCE is a platform independent web-based JavaScript WYSIWYG HTML editor control released as open source under LGPL.
   * [Trix](https://github.com/basecamp/trix) :gift_heart: - A Rich Text Editor for Everyday Writing.
   * [Wysihtml](https://github.com/Voog/wysihtml) :gift_heart: - Open source rich text editor for the modern web.
 
@@ -534,7 +532,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
     + [Booking-js](https://github.com/timekit-io/booking-js) :gift_heart: - Make a beautiful embeddable booking widget in minutes.
     + [Labella.js](https://github.com/twitter/labella.js) :gift_heart: - Placing labels on a timeline without overlap.
   * **Libraries**
-    + [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
+    + [Cody House](https://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
     + [Smipple](http://www.smipple.net/lang/js) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
     + [Snipplr](http://snipplr.com/) :gift_heart: - Lets you store and share all of your commonly used pieces of code and HTML with other programmers and designers.
     + [Snipt (tag:javascript)](https://snipt.net/public/tag/javascript/) :gift_heart: -  - The publishing platform for coders.
@@ -565,18 +563,17 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Bootstrap**
   * [Start Bootstrap](http://startbootstrap.com/) :gift_heart: - Free Bootstrap Themes & Templates.
   * [Bootsrap Zero](http://www.bootstrapzero.com/) :gift_heart: - The largest open-source, free Bootstrap template collection.
-  * [Design Bootsrap](http://www.designbootstrap.com/) :gift_heart: & :moneybag: - 100% Free and unique bootstrap themes, templates, snippets and Bootstrap design tools for personal and commercial use.
   * [Wrap Bootstrap](https://wrapbootstrap.com/) :moneybag: - WrapBootstrap is a marketplace for premium Bootstrap themes and templates.
   * [Bootswatch](https://bootswatch.com/) :gift_heart: - Free themes for Bootstrap.
   * [Gridgum](http://gridgum.com/themes/category/bootstrap-themes/) :moneybag: - Gridgum is a marketplace for responsive themes and templates.
   * [wpfreeware](http://www.wpfreeware.com/) :gift_heart: - Free Responsive WordPress Themes & Bootstrap Templates, Made With LOVE!
 - **HTML**
-  * [Cody House](http://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
+  * [Cody House](https://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
   * [Gridgum](http://gridgum.com/themes/) :moneybag: - Gridgum is a marketplace for responsive themes and templates.
 - **Kanban**
   * [Wekan](https://github.com/wekan/wekan) :gift_heart: - The open-source Trello-like kanban.
 - **Material Design**
-  * [Material Design Lite](http://www.getmdl.io/templates/index.html) :gift_heart: - Material Design Lite lets you add a Material Design look and feel to your websites.
+  * [Material Design Lite](https://getmdl.io/templates/index.html) :gift_heart: - Material Design Lite lets you add a Material Design look and feel to your websites.
 - **React**
   * [Blog](https://github.com/jlongster/blog) :gift_heart: - All the sources for my react-powered blog.
 - **WordPress**
@@ -635,7 +632,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Package Managers / module loaders**
   * [Bower](https://github.com/bower/bower) :gift_heart: - A package manager for the web.
   * [Browserify](https://github.com/substack/node-browserify) :gift_heart: - Browser-side require() the node.js way.
-  * [require.js](https://github.com/jrburke/requirejs) :gift_heart: - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
+  * [require.js](https://github.com/requirejs/requirejs) :gift_heart: - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
   * [Webpack](https://github.com/webpack/webpack) :gift_heart: - Webpack is a bundler for modules. The main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
 - **Responsive Analizers**
   * [AmIResponsive](http://ami.responsivedesign.is/) :gift_heart: - See your site responsive.

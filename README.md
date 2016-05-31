@@ -44,7 +44,7 @@ Please read manifest to contribute :)
 - **Data Pickers**
   * [ui-date](https://github.com/angular-ui/ui-date) :gift_heart: - jQuery UI Datepicker for AngularJS. [http://angular-ui.github.io/ui-date/](http://angular-ui.github.io/ui-date/)
 - **Drag & Drop**
-  * [ng-sortable](https://github.com/a5hik/ng-sortable) :gift_heart: - AngularJS Library for Drag and Drop, supports Sortable and Draggable. No JQuery/JQuery UI used. Supports Touch devices. [http://a5hik.github.io/ng-sortable/#/kanban](http://a5hik.github.io/ng-sortable/#/kanban)
+  * [ng-sortable](https://github.com/a5hik/ng-sortable) :gift_heart: - AngularJS Library for Drag and Drop, supports Sortable and Draggable. No JQuery/JQuery UI used. Supports Touch devices. [http://a5hik.github.io/ng-sortable/#/kanban](http://a5hik.github.io/ng-sortable)
 - **File Upload**
   * [ng-file-upload](https://github.com/danialfarid/ng-file-upload) :gift_heart: - Lightweight Angular directive to upload files with optional FileAPI shim for cross browser support. [https://angular-file-upload.appspot.com/](https://angular-file-upload.appspot.com/)
 - **Loading Bars**
@@ -162,7 +162,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Khan Academy React Style Guide](https://github.com/Khan/style-guides/blob/master/style/react.md) :gift_heart: - In addition to these style rules, you may also be interested in React best practices.
 - **Style / Design / CSS Guides**
   * [3 Things (Almost) No One Knows About CSS](http://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - Think you know CSS?
-  * [CSS Guidelines](http://cssguidelin.es/) :gift_heart: - High-level advice and guidelines for writing sane, manageable, scalable CSS.
+  * [CSS Guidelines](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - High-level advice and guidelines for writing sane, manageable, scalable CSS.
   * [Khan Academy CSS Style Guide](https://github.com/Khan/style-guides/blob/master/style/css.md) :gift_heart: - Welcome to the CSS style guide. This guide borrows heavily from Github's Primer CSS guidelines, so thanks to them!
   * [Magic of CSS](https://github.com/adamschwartz/magic-of-css) :gift_heart: - A CSS course for web developers who want to be magicians.
   * [RCSS](https://github.com/rstacruz/rscss) :gift_heart: - Reasonable System for CSS Stylesheet Structure.
@@ -189,7 +189,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Materialize Icons](http://materializecss.com/icons.html) :gift_heart: - We have included 740 Material Design Icons courtesy of Google.
   * [MFG Labs](https://github.com/MfgLabs/mfglabs-iconset) :gift_heart: - Awesome web font icon by MFG Labs.
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them.
-  * [Octicons](https://github.com/github/octicons/) :gift_heart: - GitHub's icon font.
+  * [Octicons](https://github.com/primer/octicons) :gift_heart: - GitHub's icon font.
   * [Open Web icons](https://github.com/pfefferle/openwebicons) :gift_heart: - Web-font that gives you scalable vector icons/logos of some open community, standards or projects.
   * [Stackicons](https://github.com/parkerbennett/stackicons) :gift_heart: - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands.
   * [Typicons](https://github.com/stephenhutchings/typicons.font) :gift_heart: - 336 pixel perfect, all-purpose vector icons in a web-font kit.
@@ -374,7 +374,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [C3](https://github.com/c3js/c3) :gift_heart: - A D3-based reusable chart library.
   * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) :gift_heart: - Tiny vanilla JS plugin to display large data sets easily.
   * [Chart.js](https://github.com/chartjs/Chart.js) :gift_heart: - Simple HTML5 Charts using the ```<canvas>``` tag.
-  * [D3](https://github.com/mbostock/d3) :gift_heart: - A JavaScript visualization library for HTML and SVG.
+  * [D3](https://github.com/d3/d3) :gift_heart: - A JavaScript visualization library for HTML and SVG.
   * [D3.Compose](https://github.com/CSNW/d3.compose) :gift_heart: - Compose complex, data-driven visualizations from reusable charts and components with d3.
   * [D3-Shape](https://github.com/d3/d3-shape) :gift_heart: - Graphical primitives for visualization, such as lines and areas.
   * [ECharts](https://github.com/ecomfe/echarts) :gift_heart: - Enterprise Charts.

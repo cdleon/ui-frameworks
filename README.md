@@ -44,7 +44,7 @@ Please read manifest to contribute :)
 - **Data Pickers**
   * [ui-date](https://github.com/angular-ui/ui-date) :gift_heart: - jQuery UI Datepicker for AngularJS. [http://angular-ui.github.io/ui-date/](http://angular-ui.github.io/ui-date/)
 - **Drag & Drop**
-  * [ng-sortable](https://github.com/a5hik/ng-sortable) :gift_heart: - AngularJS Library for Drag and Drop, supports Sortable and Draggable. No JQuery/JQuery UI used. Supports Touch devices. [http://a5hik.github.io/ng-sortable](http://a5hik.github.io/ng-sortable)
+  * [ng-sortable](https://github.com/a5hik/ng-sortable) :gift_heart: - AngularJS Library for Drag and Drop, supports Sortable and Draggable. No JQuery/JQuery UI used. Supports Touch devices. [http://a5hik.github.io/ng-sortable/#/kanban](http://a5hik.github.io/ng-sortable/#/kanban)
 - **File Upload**
   * [ng-file-upload](https://github.com/danialfarid/ng-file-upload) :gift_heart: - Lightweight Angular directive to upload files with optional FileAPI shim for cross browser support. [https://angular-file-upload.appspot.com/](https://angular-file-upload.appspot.com/)
 - **Loading Bars**

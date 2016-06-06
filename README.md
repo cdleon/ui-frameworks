@@ -44,7 +44,7 @@ Please read manifest to contribute :)
 - **Data Pickers**
   * [ui-date](https://github.com/angular-ui/ui-date) :gift_heart: - jQuery UI Datepicker for AngularJS. [http://angular-ui.github.io/ui-date/](http://angular-ui.github.io/ui-date/)
 - **Drag & Drop**
-  * [ng-sortable](https://github.com/a5hik/ng-sortable) :gift_heart: - AngularJS Library for Drag and Drop, supports Sortable and Draggable. No JQuery/JQuery UI used. Supports Touch devices. [http://a5hik.github.io/ng-sortable/#/kanban](http://a5hik.github.io/ng-sortable/#/kanban)
+  * [ng-sortable](https://github.com/a5hik/ng-sortable) :gift_heart: - AngularJS Library for Drag and Drop, supports Sortable and Draggable. No JQuery/JQuery UI used. Supports Touch devices. [http://a5hik.github.io/ng-sortable/](http://a5hik.github.io/ng-sortable/)
 - **File Upload**
   * [ng-file-upload](https://github.com/danialfarid/ng-file-upload) :gift_heart: - Lightweight Angular directive to upload files with optional FileAPI shim for cross browser support. [https://angular-file-upload.appspot.com/](https://angular-file-upload.appspot.com/)
 - **Loading Bars**
@@ -124,7 +124,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Pure CSS Libraries**
   * [CSS Flow](http://www.cssflow.com/snippets/) :gift_heart: - Free UI elements and widgets coded with HTML5, CSS3, and Sass.
   * [Cody House](https://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets.
-  * [CSS{POP}](http://www.csspop.com/) :gift_heart: - A Community Collection of CSS Snippets.
+  * [CSS{POP}](http://ww1.csspop.com) :gift_heart: - A Community Collection of CSS Snippets.
   * [CSS Tricks](https://css-tricks.com/snippets/css/) :gift_heart: - Site about all things web design and development.
   * [Smipple](http://www.smipple.net/lang/css) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
   * [Snipplr](http://snipplr.com/) :gift_heart: - All of our code snippets are stored in one place.
@@ -328,7 +328,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Radioactive](https://github.com/radioactive/radioactive) :gift_heart: - Radioactive is a Native FRP ( Functional Reactive Programming ) environment for Javascript.
   * [React](https://github.com/facebook/react) :gift_heart: - React is a JavaScript library for building user interfaces.
   * [Serverless](https://github.com/serverless/serverless) :gift_heart: - The Server-less Application Framework. Uses bleeding-edge AWS services to redefine how to build massively scalable (and cheap) apps!
-  * [Skel](https://github.com/n33/skel) :gift_heart: - A lightweight responsive framework for the www.
+  * [Skel](https://github.com/ajlkn/skel) :gift_heart: - A lightweight responsive framework for the www.
   * [Sprint](https://github.com/bendc/sprint) :gift_heart: - A tiny, lightning fast jQuery-like library for modern browsers.
   * [Ramda](https://github.com/ramda/ramda) :gift_heart: - A practical functional library for Javascript programmers.
   * [Riot.js](https://github.com/riot/riot) :gift_heart: - A React-like, user interface library.

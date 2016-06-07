@@ -235,7 +235,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart: - Gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns. [http://gridster.net/](http://gridster.net/)
   * [Stalactite](https://github.com/jonobr1/stalactite) :gift_heart: - Stalactite is a jQuery plugin that packs child elements together. [http://jonobr1.github.io/stalactite/](http://jonobr1.github.io/stalactite/)
 - **Image & Content Sliders**
-- * [Light Slider](https://github.com/sachinchoolur/lightslider) :gift_heart: - JQuery lightSlider is a lightweight responsive Content slider with carousel thumbnails navigation [http://sachinchoolur.github.io/lightslider/](http://sachinchoolur.github.io/lightslider/)
+  * [Light Slider](https://github.com/sachinchoolur/lightslider) :gift_heart: - JQuery lightSlider is a lightweight responsive Content slider with carousel thumbnails navigation [http://sachinchoolur.github.io/lightslider/](http://sachinchoolur.github.io/lightslider/)
   * [Nivo Slider](https://github.com/gilbitron/Nivo-Slider) :gift_heart: - The Most Awesome jQuery Image Slider. [https://dev7studios.com/products/nivo-slider-wordpress-plugin/](https://dev7studios.com/products/nivo-slider-wordpress-plugin/)
   * [Slides Js](https://github.com/nathansearles/Slides/tree/SlidesJS-3) :gift_heart: - Slides is a crazy simple slideshow plugin for jQuery. [http://slidesjs.com/](http://slidesjs.com/)
   * [Swipe](https://github.com/thebird/Swipe) :gift_heart: - Swipe is the most accurate touch slider. [https://github.com/thebird/Swipe](https://github.com/thebird/Swipe)
@@ -245,7 +245,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [CamanJS](https://github.com/meltingice/CamanJS/) :gift_heart: - Javascript HTML5 (Ca)nvas (Man)ipulation. [http://camanjs.com/](http://camanjs.com/)
   * [iPicture](https://github.com/vincicat/jQuery-iPicture) :gift_heart: - Tooltip your images. [http://ipicture.justmybit.com/index.php](http://ipicture.justmybit.com/index.php)
   * [Jcrop](https://github.com/tapmodo/Jcrop) :gift_heart: - Image Cropping Plugin for jQuery. [http://deepliquid.com/content/Jcrop.html](http://deepliquid.com/content/Jcrop.html)
-  * [Spritley](http://spritely.net/) :gift_heart - jQuery.spritely is a jQuery plugin created by Artlogic for creating dynamic character and background animation in pure HTML and JavaScript. [http://spritely.net/](http://spritely.net/)
+  * [Spritley](http://spritely.net/) :gift_heart: - jQuery.spritely is a jQuery plugin created by Artlogic for creating dynamic character and background animation in pure HTML and JavaScript. [http://spritely.net/](http://spritely.net/)
   * [Swipebox](https://github.com/brutaldesign/swipebox) :gift_heart: - A touchable jQuery lightbox. [http://brutaldesign.github.io/swipebox/](http://brutaldesign.github.io/swipebox/)
   * [ThreeSixty](https://github.com/modernassembly/threesixtyjs/) :gift_heart: - A jQuery plugin for generating a draggable 360 preview from an image sequence. [http://nick-jonas.github.io/threesixtyjs/](http://nick-jonas.github.io/threesixtyjs/)
   * [TiltShift.js](https://github.com/noeltock/tiltShift.js) :gift_heart: - A jQuery plugin using CSS3 filters to replicate the tilt shift effect. [http://www.noeltock.com/tilt-shift-css3-jquery-plugin/](http://www.noeltock.com/tilt-shift-css3-jquery-plugin/)

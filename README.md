@@ -177,7 +177,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Font**
   * [Analog Clock](https://github.com/jhogue/PE-Analog-Clock-icon-font) :gift_heart: - A set of icons for displaying a visual ("analog") representation of time stamps. [https://github.com/jhogue/PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font)
   * [Black Tie](http://blacktie.io/) :moneybag: - The multi-weight icon font from the creator of Font Awesome. [http://blacktie.io/](http://blacktie.io/)
-  * [Devicons](https://github.com/vorillaz/devicons) :gift_heart: - An iconic font made for developers. [http://vorillaz.github.io/devicons/#/main](http://vorillaz.github.io/devicons/#/main)
+  * [Devicons](https://github.com/vorillaz/devicons) :gift_heart: - An iconic font made for developers. [http://vorillaz.github.io/devicons/](http://vorillaz.github.io/devicons/)
   * [Font Awesome](https://github.com/FortAwesome/Font-Awesome) :gift_heart: - The iconic font and CSS toolkit. [http://fontawesome.io/](http://fontawesome.io/)
   * [Fontello](https://github.com/fontello/fontello) :gift_heart: - Icon fonts generator. [http://fontello.com/](http://fontello.com/)
   * [Glyhish](http://www.glyphish.com/) :rainbow: - Great icons for everything. [http://www.glyphish.com/](http://www.glyphish.com/)
@@ -212,7 +212,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Tubular](http://www.seanmccambridge.com/tubular/) :gift_heart: - Tubular is a jQuery plugin that lets you set a YouTube video as your page background. Just attach it to your page wrapper element, set some options, and you're on your way. [http://www.seanmccambridge.com/tubular/](http://www.seanmccambridge.com/tubular/)
 - **Data Processing & Visualization**
   * [Flot](https://github.com/flot/flot) :gift_heart: - Attractive JavaScript charts for jQuery. [http://www.flotcharts.org/](http://www.flotcharts.org/)
-  * [JQuery Sparklines](http://omnipotent.net/jquery.sparkline/#s-about) :gift_heart: - This jQuery plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript. [http://omnipotent.net/jquery.sparkline/#s-about](http://omnipotent.net/jquery.sparkline/#s-about)
+  * [JQuery Sparklines](http://omnipotent.net/jquery.sparkline/) :gift_heart: - This jQuery plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript. [http://omnipotent.net/jquery.sparkline/](http://omnipotent.net/jquery.sparkline/)
   * [Peity.js](https://github.com/benpickles/peity) :gift_heart: - Progressive <svg> pie, donut, bar and line charts. [http://benpickles.github.io/peity/](http://benpickles.github.io/peity/)
 - **Date Pickers**
   * [Pickadate](https://github.com/amsul/pickadate.js) :gift_heart: - The mobile-friendly, responsive, and lightweight jQuery date & time input picker. [http://amsul.ca/pickadate.js/](http://amsul.ca/pickadate.js/)
@@ -264,12 +264,12 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Toolbar](https://github.com/paulkinzett/toolbar) :gift_heart: - A tooltip style toolbar jQuery plugin. [http://paulkinzett.github.io/toolbar/](http://paulkinzett.github.io/toolbar/)
   * [Tooltipster](https://github.com/iamceege/tooltipster) :gift_heart: - A jQuery tooltip plugin. [http://iamceege.github.io/tooltipster/](http://iamceege.github.io/tooltipster/)
 - **Printing**
-  * [PDFMake](https://github.com/bpampuch/pdfmake) :gift_heart: - Client/server side PDF printing in pure JavaScript. [http://pdfmake.org/#/](http://pdfmake.org/#/)
+  * [PDFMake](https://github.com/bpampuch/pdfmake) :gift_heart: - Client/server side PDF printing in pure JavaScript. [http://pdfmake.org/](http://pdfmake.org/)
 - **Progress & Loading Bars**
   * [Loading Bar](https://github.com/peachananr/loading-bar) :gift_heart: - Add a Youtube-like loading bar to all your ajax links. [http://www.thepetedesign.com/demos/youtube_loadingbar_demo.html](http://www.thepetedesign.com/demos/youtube_loadingbar_demo.html)
   * [PercentageLoader](https://github.com/lepoetemaudit/percentageloader) :gift_heart: - jQuery plugin for displaying an animated percentage loader. [http://widgets.better2web.com/loader/](http://widgets.better2web.com/loader/)
 - **Range Sliders**
-  * [jQuery Vertical Slider](http://jqueryui.com/slider/#slider-vertical) :gift_heart: - Drag a handle to select a numeric value. [http://jqueryui.com/slider/#slider-vertical](http://jqueryui.com/slider/#slider-vertical)
+  * [jQuery Vertical Slider](http://jqueryui.com/slider/) :gift_heart: - Drag a handle to select a numeric value. [http://jqueryui.com/slider/](http://jqueryui.com/slider/)
 - **Social Media**
   * [Social Feed](https://github.com/pavelk2/social-feed) :gift_heart: - A jQuery plugin that shows a user feed from the most popular social networks. [http://pavelk2.github.io/social-feed/](http://pavelk2.github.io/social-feed/)
   * [Spectagram](https://github.com/adrianengine/jquery-spectragram) :gift_heart: - A jQuery plugin using the Instagram API to fetch and display user, popular or tags photo feeds inside a list or any container you define. [http://spectragram.js.org/](http://spectragram.js.org/)

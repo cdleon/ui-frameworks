@@ -539,6 +539,8 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
     + [Snipt (tag:js)](https://snipt.net/public/tag/js/) :gift_heart: -  - The publishing platform for coders.
 
 ## 14.React Components
+- **Charts & Plots**
+  * [React D3 Library](https://github.com/react-d3-library/react-d3-library) :gift_heart: - Open source library for using D3 in React. http://react-d3-library.github.io/
 - **Chat & Messaging**
   * [Mattermost](https://github.com/mattermost/platform) :gift_heart: - Open source Slack-alternative in Golang and React.
 - **Graphics & Animation**

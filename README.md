@@ -202,7 +202,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Evil Icons](https://github.com/outpunk/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. [http://evil-icons.io/](http://evil-icons.io/)
   * [Flag Icon CSS](https://github.com/lipis/flag-icon-css) :gift_heart: -  A collection of all country flags in SVG — plus the CSS for easier integration. [http://flag-icon-css.lip.is/](http://flag-icon-css.lip.is/)
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them. [https://nucleoapp.com/](https://nucleoapp.com/)
-  * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos. [http://svgporn.com/](http://svgporn.com/)
+  * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos. [http://svgporn.com](http://svgporn.com)
 
 ## 8.JQuery Plugins
 - **Background & Background effects**

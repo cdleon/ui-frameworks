@@ -134,13 +134,13 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 
 ## 5.Fonts
 - **CSS**
-  * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart: - CSS SANS is the font created by CSS, the programming language for web designing and typesetting.
+  * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart: - CSS SANS is the font created by CSS, the programming language for web designing and typesetting. [https://yusugomori.com/projects/css-sans/](https://yusugomori.com/projects/css-sans/)
 - **Libraries**
-  * [Font Squirrel](https://www.fontsquirrel.com/) :gift_heart: - Free fonts have met their match. We know how hard it is to find quality freeware that is licensed for commercial work. We've done the hard work, hand-selecting these typefaces and presenting them in an easy-to-use format.
-  * [Google Fonts](https://www.google.com/fonts) :gift_heart: - Our goal is to create a directory of web fonts for the world to use. Our API service makes it easy to add Google Fonts to a website in seconds. The service runs on Google's servers which are fast, reliable and tested. Google provides this service free of charge.
+  * [Font Squirrel](https://www.fontsquirrel.com/) :gift_heart: - Free fonts have met their match. We know how hard it is to find quality freeware that is licensed for commercial work. We've done the hard work, hand-selecting these typefaces and presenting them in an easy-to-use format. [https://www.fontsquirrel.com/](https://www.fontsquirrel.com/)
+  * [Google Fonts](https://www.google.com/fonts) :gift_heart: - Our goal is to create a directory of web fonts for the world to use. Our API service makes it easy to add Google Fonts to a website in seconds. The service runs on Google's servers which are fast, reliable and tested. Google provides this service free of charge. [https://www.google.com/fonts](https://www.google.com/fonts)
 - **Typeface**
-  * [Hack](https://github.com/chrissimpkins/Hack) :gift_heart: - A typeface designed for source code.
-  * [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart: - Source for the Sans Bullshit Sans font.
+  * [Hack](https://github.com/chrissimpkins/Hack) :gift_heart: - A typeface designed for source code. [http://sourcefoundry.org/hack/](http://sourcefoundry.org/hack/)
+  * [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart: - Source for the Sans Bullshit Sans font. [http://www.sansbullshitsans.com/](http://www.sansbullshitsans.com/)
 
 ## 6.Guides
 - **Browser Support**

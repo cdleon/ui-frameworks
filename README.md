@@ -206,34 +206,34 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 
 ## 8.JQuery Plugins
 - **Background & Background effects**
-  * [Backstretch](https://github.com/srobbin/jquery-backstretch) :gift_heart: - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes.
-  * [JQuery.Bgwitcher](https://github.com/rewish/jquery-bgswitcher) :gift_heart: - Switch the background-image with using effect.
-  * [Supersized](https://github.com/buildinternet/supersized) :gift_heart: - Full screen background slideshow plugin for jQuery.
-  * [Tubular](http://www.seanmccambridge.com/tubular/) :gift_heart: - Tubular is a jQuery plugin that lets you set a YouTube video as your page background. Just attach it to your page wrapper element, set some options, and you're on your way.
+  * [Backstretch](https://github.com/srobbin/jquery-backstretch) :gift_heart: - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes. [http://srobbin.com/jquery-plugins/backstretch/](http://srobbin.com/jquery-plugins/backstretch/)
+  * [JQuery.Bgwitcher](https://github.com/rewish/jquery-bgswitcher) :gift_heart: - Switch the background-image with using effect. [http://rewish.github.io/jquery-bgswitcher/](http://rewish.github.io/jquery-bgswitcher/)
+  * [Supersized](https://github.com/buildinternet/supersized) :gift_heart: - Full screen background slideshow plugin for jQuery. [http://www.buildinternet.com/project/supersized/](http://www.buildinternet.com/project/supersized/)
+  * [Tubular](http://www.seanmccambridge.com/tubular/) :gift_heart: - Tubular is a jQuery plugin that lets you set a YouTube video as your page background. Just attach it to your page wrapper element, set some options, and you're on your way. [http://www.seanmccambridge.com/tubular/](http://www.seanmccambridge.com/tubular/)
 - **Data Processing & Visualization**
-  * [Flot](https://github.com/flot/flot) :gift_heart: - Attractive JavaScript charts for jQuery.
-  * [JQuery Sparklines](http://omnipotent.net/jquery.sparkline/#s-about) :gift_heart: - This jQuery plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.
-  * [Peity.js](https://github.com/benpickles/peity) :gift_heart: - Progressive <svg> pie, donut, bar and line charts.
+  * [Flot](https://github.com/flot/flot) :gift_heart: - Attractive JavaScript charts for jQuery. [http://www.flotcharts.org/](http://www.flotcharts.org/)
+  * [JQuery Sparklines](http://omnipotent.net/jquery.sparkline/#s-about) :gift_heart: - This jQuery plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript. [http://omnipotent.net/jquery.sparkline/#s-about](http://omnipotent.net/jquery.sparkline/#s-about)
+  * [Peity.js](https://github.com/benpickles/peity) :gift_heart: - Progressive <svg> pie, donut, bar and line charts. [http://benpickles.github.io/peity/](http://benpickles.github.io/peity/)
 - **Date Pickers**
-  * [Pickadate](https://github.com/amsul/pickadate.js) :gift_heart: - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
+  * [Pickadate](https://github.com/amsul/pickadate.js) :gift_heart: - The mobile-friendly, responsive, and lightweight jQuery date & time input picker. [http://amsul.ca/pickadate.js/](http://amsul.ca/pickadate.js/)
 - **Dialogs & Alerts**
-  * [Alertify](https://github.com/fabien-d/alertify.js) :gift_heart: - JavaScript Alert/Notification System.
-  * [Avgrund](https://github.com/voronianski/jquery.avgrund.js) :gift_heart: - Avgrund is a jQuery plugin with new modal concept for popups.
+  * [Alertify](https://github.com/fabien-d/alertify.js) :gift_heart: - JavaScript Alert/Notification System. [http://fabien-d.github.io/alertify.js/](http://fabien-d.github.io/alertify.js/)
+  * [Avgrund](https://github.com/voronianski/jquery.avgrund.js) :gift_heart: - Avgrund is a jQuery plugin with new modal concept for popups. [http://labs.voronianski.com/jquery.avgrund.js/](http://labs.voronianski.com/jquery.avgrund.js/)
 - **File Upload**
-  * [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) :gift_heart: - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery.
+  * [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) :gift_heart: - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. [https://blueimp.github.io/jQuery-File-Upload/](https://blueimp.github.io/jQuery-File-Upload/)
 - **Forms & Input**
-  * [Chosen](https://github.com/harvesthq/chosen) :gift_heart: - Chosen is a library for making long, unwieldy select boxes more friendly.
-  * [Fancy Input](https://github.com/yairEO/fancyInput) :gift_heart: - Makes typing in input fields fun with CSS3 effects.
-  * [iCheck](https://github.com/fronteed/iCheck) :gift_heart: - Highly customizable checkboxes and radio buttons.
-  * [jQuery Knobs](https://github.com/aterrien/jQuery-Knob) :gift_heart: - Nice, downward compatible, touchable, jQuery dial.
-  * [Parsley](https://github.com/guillaumepotier/Parsley.js/) :gift_heart: - Validate your forms, frontend, without writing a single line of javascript.
-  * [Tag-it](https://github.com/aehlke/tag-it) :gift_heart: - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
-  * [Typehead](https://github.com/twitter/typeahead.js/) :gift_heart: - Typeahead.js is a fast and fully-featured autocomplete library
+  * [Chosen](https://github.com/harvesthq/chosen) :gift_heart: - Chosen is a library for making long, unwieldy select boxes more friendly. [http://harvesthq.github.io/chosen/](http://harvesthq.github.io/chosen/)
+  * [Fancy Input](https://github.com/yairEO/fancyInput) :gift_heart: - Makes typing in input fields fun with CSS3 effects. [http://yaireo.github.io/fancyInput/](http://yaireo.github.io/fancyInput/)
+  * [iCheck](https://github.com/fronteed/iCheck) :gift_heart: - Highly customizable checkboxes and radio buttons. [http://icheck.fronteed.com/](http://icheck.fronteed.com/)
+  * [jQuery Knobs](https://github.com/aterrien/jQuery-Knob) :gift_heart: - Nice, downward compatible, touchable, jQuery dial. [http://anthonyterrien.com/knob/](http://anthonyterrien.com/knob/)
+  * [Parsley](https://github.com/guillaumepotier/Parsley.js/) :gift_heart: - Validate your forms, frontend, without writing a single line of javascript. [http://parsleyjs.org/](http://parsleyjs.org/)
+  * [Tag-it](https://github.com/aehlke/tag-it) :gift_heart: - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete. [http://aehlke.github.io/tag-it/](http://aehlke.github.io/tag-it/)
+  * [Typehead](https://github.com/twitter/typeahead.js/) :gift_heart: - Typeahead.js is a fast and fully-featured autocomplete library. [http://twitter.github.io/typeahead.js/](http://twitter.github.io/typeahead.js/)
 - **Grids**
-  * [Freetile](https://github.com/yconst/Freetile) :gift_heart: - Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout.
-  * [Freewall](https://github.com/kombai/freewall) :gift_heart: - Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts for desktop, mobile, and tablet.
-  * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart: - Gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
-  * [Stalactite](https://github.com/jonobr1/stalactite) :gift_heart: - Stalactite is a jQuery plugin that packs child elements together.
+  * [Freetile](https://github.com/yconst/Freetile) :gift_heart: - Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout. [http://apex.yconst.com/freetile-demo/freetile.html](http://apex.yconst.com/freetile-demo/freetile.html)
+  * [Freewall](https://github.com/kombai/freewall) :gift_heart: - Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts for desktop, mobile, and tablet. [http://vnjs.net/www/project/freewall/example/flex-grid.html](http://vnjs.net/www/project/freewall/example/flex-grid.html)
+  * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart: - Gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns. [http://gridster.net/](http://gridster.net/)
+  * [Stalactite](https://github.com/jonobr1/stalactite) :gift_heart: - Stalactite is a jQuery plugin that packs child elements together. [http://jonobr1.github.io/stalactite/](http://jonobr1.github.io/stalactite/)
 - **Image & Content Sliders**
   * [Nivo Slider](https://github.com/gilbitron/Nivo-Slider) :gift_heart: - The Most Awesome jQuery Image Slider.
   * [Slides Js](https://github.com/nathansearles/Slides/tree/SlidesJS-3) :gift_heart: - Slides is a crazy simple slideshow plugin for jQuery.

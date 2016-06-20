@@ -202,7 +202,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Evil Icons](https://github.com/outpunk/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. [http://evil-icons.io/](http://evil-icons.io/)
   * [Flag Icon CSS](https://github.com/lipis/flag-icon-css) :gift_heart: -  A collection of all country flags in SVG — plus the CSS for easier integration. [http://flag-icon-css.lip.is/](http://flag-icon-css.lip.is/)
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them. [https://nucleoapp.com/](https://nucleoapp.com/)
-  * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos. [http://svgporn.com](http://svgporn.com)
+  * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos. [https://github.com/gilbarbara/logos/](https://github.com/gilbarbara/logos/)
 
 ## 8.JQuery Plugins
 - **Background & Background effects**
@@ -222,7 +222,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **File Upload**
   * [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) :gift_heart: - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. [https://blueimp.github.io/jQuery-File-Upload/](https://blueimp.github.io/jQuery-File-Upload/)
 - **Forms & Input**
-  * [Chosen](https://github.com/harvesthq/chosen) :gift_heart: - Chosen is a library for making long, unwieldy select boxes more friendly. [http://harvesthq.github.io/chosen/](http://harvesthq.github.io/chosen/)
+  * [Chosen](https://github.com/harvesthq/chosen) :gift_heart: - Chosen is a library for making long, unwieldy select boxes more friendly. [https://github.com/harvesthq/chosen](https://github.com/harvesthq/chosen)
   * [Fancy Input](https://github.com/yairEO/fancyInput) :gift_heart: - Makes typing in input fields fun with CSS3 effects. [http://yaireo.github.io/fancyInput/](http://yaireo.github.io/fancyInput/)
   * [iCheck](https://github.com/fronteed/iCheck) :gift_heart: - Highly customizable checkboxes and radio buttons. [http://icheck.fronteed.com/](http://icheck.fronteed.com/)
   * [jQuery Knobs](https://github.com/aterrien/jQuery-Knob) :gift_heart: - Nice, downward compatible, touchable, jQuery dial. [http://anthonyterrien.com/knob/](http://anthonyterrien.com/knob/)
@@ -279,7 +279,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Malihu Custom Scrollbar](https://github.com/malihu/malihu-custom-scrollbar-plugin) :gift_heart: - Highly customizable custom scrollbar jQuery plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support etc. [http://manos.malihu.gr/jquery-custom-content-scroller/](http://manos.malihu.gr/jquery-custom-content-scroller/)
   * [nanoScroller.js](https://github.com/jamesflorentino/nanoScrollerJS) :gift_heart: - A jQuery plugin that offers a simplistic way of implementing Lion OS scrollbars. [http://jamesflorentino.github.io/nanoScrollerJS/](http://jamesflorentino.github.io/nanoScrollerJS/)
 - **Security**
-  * [Complexify](https://github.com/danpalmer/jquery.complexify.js/) :gift_heart: - Complexify helps you to accurately gauge the quality of a user's password to give them visual feedback, and to enforce a minimum level of security. [https://danpalmer.me/jquery-complexify](https://danpalmer.me/jquery-complexify)
+  * [Complexify](https://github.com/danpalmer/jquery.complexify.js/) :gift_heart: - Complexify helps you to accurately gauge the quality of a user's password to give them visual feedback, and to enforce a minimum level of security. [https://danpalmer.me/jquery-complexify](https://github.com/danpalmer/jquery.complexify.js/)
 - **State Management**
   * [pjax](https://github.com/defunkt/jquery-pjax) :gift_heart: - pushState + ajax = pjax [http://pjax.herokuapp.com/](http://pjax.herokuapp.com/)
 - **Text Editors**

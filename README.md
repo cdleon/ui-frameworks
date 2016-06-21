@@ -354,46 +354,46 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 
 ## 12.Pure JS Plugins
 - **Accesibility**
-  * [Tota11y](https://github.com/Khan/tota11y) :gift_heart: - an accessibility (a11y) visualization toolkit.
+  * [Tota11y](https://github.com/Khan/tota11y) :gift_heart: - an accessibility (a11y) visualization toolkit. [http://khan.github.io/tota11y/](http://khan.github.io/tota11y/)
 - **BenchMarking**
-  * [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart: - A benchmarking library. As used on jsPerf.com.
-  * [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart: - Simple, easy, javascript benchmark testing.
-  * [Stats.js](https://github.com/mrdoob/stats.js) :gift_heart: - JavaScript Performance Monitor.
-  * [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart: - Navigation Timing API measurement helpers.
+  * [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart: - A benchmarking library. As used on jsPerf.com. [https://benchmarkjs.com/](https://benchmarkjs.com/)
+  * [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart: - Simple, easy, javascript benchmark testing. [https://github.com/broofa/jslitmus](https://github.com/broofa/jslitmus)
+  * [Stats.js](https://github.com/mrdoob/stats.js) :gift_heart: - JavaScript Performance Monitor. [https://github.com/mrdoob/stats.js](https://github.com/mrdoob/stats.js)
+  * [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart: - Navigation Timing API measurement helpers. [https://github.com/addyosmani/timing.js](https://github.com/addyosmani/timing.js)
 - **Browser Support**
-  * [Modernizr](https://github.com/modernizr/modernizr) :gift_heart: - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+  * [Modernizr](https://github.com/modernizr/modernizr) :gift_heart: - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser. [https://modernizr.com/](https://modernizr.com/)
 - **Caching & Offline First**
-  * [UpUp](https://github.com/TalAter/UpUp/) :gift_heart: - UpUp is a tiny javascript library that makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea.
+  * [UpUp](https://github.com/TalAter/UpUp/) :gift_heart: - UpUp is a tiny javascript library that makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea. [https://www.talater.com/upup/](https://www.talater.com/upup/)
 - **Chat & Messaging**
-  * [Lets-chat](https://github.com/sdelements/lets-chat) :gift_heart: - Self-hosted chat app for small teams.
+  * [Lets-chat](https://github.com/sdelements/lets-chat) :gift_heart: - Self-hosted chat app for small teams. [http://sdelements.github.io/lets-chat/](http://sdelements.github.io/lets-chat/)
 - **Cut & Paste**
-  * [Clipboard.js](https://github.com/zenorocha/clipboard.js) :gift_heart: - Modern copy to clipboard. No Flash. Just 2kb.
+  * [Clipboard.js](https://github.com/zenorocha/clipboard.js) :gift_heart: - Modern copy to clipboard. No Flash. Just 2kb. [https://clipboardjs.com/](https://clipboardjs.com/)
 - **Databases**
-  * [Lovefield (browser-database)](https://github.com/google/lovefield) :gift_heart: - Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use.
+  * [Lovefield (browser-database)](https://github.com/google/lovefield) :gift_heart: - Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use. [https://google.github.io/lovefield/](https://google.github.io/lovefield/)
 - **Data Binding**
-  * [Way.js](https://github.com/gwendall/way.js) :gift_heart: - Simple, lightweight, persistent two-way databinding.
+  * [Way.js](https://github.com/gwendall/way.js) :gift_heart: - Simple, lightweight, persistent two-way databinding. [http://gwendall.github.io/way/](http://gwendall.github.io/way/)
 - **Data Processing & Visualization**
-  * [C3](https://github.com/c3js/c3) :gift_heart: - A D3-based reusable chart library.
-  * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) :gift_heart: - Tiny vanilla JS plugin to display large data sets easily.
-  * [Chart.js](https://github.com/chartjs/Chart.js) :gift_heart: - Simple HTML5 Charts using the ```<canvas>``` tag.
-  * [D3](https://github.com/d3/d3) :gift_heart: - A JavaScript visualization library for HTML and SVG.
-  * [D3.Compose](https://github.com/CSNW/d3.compose) :gift_heart: - Compose complex, data-driven visualizations from reusable charts and components with d3.
-  * [D3-Shape](https://github.com/d3/d3-shape) :gift_heart: - Graphical primitives for visualization, such as lines and areas.
-  * [ECharts](https://github.com/ecomfe/echarts) :gift_heart: - Enterprise Charts.
-  * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart: - Draws simple SVG flow chart diagrams from textual representation of the diagram.
-  * [graph-scroll.js](https://github.com/1wheel/graph-scroll) :gift_heart: - Simple scrolling events for d3 graphs. Based on stack.
-  * [Heatmap.js](https://github.com/pa7/heatmap.js) :gift_heart: - JavaScript Library for HTML5 canvas based heatmaps.
-  * [Highcharts](http://www.highcharts.com/) :rainbow: - Add interactive charts to your web site or web application.
-  * [Infogr.am](https://infogr.am/) :moneybag: - Charts & Infographics the Easy Way.
-  * [MetricsGraphics.js](https://github.com/mozilla/metrics-graphics) :gift_heart: - A library optimized for concise, principled data graphics and layouts.
-  * [Morris.js](https://github.com/morrisjs/morris.js/) :gift_heart: - Pretty time-series line graphs.
-  * [Plotly.js](https://github.com/plotly/plotly.js) :gift_heart: - Built on top of d3.js and stack.gl, plotly.js is a high-level, declarative charting library. plotly.js ships with 20 chart types, including 3D charts, statistical graphs, and SVG maps.
-  * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael/) :gift_heart: - JavaScript Vector Library.
-  * [Sigma.js](https://github.com/jacomyal/sigma.js) :gift_heart: - Sigma is a JavaScript library dedicated to graph drawing.
-  * [Taucharts](https://github.com/TargetProcess/tauCharts) :gift_heart: - D3 based data-focused charting library. Designed with passion. Flexible.
-  * [Timesheets.js](https://github.com/sbstjn/timesheet.js) :gift_heart: - JavaScript library for HTML5 & CSS3 time sheets.
-  * [Vis](https://github.com/almende/vis) :gift_heart: - Dynamic, browser-based visualization library.
-  * [WebCola](https://github.com/tgdwyer/WebCola) :gift_heart: - Javascript constraint-based graph layout.
+  * [C3](https://github.com/c3js/c3) :gift_heart: - A D3-based reusable chart library. [http://c3js.org/](http://c3js.org/)
+  * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) :gift_heart: - Tiny vanilla JS plugin to display large data sets easily. [https://clusterize.js.org/](https://clusterize.js.org/)
+  * [Chart.js](https://github.com/chartjs/Chart.js) :gift_heart: - Simple HTML5 Charts using the ```<canvas>``` tag. [http://www.chartjs.org/](http://www.chartjs.org/)
+  * [D3](https://github.com/d3/d3) :gift_heart: - A JavaScript visualization library for HTML and SVG. [https://d3js.org/](https://d3js.org/)
+  * [D3.Compose](https://github.com/CSNW/d3.compose) :gift_heart: - Compose complex, data-driven visualizations from reusable charts and components with d3. [http://csnw.github.io/d3.compose/](http://csnw.github.io/d3.compose/)
+  * [D3-Shape](https://github.com/d3/d3-shape) :gift_heart: - Graphical primitives for visualization, such as lines and areas. [https://tonicdev.com/npm/d3-shape](https://tonicdev.com/npm/d3-shape)
+  * [ECharts](https://github.com/ecomfe/echarts) :gift_heart: - Enterprise Charts. [http://echarts.baidu.com/](http://echarts.baidu.com/)
+  * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart: - Draws simple SVG flow chart diagrams from textual representation of the diagram. [http://flowchart.js.org/](http://flowchart.js.org/)
+  * [graph-scroll.js](https://github.com/1wheel/graph-scroll) :gift_heart: - Simple scrolling events for d3 graphs. Based on stack. [https://github.com/1wheel/graph-scroll](https://github.com/1wheel/graph-scroll)
+  * [Heatmap.js](https://github.com/pa7/heatmap.js) :gift_heart: - JavaScript Library for HTML5 canvas based heatmaps. [https://www.patrick-wied.at/static/heatmapjs/](https://www.patrick-wied.at/static/heatmapjs/)
+  * [Highcharts](http://www.highcharts.com/) :rainbow: - Add interactive charts to your web site or web application. [http://www.highcharts.com/](http://www.highcharts.com/)
+  * [Infogr.am](https://infogr.am/) :moneybag: - Charts & Infographics the Easy Way. [https://infogr.am/](https://infogr.am/)
+  * [MetricsGraphics.js](https://github.com/mozilla/metrics-graphics) :gift_heart: - A library optimized for concise, principled data graphics and layouts. [http://metricsgraphicsjs.org/](http://metricsgraphicsjs.org/)
+  * [Morris.js](https://github.com/morrisjs/morris.js/) :gift_heart: - Pretty time-series line graphs. [http://morrisjs.github.io/morris.js/](http://morrisjs.github.io/morris.js/)
+  * [Plotly.js](https://github.com/plotly/plotly.js) :gift_heart: - Built on top of d3.js and stack.gl, plotly.js is a high-level, declarative charting library. plotly.js ships with 20 chart types, including 3D charts, statistical graphs, and SVG maps. [https://plot.ly/javascript/](https://plot.ly/javascript/)
+  * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael/) :gift_heart: - JavaScript Vector Library. [https://github.com/DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovskiy/raphael)
+  * [Sigma.js](https://github.com/jacomyal/sigma.js) :gift_heart: - Sigma is a JavaScript library dedicated to graph drawing. [http://sigmajs.org/](http://sigmajs.org/)
+  * [Taucharts](https://github.com/TargetProcess/tauCharts) :gift_heart: - D3 based data-focused charting library. Designed with passion. Flexible. [https://www.taucharts.com/](https://www.taucharts.com/)
+  * [Timesheets.js](https://github.com/sbstjn/timesheet.js) :gift_heart: - JavaScript library for HTML5 & CSS3 time sheets. [https://sbstjn.com/timesheet.js/](https://sbstjn.com/timesheet.js/)
+  * [Vis](https://github.com/almende/vis) :gift_heart: - Dynamic, browser-based visualization library. [http://visjs.org/](http://visjs.org/)
+  * [WebCola](https://github.com/tgdwyer/WebCola) :gift_heart: - Javascript constraint-based graph layout. [http://marvl.infotech.monash.edu/webcola/](http://marvl.infotech.monash.edu/webcola/)
 - **Date Pickers**
   * [DatePickr](https://github.com/joshsalverda/datepickr) :gift_heart: - A simple JavaScript date picker.
   * [Pikaday](https://github.com/dbushell/Pikaday) :gift_heart: - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS.

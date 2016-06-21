@@ -413,7 +413,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [autoComplete](https://github.com/Pixabay/JavaScript-autoComplete) :gift_heart: - An extremely lightweight and powerful vanilla JavaScript completion suggester. [https://goodies.pixabay.com/javascript/auto-complete/demo.html](https://goodies.pixabay.com/javascript/auto-complete/demo.html)
   * [Awesomeplete](https://github.com/LeaVerou/awesomplete) :gift_heart: - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. [http://leaverou.github.io/awesomplete/](http://leaverou.github.io/awesomplete/)
   * [Countable](https://github.com/RadLikeWhoa/Countable) :gift_heart: - Add live paragraph-, word- and character-counting to an HTML element. [https://sacha.me/Countable/](https://sacha.me/Countable/)
-  * [Floating Label](https://github.com/datuhealth/floating-label) :gift_heart: - A floating label plugin written in vanilla javascript. [https://datuhealth.github.io/floating-label/(https://datuhealth.github.io/floating-label/)
+  * [Floating Label](https://github.com/datuhealth/floating-label) :gift_heart: - A floating label plugin written in vanilla javascript. [https://datuhealth.github.io/floating-label/](https://datuhealth.github.io/floating-label/)
   * [Horsey](https://github.com/bevacqua/horsey) :gift_heart: - Progressive and customizable autocomplete component. [https://bevacqua.github.io/horsey/](https://bevacqua.github.io/horsey/)
   * [List.js](https://github.com/javve/list.js) :gift_heart: - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML. [http://www.listjs.com/examples/existing-list](http://www.listjs.com/examples/existing-list)
   * [Selected.js](https://github.com/Fizzadar/selected.js) :gift_heart: - A simple, dependency free ```<select>``` replacement [http://fizzadar.com/selected.js/](http://fizzadar.com/selected.js/)
@@ -445,7 +445,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Slick](https://github.com/kenwheeler/slick) :gift_heart: - The last carousel you'll ever need. [http://kenwheeler.github.io/slick/](http://kenwheeler.github.io/slick/)
   * [Scooch](https://github.com/mobify/scooch) :gift_heart: - A mobile-first JavaScript-driven content and image carousel. [http://mobify.github.io/scooch/](http://mobify.github.io/scooch/)
   * [Springy](https://github.com/dhotson/springy/) :gift_heart: - A force directed graph layout algorithm in JavaScript. [http://getspringy.com/](http://getspringy.com/)
-  * [Swiper](https://github.com/nolimits4web/Swiper) :gift_heart: - Most modern mobile touch slider with hardware accelerated transitions. [http://idangero.us/swiper/#.V2iOtRQrJP0](http://idangero.us/swiper/#.V2iOtRQrJP0)
+  * [Swiper](https://github.com/nolimits4web/Swiper) :gift_heart: - Most modern mobile touch slider with hardware accelerated transitions. [http://idangero.us/swiper/](http://idangero.us/swiper/)
 - **Image Manipulation**
   * [Aviary](https://developers.aviary.com/) :gift_heart: - A complete set of photo editing tools comes standard in Aviary’s cross-platform SDK. Select the tools that are best for your app, or use them all. [https://developers.aviary.com/](https://developers.aviary.com/)
   * [Image Crop Component](http://dev.vizuina.com/cropper/) :gift_heart: - Pure JavaScript Image Crop Component. [http://dev.vizuina.com/cropper/](http://dev.vizuina.com/cropper/)
@@ -455,7 +455,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Watermark.js](https://github.com/brianium/watermarkjs) :gift_heart: - Watermarking for the browser. [http://brianium.github.io/watermarkjs/](http://brianium.github.io/watermarkjs/)
 - **Key Bindings & Mouse Events**
   * [Keys.js](https://github.com/bitwalker/keys.js) :gift_heart: - Easy keybindings for browser applications! [http://bitwalker.org/keys.js/](http://bitwalker.org/keys.js/)
-  * [Mousetrap](https://github.com/ccampbell/mousetrap) :gift_heart: - Simple library for handling keyboard shortcuts in Javascript. [https://craig.is/killing/mice(https://craig.is/killing/mice)
+  * [Mousetrap](https://github.com/ccampbell/mousetrap) :gift_heart: - Simple library for handling keyboard shortcuts in Javascript. [https://craig.is/killing/mice](https://craig.is/killing/mice)
   * [Simple Hotkeys](https://github.com/mycolorway/simple-hotkeys) :gift_heart: - Simple hotkeys. [https://github.com/mycolorway/simple-hotkeys](https://github.com/mycolorway/simple-hotkeys)
 - **LazyLoaders**
   * [Blazy](https://github.com/dinbror/blazy) :gift_heart: - Hey, be lazy! bLazy.JS is a lightweight pure JavaScript script for lazy loading and multi-serving images. It's working in all modern browsers including IE7+. [http://dinbror.dk/blazy/](http://dinbror.dk/blazy/)
@@ -487,10 +487,10 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [jsModal](http://jsmodal.com/) :gift_heart: - Modal generator in pure JavaScript. - An open-source modal box engine written in pure JavaScript. [http://jsmodal.com/](http://jsmodal.com/)
   * [Notiejs](https://github.com/jaredreich/notie) :gift_heart: - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies. [https://jaredreich.com/projects/notie](https://jaredreich.com/projects/notie)
 - **Parallax & Scrolling**
-  * [Elevator.js](https://github.com/tholman/elevator.js) :gift_heart: - Finally, a "back to top" button that behaves like a real elevator. [http://tholman.com/elevator.js/(http://tholman.com/elevator.js/)
+  * [Elevator.js](https://github.com/tholman/elevator.js) :gift_heart: - Finally, a "back to top" button that behaves like a real elevator. [http://tholman.com/elevator.js]/(http://tholman.com/elevator.js/)
   * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart: - Infinite list in javascript that scrolls in 60fps. [http://roeierez.github.io/infinite-list/examples/react/index.html](http://roeierez.github.io/infinite-list/examples/react/index.html)
-  * [Scrollerjs](https://github.com/forcedotcom/scrollerjs) :gift_heart: - A JavaScript library that helps you build performant UI components for the web. [http://scrollerjs.com/(http://scrollerjs.com/)
-  * [Stack.js](https://github.com/mbostock/stack) :gift_heart: - A presentation library with intuitive, scroll-based navigation. [https://mbostock.github.io/stack/(https://mbostock.github.io/stack/)
+  * [Scrollerjs](https://github.com/forcedotcom/scrollerjs) :gift_heart: - A JavaScript library that helps you build performant UI components for the web. [http://scrollerjs.com/](http://scrollerjs.com/)
+  * [Stack.js](https://github.com/mbostock/stack) :gift_heart: - A presentation library with intuitive, scroll-based navigation. [https://mbostock.github.io/stack/](https://mbostock.github.io/stack/)
 - **Pointers & Tooltips**
   * [Focusable](https://github.com/zzarcon/focusable) :gift_heart: - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page. [http://zzarcon.github.io/focusable/](http://zzarcon.github.io/focusable/)
   * [Opentip](https://github.com/enyo/opentip) :gift_heart: - Opentip is an open source javascript tooltip based on the protoype framework. [http://www.opentip.org/](http://www.opentip.org/)

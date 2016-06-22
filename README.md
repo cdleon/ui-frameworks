@@ -38,7 +38,7 @@ Please read manifest to contribute :)
 1. [Tools](#18tools)
 
 ## 1.Angular Directives
-[Top](#awesome-front-end)
+[Go to top](#awesome-front-end)
 - **Bootstrap**
   * [UI Bootstrap](https://github.com/angular-ui/bootstrap) :gift_heart: - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. [http://angular-ui.github.io/bootstrap/](http://angular-ui.github.io/bootstrap/)
 - **Calendar**
@@ -57,10 +57,12 @@ Please read manifest to contribute :)
   * [angular-translate](https://github.com/angular-translate/angular-translate) :gift_heart: - i18n in your Angular apps, made easy. [https://angular-translate.github.io/](https://angular-translate.github.io/)
 
 ## 2.Backbone Frameworks
+[Go to top](#awesome-front-end)
 - [Knockback.js](https://github.com/kmalakoff/knockback) :gift_heart: - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections. [http://kmalakoff.github.io/knockback/](http://kmalakoff.github.io/knockback/).
 - [Marionette.js](https://github.com/marionettejs/backbone.marionette) :gift_heart: - The Backbone Framework. [http://marionettejs.com/](http://marionettejs.com/)
 
 ## 3.CSS Frameworks
+[Go to top](#awesome-front-end)
 - [Amaze UI](https://github.com/amazeui/amazeui) :gift_heart: - Amaze UI, a mobile-first and modular front-end framework. [http://amazeui.org/](http://amazeui.org/)
 - [Bootmetro](https://github.com/aozora/bootmetro) :gift_heart: - Simple and flexible web framework to create elegant and modern web applications 
 with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](http://www.marcellop.com/bootmetro/)
@@ -92,6 +94,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - [Yahoo User Interface Library](https://github.com/yui/yui3) :gift_heart: - YUI is a free, open source JavaScript and CSS framework for building richly interactive web applications. [http://yuilibrary.com/](http://yuilibrary.com/)
 
 ## 4.CSS Plugins
+[Go to top](#awesome-front-end)
 - **Button groups**
   * [Social Buttons For Bootsrap](https://github.com/lipis/bootstrap-social) :gift_heart: - Social Sign-In Buttons for Bootstrap. [https://lipis.github.io/bootstrap-social/](https://lipis.github.io/bootstrap-social/)
   * [Zocial CSS Social Buttons](https://github.com/smcllns/css-social-buttons) :gift_heart: - Zocial button set with CSS. Entirely vector-based social buttons. [http://zocial.smcllns.com/](http://zocial.smcllns.com/)
@@ -119,6 +122,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Pure CSS Components](https://github.com/LFeh/css-components/) :gift_heart: - A set of common UI Components using the power of CSS and without Javascript. [http://www.felipefialho.com/css-components/](http://www.felipefialho.com/css-components/)
 
 ## 5.CSS Snippets
+[Go to top](#awesome-front-end)
 - **Blog Libraries**
   * [1stWebDesigner](http://1stwebdesigner.com/css-cheat-sheet/) :gift_heart: - 25 Incredibly Useful CSS Snippets for Developers.
   * [Design Your Way](http://www.designyourway.net/blog/resources/31-css-code-snippets-to-make-you-a-better-coder/) :gift_heart: - Here are some of the ones that you would need more often than others.
@@ -140,6 +144,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Github Corners](https://github.com/tholman/github-corners) :gift_heart: - "Fork me on GitHub" ribbons are 7 years old. This is a cleaner alternative. 
 
 ## 6.Fonts
+[Go to top](#awesome-front-end)
 - **CSS**
   * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart: - CSS SANS is the font created by CSS, the programming language for web designing and typesetting. [https://yusugomori.com/projects/css-sans/](https://yusugomori.com/projects/css-sans/)
 - **Libraries**
@@ -150,6 +155,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart: - Source for the Sans Bullshit Sans font. [http://www.sansbullshitsans.com/](http://www.sansbullshitsans.com/)
 
 ## 7.Guides
+[Go to top](#awesome-front-end)
 - **Browser Support**
   * [Can I Use](http://caniuse.com/) :gift_heart: - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
   * [State of WebType](http://stateofwebtype.com/) :gift_heart: - Up-to-date data on support for type and typographic features on the web.
@@ -177,6 +183,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart: - The U.S. Digital Services Playbook
 
 ## 8.Icons
+[Go to top](#awesome-front-end)
 - **CSS**
   * [Icono](https://github.com/saeedalipoor/icono) :gift_heart: - One tag One icon, no font or svg, Pure CSS. [http://saeedalipoor.github.io/icono/](http://saeedalipoor.github.io/icono/)
   * [Littlebox](https://github.com/cmaddux/littlebox) :gift_heart: - Super simple to implement, CSS-only icons. [http://littlebox.cabmaddux.com/](http://littlebox.cabmaddux.com/)
@@ -212,6 +219,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos. [https://github.com/gilbarbara/logos/](https://github.com/gilbarbara/logos/)
 
 ## 9.JQuery Plugins
+[Go to top](#awesome-front-end)
 - **Background & Background effects**
   * [Backstretch](https://github.com/srobbin/jquery-backstretch) :gift_heart: - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes. [http://srobbin.com/jquery-plugins/backstretch/](http://srobbin.com/jquery-plugins/backstretch/)
   * [JQuery.Bgwitcher](https://github.com/rewish/jquery-bgswitcher) :gift_heart: - Switch the background-image with using effect. [http://rewish.github.io/jquery-bgswitcher/](http://rewish.github.io/jquery-bgswitcher/)
@@ -304,12 +312,14 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Long Press](https://github.com/quentint/long-press) :gift_heart: - jQuery plugin to ease the writing of accented or rare characters. [http://toki-woki.net/lab/long-press/](http://toki-woki.net/lab/long-press/)
 
 ## 10.JQuery Snippets
+[Go to top](#awesome-front-end)
   * **Libraries**
     + [Smipple](http://www.smipple.net/lang/js) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
     + [Snipplr](http://snipplr.com/) :gift_heart: - All of our code snippets are stored in one place.
     + [Snipt](https://snipt.net/public/tag/jquery/) :gift_heart: - The publishing platform for coders.
 
 ## 11.JS Frameworks
+[Go to top](#awesome-front-end)
   * [Amp HTML](https://github.com/ampproject/amphtml) :gift_heart: - AMP HTML is a way to build web pages for static content that render with reliable, fast performance. It is our attempt at fixing what many perceive as painfully slow page load times – especially when reading content on the mobile web. [https://www.ampproject.org/](https://www.ampproject.org/)
   * [Angular](https://github.com/angular/angular.js) :gift_heart: - HTML enhanced for web apps. [https://angularjs.org/](https://angularjs.org/)
   * [App.js](https://github.com/kikinteractive/app) :gift_heart: - App.js is a lightweight JavaScript UI library for creating mobile webapps that behave like native apps, sacrificing neither performance nor polish. [http://code.kik.com/app/3/index.html](http://code.kik.com/app/3/index.html)
@@ -352,6 +362,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Zepto.js](https://github.com/madrobby/zepto) :gift_heart: - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API. [http://zeptojs.com/](http://zeptojs.com/)
 
 ## 12.Loaders
+[Go to top](#awesome-front-end)
 - **CSS**
   * [Css-spinners](https://github.com/jlong/css-spinners) :gift_heart: - Simple CSS spinners and throbbers made with CSS and minimal HTML markup. [https://github.com/jlong/css-spinners](https://github.com/jlong/css-spinners)
   * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) :gift_heart: - Delightful, performance-focused pure css loading animations. [https://connoratherton.com/loaders](https://connoratherton.com/loaders)
@@ -362,6 +373,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :gift_heart: - Loading icons and small animations built purely in SVG, no CSS or JS. [http://samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
 
 ## 13.Pure JS Plugins
+[Go to top](#awesome-front-end)
 - **Accesibility**
   * [Tota11y](https://github.com/Khan/tota11y) :gift_heart: - an accessibility (a11y) visualization toolkit. [http://khan.github.io/tota11y/](http://khan.github.io/tota11y/)
 - **BenchMarking**
@@ -543,6 +555,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Wysihtml](https://github.com/Voog/wysihtml) :gift_heart: - Open source rich text editor for the modern web. [http://wysihtml.com/](http://wysihtml.com/)
 
 ## 14.Pure JS Snippets
+[Go to top](#awesome-front-end)
   * **Date, Calendar & Timeline**
     + [Booking-js](https://github.com/timekit-io/booking-js) :gift_heart: - Make a beautiful embeddable booking widget in minutes.
     + [Labella.js](https://github.com/twitter/labella.js) :gift_heart: - Placing labels on a timeline without overlap.
@@ -554,6 +567,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
     + [Snipt (tag:js)](https://snipt.net/public/tag/js/) :gift_heart: -  - The publishing platform for coders.
 
 ## 15.React Components
+[Go to top](#awesome-front-end)
 - **Charts & Plots**
   * [React D3 Library](https://github.com/react-d3-library/react-d3-library) :gift_heart: - Open source library for using D3 in React. http://react-d3-library.github.io/
 - **Chat & Messaging**
@@ -566,6 +580,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [react-map-gl](https://github.com/uber/react-map-gl) :gift_heart: - react-map-gl provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library.
 
 ## 16.React Frameworks
+[Go to top](#awesome-front-end)
   * [Elemental UI](http://elemental-ui.com/) :gift_heart: - A UI Toolkit for React.js Websites and Apps.
   * [Essential](https://github.com/pheuter/essential-react) :gift_heart: - A minimal skeleton for building testable React apps using ES6.
   * [Flux](https://github.com/facebook/flux) :gift_heart: - An application architecture for React utilizing a unidirectional data flow.
@@ -577,6 +592,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [TuxedoJS](https://github.com/TuxedoJS/TuxedoJS) :gift_heart: - A feature-complete framework built on React and Flux.
 
 ## 17.Templates
+[Go to top](#awesome-front-end)
 - **Bootstrap**
   * [Start Bootstrap](http://startbootstrap.com/) :gift_heart: - Free Bootstrap Themes & Templates.
   * [Bootsrap Zero](http://www.bootstrapzero.com/) :gift_heart: - The largest open-source, free Bootstrap template collection.
@@ -599,6 +615,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 
 
 ## 18.Tools
+[Go to top](#awesome-front-end)
 - **BenchMarking & Testing**
   * JS
     + [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart: - A benchmarking library. As used on jsPerf.com.

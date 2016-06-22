@@ -38,6 +38,7 @@ Please read manifest to contribute :)
 1. [Tools](#18tools)
 
 ## 1.Angular Directives
+[Top](#table-of-contents)
 - **Bootstrap**
   * [UI Bootstrap](https://github.com/angular-ui/bootstrap) :gift_heart: - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. [http://angular-ui.github.io/bootstrap/](http://angular-ui.github.io/bootstrap/)
 - **Calendar**
@@ -76,10 +77,12 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - [MUI](https://github.com/muicss/mui) :gift_heart: - MUI is a lightweight CSS framework that follows Google's Material Design guidelines. [https://www.muicss.com](https://www.muicss.com)
 - [Office UI Fabric](https://github.com/OfficeDev/Office-UI-Fabric) :gift_heart: - The front-end framework for building experiences for Office 365. [http://dev.office.com/fabric](http://dev.office.com/fabric)
 - [Penguin](https://github.com/bq/penguin) :gift_heart: - A front-end framework created for front-end developers. [http://penguin.docs.bqws.io/](http://penguin.docs.bqws.io/)
+- [Pills](https://github.com/rohitkrai03/pills) :gift_heart: - A simple responsive CSS Grid for humans. [http://arkpod.in/pills/](http://arkpod.in/pills/)
 - [Pure](https://github.com/yahoo/pure/) :gift_heart: - A set of small, responsive CSS modules that you can use in every web project. [http://purecss.io/](http://purecss.io/)
 - [Responsive](https://github.com/ResponsiveBP/Responsive) :gift_heart: - A powerful, accessible, developer friendly framework for building responsive websites. [http://responsivebp.com](http://responsivebp.com)
 - [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) :gift_heart: - Semantic is a UI component framework based around useful principles from natural language. [http://semantic-ui.com/](http://semantic-ui.com/)
 - [Skeleton](https://github.com/dhg/Skeleton) :gift_heart: - A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development. [http://getskeleton.com/](http://getskeleton.com/)
+- [Spectre](https://github.com/picturepan2/spectre) :gift_heart: - A lightweight, responsive and modern CSS framework. [https://picturepan2.github.io/spectre/](https://picturepan2.github.io/spectre/)
 - [Topcoat](https://github.com/topcoat/topcoat) :gift_heart: - CSS for clean and fast web apps. [http://topcoat.io](http://topcoat.io)
 - [Tufte-css](https://github.com/edwardtufte/tufte-css) :gift_heart: - Style your webpage like Edward Tufte's handouts. [https://edwardtufte.github.io/tufte-css/](https://edwardtufte.github.io/tufte-css/)
 - [Typebase.css](https://github.com/devinhunt/typebase.css) :gift_heart: - A starting point for good typography on the web. [http://devinhunt.github.io/typebase.css/](http://devinhunt.github.io/typebase.css/)
@@ -321,6 +324,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Fn.js](https://github.com/eliperelman/fn.js) :gift_heart: - A JavaScript library built to encourage a functional programming style & strategy [http://eliperelman.com/fn.js/](http://eliperelman.com/fn.js/)
   * [Handlebars.js](https://github.com/wycats/handlebars.js) :gift_heart: - Handlebars.js is an extension to the Mustache templating language created by Chris Wanstrath. Handlebars.js and Mustache are both logicless templating languages that keep the view and the code separated like we all know they should be. [http://handlebarsjs.com/](http://handlebarsjs.com/)
   * [History.js](https://github.com/browserstate/history.js) :gift_heart: - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype. [http://browserstate.github.io/history.js/demo/](http://browserstate.github.io/history.js/demo/)
+  * [Inferno](https://github.com/trueadm/inferno) :gift_heart: - An extremely fast, React-like JavaScript library for building modern user interfaces. [http://infernojs.org/](http://infernojs.org/)
   * [jQuery](https://github.com/jquery/jquery) :gift_heart: - jQuery JavaScript Library. [https://jquery.com/](https://jquery.com/)
   * [jQuery Mobile](https://github.com/jquery/jquery-mobile) :gift_heart: - jQuery Mobile is a unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation. [https://jquerymobile.com/](https://jquerymobile.com/)
   * [JsBlocks](https://github.com/astoilkov/jsblocks) :gift_heart: - Better MV-ish Framework. [http://jsblocks.com/](http://jsblocks.com/)
@@ -421,6 +425,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Floating Label](https://github.com/datuhealth/floating-label) :gift_heart: - A floating label plugin written in vanilla javascript. [https://datuhealth.github.io/floating-label/](https://datuhealth.github.io/floating-label/)
   * [Horsey](https://github.com/bevacqua/horsey) :gift_heart: - Progressive and customizable autocomplete component. [https://bevacqua.github.io/horsey/](https://bevacqua.github.io/horsey/)
   * [List.js](https://github.com/javve/list.js) :gift_heart: - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML. [http://www.listjs.com/examples/existing-list](http://www.listjs.com/examples/existing-list)
+  * [Places](https://github.com/algolia/places) :gift_heart: - Turn any <input> into an address autocomplete. [https://community.algolia.com/places/](https://community.algolia.com/places/)
   * [Selected.js](https://github.com/Fizzadar/selected.js) :gift_heart: - A simple, dependency free ```<select>``` replacement [http://fizzadar.com/selected.js/](http://fizzadar.com/selected.js/)
   * [Stretchy](https://github.com/LeaVerou/stretchy) :gift_heart: - Form element autosizing, the way it should be. [http://leaverou.github.io/stretchy/](http://leaverou.github.io/stretchy/)
   * [Taggle](https://github.com/okcoker/taggle.js) :gift_heart: - Form-ready dependency-less tagging. [https://sean.is/poppin/tags](https://sean.is/poppin/tags)
@@ -490,6 +495,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Slideout.js (For-Mobile)](https://github.com/Mango/slideout) :gift_heart: - A touch slideout navigation menu for your mobile web apps. [https://mango.github.io/slideout/](https://mango.github.io/slideout/)
 - **Modals & Alerts**
   * [jsModal](http://jsmodal.com/) :gift_heart: - Modal generator in pure JavaScript. - An open-source modal box engine written in pure JavaScript. [http://jsmodal.com/](http://jsmodal.com/)
+  * [Modal](https://github.com/humaan/Modaal) :gift_heart: - An accessible dialog window library for all humans. [http://humaan.com/modaal/](http://humaan.com/modaal/)
   * [Notiejs](https://github.com/jaredreich/notie) :gift_heart: - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies. [https://jaredreich.com/projects/notie](https://jaredreich.com/projects/notie)
 - **Parallax & Scrolling**
   * [Elevator.js](https://github.com/tholman/elevator.js) :gift_heart: - Finally, a "back to top" button that behaves like a real elevator. [http://tholman.com/elevator.js/](http://tholman.com/elevator.js/)
@@ -510,6 +516,8 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Tiny Scrollbar](https://github.com/wieringen/tinyscrollbar) :gift_heart: - A lightweight cross browser javascript scrollbar. [http://baijs.com/tinyscrollbar/](http://baijs.com/tinyscrollbar/)
 - **State Management**
   * [Redux](https://github.com/reactjs/redux) :gift_heart: - Predictable state container for JavaScript apps. [http://redux.js.org/](http://redux.js.org/)
+- **Search**
+  * [Holmes](https://github.com/Haroenv/holmes) :gift_heart: - Fast and easy searching inside a page. [https://haroen.me/holmes/](https://haroen.me/holmes/)
 - **Transition & Effects**
   * [Ramjet](https://github.com/Rich-Harris/ramjet) :gift_heart: - Morph DOM elements from one state to another with smooth transitions. [http://www.rich-harris.co.uk/ramjet/](http://www.rich-harris.co.uk/ramjet/)
   * [Snabbt.js](https://github.com/daniel-lundin/snabbt.js) :gift_heart: - Fast animations with javascript and CSS transforms. [http://daniel-lundin.github.io/snabbt.js/](http://daniel-lundin.github.io/snabbt.js/)

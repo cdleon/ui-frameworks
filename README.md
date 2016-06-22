@@ -159,6 +159,8 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Browser Support**
   * [Can I Use](http://caniuse.com/) :gift_heart: - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
   * [State of WebType](http://stateofwebtype.com/) :gift_heart: - Up-to-date data on support for type and typographic features on the web.
+- **HTML**
+  * [HEAD](https://github.com/joshbuchea/HEAD) :gift_heart: - A list of everything that could go in the <head> of your document. [http://gethead.info/](http://gethead.info/)
 - **Javascript**
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart: - JavaScript Style Guide.
   * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) :gift_heart: - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.

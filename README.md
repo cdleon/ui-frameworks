@@ -582,6 +582,8 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [react-rogressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart: - Responsive and slick progress bars for React.
 - **Maps**
   * [react-map-gl](https://github.com/uber/react-map-gl) :gift_heart: - react-map-gl provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library.
+- **Tools**
+  * [Why Did You Update](https://github.com/garbles/why-did-you-update) :gift_heart: - Puts your console on blast when React is making unnecessary updates.
 
 ## 16.React Frameworks
 [Go to top](#awesome-front-end)

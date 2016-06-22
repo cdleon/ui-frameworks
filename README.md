@@ -544,6 +544,8 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Ritzy](https://github.com/ritzyed/ritzy) :gift_heart: - Collaborative web-based rich text editor. [http://ritzyed.github.io/ritzy/](http://ritzyed.github.io/ritzy/)
 - **Torrents**
   * [Webtorrent](https://github.com/feross/webtorrent) :gift_heart: - Streaming torrent client for node & the browser. [https://webtorrent.io/](https://webtorrent.io/)
+ **Video**
+  * [Vidage](https://github.com/dvLden/Vidage) :gift_heart: - Your solution to full-screen background video & image combined. [https://dvlden.github.io/Vidage/](https://dvlden.github.io/Vidage/)
 - **WYSIWYG**
   * [Aloha](https://github.com/alohaeditor/Aloha-Editor/tree/howling-mad) :gift_heart: - Aloha Editor is a JavaScript content editing library. [http://www.alohaeditor.org/](http://www.alohaeditor.org/)
   * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart: - The development repository of CKEditor. [http://ckeditor.com/](http://ckeditor.com/)

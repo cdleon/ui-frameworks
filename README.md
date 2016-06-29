@@ -262,7 +262,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Image Manipulation & Effects**
   * [Adipoli](https://github.com/cube3x/Adipoli) :gift_heart: - jQuery Image Hover Plugin from cube3x. [https://github.com/cube3x/Adipoli](https://github.com/cube3x/Adipoli)
   * [CamanJS](https://github.com/meltingice/CamanJS/) :gift_heart: - Javascript HTML5 (Ca)nvas (Man)ipulation. [http://camanjs.com/](http://camanjs.com/)
-  * [iPicture](https://github.com/vincicat/jQuery-iPicture) :gift_heart: - Tooltip your images. [http://ipicture.justmybit.com/index.php](http://ipicture.justmybit.com/index.php)
+  * [iPicture](https://github.com/vincicat/jQuery-iPicture) :gift_heart: - Tooltip your images. [https://github.com/vincicat/jQuery-iPicture](https://github.com/vincicat/jQuery-iPicture)
   * [Jcrop](https://github.com/tapmodo/Jcrop) :gift_heart: - Image Cropping Plugin for jQuery. [http://deepliquid.com/content/Jcrop.html](http://deepliquid.com/content/Jcrop.html)
   * [Spritley](http://spritely.net/) :gift_heart: - jQuery.spritely is a jQuery plugin created by Artlogic for creating dynamic character and background animation in pure HTML and JavaScript. [http://spritely.net/](http://spritely.net/)
   * [Swipebox](https://github.com/brutaldesign/swipebox) :gift_heart: - A touchable jQuery lightbox. [http://brutaldesign.github.io/swipebox/](http://brutaldesign.github.io/swipebox/)

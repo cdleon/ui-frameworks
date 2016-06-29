@@ -171,13 +171,12 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :gift_heart: - A book series on JavaScript.
   * [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) :gift_heart: - You don't need jQuery any more, here is how you can get rid of it. 
 - **React**
+  * [Khan Academy React Style Guide](https://github.com/Khan/style-guides/blob/master/style/react.md) :gift_heart: - In addition to these style rules, you may also be interested in React best practices.
   * [React-howto](https://github.com/petehunt/react-howto) :gift_heart: - Your guide to the (sometimes overwhelming!) React ecosystem.
   * [React Fundamentals](https://github.com/ReactjsProgram/React-Fundamentals) :gift_heart: - Code for "React Fundamentals" videos. [http://www.reactjsprogram.com/](http://www.reactjsprogram.com/)
 - **Responsive**
   * [Media Queries (Examples)](http://mediaqueri.es/) :gift_heart: - A collection of inspirational websites using media queries and responsive web design.
   * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart: - We built screensiz.es to help you quickly find the screen specifications of the most popular devices and monitors currently on the market.
-- **React**
-  * [Khan Academy React Style Guide](https://github.com/Khan/style-guides/blob/master/style/react.md) :gift_heart: - In addition to these style rules, you may also be interested in React best practices.
 - **Style / Design / CSS Guides**
   * [3 Things (Almost) No One Knows About CSS](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - Think you know CSS?
   * [CSS Guidelines](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - High-level advice and guidelines for writing sane, manageable, scalable CSS.

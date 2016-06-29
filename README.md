@@ -269,6 +269,8 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [ThreeSixty](https://github.com/modernassembly/threesixtyjs/) :gift_heart: - A jQuery plugin for generating a draggable 360 preview from an image sequence. [http://nick-jonas.github.io/threesixtyjs/](http://nick-jonas.github.io/threesixtyjs/)
   * [TiltShift.js](https://github.com/noeltock/tiltShift.js) :gift_heart: - A jQuery plugin using CSS3 filters to replicate the tilt shift effect. [http://www.noeltock.com/tilt-shift-css3-jquery-plugin/](http://www.noeltock.com/tilt-shift-css3-jquery-plugin/)
   * [Zoom.js](https://github.com/fat/zoom.js) :gift_heart: - Medium's Image Zoom for jQuery. [https://fat.github.io/zoom.js/](https://fat.github.io/zoom.js/)
+- **Menus & Navigation**
+  * [okayNav](https://github.com/VPenkov/okayNav) :gift_heart: - The world's okayest responsive navigation. [http://codepen.io/VPenkov/pen/wMZBOg](http://codepen.io/VPenkov/pen/wMZBOg)
 - **Modal**
   * [FancyBox](https://github.com/fancyapps/fancyBox) :rainbow: - Tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages. [http://fancyapps.com/fancybox/](http://fancyapps.com/fancybox/)
   * [Magnificent Popup](https://github.com/dimsemenov/Magnific-Popup) :gift_heart: - Light and responsive lightbox script with focus on performance. [http://dimsemenov.com/plugins/magnific-popup/](http://dimsemenov.com/plugins/magnific-popup/)

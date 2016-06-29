@@ -334,6 +334,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Bacon.js](https://github.com/baconjs/bacon.js/) :gift_heart: - FRP (functional reactive programming) library for Javascript. [https://baconjs.github.io/](https://baconjs.github.io/)
   * [Brunch](https://github.com/brunch/brunch) :gift_heart: - Fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps. [http://brunch.io/](http://brunch.io/)
   * [Can.js](https://github.com/canjs/canjs) :gift_heart: - CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy. [https://canjs.com/](https://canjs.com/)
+  * [Choo](https://github.com/yoshuawuyts/choo
   * [Composer.js](https://github.com/lyonbros/composer.js) :gift_heart: - Composer is a library for building complex single-page applications. [http://lyonbros.github.io/composer.js/](http://lyonbros.github.io/composer.js/)
   * [Dojo](https://github.com/dojo) :gift_heart: - A JavaScript toolkit that saves you time and scales with your development process. Provides everything you need to build a Web app. Language utilities, UI components, and more, all in one place, designed to work together perfectly. [https://dojotoolkit.org/](https://dojotoolkit.org/)
   * [Flight](https://github.com/flightjs/flight) :gift_heart: - A component-based, event-driven JavaScript framework from Twitter. [http://flightjs.github.io/](http://flightjs.github.io/) 
@@ -423,6 +424,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [WebCola](https://github.com/tgdwyer/WebCola) :gift_heart: - Javascript constraint-based graph layout. [http://marvl.infotech.monash.edu/webcola/](http://marvl.infotech.monash.edu/webcola/)
 - **Date Pickers**
   * [DatePickr](https://github.com/joshsalverda/datepickr) :gift_heart: - A simple JavaScript date picker. [http://joshsalverda.github.io/datepickr/](http://joshsalverda.github.io/datepickr/)
+  * [Flatpickr](https://github.com/chmln/flatpickr) :gift_heart: - Lightweight, powerful datetimepicker. Zero dependencies. [https://chmln.github.io/flatpickr/](https://chmln.github.io/flatpickr/)
   * [Pikaday](https://github.com/dbushell/Pikaday) :gift_heart: - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS. [http://dbushell.github.io/Pikaday/](http://dbushell.github.io/Pikaday/)
   * [Rome](https://github.com/bevacqua/rome) :gift_heart: - Customizable date (and time) picker. Opt-in UI, no jQuery! [https://bevacqua.github.io/rome/](https://bevacqua.github.io/rome/)
 - **Drag & Drop**

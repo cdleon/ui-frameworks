@@ -464,6 +464,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Vivus.js (SVG-animations)](https://github.com/maxwellito/vivus) :gift_heart: - JavaScript library to make drawing animation on SVG. [http://maxwellito.github.io/vivus/](http://maxwellito.github.io/vivus/)
   * [WebGLStudio.js](https://github.com/jagenjo/webglstudio.js) :gift_heart: - A full 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more. [http://webglstudio.org/](http://webglstudio.org/)
 - **Grid**
+  * [Bricks.js](https://github.com/callmecavs/bricks.js) :gift_heat: - A blazing fast masonry layout generator for fixed width elements. [http://callmecavs.com/bricks.js/](http://callmecavs.com/bricks.js/)
   * [Layout Grid](https://github.com/clippings/layout-grid) :gift_heart: - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile. [http://clippings.github.io/layout-grid/](http://clippings.github.io/layout-grid/)
   * [Right Height](https://github.com/cferdinandi/right-height) :gift_heart: - Dynamically set content areas of different lengths to the same height. [http://cferdinandi.github.io/right-height/](http://cferdinandi.github.io/right-height/)
 - **Image & Content Sliders**
@@ -595,6 +596,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 
 ## 16.React Frameworks
 [Go to top](#awesome-front-end)
+  * [Draft.js](https://github.com/facebook/draft-js) :gift_heart: - A React framework for building text editors. [https://facebook.github.io/draft-js/](https://facebook.github.io/draft-js/)
   * [Elemental UI](http://elemental-ui.com/) :gift_heart: - A UI Toolkit for React.js Websites and Apps.
   * [Essential](https://github.com/pheuter/essential-react) :gift_heart: - A minimal skeleton for building testable React apps using ES6.
   * [Flux](https://github.com/facebook/flux) :gift_heart: - An application architecture for React utilizing a unidirectional data flow.

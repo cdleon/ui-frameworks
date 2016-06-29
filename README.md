@@ -513,6 +513,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Streama](https://github.com/dularion/streama) :gift_heart: - It's like Netflix, but self-hosted! [http://dularion.github.io/streama/](http://dularion.github.io/streama/)
   * [Winamp2-js](https://github.com/captbaritone/winamp2-js) :gift_heart: - A reimplementation of Winamp 2.9 in HTML5 and Javascript. [https://jordaneldredge.com/projects/winamp2-js/](https://jordaneldredge.com/projects/winamp2-js/)
 - **Menus & Navigation**
+  * [Intro.js](https://github.com/usablica/intro.js) :gift_heart: - A better way for new feature introduction and step-by-step users guide for your website and project. [http://introjs.com](http://introjs.com) 
   * [Slideout.js (For-Mobile)](https://github.com/Mango/slideout) :gift_heart: - A touch slideout navigation menu for your mobile web apps. [https://mango.github.io/slideout/](https://mango.github.io/slideout/)
 - **Modals & Alerts**
   * [jsModal](http://jsmodal.com/) :gift_heart: - Modal generator in pure JavaScript. - An open-source modal box engine written in pure JavaScript. [http://jsmodal.com/](http://jsmodal.com/)
@@ -588,10 +589,12 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Graphics & Animation**
   * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components
 - **Loading Bars**
-  * [react-rogressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart: - Responsive and slick progress bars for React.
+  * [react-progressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart: - Responsive and slick progress bars for React.
 - **Maps**
   * [react-map-gl](https://github.com/uber/react-map-gl) :gift_heart: - react-map-gl provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library.
 - **Tools**
+  * [Atellier](https://github.com/scup/atellier) :gift_heart: - The smartest way to share interactive components with your team. [http://scup.github.io/atellier/](http://scup.github.io/atellier/)
+  * [Reactotron](https://github.com/skellock/reactotron) :gift_heart: - Control, monitor, and instrument your React and React Native apps from the comfort of your TTY. [https://github.com/skellock/reactotron](https://github.com/skellock/reactotron)
   * [Why Did You Update](https://github.com/garbles/why-did-you-update) :gift_heart: - Puts your console on blast when React is making unnecessary updates.
 
 ## 16.React Frameworks

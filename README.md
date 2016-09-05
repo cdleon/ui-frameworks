@@ -103,6 +103,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Cross Browser Rendering & Consistency**
   * [Normalize.css](https://github.com/necolas/normalize.css/) :gift_heart: - Normalize.css is a customisable CSS file that makes browsers render all elements more consistently and in line with modern standards. [http://necolas.github.io/normalize.css/](http://necolas.github.io/normalize.css/)
 - **Effects**
+  * [Animate.css](https://github.com/daneden/animate.css) :gift_heart: - A cross-browser library of CSS animations. As easy to use as an easy thing. [https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/)
   * [Hover](https://github.com/IanLunn/Hover) :gift_heart: - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. [http://ianlunn.github.io/Hover/](http://ianlunn.github.io/Hover/)
   * [iHover](https://github.com/gudh/ihover) :gift_heart: - iHover is a collection of hover effects using pure CSS, powered by Sass. [http://gudh.github.io/ihover/dist/index.html](http://gudh.github.io/ihover/dist/index.html)
 - **Graphics & Animations**

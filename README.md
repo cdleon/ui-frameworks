@@ -631,7 +631,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Blog](https://github.com/jlongster/blog) :gift_heart: - All the sources for my react-powered blog.
 - **WordPress**
   * [Gridgum](http://gridgum.com/themes/category/wordpress/) :moneybag: - Gridgum is a marketplace for responsive themes and templates.
-  * [wpfreeware](http://www.wpfreeware.com/) :gift_heart: - Free Responsive WordPress Themes & Bootstrap Templates, Made With LOVE!
+  * [wpfreeware](https://www.wpfreeware.com/) :gift_heart: - Free Responsive WordPress Themes & Bootstrap Templates, Made With LOVE!
 
 
 ## 18.Tools

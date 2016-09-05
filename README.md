@@ -77,7 +77,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - [Materialize](https://github.com/Dogfalo/materialize) :gift_heart: - CSS Framework based on Material Design. [http://materializecss.com](http://materializecss.com)
 - [Material UI](https://github.com/callemall/material-ui) :gift_heart: - React Components that Implement Google's Material Design. [http://www.material-ui.com](http://www.material-ui.com)
 - [MUI](https://github.com/muicss/mui) :gift_heart: - MUI is a lightweight CSS framework that follows Google's Material Design guidelines. [https://www.muicss.com](https://www.muicss.com)
-- [Office UI Fabric](https://github.com/OfficeDev/Office-UI-Fabric) :gift_heart: - The front-end framework for building experiences for Office 365. [http://dev.office.com/fabric](http://dev.office.com/fabric)
+- [Office UI Fabric](https://github.com/OfficeDev/office-ui-fabric-core) :gift_heart: - The front-end framework for building experiences for Office 365. [http://dev.office.com/fabric](http://dev.office.com/fabric)
 - [Penguin](https://github.com/bq/penguin) :gift_heart: - A front-end framework created for front-end developers. [http://penguin.docs.bqws.io/](http://penguin.docs.bqws.io/)
 - [Pills](https://github.com/rohitkrai03/pills) :gift_heart: - A simple responsive CSS Grid for humans. [http://arkpod.in/pills/](http://arkpod.in/pills/)
 - [Pure](https://github.com/yahoo/pure/) :gift_heart: - A set of small, responsive CSS modules that you can use in every web project. [http://purecss.io/](http://purecss.io/)
@@ -117,7 +117,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Pointers & Tooltips**
   * [Hint.css](https://github.com/chinchang/hint.css) :gift_heart: - A CSS only tooltip library for your lovely websites. [http://kushagragour.in/lab/hint/](http://kushagragour.in/lab/hint/)
 - **Text Effects**
-  * [Animate.css](https://github.com/daneden/animate.css) :gift_heart: - A cross-browser library of CSS animations. As easy to use as an easy thing. [http://daneden.github.io/animate.css/](http://daneden.github.io/animate.css/)
+  * [Animate.css](https://github.com/daneden/animate.css) :gift_heart: - A cross-browser library of CSS animations. As easy to use as an easy thing. [https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/)
 - **Various**
   * [Cody House](https://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets. [https://codyhouse.co/](https://codyhouse.co/)
   * [Pure CSS Components](https://github.com/LFeh/css-components/) :gift_heart: - A set of common UI Components using the power of CSS and without Javascript. [http://www.felipefialho.com/css-components/](http://www.felipefialho.com/css-components/)
@@ -150,7 +150,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart: - CSS SANS is the font created by CSS, the programming language for web designing and typesetting. [https://yusugomori.com/projects/css-sans/](https://yusugomori.com/projects/css-sans/)
 - **Libraries**
   * [Font Squirrel](https://www.fontsquirrel.com/) :gift_heart: - Free fonts have met their match. We know how hard it is to find quality freeware that is licensed for commercial work. We've done the hard work, hand-selecting these typefaces and presenting them in an easy-to-use format. [https://www.fontsquirrel.com/](https://www.fontsquirrel.com/)
-  * [Google Fonts](https://www.google.com/fonts) :gift_heart: - Our goal is to create a directory of web fonts for the world to use. Our API service makes it easy to add Google Fonts to a website in seconds. The service runs on Google's servers which are fast, reliable and tested. Google provides this service free of charge. [https://www.google.com/fonts](https://www.google.com/fonts)
+  * [Google Fonts](https://fonts.google.com/) :gift_heart: - Our goal is to create a directory of web fonts for the world to use. Our API service makes it easy to add Google Fonts to a website in seconds. The service runs on Google's servers which are fast, reliable and tested. Google provides this service free of charge. [https://fonts.google.com/](https://fonts.google.com/)
 - **Typeface**
   * [Hack](https://github.com/chrissimpkins/Hack) :gift_heart: - A typeface designed for source code. [http://sourcefoundry.org/hack/](http://sourcefoundry.org/hack/)
   * [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart: - Source for the Sans Bullshit Sans font. [http://www.sansbullshitsans.com/](http://www.sansbullshitsans.com/)
@@ -250,9 +250,9 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Tag-it](https://github.com/aehlke/tag-it) :gift_heart: - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete. [http://aehlke.github.io/tag-it/](http://aehlke.github.io/tag-it/)
   * [Typehead](https://github.com/twitter/typeahead.js/) :gift_heart: - Typeahead.js is a fast and fully-featured autocomplete library. [http://twitter.github.io/typeahead.js/](http://twitter.github.io/typeahead.js/)
 - **Grids**
-  * [Freetile](https://github.com/yconst/Freetile) :gift_heart: - Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout. [http://apex.yconst.com/freetile-demo/freetile.html](http://apex.yconst.com/freetile-demo/freetile.html)
+  * [Freetile](https://github.com/yconst/Freetile) :gift_heart: - Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout. [https://github.com/yconst/Freetile](https://github.com/yconst/Freetile)
   * [Freewall](https://github.com/kombai/freewall) :gift_heart: - Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts for desktop, mobile, and tablet. [http://vnjs.net/www/project/freewall/example/flex-grid.html](http://vnjs.net/www/project/freewall/example/flex-grid.html)
-  * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart: - Gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns. [http://gridster.net/](http://gridster.net/)
+  * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart: - Gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns. [https://github.com/ducksboard/gridster.js](https://github.com/ducksboard/gridster.js)
   * [Stalactite](https://github.com/jonobr1/stalactite) :gift_heart: - Stalactite is a jQuery plugin that packs child elements together. [http://jonobr1.github.io/stalactite/](http://jonobr1.github.io/stalactite/)
 - **Image & Content Sliders**
   * [Light Slider](https://github.com/sachinchoolur/lightslider) :gift_heart: - JQuery lightSlider is a lightweight responsive Content slider with carousel thumbnails navigation [http://sachinchoolur.github.io/lightslider/](http://sachinchoolur.github.io/lightslider/)
@@ -337,7 +337,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Can.js](https://github.com/canjs/canjs) :gift_heart: - CanJS is a MIT-licensed, client-side, JavaScript framework that makes building rich web applications easy. [https://canjs.com/](https://canjs.com/)
   * [Choo](https://github.com/yoshuawuyts/choo
   * [Composer.js](https://github.com/lyonbros/composer.js) :gift_heart: - Composer is a library for building complex single-page applications. [http://lyonbros.github.io/composer.js/](http://lyonbros.github.io/composer.js/)
-  * [Dojo](https://github.com/dojo) :gift_heart: - A JavaScript toolkit that saves you time and scales with your development process. Provides everything you need to build a Web app. Language utilities, UI components, and more, all in one place, designed to work together perfectly. [https://dojotoolkit.org/](https://dojotoolkit.org/)
+  * [Dojo](https://github.com/dojo) :gift_heart: - A JavaScript toolkit that saves you time and scales with your development process. Provides everything you need to build a Web app. Language utilities, UI components, and more, all in one place, designed to work together perfectly. [https://github.com/dojo](https://github.com/dojo)
   * [Flight](https://github.com/flightjs/flight) :gift_heart: - A component-based, event-driven JavaScript framework from Twitter. [http://flightjs.github.io/](http://flightjs.github.io/) 
   * [Fn.js](https://github.com/eliperelman/fn.js) :gift_heart: - A JavaScript library built to encourage a functional programming style & strategy [http://eliperelman.com/fn.js/](http://eliperelman.com/fn.js/)
   * [Handlebars.js](https://github.com/wycats/handlebars.js) :gift_heart: - Handlebars.js is an extension to the Mustache templating language created by Chris Wanstrath. Handlebars.js and Mustache are both logicless templating languages that keep the view and the code separated like we all know they should be. [http://handlebarsjs.com/](http://handlebarsjs.com/)
@@ -356,7 +356,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Prototype](https://github.com/sstephenson/prototype) :gift_heart: - Prototype is a JavaScript framework that aims to ease development of dynamic web applications. It offers a familiar class-style OO framework, extensive Ajax support, higher-order programming constructs, and easy DOM manipulation. [http://prototypejs.org/](http://prototypejs.org/)
   * [Radioactive](https://github.com/radioactive/radioactive) :gift_heart: - Radioactive is a Native FRP ( Functional Reactive Programming ) environment for Javascript. [https://github.com/radioactive/radioactive](https://github.com/radioactive/radioactive)
   * [React](https://github.com/facebook/react) :gift_heart: - React is a JavaScript library for building user interfaces. [https://facebook.github.io/react/](https://facebook.github.io/react/)
-  * [Serverless](https://github.com/serverless/serverless) :gift_heart: - The Server-less Application Framework. Uses bleeding-edge AWS services to redefine how to build massively scalable (and cheap) apps! [http://serverless.com/](http://serverless.com/)
+  * [Serverless](https://github.com/serverless/serverless) :gift_heart: - The Server-less Application Framework. Uses bleeding-edge AWS services to redefine how to build massively scalable (and cheap) apps! [https://serverless.com/](https://serverless.com/)
   * [Skel](https://github.com/ajlkn/skel) :gift_heart: - A lightweight responsive framework for the www. [https://github.com/ajlkn/skel](https://github.com/ajlkn/skel)
   * [Sprint](https://github.com/bendc/sprint) :gift_heart: - A tiny, lightning fast jQuery-like library for modern browsers. [https://github.com/bendc/sprint](https://github.com/bendc/sprint)
   * [Ramda](https://github.com/ramda/ramda) :gift_heart: - A practical functional library for Javascript programmers. [http://ramdajs.com/0.21.0/index.html](http://ramdajs.com/0.21.0/index.html)
@@ -373,7 +373,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 [Go to top](#awesome-front-end)
 - **CSS**
   * [Css-spinners](https://github.com/jlong/css-spinners) :gift_heart: - Simple CSS spinners and throbbers made with CSS and minimal HTML markup. [https://github.com/jlong/css-spinners](https://github.com/jlong/css-spinners)
-  * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) :gift_heart: - Delightful, performance-focused pure css loading animations. [https://connoratherton.com/loaders](https://connoratherton.com/loaders)
+  * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) :gift_heart: - Delightful, performance-focused pure css loading animations. [https://github.com/ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css)
   * [CSS Loaders](https://github.com/lukehaas/css-loaders) :gift_heart: - This is a collection of loading spinners animated with CSS. [http://projects.lukehaas.me/css-loaders/](http://projects.lukehaas.me/css-loaders/)
 - **JS**
   * [Spin.js](https://github.com/fgnass/spin.js) :gift_heart: - A spinning activity indicator. [http://spin.js.org/](http://spin.js.org/)
@@ -546,7 +546,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Snabbt.js](https://github.com/daniel-lundin/snabbt.js) :gift_heart: - Fast animations with javascript and CSS transforms. [http://daniel-lundin.github.io/snabbt.js/](http://daniel-lundin.github.io/snabbt.js/)
 - **Text Effects & Text Manipulation**
   * [Iconate (icon-effects)](https://github.com/bitshadow/iconate) :gift_heart: - Transform your icons with trendy animations. [https://bitshadow.github.io/iconate/](https://bitshadow.github.io/iconate/)
-  * [Knwl.js (date-parser)](https://github.com/loadfive/Knwl.js) :gift_heart: - Find Dates, Places, Times, and More. A .js library for parsing text for specific information. [http://loadfive.com/os/knwl/](http://loadfive.com/os/knwl/)
+  * [Knwl.js (date-parser)](https://github.com/loadfive/Knwl.js) :gift_heart: - Find Dates, Places, Times, and More. A .js library for parsing text for specific information. [https://github.com/loadfive/Knwl.js/issues/97](https://github.com/loadfive/Knwl.js/issues/97)
   * [Highlight.js](https://github.com/isagalaev/highlight.js) :gift_heart: - Javascript syntax highlighter. [https://highlightjs.org/](https://highlightjs.org/)
   * [Underline.js](https://github.com/wentin/underlineJS) :gift_heart: - Pushing the boundary of browser typography rendering! [http://underlinejs.org/](http://underlinejs.org/)
   * [Underscore.string](https://github.com/epeli/underscore.string) :gift_heart: - String manipulation helpers for javascript. [http://epeli.github.io/underscore.string/](http://epeli.github.io/underscore.string/)
@@ -595,7 +595,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [react-map-gl](https://github.com/uber/react-map-gl) :gift_heart: - react-map-gl provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library.
 - **Tools**
   * [Atellier](https://github.com/scup/atellier) :gift_heart: - The smartest way to share interactive components with your team. [http://scup.github.io/atellier/](http://scup.github.io/atellier/)
-  * [Reactotron](https://github.com/skellock/reactotron) :gift_heart: - Control, monitor, and instrument your React and React Native apps from the comfort of your TTY. [https://github.com/skellock/reactotron](https://github.com/skellock/reactotron)
+  * [Reactotron](https://github.com/reactotron/reactotron) :gift_heart: - Control, monitor, and instrument your React and React Native apps from the comfort of your TTY. [https://github.com/reactotron/reactotron](https://github.com/reactotron/reactotron)
   * [Why Did You Update](https://github.com/garbles/why-did-you-update) :gift_heart: - Puts your console on blast when React is making unnecessary updates.
 
 ## 16.React Frameworks
@@ -615,11 +615,11 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 [Go to top](#awesome-front-end)
 - **Bootstrap**
   * [Start Bootstrap](http://startbootstrap.com/) :gift_heart: - Free Bootstrap Themes & Templates.
-  * [Bootsrap Zero](http://www.bootstrapzero.com/) :gift_heart: - The largest open-source, free Bootstrap template collection.
+  * [Bootsrap Zero](https://www.bootstrapzero.com/) :gift_heart: - The largest open-source, free Bootstrap template collection.
   * [Wrap Bootstrap](https://wrapbootstrap.com/) :moneybag: - WrapBootstrap is a marketplace for premium Bootstrap themes and templates.
   * [Bootswatch](https://bootswatch.com/) :gift_heart: - Free themes for Bootstrap.
   * [Gridgum](http://gridgum.com/themes/category/bootstrap-themes/) :moneybag: - Gridgum is a marketplace for responsive themes and templates.
-  * [wpfreeware](http://www.wpfreeware.com/) :gift_heart: - Free Responsive WordPress Themes & Bootstrap Templates, Made With LOVE!
+  * [wpfreeware](https://www.wpfreeware.com/) :gift_heart: - Free Responsive WordPress Themes & Bootstrap Templates, Made With LOVE!
 - **HTML**
   * [Cody House](https://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
   * [Gridgum](http://gridgum.com/themes/) :moneybag: - Gridgum is a marketplace for responsive themes and templates.

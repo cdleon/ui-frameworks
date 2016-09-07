@@ -405,6 +405,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Infogr.am](https://infogr.am/) :moneybag: - Charts & Infographics the Easy Way. [https://infogr.am/](https://infogr.am/)
   * [MetricsGraphics.js](https://github.com/mozilla/metrics-graphics) :gift_heart: - A library optimized for concise, principled data graphics and layouts. [http://metricsgraphicsjs.org/](http://metricsgraphicsjs.org/)
   * [Morris.js](https://github.com/morrisjs/morris.js/) :gift_heart: - Pretty time-series line graphs. [http://morrisjs.github.io/morris.js/](http://morrisjs.github.io/morris.js/)
+  * [Plottable.js](https://github.com/palantir/plottable) :gift_heart: - A library of modular chart components built on D3. [http://plottablejs.org/](http://plottablejs.org/)
   * [Plotly.js](https://github.com/plotly/plotly.js) :rainbow: - Built on top of d3.js and stack.gl, plotly.js is a high-level, declarative charting library. plotly.js ships with 20 chart types, including 3D charts, statistical graphs, and SVG maps. [https://plot.ly/javascript/](https://plot.ly/javascript/)
   * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael/) :gift_heart: - JavaScript Vector Library. [https://github.com/DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovskiy/raphael)
   * [Sigma.js](https://github.com/jacomyal/sigma.js) :gift_heart: - Sigma is a JavaScript library dedicated to graph drawing. [http://sigmajs.org/](http://sigmajs.org/)
@@ -582,21 +583,24 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 ## 15.React Components
 [Go to top](#awesome-front-end)
 - **Charts & Plots**
-  * [React D3 Library](https://github.com/react-d3-library/react-d3-library) :gift_heart: - Open source library for using D3 in React. http://react-d3-library.github.io/
+  * [react-d3](https://github.com/react-d3) :gift_heart - A solution for building reusable components for d3 charts, still UNDER HEAVY DEVELOPMENT. [http://www.reactd3.org/](http://www.reactd3.org/)
+  * [react-d3-library](https://github.com/react-d3-library/react-d3-library) :gift_heart: - Open source library for using D3 in React. http://react-d3-library.github.io/
 - **Chat & Messaging**
-  * [Mattermost](https://github.com/mattermost/platform) :gift_heart: - Open source Slack-alternative in Golang and React.
+  * [Mattermost](https://github.com/mattermost/platform) :gift_heart: - Open source Slack-alternative in Golang and React. [https://www.mattermost.org/](https://www.mattermost.org/)
+- **Datepickers & Calendars**
+  * [react-date-picker](https://github.com/gpbl/react-day-picker) :gift_heart: - Flexible date picker for React. [http://www.gpbl.org/react-day-picker/](http://www.gpbl.org/react-day-picker/)
 - **Form & Input**
   * [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) :gift_heart: - Set of enhancements for input control. [http://alexkuz.github.io/react-input-enhancements/](http://alexkuz.github.io/react-input-enhancements/)
 - **Graphics & Animation**
-  * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components
+  * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components. [http://engineering.flipboard.com/2015/02/mobile-web/](http://engineering.flipboard.com/2015/02/mobile-web/)
 - **Loading Bars**
-  * [react-progressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart: - Responsive and slick progress bars for React.
+  * [react-progressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart: - Responsive and slick progress bars for React. [http://kimmobrunfeldt.github.io/progressbar.js/](http://kimmobrunfeldt.github.io/progressbar.js/)
 - **Maps**
-  * [react-map-gl](https://github.com/uber/react-map-gl) :gift_heart: - react-map-gl provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library.
+  * [react-map-gl](https://github.com/uber/react-map-gl) :gift_heart: - react-map-gl provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library. [https://uber.github.io/react-map-gl/#/](https://uber.github.io/react-map-gl/#/)
 - **Tools**
   * [Atellier](https://github.com/scup/atellier) :gift_heart: - The smartest way to share interactive components with your team. [http://scup.github.io/atellier/](http://scup.github.io/atellier/)
   * [Reactotron](https://github.com/reactotron/reactotron) :gift_heart: - Control, monitor, and instrument your React and React Native apps from the comfort of your TTY. [https://github.com/reactotron/reactotron](https://github.com/reactotron/reactotron)
-  * [Why Did You Update](https://github.com/garbles/why-did-you-update) :gift_heart: - Puts your console on blast when React is making unnecessary updates.
+  * [Why Did You Update](https://github.com/garbles/why-did-you-update) :gift_heart: - Puts your console on blast when React is making unnecessary updates. [https://github.com/garbles/why-did-you-update](https://github.com/garbles/why-did-you-update)
 
 ## 16.React Frameworks
 [Go to top](#awesome-front-end)
@@ -606,6 +610,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Flux](https://github.com/facebook/flux) :gift_heart: - An application architecture for React utilizing a unidirectional data flow.
   * [Marty](https://github.com/martyjs/marty) :gift_heart: - A Javascript library for state management in React applications.
   * [React Toolbox](https://github.com/react-toolbox/react-toolbox) :gift_heart: - A set of React components implementing Google's Material Design specification with the power of CSS Modules.
+  * [React-MDL](https://github.com/tleunen/react-mdl) :gift_heart: - React Components for Material Design Lite. [https://tleunen.github.io/react-mdl/](https://tleunen.github.io/react-mdl/)
   * [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) :gift_heart: - A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
   * [Reapp](https://github.com/reapp/reapp) :gift_heart: - Reapp - next gen hybrid apps.
   * [Relay](https://github.com/facebook/relay) :gift_heart: - Relay is a JavaScript framework for building data-driven React applications.

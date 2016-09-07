@@ -129,7 +129,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Design Your Way](http://www.designyourway.net/blog/resources/31-css-code-snippets-to-make-you-a-better-coder/) :gift_heart: - Here are some of the ones that you would need more often than others.
   * [Noupe](http://www.noupe.com/design/useful-css-snippets-for-your-coding-arsenal.html) :gift_heart: - In this article we have listed 30 CSS snippets that we think you will find very useful.
   * [Six Revisions](http://sixrevisions.com/category/css/) :gift_heart: - Six Revisions is a web publication for web developers and web designers. We publish articles, guides, tutorials, news and other forms of content for people who design and build sites and apps.
-  * [Speckyboy](https://speckyboy.com/2011/04/15/25-css-snippets-for-some-of-the-most-common-and-frustrating-tasks/) :gift_heart: - 25 CSS Snippets for Some of the Most Common and Frustrating Tasks.
+  * [Speckyboy](https://speckyboy.com/25-css-snippets-for-some-of-the-most-common-and-frustrating-tasks/) :gift_heart: - 25 CSS Snippets for Some of the Most Common and Frustrating Tasks.
 - **Bootsrap Libraries**
   * [Bootsnipp](http://bootsnipp.com/) :gift_heart: -  Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework.
   * [Snipplr](http://snipplr.com/) :gift_heart: - Lets your store and share all of your commonly used pieces of code and HTML with other programmers and designers.

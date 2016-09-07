@@ -29,9 +29,9 @@ Please read manifest to contribute :)
 1. [JQuery Plugins](#9jquery-plugins)
 1. [JQuery Snippets](#10jquery-snippets)
 1. [JS Frameworks](#11js-frameworks)
-1. [Loaders](#12loaders)
-1. [Pure JS Plugins](#13pure-js-plugins)
-1. [Pure JS Snippets](#14pure-js-snippets)
+1. [JS Plugins (vanilla)](#12pure-js-plugins)
+1. [JS Snippets (vanilla)](#13pure-js-snippets)
+1. [Loaders](#14loaders)
 1. [React Components](#15react-components)
 1. [React Frameworks](#16react-frameworks)
 1. [Templates](#17templates)
@@ -369,18 +369,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Way.js](https://github.com/gwendall/way.js) :gift_heart: - Simple, lightweight, persistent two-way databinding. [http://gwendall.github.io/way/](http://gwendall.github.io/way/)
   * [Zepto.js](https://github.com/madrobby/zepto) :gift_heart: - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API. [http://zeptojs.com/](http://zeptojs.com/)
 
-## 12.Loaders
-[Go to top](#awesome-front-end)
-- **CSS**
-  * [Css-spinners](https://github.com/jlong/css-spinners) :gift_heart: - Simple CSS spinners and throbbers made with CSS and minimal HTML markup. [https://github.com/jlong/css-spinners](https://github.com/jlong/css-spinners)
-  * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) :gift_heart: - Delightful, performance-focused pure css loading animations. [https://github.com/ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css)
-  * [CSS Loaders](https://github.com/lukehaas/css-loaders) :gift_heart: - This is a collection of loading spinners animated with CSS. [http://projects.lukehaas.me/css-loaders/](http://projects.lukehaas.me/css-loaders/)
-- **JS**
-  * [Spin.js](https://github.com/fgnass/spin.js) :gift_heart: - A spinning activity indicator. [http://spin.js.org/](http://spin.js.org/)
-- **SVG**
-  * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :gift_heart: - Loading icons and small animations built purely in SVG, no CSS or JS. [http://samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
-
-## 13.Pure JS Plugins
+## 12.Pure JS Plugins
 [Go to top](#awesome-front-end)
 - **Accesibility**
   * [Tota11y](https://github.com/Khan/tota11y) :gift_heart: - an accessibility (a11y) visualization toolkit. [http://khan.github.io/tota11y/](http://khan.github.io/tota11y/)
@@ -567,7 +556,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Trix](https://github.com/basecamp/trix) :gift_heart: - A Rich Text Editor for Everyday Writing. [https://trix-editor.org/](https://trix-editor.org/)
   * [Wysihtml](https://github.com/Voog/wysihtml) :gift_heart: - Open source rich text editor for the modern web. [http://wysihtml.com/](http://wysihtml.com/)
 
-## 14.Pure JS Snippets
+## 13.Pure JS Snippets
 [Go to top](#awesome-front-end)
   * **Date, Calendar & Timeline**
     + [Booking-js](https://github.com/timekit-io/booking-js) :gift_heart: - Make a beautiful embeddable booking widget in minutes.
@@ -578,6 +567,17 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
     + [Snipplr](http://snipplr.com/) :gift_heart: - Lets you store and share all of your commonly used pieces of code and HTML with other programmers and designers.
     + [Snipt (tag:javascript)](https://snipt.net/public/tag/javascript/) :gift_heart: -  - The publishing platform for coders.
     + [Snipt (tag:js)](https://snipt.net/public/tag/js/) :gift_heart: -  - The publishing platform for coders.
+
+## 14.Loaders
+[Go to top](#awesome-front-end)
+- **CSS**
+  * [Css-spinners](https://github.com/jlong/css-spinners) :gift_heart: - Simple CSS spinners and throbbers made with CSS and minimal HTML markup. [https://github.com/jlong/css-spinners](https://github.com/jlong/css-spinners)
+  * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) :gift_heart: - Delightful, performance-focused pure css loading animations. [https://github.com/ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css)
+  * [CSS Loaders](https://github.com/lukehaas/css-loaders) :gift_heart: - This is a collection of loading spinners animated with CSS. [http://projects.lukehaas.me/css-loaders/](http://projects.lukehaas.me/css-loaders/)
+- **JS**
+  * [Spin.js](https://github.com/fgnass/spin.js) :gift_heart: - A spinning activity indicator. [http://spin.js.org/](http://spin.js.org/)
+- **SVG**
+  * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :gift_heart: - Loading icons and small animations built purely in SVG, no CSS or JS. [http://samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
 
 ## 15.React Components
 [Go to top](#awesome-front-end)

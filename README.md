@@ -596,7 +596,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Loading Bars**
   * [react-progressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart: - Responsive and slick progress bars for React. [http://kimmobrunfeldt.github.io/progressbar.js/](http://kimmobrunfeldt.github.io/progressbar.js/)
 - **Maps**
-  * [react-map-gl](https://github.com/uber/react-map-gl) :gift_heart: - react-map-gl provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library. [https://uber.github.io/react-map-gl/#/](https://uber.github.io/react-map-gl/#/)
+  * [react-map-gl](https://github.com/uber/react-map-gl) :gift_heart: - react-map-gl provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library. [https://uber.github.io/react-map-gl/](https://uber.github.io/react-map-gl/)
 - **Tools**
   * [Atellier](https://github.com/scup/atellier) :gift_heart: - The smartest way to share interactive components with your team. [http://scup.github.io/atellier/](http://scup.github.io/atellier/)
   * [Reactotron](https://github.com/reactotron/reactotron) :gift_heart: - Control, monitor, and instrument your React and React Native apps from the comfort of your TTY. [https://github.com/reactotron/reactotron](https://github.com/reactotron/reactotron)

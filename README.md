@@ -63,12 +63,12 @@ Please read manifest to contribute :)
 
 ## 3.CSS Frameworks
 [Go to top](#awesome-front-end)
-- [Amaze UI](https://github.com/amazeui/amazeui) :gift_heart: - [![Github All Releases](https://img.shields.io/github/downloads/amazeui/amazeui/total.svg?maxAge=2592000)]() Amaze UI, a mobile-first and modular front-end framework. [http://amazeui.org/](http://amazeui.org/)
+- [Amaze UI](https://github.com/amazeui/amazeui) :gift_heart: - Amaze UI, a mobile-first and modular front-end framework. [http://amazeui.org/](http://amazeui.org/)
 - [Bootmetro](https://github.com/aozora/bootmetro) :gift_heart: - Simple and flexible web framework to create elegant and modern web applications 
 with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](http://www.marcellop.com/bootmetro/)
-- [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart: - [![Github All Releases](https://img.shields.io/github/downloads/twbs/bootstrap/total.svg?maxAge=2592000)]() The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. [http://getbootstrap.com](http://getbootstrap.com)
-- [Bulma](https://github.com/jgthms/bulma) :gift_heart: - [![Github All Releases](https://img.shields.io/github/downloads/jgthms/bulma/total.svg?maxAge=2592000)]() Modern CSS framework based on Flexbox. [http://bulma.io](http://bulma.io)
-- [Foundation](https://github.com/zurb/foundation-sites) :gift_heart: - [![Github All Releases](https://img.shields.io/github/downloads/zurb/foundation-sites/total.svg?maxAge=2592000)]() The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device. [http://foundation.zurb.com](http://foundation.zurb.com)
+- [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart: - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. [http://getbootstrap.com](http://getbootstrap.com)
+- [Bulma](https://github.com/jgthms/bulma) :gift_heart: - Modern CSS framework based on Flexbox. [http://bulma.io](http://bulma.io)
+- [Foundation](https://github.com/zurb/foundation-sites) :gift_heart: - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device. [http://foundation.zurb.com](http://foundation.zurb.com)
 - [Gumby](https://github.com/GumbyFramework/Gumby) :gift_heart: - A Flexible, Responsive CSS Framework - Powered by Sass. [http://www.gumbyframework.com/](http://www.gumbyframework.com/)
 - [Kube](https://github.com/imperavi/kube) :gift_heart: - Kube is a minimalistic Web framework for professional developers and designers. [https://imperavi.com/kube/](https://imperavi.com/kube/)
 - [Primer](https://github.com/primer/primer) :gift_heart: - The base coat of GitHub. Our internal CSS toolkit and guidelines. [https://github.com/primer/primer](https://github.com/primer/primer)

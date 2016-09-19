@@ -596,6 +596,10 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Loading Bars**
   * [react-progressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart: - Responsive and slick progress bars for React. [http://kimmobrunfeldt.github.io/progressbar.js/](http://kimmobrunfeldt.github.io/progressbar.js/)
 - **Maps**
+  * [google-map-react](https://github.com/istarkov/google-map-react) :gift_heart: - Universal google map react component, allows render react components on the google map. [http://istarkov.github.io/google-map-react/map/main/](http://istarkov.github.io/google-map-react/map/main/)
+  * [google-maps-react](https://github.com/fullstackreact/google-maps-react) :gift_heart: - Companion code to the "How to Write a Google Maps React Component" Tutorial. [https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/](https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/)
+  * [react-gmaps](https://github.com/MicheleBertoli/react-gmaps) :gift_heart: - A Google Maps component for React.js. [http://react-gmaps.herokuapp.com/](http://react-gmaps.herokuapp.com/)
+  * [react-google-maps](https://github.com/tomchentw/react-google-maps) :gift_heart: - React.js Google Maps integration component. [https://tomchentw.github.io/react-google-maps/](https://tomchentw.github.io/react-google-maps/)
   * [react-map-gl](https://github.com/uber/react-map-gl) :gift_heart: - react-map-gl provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library. [https://uber.github.io/react-map-gl/](https://uber.github.io/react-map-gl/)
 - **Tools**
   * [Atellier](https://github.com/scup/atellier) :gift_heart: - The smartest way to share interactive components with your team. [http://scup.github.io/atellier/](http://scup.github.io/atellier/)

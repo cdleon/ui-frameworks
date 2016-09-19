@@ -583,7 +583,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 ## 15.React Components
 [Go to top](#awesome-front-end)
 - **Charts & Plots**
-  * [react-d3](https://github.com/react-d3) :gift_heart - A solution for building reusable components for d3 charts, still UNDER HEAVY DEVELOPMENT. [http://www.reactd3.org/](http://www.reactd3.org/)
+  * [react-d3](https://github.com/react-d3) :gift_heart: - A solution for building reusable components for d3 charts, still UNDER HEAVY DEVELOPMENT. [http://www.reactd3.org/](http://www.reactd3.org/)
   * [react-d3-library](https://github.com/react-d3-library/react-d3-library) :gift_heart: - Open source library for using D3 in React. http://react-d3-library.github.io/
 - **Chat & Messaging**
   * [Mattermost](https://github.com/mattermost/platform) :gift_heart: - Open source Slack-alternative in Golang and React. [https://www.mattermost.org/](https://www.mattermost.org/)

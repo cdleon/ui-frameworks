@@ -19,10 +19,12 @@ Please read manifest to contribute :)
 ## <a id="index"></a>Table of Contents
 
 1. [Angular](#angular)
+  * [1.0 Angular Guides](#angular-guides)
   * [1.1 Angular Directives](#angular-directives)
 1. [Backbone](#backbone)
  * [2.1 Backbone Frameworks](#backbone-frameworks)
 2. [CSS](#css)
+ * [3.0 CSS Guides](#css-guides)
  * [3.1 CSS Frameworks](#css-frameworks)
  * [3.2 CSS Plugins](#css-plugins)
  * [3.3 CSS Snippets](#css-snippets)
@@ -30,20 +32,26 @@ Please read manifest to contribute :)
 2. [Guides](#guides)
 1. [Icons](#icons)
 2. [JQuery](#jquery)
+ * [7.0 jQuery Guides](#jquery-guides)
  * [7.1 JQuery Plugins](#jquery-plugins)
  * [7.2 JQuery Snippets](#jquery-snippets)
 1. [JS](#js)
+ * [8.0 JS Guides](#js-guides)
  * [8.1 JS Frameworks](#js-frameworks)
  * [8.2 JS Plugins (vanilla)](#js-plugins)
  * [8.3 JS Snippets (vanilla)](#js-snippets)
 1. [Loaders](#loaders)
 2. [React](#react)
+ * [10.0 React Guides](#react-guides)
  * [10.1 React Components](#react-components)
  * [10.2 React Frameworks](#react-frameworks)
 1. [Templates](#templates)
 1. [Tools](#tools)
 
 ## 1. <a id="angular"></a>Angular
+
+### 1.0 <a id="angular-guides"></a>Angular Guides
+   * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) :gift_heart: - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
 
 ### 1.1 <a id="angular-directives"></a>Angular Directives
 [Go to top](#index)
@@ -73,6 +81,17 @@ Please read manifest to contribute :)
 
 ## 3. <a id="css"></a>CSS
 
+### 3.0 <a id="css-guides"></a>CSS Guides
+   * [3 Things (Almost) No One Knows About CSS](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - Think you know CSS?
+   * [CSS Guidelines](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - High-level advice and guidelines for writing sane, manageable, scalable CSS.
+   * [Khan Academy CSS Style Guide](https://github.com/Khan/style-guides/blob/master/style/css.md) :gift_heart: - Welcome to the CSS style guide. This guide borrows heavily from Github's Primer CSS guidelines, so thanks to them!
+   * [Magic of CSS](https://github.com/adamschwartz/magic-of-css) :gift_heart: - A CSS course for web developers who want to be magicians.
+   * [Media Queries (Examples)](http://mediaqueri.es/) :gift_heart: - A collection of inspirational websites using media queries and responsive web design.
+   * [RCSS](https://github.com/rstacruz/rscss) :gift_heart: - Reasonable System for CSS Stylesheet Structure.
+   * [Styling with SASS](http://juliocesar.github.io/styling-with-sass/) :gift_heart: - What most hate, perhaps without even knowing, is not CSS per se, but non-systematic styling.
+   * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart: - We built screensiz.es to help you quickly find the screen specifications of the most popular devices and monitors currently on the market.
+   * [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart: - The U.S. Digital Services Playbook
+  
 ### 3.1 <a id="css-frameworks"></a>CSS Frameworks
 [Go to top](#index)
 - [Amaze UI](https://github.com/amazeui/amazeui) :gift_heart: - Amaze UI, a mobile-first and modular front-end framework. [http://amazeui.org/](http://amazeui.org/)
@@ -174,30 +193,6 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [State of WebType](http://stateofwebtype.com/) :gift_heart: - Up-to-date data on support for type and typographic features on the web.
 - **HTML**
   * [HEAD](https://github.com/joshbuchea/HEAD) :gift_heart: - A list of everything that could go in the <head> of your document. [http://gethead.info/](http://gethead.info/)
-- **Javascript**
-  * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart: - JavaScript Style Guide.
-  * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) :gift_heart: - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
-  * [ES6](https://github.com/bevacqua/es6) :gift_heart: - ES6 Overview in 350 Bullet Points.
-  * [Full Text Search in JavaScript](http://burakkanber.com/blog/machine-learning-full-text-search-in-javascript-relevance-scoring/) :gift_heart: - Full-text search, unlike most of the topics in this machine learning series, is a problem that most web developers have encountered at some point in their daily work.
-  * [Google JAvascript Style Guide](https://google.github.io/styleguide/javascriptguide.xml) :gift_heart: - JavaScript is the main client-side scripting language used by many of Google's open-source projects. This style guide is a list of dos and don'ts for JavaScript programs. 
-  * [Khan ACademy JS Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md) :gift_heart: - This guide is adapted from the jQuery style guide.
-  * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :gift_heart: - A book series on JavaScript.
-  * [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) :gift_heart: - You don't need jQuery any more, here is how you can get rid of it. 
-- **React**
-  * [Khan Academy React Style Guide](https://github.com/Khan/style-guides/blob/master/style/react.md) :gift_heart: - In addition to these style rules, you may also be interested in React best practices.
-  * [React-howto](https://github.com/petehunt/react-howto) :gift_heart: - Your guide to the (sometimes overwhelming!) React ecosystem.
-  * [React Fundamentals](https://github.com/ReactjsProgram/React-Fundamentals) :gift_heart: - Code for "React Fundamentals" videos. [http://www.reactjsprogram.com/](http://www.reactjsprogram.com/)
-- **Responsive**
-  * [Media Queries (Examples)](http://mediaqueri.es/) :gift_heart: - A collection of inspirational websites using media queries and responsive web design.
-  * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart: - We built screensiz.es to help you quickly find the screen specifications of the most popular devices and monitors currently on the market.
-- **Style / Design / CSS Guides**
-  * [3 Things (Almost) No One Knows About CSS](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - Think you know CSS?
-  * [CSS Guidelines](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - High-level advice and guidelines for writing sane, manageable, scalable CSS.
-  * [Khan Academy CSS Style Guide](https://github.com/Khan/style-guides/blob/master/style/css.md) :gift_heart: - Welcome to the CSS style guide. This guide borrows heavily from Github's Primer CSS guidelines, so thanks to them!
-  * [Magic of CSS](https://github.com/adamschwartz/magic-of-css) :gift_heart: - A CSS course for web developers who want to be magicians.
-  * [RCSS](https://github.com/rstacruz/rscss) :gift_heart: - Reasonable System for CSS Stylesheet Structure.
-  * [Styling with SASS](http://juliocesar.github.io/styling-with-sass/) :gift_heart: - What most hate, perhaps without even knowing, is not CSS per se, but non-systematic styling.
-  * [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart: - The U.S. Digital Services Playbook
 
 ## 6. <a id="icons"></a>Icons
 [Go to top](#awesome-front-end)
@@ -236,6 +231,9 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos. [https://github.com/gilbarbara/logos/](https://github.com/gilbarbara/logos/)
   
 ## 7. <a id="jquery"></a>jQuery
+  * [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) :gift_heart: - You don't need jQuery any more, here is how you can get rid of it. 
+
+### <a id="jquery-guides"></a>jQuery Guides
 
 ### 7.1 <a id="jquery-plugins"></a>JQuery Plugins
 [Go to top](#index)
@@ -340,6 +338,16 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
     + [Snipt](https://snipt.net/public/tag/jquery/) :gift_heart: - The publishing platform for coders.
 
 ## 8. <a id="js"></a>JS
+
+### 8.0 <a id="js-guides"></a>JS Guides
+[Go to top](#index)
+  * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart: - JavaScript Style Guide.
+  * [ES6](https://github.com/bevacqua/es6) :gift_heart: - ES6 Overview in 350 Bullet Points.
+  * [Full Text Search in JavaScript](http://burakkanber.com/blog/machine-learning-full-text-search-in-javascript-relevance-scoring/) :gift_heart: - Full-text search, unlike most of the topics in this machine learning series, is a problem that most web developers have encountered at some point in their daily work.
+  * [Google Javascript Style Guide](https://google.github.io/styleguide/javascriptguide.xml) :gift_heart: - JavaScript is the main client-side scripting language used by many of Google's open-source projects. This style guide is a list of dos and don'ts for JavaScript programs. 
+  * [Khan ACademy JS Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md) :gift_heart: - This guide is adapted from the jQuery style guide.
+  * [Overview of JavaScript ES6 features (a.k.a ECMAScript 6 and ES2015+)](http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/#.WA4G-3dZebs.hackernews) :gift_heart: - JavaScript has changed quite a bit in the last years. These are 12 new features that you can start using today!
+  * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :gift_heart: - A book series on JavaScript.
 
 ### 8.1 <a id="js-frameworks"></a>JS Frameworks
 [Go to top](#index)
@@ -597,6 +605,11 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :gift_heart: - Loading icons and small animations built purely in SVG, no CSS or JS. [http://samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
 
 ## 10 <a id="react"></a>React
+
+### 10.0 <a id="react-guides"></a>React Guides
+  * [Khan Academy React Style Guide](https://github.com/Khan/style-guides/blob/master/style/react.md) :gift_heart: - In addition to these style rules, you may also be interested in React best practices.
+  * [React-howto](https://github.com/petehunt/react-howto) :gift_heart: - Your guide to the (sometimes overwhelming!) React ecosystem.
+  * [React Fundamentals](https://github.com/ReactjsProgram/React-Fundamentals) :gift_heart: - Code for "React Fundamentals" videos. [http://www.reactjsprogram.com/](http://www.reactjsprogram.com/)
 
 ### 10.1 <a id="react-components"></a>React Components
 [Go to top](#index)

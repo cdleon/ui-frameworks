@@ -19,7 +19,7 @@ Please read manifest to contribute :)
 ## Table of Contents
 
 1. [Angular](#1angular)
-  * [Angular Directives](#1.1angular-directives)
+  * [Angular Directives](#1.1-angular-directives)
 1. [Backbone](#2backbone)
  * [Backbone Frameworks](#2.1backbone-frameworks)
 2. [CSS](#3css)

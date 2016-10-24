@@ -51,7 +51,8 @@ Please read manifest to contribute :)
 ## 1. <a id="angular"></a>Angular
 
 ### 1.0 <a id="angular-guides"></a>Angular Guides
-   * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) :gift_heart: - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
+[Go to top](#index)
+ * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) :gift_heart: - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
 
 ### 1.1 <a id="angular-directives"></a>Angular Directives
 [Go to top](#index)
@@ -82,15 +83,16 @@ Please read manifest to contribute :)
 ## 3. <a id="css"></a>CSS
 
 ### 3.0 <a id="css-guides"></a>CSS Guides
-   * [3 Things (Almost) No One Knows About CSS](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - Think you know CSS?
-   * [CSS Guidelines](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - High-level advice and guidelines for writing sane, manageable, scalable CSS.
-   * [Khan Academy CSS Style Guide](https://github.com/Khan/style-guides/blob/master/style/css.md) :gift_heart: - Welcome to the CSS style guide. This guide borrows heavily from Github's Primer CSS guidelines, so thanks to them!
-   * [Magic of CSS](https://github.com/adamschwartz/magic-of-css) :gift_heart: - A CSS course for web developers who want to be magicians.
-   * [Media Queries (Examples)](http://mediaqueri.es/) :gift_heart: - A collection of inspirational websites using media queries and responsive web design.
-   * [RCSS](https://github.com/rstacruz/rscss) :gift_heart: - Reasonable System for CSS Stylesheet Structure.
-   * [Styling with SASS](http://juliocesar.github.io/styling-with-sass/) :gift_heart: - What most hate, perhaps without even knowing, is not CSS per se, but non-systematic styling.
-   * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart: - We built screensiz.es to help you quickly find the screen specifications of the most popular devices and monitors currently on the market.
-   * [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart: - The U.S. Digital Services Playbook
+[Go to top](#index)
+ * [3 Things (Almost) No One Knows About CSS](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - Think you know CSS?
+ * [CSS Guidelines](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - High-level advice and guidelines for writing sane, manageable, scalable CSS.
+ * [Khan Academy CSS Style Guide](https://github.com/Khan/style-guides/blob/master/style/css.md) :gift_heart: - Welcome to the CSS style guide. This guide borrows heavily from Github's Primer CSS guidelines, so thanks to them!
+ * [Magic of CSS](https://github.com/adamschwartz/magic-of-css) :gift_heart: - A CSS course for web developers who want to be magicians.
+ * [Media Queries (Examples)](http://mediaqueri.es/) :gift_heart: - A collection of inspirational websites using media queries and responsive web design.
+ * [RCSS](https://github.com/rstacruz/rscss) :gift_heart: - Reasonable System for CSS Stylesheet Structure.
+ * [Styling with SASS](http://juliocesar.github.io/styling-with-sass/) :gift_heart: - What most hate, perhaps without even knowing, is not CSS per se, but non-systematic styling.
+ * [Screen Sizes (SmartPhones)](http://screensiz.es/phone) :gift_heart: - We built screensiz.es to help you quickly find the screen specifications of the most popular devices and monitors currently on the market.
+ * [U.S. Government Web Design Standards (USDS)](https://github.com/usds/playbook) :gift_heart: - The U.S. Digital Services Playbook
   
 ### 3.1 <a id="css-frameworks"></a>CSS Frameworks
 [Go to top](#index)
@@ -176,7 +178,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Github Corners](https://github.com/tholman/github-corners) :gift_heart: - "Fork me on GitHub" ribbons are 7 years old. This is a cleaner alternative. 
 
 ## 4. <a id="fonts"></a>Fonts
-[Go to top](#awesome-front-end)
+[Go to top](#index)
 - **CSS**
   * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart: - CSS SANS is the font created by CSS, the programming language for web designing and typesetting. [https://yusugomori.com/projects/css-sans/](https://yusugomori.com/projects/css-sans/)
 - **Libraries**
@@ -186,16 +188,8 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Hack](https://github.com/chrissimpkins/Hack) :gift_heart: - A typeface designed for source code. [http://sourcefoundry.org/hack/](http://sourcefoundry.org/hack/)
   * [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart: - Source for the Sans Bullshit Sans font. [http://www.sansbullshitsans.com/](http://www.sansbullshitsans.com/)
 
-## 5. <a id="guides"></a>Guides
-[Go to top](#awesome-front-end)
-- **Browser Support**
-  * [Can I Use](http://caniuse.com/) :gift_heart: - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
-  * [State of WebType](http://stateofwebtype.com/) :gift_heart: - Up-to-date data on support for type and typographic features on the web.
-- **HTML**
-  * [HEAD](https://github.com/joshbuchea/HEAD) :gift_heart: - A list of everything that could go in the <head> of your document. [http://gethead.info/](http://gethead.info/)
-
 ## 6. <a id="icons"></a>Icons
-[Go to top](#awesome-front-end)
+[Go to top](#index)
 - **CSS**
   * [Icono](https://github.com/saeedalipoor/icono) :gift_heart: - One tag One icon, no font or svg, Pure CSS. [http://saeedalipoor.github.io/icono/](http://saeedalipoor.github.io/icono/)
   * [Littlebox](https://github.com/cmaddux/littlebox) :gift_heart: - Super simple to implement, CSS-only icons. [http://littlebox.cabmaddux.com/](http://littlebox.cabmaddux.com/)
@@ -231,9 +225,10 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos. [https://github.com/gilbarbara/logos/](https://github.com/gilbarbara/logos/)
   
 ## 7. <a id="jquery"></a>jQuery
-  * [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) :gift_heart: - You don't need jQuery any more, here is how you can get rid of it. 
 
 ### <a id="jquery-guides"></a>jQuery Guides
+[Go to top](#index)
+ * [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) :gift_heart: - You don't need jQuery any more, here is how you can get rid of it. 
 
 ### 7.1 <a id="jquery-plugins"></a>JQuery Plugins
 [Go to top](#index)
@@ -607,6 +602,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 ## 10 <a id="react"></a>React
 
 ### 10.0 <a id="react-guides"></a>React Guides
+[Go to top](#index)
   * [Khan Academy React Style Guide](https://github.com/Khan/style-guides/blob/master/style/react.md) :gift_heart: - In addition to these style rules, you may also be interested in React best practices.
   * [React-howto](https://github.com/petehunt/react-howto) :gift_heart: - Your guide to the (sometimes overwhelming!) React ecosystem.
   * [React Fundamentals](https://github.com/ReactjsProgram/React-Fundamentals) :gift_heart: - Code for "React Fundamentals" videos. [http://www.reactjsprogram.com/](http://www.reactjsprogram.com/)
@@ -675,7 +671,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 
 
 ## 12. <a id="tools"></a>Tools
-[Go to top](#awesome-front-end)
+[Go to top](#index)
 - **BenchMarking & Testing**
   * JS
     + [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart: - A benchmarking library. As used on jsPerf.com.
@@ -709,6 +705,8 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Debuging**
   * Network
    + [Betwixt](https://github.com/kdzwinel/betwixt) :gift_heart: - Web Debugging Proxy based on Chrome DevTools Network panel.
+- **HTML**
+   * [HEAD](https://github.com/joshbuchea/HEAD) :gift_heart: - A list of everything that could go in the <head> of your document. [http://gethead.info/](http://gethead.info/)
 - **Linters**
   * JS
     + [ESLint](https://github.com/eslint/eslint) :gift_heart: - A fully pluggable tool for identifying and reporting on patterns in JavaScript.

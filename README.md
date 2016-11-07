@@ -291,6 +291,9 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [PercentageLoader](https://github.com/lepoetemaudit/percentageloader) :gift_heart: - jQuery plugin for displaying an animated percentage loader. [http://widgets.better2web.com/loader/](http://widgets.better2web.com/loader/)
 - **Range Sliders**
   * [jQuery Vertical Slider](http://jqueryui.com/slider/) :gift_heart: - Drag a handle to select a numeric value. [http://jqueryui.com/slider/](http://jqueryui.com/slider/)
+- **Scrollbars**
+  * [Malihu Custom Scrollbar](https://github.com/malihu/malihu-custom-scrollbar-plugin) :gift_heart: - Highly customizable custom scrollbar jQuery plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support etc. [http://manos.malihu.gr/jquery-custom-content-scroller/](http://manos.malihu.gr/jquery-custom-content-scroller/)
+  * [nanoScroller.js](https://github.com/jamesflorentino/nanoScrollerJS) :gift_heart: - A jQuery plugin that offers a simplistic way of implementing Lion OS scrollbars. [http://jamesflorentino.github.io/nanoScrollerJS/](http://jamesflorentino.github.io/nanoScrollerJS/)
 - **Scrolling & Parallax**
   * [Cool Kitten](https://github.com/jalxob/cool-kitten) :gift_heart: - A parallax scrolling responsive framework. [https://github.com/jalxob/cool-kitten](https://github.com/jalxob/cool-kitten)
   * [Fullpage.js](https://github.com/alvarotrigo/fullPage.js) :gift_heart: - Create full screen pages fast and simple. [http://alvarotrigo.com/fullPage/](http://alvarotrigo.com/fullPage/)
@@ -302,14 +305,11 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Sticky](https://github.com/garand/sticky) :gift_heart: - Sticky is a jQuery plugin that gives you the ability to make any element on your page always stay visible. [http://stickyjs.com/](http://stickyjs.com/)
   * [Superscrollorama](https://github.com/johnpolacek/superscrollorama) :gift_heart: - The original jQuery plugin for supercool scroll animation. NOTE: No longer under active development. New version is ScrollMagic.js. [http://johnpolacek.github.io/superscrollorama/](http://johnpolacek.github.io/superscrollorama/)
   * [Windows](https://github.com/nick-jonas/nick-jonas.github.com/tree/master/windows) :gift_heart: - A handy, loosely-coupled jQuery plugin for full-screen scrolling windows. [http://nick-jonas.github.io/windows/](http://nick-jonas.github.io/windows/)
+- **Security**
+  * [Complexify](https://github.com/danpalmer/jquery.complexify.js/) :gift_heart: - Complexify helps you to accurately gauge the quality of a user's password to give them visual feedback, and to enforce a minimum level of security. [https://github.com/danpalmer/jquery.complexify.js/](https://github.com/danpalmer/jquery.complexify.js/)
 - **Social Media**
   * [Social Feed](https://github.com/pavelk2/social-feed) :gift_heart: - A jQuery plugin that shows a user feed from the most popular social networks. [http://pavelk2.github.io/social-feed/](http://pavelk2.github.io/social-feed/)
   * [Spectagram](https://github.com/adrianengine/jquery-spectragram) :gift_heart: - A jQuery plugin using the Instagram API to fetch and display user, popular or tags photo feeds inside a list or any container you define. [http://spectragram.js.org/](http://spectragram.js.org/)
-- **Scrollbars**
-  * [Malihu Custom Scrollbar](https://github.com/malihu/malihu-custom-scrollbar-plugin) :gift_heart: - Highly customizable custom scrollbar jQuery plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support etc. [http://manos.malihu.gr/jquery-custom-content-scroller/](http://manos.malihu.gr/jquery-custom-content-scroller/)
-  * [nanoScroller.js](https://github.com/jamesflorentino/nanoScrollerJS) :gift_heart: - A jQuery plugin that offers a simplistic way of implementing Lion OS scrollbars. [http://jamesflorentino.github.io/nanoScrollerJS/](http://jamesflorentino.github.io/nanoScrollerJS/)
-- **Security**
-  * [Complexify](https://github.com/danpalmer/jquery.complexify.js/) :gift_heart: - Complexify helps you to accurately gauge the quality of a user's password to give them visual feedback, and to enforce a minimum level of security. [https://github.com/danpalmer/jquery.complexify.js/](https://github.com/danpalmer/jquery.complexify.js/)
 - **State Management**
   * [pjax](https://github.com/defunkt/jquery-pjax) :gift_heart: - pushState + ajax = pjax [http://pjax.herokuapp.com/](http://pjax.herokuapp.com/)
 - **Text Editors**
@@ -530,21 +530,6 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [jsModal](http://jsmodal.com/) :gift_heart: - Modal generator in pure JavaScript. - An open-source modal box engine written in pure JavaScript. [http://jsmodal.com/](http://jsmodal.com/)
   * [Modal](https://github.com/humaan/Modaal) :gift_heart: - An accessible dialog window library for all humans. [http://humaan.com/modaal/](http://humaan.com/modaal/)
   * [Notiejs](https://github.com/jaredreich/notie) :gift_heart: - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies. [https://jaredreich.com/projects/notie](https://jaredreich.com/projects/notie)
-- **Parallax & Scrolling**
-  * [Fullpage.js](https://github.com/alvarotrigo/fullPage.js) :gift_heart: - Create full screen pages fast and simple. [http://alvarotrigo.com/fullPage/](http://alvarotrigo.com/fullPage/)
-  * [Headroom.js](https://github.com/WickyNilliams/headroom.js) :gift_heart: - Give your pages some headroom. Hide your header until you need it. [http://wicky.nillia.ms/headroom.js/](http://wicky.nillia.ms/headroom.js/)
-  * [iScroll](https://github.com/cubiq/iscroll) :gift_heart: - Smooth scrolling for the web. [http://iscrolljs.com/](http://iscrolljs.com/)
-  * [Parallax.js](https://github.com/wagerfield/parallax) :gift_heart: - Parallax Engine that reacts to the orientation of a smart device. [https://github.com/wagerfield/parallax](https://github.com/wagerfield/parallax)
-  * [ScrollMagic](https://github.com/janpaepke/ScrollMagic) :gift_heart: - The javascript library for magical scroll interactions. [http://scrollmagic.io/](http://scrollmagic.io/)
-  * [Scroll Menu](https://github.com/s-yadav/ScrollMenu) :gift_heart: - A new interface to replace your old boring scrollbar. [http://ignitersworld.com/lab/scrollmenu/](http://ignitersworld.com/lab/scrollmenu/)
-  * [ScrollMonitor](https://github.com/stutrek/scrollMonitor) :gift_heart: - A simple and fast API to monitor elements as you scroll. [http://stutrek.github.io/scrollMonitor/demos/scoreboard.html](http://stutrek.github.io/scrollMonitor/demos/scoreboard.html)
-  * [Scroll Path](https://github.com/JoelBesada/scrollpath) :gift_heart: - A plugin for defining custom scroll paths. [http://joelb.me/scrollpath/](http://joelb.me/scrollpath/)
-  * [Skrollr](https://github.com/Prinzhorn/skrollr) :gift_heart: - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love). [http://prinzhorn.github.io/skrollr/](http://prinzhorn.github.io/skrollr/)
-  * [Stack.js](https://github.com/mbostock/stack) :gift_heart: - A presentation library with intuitive, scroll-based navigation. [https://mbostock.github.io/stack/](https://mbostock.github.io/stack/)
-  * [Elevator.js](https://github.com/tholman/elevator.js) :gift_heart: - Finally, a "back to top" button that behaves like a real elevator. [http://tholman.com/elevator.js/](http://tholman.com/elevator.js/)
-  * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart: - Infinite list in javascript that scrolls in 60fps. [http://roeierez.github.io/infinite-list/examples/react/index.html](http://roeierez.github.io/infinite-list/examples/react/index.html)
-  * [Scrollerjs](https://github.com/forcedotcom/scrollerjs) :gift_heart: - A JavaScript library that helps you build performant UI components for the web. [http://scrollerjs.com/](http://scrollerjs.com/)
-  * [Stack.js](https://github.com/mbostock/stack) :gift_heart: - A presentation library with intuitive, scroll-based navigation. [https://mbostock.github.io/stack/](https://mbostock.github.io/stack/)
 - **Pointers & Tooltips**
   * [Focusable](https://github.com/zzarcon/focusable) :gift_heart: - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page. [http://zzarcon.github.io/focusable/](http://zzarcon.github.io/focusable/)
   * [Opentip](https://github.com/enyo/opentip) :gift_heart: - Opentip is an open source javascript tooltip based on the protoype framework. [http://www.opentip.org/](http://www.opentip.org/)
@@ -557,6 +542,18 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [rangeslider.js](https://github.com/andreruffert/rangeslider.js) :gift_heart: - HTML5 input range slider element polyfill. [http://rangeslider.js.org/](http://rangeslider.js.org/)
 - **Scroll Bars**
   * [Tiny Scrollbar](https://github.com/wieringen/tinyscrollbar) :gift_heart: - A lightweight cross browser javascript scrollbar. [http://baijs.com/tinyscrollbar/](http://baijs.com/tinyscrollbar/)
+- **Scrolling & Parallax**
+  * [Elevator.js](https://github.com/tholman/elevator.js) :gift_heart: - Finally, a "back to top" button that behaves like a real elevator. [http://tholman.com/elevator.js/](http://tholman.com/elevator.js/)
+  * [Headroom.js](https://github.com/WickyNilliams/headroom.js) :gift_heart: - Give your pages some headroom. Hide your header until you need it. [http://wicky.nillia.ms/headroom.js/](http://wicky.nillia.ms/headroom.js/)
+  * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart: - Infinite list in javascript that scrolls in 60fps. [http://roeierez.github.io/infinite-list/examples/react/index.html](http://roeierez.github.io/infinite-list/examples/react/index.html)
+  * [iScroll](https://github.com/cubiq/iscroll) :gift_heart: - Smooth scrolling for the web. [http://iscrolljs.com/](http://iscrolljs.com/)
+  * [Parallax.js](https://github.com/wagerfield/parallax) :gift_heart: - Parallax Engine that reacts to the orientation of a smart device. [https://github.com/wagerfield/parallax](https://github.com/wagerfield/parallax)
+  * [Scrollerjs](https://github.com/forcedotcom/scrollerjs) :gift_heart: - A JavaScript library that helps you build performant UI components for the web. [http://scrollerjs.com/](http://scrollerjs.com/)
+  * [ScrollMagic](https://github.com/janpaepke/ScrollMagic) :gift_heart: - The javascript library for magical scroll interactions. [http://scrollmagic.io/](http://scrollmagic.io/)
+  * [Scroll Menu](https://github.com/s-yadav/ScrollMenu) :gift_heart: - A new interface to replace your old boring scrollbar. [http://ignitersworld.com/lab/scrollmenu/](http://ignitersworld.com/lab/scrollmenu/)
+  * [ScrollMonitor](https://github.com/stutrek/scrollMonitor) :gift_heart: - A simple and fast API to monitor elements as you scroll. [http://stutrek.github.io/scrollMonitor/demos/scoreboard.html](http://stutrek.github.io/scrollMonitor/demos/scoreboard.html)
+  * [Skrollr](https://github.com/Prinzhorn/skrollr) :gift_heart: - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love). [http://prinzhorn.github.io/skrollr/](http://prinzhorn.github.io/skrollr/)
+  * [Stack.js](https://github.com/mbostock/stack) :gift_heart: - A presentation library with intuitive, scroll-based navigation. [https://mbostock.github.io/stack/](https://mbostock.github.io/stack/)
 - **State Management**
   * [Redux](https://github.com/reactjs/redux) :gift_heart: - Predictable state container for JavaScript apps. [http://redux.js.org/](http://redux.js.org/)
 - **Search**

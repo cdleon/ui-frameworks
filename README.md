@@ -177,8 +177,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [CSS Tricks](https://css-tricks.com/snippets/css/) :gift_heart: - Site about all things web design and development.
   * [Smipple](http://www.smipple.net/lang/css) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
   * [Snipplr](http://snipplr.com/) :gift_heart: - All of our code snippets are stored in one place.
-  * [Snipt](https://snipt.net/public/tag/css/) :gift_heart: - The publishing platform for coders.
-- **Other**
+  - **Other**
   * [Github Corners](https://github.com/tholman/github-corners) :gift_heart: - "Fork me on GitHub" ribbons are 7 years old. This is a cleaner alternative. 
 
 ## 4. <a id="fonts"></a>Fonts
@@ -239,7 +238,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Background & Background effects**
   * [Backstretch](https://github.com/srobbin/jquery-backstretch) :gift_heart: - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes. [http://srobbin.com/jquery-plugins/backstretch/](http://srobbin.com/jquery-plugins/backstretch/)
   * [JQuery.Bgwitcher](https://github.com/rewish/jquery-bgswitcher) :gift_heart: - Switch the background-image with using effect. [http://rewish.github.io/jquery-bgswitcher/](http://rewish.github.io/jquery-bgswitcher/)
-  * [Supersized](https://github.com/buildinternet/supersized) :gift_heart: - Full screen background slideshow plugin for jQuery. [http://www.buildinternet.com/project/supersized/](http://www.buildinternet.com/project/supersized/)
+  * [Supersized](https://github.com/buildinternet/supersized) :gift_heart: - Full screen background slideshow plugin for jQuery. [http://www.buildinternet.com/project/supersized/](http://www.buildinternet.com/2009/05/supersized-20-full-screen-imagebackground-slideshow-jquery-plugin-w-transitions-and-controls/)
   * [Tubular](http://www.seanmccambridge.com/tubular/) :gift_heart: - Tubular is a jQuery plugin that lets you set a YouTube video as your page background. Just attach it to your page wrapper element, set some options, and you're on your way. [http://www.seanmccambridge.com/tubular/](http://www.seanmccambridge.com/tubular/)
 - **Data Processing & Visualization**
   * [Flot](https://github.com/flot/flot) :gift_heart: - Attractive JavaScript charts for jQuery. [http://www.flotcharts.org/](http://www.flotcharts.org/)
@@ -262,7 +261,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Typehead](https://github.com/twitter/typeahead.js/) :gift_heart: - Typeahead.js is a fast and fully-featured autocomplete library. [http://twitter.github.io/typeahead.js/](http://twitter.github.io/typeahead.js/)
 - **Grids**
   * [Freetile](https://github.com/yconst/Freetile) :gift_heart: - Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout. [https://github.com/yconst/Freetile](https://github.com/yconst/Freetile)
-  * [Freewall](https://github.com/kombai/freewall) :gift_heart: - Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts for desktop, mobile, and tablet. [http://vnjs.net/www/project/freewall/example/flex-grid.html](http://vnjs.net/www/project/freewall/example/flex-grid.html)
+  * [Freewall](https://github.com/kombai/freewall) :gift_heart: - Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts for desktop, mobile, and tablet. [http://kombai.github.io/freewall/](http://kombai.github.io/freewall/)
   * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart: - Gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns. [https://github.com/ducksboard/gridster.js](https://github.com/ducksboard/gridster.js)
   * [Stalactite](https://github.com/jonobr1/stalactite) :gift_heart: - Stalactite is a jQuery plugin that packs child elements together. [http://jonobr1.github.io/stalactite/](http://jonobr1.github.io/stalactite/)
 - **Image & Content Sliders**
@@ -336,8 +335,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * **Libraries**
     + [Smipple](http://www.smipple.net/lang/js) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
     + [Snipplr](http://snipplr.com/) :gift_heart: - All of our code snippets are stored in one place.
-    + [Snipt](https://snipt.net/public/tag/jquery/) :gift_heart: - The publishing platform for coders.
-
+    
 ## 7. <a id="js"></a>JS
 
 ### 7.1 <a id="js-frameworks"></a>JS Frameworks
@@ -598,9 +596,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
     + [Cody House](https://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
     + [Smipple](http://www.smipple.net/lang/js) :gift_heart: - Smipple is a social service for saving and sharing snipplets of code.
     + [Snipplr](http://snipplr.com/) :gift_heart: - Lets you store and share all of your commonly used pieces of code and HTML with other programmers and designers.
-    + [Snipt (tag:javascript)](https://snipt.net/public/tag/javascript/) :gift_heart: -  - The publishing platform for coders.
-    + [Snipt (tag:js)](https://snipt.net/public/tag/js/) :gift_heart: -  - The publishing platform for coders.
-
+   
 ## 8. <a id="loaders"></a>Loaders
 [Go to top](#index)
 - **CSS**

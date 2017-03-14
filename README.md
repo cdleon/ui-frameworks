@@ -629,7 +629,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Form & Input**
   * [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) :gift_heart: - Set of enhancements for input control. [http://alexkuz.github.io/react-input-enhancements/](http://alexkuz.github.io/react-input-enhancements/)
 - **Graphics & Animation**
-  * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components. [http://engineering.flipboard.com/2015/02/mobile-web/](http://engineering.flipboard.com/2015/02/mobile-web/)
+  * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components. [https://github.com/Flipboard/react-canvas](https://github.com/Flipboard/react-canvas)
 - **Loading Bars**
   * [react-progressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart: - Responsive and slick progress bars for React. [http://kimmobrunfeldt.github.io/progressbar.js/](http://kimmobrunfeldt.github.io/progressbar.js/)
 - **Maps**

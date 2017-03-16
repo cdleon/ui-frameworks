@@ -628,6 +628,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [react-date-picker](https://github.com/gpbl/react-day-picker) :gift_heart: - Flexible date picker for React. [http://www.gpbl.org/react-day-picker/](http://www.gpbl.org/react-day-picker/)
 - **Form & Input**
   * [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) :gift_heart: - Set of enhancements for input control. [http://alexkuz.github.io/react-input-enhancements/](http://alexkuz.github.io/react-input-enhancements/)
+  * [react-select](https://github.com/JedWatson/react-select) :gift_heart: - A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and ajax support. [http://jedwatson.github.io/react-select/](http://jedwatson.github.io/react-select/)
 - **Graphics & Animation**
   * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components. [https://github.com/Flipboard/react-canvas](https://github.com/Flipboard/react-canvas)
 - **Loading Bars**

@@ -224,6 +224,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart: - High quality icons that are easy to use with Bootstrap, other CSS frameworks and in any web projects. [http://www.webhostinghub.com/glyphs/](http://www.webhostinghub.com/glyphs/)
 - **SVG**
   * [Evil Icons](https://github.com/outpunk/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. [http://evil-icons.io/](http://evil-icons.io/)
+  * [Feather](https://github.com/colebemis/feather) :gift_heart: - Simply beautiful open source icons. [https://feathericons.com](https://feathericons.com)
   * [Flag Icon CSS](https://github.com/lipis/flag-icon-css) :gift_heart: -  A collection of all country flags in SVG — plus the CSS for easier integration. [http://flag-icon-css.lip.is/](http://flag-icon-css.lip.is/)
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them. [https://nucleoapp.com/](https://nucleoapp.com/)
   * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos. [https://github.com/gilbarbara/logos/](https://github.com/gilbarbara/logos/)
@@ -365,9 +366,11 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Lazy.js](https://github.com/dtao/lazy.js) :gift_heart: - Lazy.js is a functional utility library for JavaScript, similar to Underscore and Lo-Dash, but with an underlying engine that supports many more use cases than those libraries, while offering comparable or superior performance in most scenarios. [http://danieltao.com/lazy.js/](http://danieltao.com/lazy.js/)
   * [Lodash](https://github.com/lodash/lodash) :gift_heart: - A JavaScript utility library delivering consistency, modularity, performance, & extras. [https://lodash.com/](https://lodash.com/)
   * [Min.js](https://github.com/remy/min.js) :gift_heart: - Super minimal selector and event library. [https://github.com/remy/min.js](https://github.com/remy/min.js)
+  * [Moon](https://github.com/kbrsh/moon) :gift_heart: - A minimal, blazing fast UI library. [http://moonjs.ga/](http://moonjs.ga/)
   * [MooTools](http://mootools.net/) :gift_heart: - MooTools is a collection of JavaScript utilities designed for the intermediate to advanced JavaScript developer. It allows you to write powerful and flexible code with its elegant, well documented, and coherent APIs. [http://mootools.net/](http://mootools.net/)
   * [Mustache.js](https://github.com/janl/mustache.js/) :gift_heart: - Minimal templating with {{mustaches}} in JavaScript. [http://mustache.github.io/](http://mustache.github.io/)
   * [Polymer](https://github.com/Polymer/polymer) :gift_heart: - Polymer lets you build encapsulated, re-usable elements that work just like HTML elements, to use in building web applications. [https://www.polymer-project.org/1.0/](https://www.polymer-project.org/1.0/)
+  * [Preact](https://github.com/developit/preact) :gift_heart: - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM. [https://preactjs.com](https://preactjs.com)
   * [Prototype](https://github.com/sstephenson/prototype) :gift_heart: - Prototype is a JavaScript framework that aims to ease development of dynamic web applications. It offers a familiar class-style OO framework, extensive Ajax support, higher-order programming constructs, and easy DOM manipulation. [http://prototypejs.org/](http://prototypejs.org/)
   * [Radioactive](https://github.com/radioactive/radioactive) :gift_heart: - Radioactive is a Native FRP ( Functional Reactive Programming ) environment for Javascript. [https://github.com/radioactive/radioactive](https://github.com/radioactive/radioactive)
   * [React](https://github.com/facebook/react) :gift_heart: - React is a JavaScript library for building user interfaces. [https://facebook.github.io/react/](https://facebook.github.io/react/)
@@ -388,9 +391,13 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 [Go to top](#index)
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart: - JavaScript Style Guide.
   * [ES6](https://github.com/bevacqua/es6) :gift_heart: - ES6 Overview in 350 Bullet Points.
+  * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) :gift_heart: - A collection of (mostly) technical things every software developer should know.
+  * [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path):gift_heart: - A learning path for Full-stack web development.
   * [Full Text Search in JavaScript](http://burakkanber.com/blog/machine-learning-full-text-search-in-javascript-relevance-scoring/) :gift_heart: - Full-text search, unlike most of the topics in this machine learning series, is a problem that most web developers have encountered at some point in their daily work.
   * [Google Javascript Style Guide](https://google.github.io/styleguide/javascriptguide.xml) :gift_heart: - JavaScript is the main client-side scripting language used by many of Google's open-source projects. This style guide is a list of dos and don'ts for JavaScript programs. 
   * [Khan ACademy JS Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md) :gift_heart: - This guide is adapted from the jQuery style guide.
+  * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) :gift_heart: - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects. 
+  * [The JavaScript Tutorial](https://github.com/iliakan/javascript-tutorial-en) :git_heart: - Modern JavaScript Tutorial. [https://javascript.info](https://javascript.info)
   * [Overview of JavaScript ES6 features (a.k.a ECMAScript 6 and ES2015+)](http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/#.WA4G-3dZebs.hackernews) :gift_heart: - JavaScript has changed quite a bit in the last years. These are 12 new features that you can start using today!
   * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :gift_heart: - A book series on JavaScript.
 
@@ -398,6 +405,8 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 [Go to top](#index)
 - **Accesibility**
   * [Tota11y](https://github.com/Khan/tota11y) :gift_heart: - an accessibility (a11y) visualization toolkit. [http://khan.github.io/tota11y/](http://khan.github.io/tota11y/)
+- **AR**
+  * [AR.js](https://github.com/jeromeetienne/AR.js) :gift_heart: - Efficient Augmented Reality for the Web - 60fps on mobile. [https://github.com/jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js)
 - **BenchMarking**
   * [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart: - A benchmarking library. As used on jsPerf.com. [https://github.com/bestiejs/benchmark.js](https://github.com/bestiejs/benchmark.js)
   * [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart: - Simple, easy, javascript benchmark testing. [https://github.com/broofa/jslitmus](https://github.com/broofa/jslitmus)
@@ -412,6 +421,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Cut & Paste**
   * [Clipboard.js](https://github.com/zenorocha/clipboard.js) :gift_heart: - Modern copy to clipboard. No Flash. Just 2kb. [https://clipboardjs.com/](https://clipboardjs.com/)
 - **Databases**
+  * [Franchise](https://github.com/HVF/franchise) :gift_heart: - A notebook sql client. what you get when have a lot of sequels. [https://franchise.cloud](https://franchise.cloud)
   * [Lovefield (browser-database)](https://github.com/google/lovefield) :gift_heart: - Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use. [https://google.github.io/lovefield/](https://google.github.io/lovefield/)
 - **Data Binding**
   * [Way.js](https://github.com/gwendall/way.js) :gift_heart: - Simple, lightweight, persistent two-way databinding. [http://gwendall.github.io/way/](http://gwendall.github.io/way/)
@@ -474,6 +484,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Pixi.js](https://github.com/pixijs/pixi.js) :gift_heart: - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback. [http://www.goodboydigital.com/pixijs/examples/15/indexAll.html](http://www.goodboydigital.com/pixijs/examples/15/indexAll.html)
   * [Popmotion](https://github.com/Popmotion/popmotion) :gift_heart: - A 12kb Javascript motion engine. Use for animation, physics and input tracking. [https://popmotion.io/](https://popmotion.io/)
   * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael/) :gift_heart: - JavaScript Vector Library. [https://github.com/DmitryBaranovskiy/raphael/](https://github.com/DmitryBaranovskiy/raphael/)
+  * [Rythm.js](https://github.com/Okazari/Rythm.js) :gift_heart: - A javascript library that makes your page dance. [https://okazari.github.io/Rythm.js/](https://okazari.github.io/Rythm.js/)
   * [Textgen.js](https://github.com/mrdoob/texgen.js) :gift_heart: - Procedural Texture Generator. [http://texgenjs.org/](http://texgenjs.org/)
   * [Trianglify](https://github.com/qrohlf/trianglify) :gift_heart: - Algorithmically generated triangle art. [http://qrohlf.com/trianglify/](http://qrohlf.com/trianglify/)
   * [Velociy](https://github.com/julianshapiro/velocity) :gift_heart: - Accelerated JavaScript animation. [http://velocityjs.org/](http://velocityjs.org/)
@@ -483,6 +494,8 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Bricks.js](https://github.com/callmecavs/bricks.js) :gift_heat: - A blazing fast masonry layout generator for fixed width elements. [http://callmecavs.com/bricks.js/](http://callmecavs.com/bricks.js/)
   * [Layout Grid](https://github.com/clippings/layout-grid) :gift_heart: - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile. [http://clippings.github.io/layout-grid/](http://clippings.github.io/layout-grid/)
   * [Right Height](https://github.com/cferdinandi/right-height) :gift_heart: - Dynamically set content areas of different lengths to the same height. [http://cferdinandi.github.io/right-height/](http://cferdinandi.github.io/right-height/)
+- **HTTP Clients**
+  * [r2](https://github.com/mikeal/r2) :gift_heart: - HTTP client. Spiritual successor to request. [https://github.com/mikeal/r2](https://github.com/mikeal/r2)
 - **Image & Content Sliders**
   * [Flickity](https://github.com/metafizzy/flickity) :rainbow: - Touch, responsive, flickable galleries. [http://flickity.metafizzy.co/](http://flickity.metafizzy.co/)
   * [Jssor](https://github.com/jssor/slider) :gift_heart: - Bootstrap Javascript jQuery Carousel/Slider/Slideshow/Gallery/Banner Responsive Image. [http://jssor.com/](http://jssor.com/)
@@ -509,6 +522,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Echo.js](https://github.com/toddmotto/echo) :gift_heart: - Lazy-loading images with data-* attributes. [https://toddmotto.com/labs/echo/](https://toddmotto.com/labs/echo/)
   * [Layzr.js](https://github.com/callmecavs/layzr.js) :gift_heart: - A small, fast, modern, and dependency-free library for lazy loading. [http://callmecavs.com/layzr.js/](http://callmecavs.com/layzr.js/)
   * [LazyLoad](https://github.com/vvo/lazyload) :gift_heart: - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader. [https://vvo.github.io/lazyload/](https://vvo.github.io/lazyload/)
+  * [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) :gift_heart: - Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more. [https://apoorv.pro/lozad.js/demo/](https://apoorv.pro/lozad.js/demo/)
   * [Responsively Lazy](https://github.com/ivopetkov/responsively-lazy) :gift_heart: - Lazy load responsive images. [https://ivopetkov.com/b/lazy-load-responsive-images/](https://ivopetkov.com/b/lazy-load-responsive-images/)
 - **Libraries**
   * [Cody House](https://codyhouse.co/) :rainbow: - A free library of HTML, CSS, and JS nuggets. [https://codyhouse.co/](https://codyhouse.co/)
@@ -516,6 +530,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Spin.js](https://github.com/fgnass/spin.js) :gift_heart: - A spinning activity indicator. [http://spin.js.org/](http://spin.js.org/)
 - **Maps**
   * [Gmaps](https://github.com/hpneo/gmaps) :gift_heart: - The easiest way to use Google Maps. [http://hpneo.github.io/gmaps/](http://hpneo.github.io/gmaps/)
+  * [ngraph.path](https://github.com/anvaka/ngraph.path) :gift_heart: - Path finding in a graph. [https://anvaka.github.io/ngraph.path.demo/#?graph=amsterdam-roads](https://anvaka.github.io/ngraph.path.demo/#?graph=amsterdam-roads)
   * [Turf](https://github.com/Turfjs/turf) :gift_heart: - A modular geospatial engine written in JavaScript. [http://turfjs.org/](http://turfjs.org/)
 - **Media Queries**
   * [Enquire.js](https://github.com/WickyNilliams/enquire.js) :gift_heart: - Enquire.js is a lightweight, pure javascript library (with no dependencies) for programmatically responding to media queries. [http://wicky.nillia.ms/enquire.js/](http://wicky.nillia.ms/enquire.js/)
@@ -631,6 +646,8 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [react-select](https://github.com/JedWatson/react-select) :gift_heart: - A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and ajax support. [http://jedwatson.github.io/react-select/](http://jedwatson.github.io/react-select/)
 - **Graphics & Animation**
   * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components. [https://github.com/Flipboard/react-canvas](https://github.com/Flipboard/react-canvas)
+- **Image Processing**
+  * [react-imgpro](https://github.com/nitin42/react-imgpro) :gift_heart: - Image Processing Component for React. [https://camo.githubusercontent.com/f7b399fa47ba82ce6ec817428c0f7b9048cb6480/687474703a2f2f672e7265636f726469742e636f2f586d68546950383454442e676966](https://camo.githubusercontent.com/f7b399fa47ba82ce6ec817428c0f7b9048cb6480/687474703a2f2f672e7265636f726469742e636f2f586d68546950383454442e676966)
 - **Loading Bars**
   * [react-progressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart: - Responsive and slick progress bars for React. [http://kimmobrunfeldt.github.io/progressbar.js/](http://kimmobrunfeldt.github.io/progressbar.js/)
 - **Maps**
@@ -654,7 +671,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [React Toolbox](https://github.com/react-toolbox/react-toolbox) :gift_heart: - A set of React components implementing Google's Material Design specification with the power of CSS Modules. [http://react-toolbox.com/#/](http://react-toolbox.com/#/)
   * [React-MDL](https://github.com/react-mdl/react-mdl) :gift_heart: - React Components for Material Design Lite. [https://react-mdl.github.io/react-mdl/)
   * [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) :gift_heart: - A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
-  * [Reapp](https://github.com/reapp/reapp) :gift_heart: - Reapp - next gen hybrid apps. [http://reapp.io/](http://reapp.io/)
+  * [Reapp](https://github.com/reapp/reapp) :gift_heart: - Reapp - next gen hybrid apps. [https://github.com/reapp/reapp](https://github.com/reapp/reapp)
   * [Relay](https://github.com/facebook/relay) :gift_heart: - Relay is a JavaScript framework for building data-driven React applications. [https://facebook.github.io/relay/](https://facebook.github.io/relay/)
 
 ### 9.3 <a id="react-guides"></a>React Guides

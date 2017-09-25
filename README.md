@@ -262,7 +262,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Typehead](https://github.com/twitter/typeahead.js/) :gift_heart: - Typeahead.js is a fast and fully-featured autocomplete library. [http://twitter.github.io/typeahead.js/](http://twitter.github.io/typeahead.js/)
 - **Grids**
   * [Freetile](https://github.com/yconst/Freetile) :gift_heart: - Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout. [https://github.com/yconst/Freetile](https://github.com/yconst/Freetile)
-  * [Freewall](https://github.com/kombai/freewall) :gift_heart: - Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts for desktop, mobile, and tablet. [http://vnjs.net/www/project/freewall/example/flex-grid.html](http://vnjs.net/www/project/freewall/example/flex-grid.html)
+  * [Freewall](https://github.com/kombai/freewall) :gift_heart: - Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts for desktop, mobile, and tablet. [https://kombai.github.io/freewall/](https://kombai.github.io/freewall/)
   * [Gridster.js](https://github.com/ducksboard/gridster.js) :gift_heart: - Gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns. [https://github.com/ducksboard/gridster.js](https://github.com/ducksboard/gridster.js)
   * [Stalactite](https://github.com/jonobr1/stalactite) :gift_heart: - Stalactite is a jQuery plugin that packs child elements together. [http://jonobr1.github.io/stalactite/](http://jonobr1.github.io/stalactite/)
 - **Image & Content Sliders**
@@ -534,7 +534,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - **Modals & Alerts**
   * [jsModal](http://jsmodal.com/) :gift_heart: - Modal generator in pure JavaScript. - An open-source modal box engine written in pure JavaScript. [http://jsmodal.com/](http://jsmodal.com/)
   * [Modal](https://github.com/humaan/Modaal) :gift_heart: - An accessible dialog window library for all humans. [http://humaan.com/modaal/](http://humaan.com/modaal/)
-  * [Notiejs](https://github.com/jaredreich/notie) :gift_heart: - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies. [https://jaredreich.com/projects/notie](https://jaredreich.com/projects/notie)
+  * [Notiejs](https://github.com/jaredreich/notie) :gift_heart: - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies. [https://jaredreich.com/notie](https://jaredreich.com/notie)
 - **Pointers & Tooltips**
   * [Focusable](https://github.com/zzarcon/focusable) :gift_heart: - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page. [http://zzarcon.github.io/focusable/](http://zzarcon.github.io/focusable/)
   * [Opentip](https://github.com/enyo/opentip) :gift_heart: - Opentip is an open source javascript tooltip based on the protoype framework. [http://www.opentip.org/](http://www.opentip.org/)

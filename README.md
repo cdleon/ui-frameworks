@@ -639,6 +639,10 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [Recharts](https://github.com/recharts/recharts) :gift_heart: - Redefined chart library built with React and D3. [http://recharts.org/](http://recharts.org/)
 - **Chat & Messaging**
   * [Mattermost](https://github.com/mattermost/platform) :gift_heart: - Open source Slack-alternative in Golang and React. [https://www.mattermost.org/](https://www.mattermost.org/)
+- **Data Processing & Visualization**
+  * [fixed-data-table](https://github.com/facebook/fixed-data-table) :gift_heart: - A React table component designed to allow presenting thousands of rows of data.[https://facebook.github.io/fixed-data-table/](https://facebook.github.io/fixed-data-table/)
+  * [react-table](https://github.com/react-tools/react-table) :gift_heart: - React Table - A lightweight, fast and extendable datagrid for React. [http://react-table.js.org](http://react-table.js.org)
+  * [reat-virtualized](https://github.com/bvaughn/react-virtualized) :gift_heart: - React components for efficiently rendering large lists and tabular data [http://www.reactvirtualized.com](http://www.reactvirtualized.com)
 - **Datepickers & Calendars**
   * [react-date-picker](https://github.com/gpbl/react-day-picker) :gift_heart: - Flexible date picker for React. [http://www.gpbl.org/react-day-picker/](http://www.gpbl.org/react-day-picker/)
 - **Form & Input**

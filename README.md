@@ -643,10 +643,10 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
   * [fixed-data-table](https://github.com/facebook/fixed-data-table) :gift_heart: - A React table component designed to allow presenting thousands of rows of data.[https://facebook.github.io/fixed-data-table/](https://facebook.github.io/fixed-data-table/)
   * [React Data Grid](http://reactdatagrid.com/) :moneybag: - Powerful React DataGrid/DataTable component 
 for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](http://reactdatagrid.com/Home/Demo)
-  * [react-data-table](https://github.com/lewisl9029/redux-data-table) :gift_heart: - Simple React + Redux + ImmutableJS data table with item filtering, sorting, pagination and removal. [https://lewisl9029.github.io/redux-data-table/](https://lewisl9029.github.io/redux-data-table/)
   * [react-table](https://github.com/react-tools/react-table) :gift_heart: - React Table - A lightweight, fast and extendable datagrid for React. [http://react-table.js.org](http://react-table.js.org)
   * [react-virtualized](https://github.com/bvaughn/react-virtualized) :gift_heart: - React components for efficiently rendering large lists and tabular data [http://www.reactvirtualized.com](http://www.reactvirtualized.com)
   * [reactable](https://github.com/glittershark/reactable) :gift_heart: - Fast, flexible, and simple data tables in React [http://glittershark.github.io/reactable](http://glittershark.github.io/reactable)
+  * [redux-data-table](https://github.com/lewisl9029/redux-data-table) :gift_heart: - Simple React + Redux + ImmutableJS data table with item filtering, sorting, pagination and removal. [https://lewisl9029.github.io/redux-data-table/](https://lewisl9029.github.io/redux-data-table/)
 - **Datepickers & Calendars**
   * [react-date-picker](https://github.com/gpbl/react-day-picker) :gift_heart: - Flexible date picker for React. [http://www.gpbl.org/react-day-picker/](http://www.gpbl.org/react-day-picker/)
 - **Form & Input**

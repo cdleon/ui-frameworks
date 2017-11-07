@@ -1,5 +1,5 @@
-### 3.1 <a id="css-frameworks"></a>CSS Frameworks
-[Go to top](#index)
+### CSS Frameworks
+[Go to index](https://github.com/cdleon/awesome-front-end#index)
 - [Amaze UI](https://github.com/amazeui/amazeui) :gift_heart: - Amaze UI, a mobile-first and modular front-end framework. [http://amazeui.org/](http://amazeui.org/)
 - [Bootmetro](https://github.com/aozora/bootmetro) :gift_heart: - Simple and flexible web framework to create elegant and modern web applications
 with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](http://www.marcellop.com/bootmetro/)

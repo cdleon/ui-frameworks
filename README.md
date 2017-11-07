@@ -21,28 +21,38 @@ Please read manifest to contribute :)
 **Angular**
  * [Angular Directives](https://github.com/cdleon/awesome-front-end/blob/master/Angular/Directives.md)
  * [Angular Guides](https://github.com/cdleon/awesome-front-end/blob/master/Angular/Guides.md)
+ 
 **Backbone**
  * [Backbone Frameworks](#backbone-frameworks)
+ 
 **CSS**
  * [CSS Frameworks](#css-frameworks)
  * [CSS Guides](#css-guides)
  * [CSS Plugins](#css-plugins)
  * [CSS Snippets](#css-snippets)
+ 
 **Fonts**
+
 **Icons**
+
 **JQuery**
  * [JQuery Guides](#jquery-guides)
  * [JQuery Plugins](#jquery-plugins)
  * [JQuery Snippets](#jquery-snippets)
+ 
 **JS**
  * [JS Frameworks](#js-frameworks)
  * [JS Guides](#js-guides)
  * [JS Plugins (vanilla)](#js-plugins)
  * [JS Snippets (vanilla)](#js-snippets)
+ 
 **Loaders**
+
 **React**
  * [React Components](#react-components)
  * [React Frameworks](#react-frameworks)
  * [React Guides](#react-guides)
+ 
 **Templates**
+
 **Tools**

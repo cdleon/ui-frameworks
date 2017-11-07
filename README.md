@@ -26,10 +26,10 @@ Please read manifest to contribute :)
  * [Backbone Frameworks](https://github.com/cdleon/awesome-front-end/blob/master/Backbone/Frameworks.md)
  
 ### CSS
- * [CSS Frameworks](#css-frameworks)
- * [CSS Guides](#css-guides)
- * [CSS Plugins](#css-plugins)
- * [CSS Snippets](#css-snippets)
+ * [CSS Frameworks](https://github.com/cdleon/awesome-front-end/blob/master/CSS/Frameworks.md)
+ * [CSS Guides](https://github.com/cdleon/awesome-front-end/blob/master/CSS/Guides.md)
+ * [CSS Plugins](https://github.com/cdleon/awesome-front-end/blob/master/CSS/Plugins.md)
+ * [CSS Snippets](https://github.com/cdleon/awesome-front-end/blob/master/CSS/Snippets.md)
  
 ### Fonts
 
@@ -41,17 +41,17 @@ Please read manifest to contribute :)
  * [JQuery Snippets](#jquery-snippets)
  
 ### JS
- * [JS Frameworks](#js-frameworks)
- * [JS Guides](#js-guides)
- * [JS Plugins (vanilla)](#js-plugins)
- * [JS Snippets (vanilla)](#js-snippets)
+ * [JS Frameworks](https://github.com/cdleon/awesome-front-end/blob/master/JS/Frameworks.md)
+ * [JS Guides](https://github.com/cdleon/awesome-front-end/blob/master/JS/Guides.md)
+ * [JS Plugins (vanilla)](https://github.com/cdleon/awesome-front-end/blob/master/JS/Plugins.md)
+ * [JS Snippets (vanilla)](https://github.com/cdleon/awesome-front-end/blob/master/JS/Snippets.md)
  
 ### Loaders
 
 ### React
- * [React Components](#react-components)
- * [React Frameworks](#react-frameworks)
- * [React Guides](#react-guides)
+ * [React Components](https://github.com/cdleon/awesome-front-end/blob/master/React/Components.md)
+ * [React Frameworks](https://github.com/cdleon/awesome-front-end/blob/master/React/Frameworks.md)
+ * [React Guides](https://github.com/cdleon/awesome-front-end/blob/master/React/Guides.md)
  
 ### Templates
 

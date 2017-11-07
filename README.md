@@ -18,31 +18,31 @@ Please read manifest to contribute :)
 
 ## <a id="index"></a>Table of Contents
 
-1. [Angular](#angular)
+**Angular**
  * [Angular Directives](https://github.com/cdleon/awesome-front-end/blob/master/Angular/Directives.md)
  * [Angular Guides](https://github.com/cdleon/awesome-front-end/blob/master/Angular/Guides.md)
-2. [Backbone](#backbone)
+**Backbone]
  * [2.1 Backbone Frameworks](#backbone-frameworks)
-3. [CSS](#css)
+**CSS**
  * [3.1 CSS Frameworks](#css-frameworks)
  * [3.2 CSS Guides](#css-guides)
  * [3.3 CSS Plugins](#css-plugins)
  * [3.4 CSS Snippets](#css-snippets)
-4. [Fonts](#fonts)
-4. [Icons](#icons)
-6. [JQuery](#jquery)
+**Fonts**
+**Icons**
+**JQuery**
  * [6.1 JQuery Guides](#jquery-guides)
  * [6.2 JQuery Plugins](#jquery-plugins)
  * [6.3 JQuery Snippets](#jquery-snippets)
-7. [JS](#js)
+**JS**
  * [7.1 JS Frameworks](#js-frameworks)
  * [7.2 JS Guides](#js-guides)
  * [7.3 JS Plugins (vanilla)](#js-plugins)
  * [7.4 JS Snippets (vanilla)](#js-snippets)
-8. [Loaders](#loaders)
-9. [React](#react)
+**Loaders**
+**React**
  * [9.1 React Components](#react-components)
  * [9.2 React Frameworks](#react-frameworks)
  * [9.3 React Guides](#react-guides)
-10. [Templates](#templates)
-11. [Tools](#tools)
+**Templates**
+**Tools**

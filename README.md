@@ -19,8 +19,8 @@ Please read manifest to contribute :)
 ## <a id="index"></a>Table of Contents
 
 1. [Angular](#angular)
- * [1.1 Angular Directives](#angular-directives)
- * [1.2 Angular Guides](#angular-guides)
+ * [Angular Directives](https://github.com/cdleon/awesome-front-end/blob/master/Angular/Directives.md)
+ * [Angular Guides](https://github.com/cdleon/awesome-front-end/blob/master/Angular/Guides.md)
 2. [Backbone](#backbone)
  * [2.1 Backbone Frameworks](#backbone-frameworks)
 3. [CSS](#css)

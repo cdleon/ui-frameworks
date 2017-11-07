@@ -1,5 +1,5 @@
-### 9.1 <a id="react-components"></a>React Components
-[Go to index](#index)
+### React Components
+[Go to index](https://github.com/cdleon/awesome-front-end#index)
 - **Charts & Plots**
   * [react-d3](https://github.com/react-d3) :gift_heart: - A solution for building reusable components for d3 charts, still UNDER HEAVY DEVELOPMENT. [http://www.reactd3.org/](http://www.reactd3.org/)
   * [react-d3-library](https://github.com/react-d3-library/react-d3-library) :gift_heart: - Open source library for using D3 in React. http://react-d3-library.github.io/

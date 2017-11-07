@@ -20,10 +20,15 @@ Please read manifest to contribute :)
 
 ### Angular
  * [Angular Directives](https://github.com/cdleon/awesome-front-end/blob/master/Angular/Directives.md)
+ * [Angular Frameworks](https://github.com/cdleon/awesome-front-end/blob/master/Angular/Frameworks.md)
  * [Angular Guides](https://github.com/cdleon/awesome-front-end/blob/master/Angular/Guides.md)
+ * [Angular Snippets](https://github.com/cdleon/awesome-front-end/blob/master/Angular/Snippets.md)
  
 ### Backbone
  * [Backbone Frameworks](https://github.com/cdleon/awesome-front-end/blob/master/Backbone/Frameworks.md)
+ * [Backbone Guides](https://github.com/cdleon/awesome-front-end/blob/master/Backbone/Guides.md)
+ * [Backbone Plugins](https://github.com/cdleon/awesome-front-end/blob/master/Backbone/Guides.md)
+ * [Backbone Snippets](https://github.com/cdleon/awesome-front-end/blob/master/Backbone/Snipepts.md)
  
 ### CSS
  * [CSS Frameworks](https://github.com/cdleon/awesome-front-end/blob/master/CSS/Frameworks.md)
@@ -36,9 +41,10 @@ Please read manifest to contribute :)
 ### Icons
 
 ### JQuery
- * [JQuery Guides](#jquery-guides)
- * [JQuery Plugins](#jquery-plugins)
- * [JQuery Snippets](#jquery-snippets)
+ * [JQuery Frameworks](https://github.com/cdleon/awesome-front-end/blob/master/jQuery/Frameworks.md)
+ * [JQuery Guides](https://github.com/cdleon/awesome-front-end/blob/master/jQuery/Guides.md)
+ * [JQuery Plugins](https://github.com/cdleon/awesome-front-end/blob/master/jQuery/Plugins.md)
+ * [JQuery Snippets](https://github.com/cdleon/awesome-front-end/blob/master/jQuery/Snippets.md)
  
 ### JS
  * [JS Frameworks](https://github.com/cdleon/awesome-front-end/blob/master/JS/Frameworks.md)
@@ -52,6 +58,7 @@ Please read manifest to contribute :)
  * [React Components](https://github.com/cdleon/awesome-front-end/blob/master/React/Components.md)
  * [React Frameworks](https://github.com/cdleon/awesome-front-end/blob/master/React/Frameworks.md)
  * [React Guides](https://github.com/cdleon/awesome-front-end/blob/master/React/Guides.md)
+ * [React Snippets](https://github.com/cdleon/awesome-front-end/blob/master/React/Snippets.md)
  
 ### Templates
 

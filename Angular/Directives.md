@@ -1,5 +1,5 @@
-### 1.1 <a id="angular-directives"></a>Angular Directives
-[Go to top](#index)
+### Angular Directives
+[Go to index](https://github.com/cdleon/awesome-front-end#index)
 - **Bootstrap**
   * [UI Bootstrap](https://github.com/angular-ui/bootstrap) :gift_heart: - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. [http://angular-ui.github.io/bootstrap/](http://angular-ui.github.io/bootstrap/)
 - **Calendar**

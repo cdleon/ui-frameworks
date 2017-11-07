@@ -1,5 +1,5 @@
-### 3.3 <a id="css-plugins"></a>CSS Plugins
-[Go to top](#index)
+### CSS Plugins
+[Go to index](https://github.com/cdleon/awesome-front-end#index)
 - **Button groups**
   * [Social Buttons For Bootsrap](https://github.com/lipis/bootstrap-social) :gift_heart: - Social Sign-In Buttons for Bootstrap. [https://lipis.github.io/bootstrap-social/](https://lipis.github.io/bootstrap-social/)
   * [Zocial CSS Social Buttons](https://github.com/smcllns/css-social-buttons) :gift_heart: - Zocial button set with CSS. Entirely vector-based social buttons. [http://zocial.smcllns.com/](http://zocial.smcllns.com/)

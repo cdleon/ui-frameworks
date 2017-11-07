@@ -1,5 +1,5 @@
-### 3.2 <a id="css-guides"></a>CSS Guides
-[Go to top](#index)
+### CSS Guides
+[Go to index](https://github.com/cdleon/awesome-front-end#index)
  * [3 Things (Almost) No One Knows About CSS](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - Think you know CSS?
  * [CSS Guidelines](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - High-level advice and guidelines for writing sane, manageable, scalable CSS.
  * [Khan Academy CSS Style Guide](https://github.com/Khan/style-guides/blob/master/style/css.md) :gift_heart: - Welcome to the CSS style guide. This guide borrows heavily from Github's Primer CSS guidelines, so thanks to them!

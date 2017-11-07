@@ -1,5 +1,5 @@
-### 9.2 <a id="react-frameworks"></a>React Frameworks
-[Go to top](#index)
+### React Frameworks
+[Go to index](https://github.com/cdleon/awesome-front-end#index)
   * [Draft.js](https://github.com/facebook/draft-js) :gift_heart: - A React framework for building text editors. [https://facebook.github.io/draft-js/](https://facebook.github.io/draft-js/)
   * [Elemental UI](https://github.com/elementalui/elemental) :gift_heart: - A UI Toolkit for React.js Websites and Apps. [http://elemental-ui.com/](http://elemental-ui.com/)
   * [Essential](http://pheuter.github.io/essential-react/) :gift_heart: - A minimal skeleton for building testable React apps using ES6. [https://github.com/pheuter/essential-react](https://github.com/pheuter/essential-react)

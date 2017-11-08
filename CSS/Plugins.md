@@ -15,6 +15,12 @@
   * [Asorted CSS Experiments](https://github.com/hakimel/css) :gift_heart: - Assorted CSS and UI experiments. [http://hakim.se/](http://hakim.se/)
 - **Image Sliders**
   * [Pure CSS Slider](https://github.com/drygiel/csslider) :gift_heart: - Pure CSS slider. [http://codepen.io/drygiel/pen/rtpnE](http://codepen.io/drygiel/pen/rtpnE)
+- **Loaders**
+  * [CSS Loaders](https://github.com/lukehaas/css-loaders) :gift_heart: - This is a collection of loading spinners animated with CSS. [http://projects.lukehaas.me/css-loaders/](http://projects.lukehaas.me/css-loaders/)
+  * [CSS Spinners](https://github.com/jlong/css-spinners) :gift_heart: - Simple CSS spinners and throbbers made with CSS and minimal HTML markup. [https://github.com/jlong/css-spinners](https://github.com/jlong/css-spinners)
+  * [Css-spinners](https://github.com/jlong/css-spinners) :gift_heart: - Simple CSS spinners and throbbers made with CSS and minimal HTML markup. [https://github.com/jlong/css-spinners](https://github.com/jlong/css-spinners)
+  * [Loaders.css](https://github.com/ConnorAtherton/loaders.css) :gift_heart: - Delightful, performance-focused pure css loading animations. [https://github.com/ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css)
+  * [Spinkit](https://github.com/tobiasahlin/SpinKit) :gift_heart: - A collection of loading indicators animated with CSS. [http://tobiasahlin.com/spinkit/](http://tobiasahlin.com/spinkit/)
 - **Modal**
   * [CSS Modal](https://github.com/drublic/css-modal) :gift_heart: - A modal built out of pure CSS. [http://drublic.github.io/css-modal/](http://drublic.github.io/css-modal/)
 - **Plots & Charts**

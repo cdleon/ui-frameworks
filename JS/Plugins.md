@@ -1,5 +1,5 @@
-### 7.3 <a id="js-plugins"></a>JS Plugins
-[Go to top](#index)
+### JS Plugins
+[Go to index](https://github.com/cdleon/awesome-front-end#index)
 - **Accesibility**
   * [Tota11y](https://github.com/Khan/tota11y) :gift_heart: - an accessibility (a11y) visualization toolkit. [http://khan.github.io/tota11y/](http://khan.github.io/tota11y/)
 - **AR**

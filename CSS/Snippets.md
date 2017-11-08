@@ -1,5 +1,5 @@
-### 3.4 <a id="css-snippets"></a>CSS Snippets
-[Go to top](#index)
+### CSS Snippets
+[Go to index](https://github.com/cdleon/awesome-front-end#index)
 - **Blog Libraries**
   * [1stWebDesigner](http://1stwebdesigner.com/css-cheat-sheet/) :gift_heart: - 25 Incredibly Useful CSS Snippets for Developers.
   * [Design Your Way](http://www.designyourway.net/blog/resources/31-css-code-snippets-to-make-you-a-better-coder/) :gift_heart: - Here are some of the ones that you would need more often than others.

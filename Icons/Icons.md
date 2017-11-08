@@ -1,5 +1,5 @@
-## 5. <a id="icons"></a>Icons
-[Go to top](#index)
+### Icons
+[Go to index](https://github.com/cdleon/awesome-front-end#index)
 - **CSS**
   * [Icono](https://github.com/saeedalipoor/icono) :gift_heart: - One tag One icon, no font or svg, Pure CSS. [http://saeedalipoor.github.io/icono/](http://saeedalipoor.github.io/icono/)
   * [Littlebox](https://github.com/cmaddux/littlebox) :gift_heart: - Super simple to implement, CSS-only icons. [http://littlebox.cabmaddux.com/](http://littlebox.cabmaddux.com/)
@@ -33,4 +33,5 @@
   * [Feather](https://github.com/colebemis/feather) :gift_heart: - Simply beautiful open source icons. [https://feathericons.com](https://feathericons.com)
   * [Flag Icon CSS](https://github.com/lipis/flag-icon-css) :gift_heart: -  A collection of all country flags in SVG — plus the CSS for easier integration. [http://flag-icon-css.lip.is/](http://flag-icon-css.lip.is/)
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them. [https://nucleoapp.com/](https://nucleoapp.com/)
+  * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :gift_heart: - Loading icons and small animations built purely in SVG, no CSS or JS. [http://samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
   * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos. [https://github.com/gilbarbara/logos/](https://github.com/gilbarbara/logos/)

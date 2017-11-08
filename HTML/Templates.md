@@ -1,5 +1,5 @@
-## 10. <a id="templates"></a>Templates
-[Go to top](#index)
+### HTML Templates
+[Go to index](https://github.com/cdleon/awesome-front-end#index)
 - **Bootstrap**
   * [Start Bootstrap](http://startbootstrap.com/) :gift_heart: - Free Bootstrap Themes & Templates.
   * [Bootsrap Zero](https://www.bootstrapzero.com/) :gift_heart: - The largest open-source, free Bootstrap template collection.

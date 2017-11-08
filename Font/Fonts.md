@@ -1,5 +1,5 @@
-## 4. <a id="fonts"></a>Fonts
-[Go to top](#index)
+### Fonts
+[Go to index](https://github.com/cdleon/awesome-front-end#index)
 - **CSS**
   * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart: - CSS SANS is the font created by CSS, the programming language for web designing and typesetting. [https://yusugomori.com/projects/css-sans/](https://yusugomori.com/projects/css-sans/)
 - **Typeface**

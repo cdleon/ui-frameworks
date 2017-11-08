@@ -11,6 +11,9 @@
   * [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart: - Navigation Timing API measurement helpers. [https://github.com/addyosmani/timing.js](https://github.com/addyosmani/timing.js)
 - **Browser Support**
   * [Modernizr](https://github.com/modernizr/modernizr) :gift_heart: - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser. [https://modernizr.com/](https://modernizr.com/)
+- **Calendar**
+  * [FullCalendar](https://github.com/fullcalendar/fullcalendar) :gift_heart: - Full-sized drag & drop event calendar. [https://fullcalendar.io/](https://fullcalendar.io/)
+  * [FullCalendar Scheduler](https://github.com/fullcalendar/fullcalendar-scheduler) :gift_heart: - FullCalendar add-on for displaying events and resources. [https://fullcalendar.io/scheduler/](https://fullcalendar.io/scheduler/)
 - **Caching & Offline First**
   * [UpUp](https://github.com/TalAter/UpUp/) :gift_heart: - UpUp is a tiny javascript library that makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea. [https://www.talater.com/upup/](https://www.talater.com/upup/)
 - **Chat & Messaging**

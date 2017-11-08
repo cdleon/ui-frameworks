@@ -1,5 +1,7 @@
 ### React Components
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
+- **Calendar**
+  * [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) :gift_heart: - gcal/outlook like calendar component [https://intljusticemission.github.io/react-big-calendar/examples/index.html](https://intljusticemission.github.io/react-big-calendar/examples/index.html)
 - **Charts & Plots**
   * [react-d3](https://github.com/react-d3) :gift_heart: - A solution for building reusable components for d3 charts, still UNDER HEAVY DEVELOPMENT. [http://www.reactd3.org/](http://www.reactd3.org/)
   * [react-d3-library](https://github.com/react-d3-library/react-d3-library) :gift_heart: - Open source library for using D3 in React. http://react-d3-library.github.io/
@@ -16,6 +18,7 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [redux-data-table](https://github.com/lewisl9029/redux-data-table) :gift_heart: - Simple React + Redux + ImmutableJS data table with item filtering, sorting, pagination and removal. [https://lewisl9029.github.io/redux-data-table/](https://lewisl9029.github.io/redux-data-table/)
 - **Datepickers & Calendars**
   * [react-date-picker](https://github.com/gpbl/react-day-picker) :gift_heart: - Flexible date picker for React. [http://www.gpbl.org/react-day-picker/](http://www.gpbl.org/react-day-picker/)
+  * [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) :gift_heart: - Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more. [hhttps://clauderic.github.io/react-infinite-calendar](https://clauderic.github.io/react-infinite-calendar)
 - **Form & Input**
   * [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) :gift_heart: - Set of enhancements for input control. [http://alexkuz.github.io/react-input-enhancements/](http://alexkuz.github.io/react-input-enhancements/)
   * [react-select](https://github.com/JedWatson/react-select) :gift_heart: - A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and ajax support. [http://jedwatson.github.io/react-select/](http://jedwatson.github.io/react-select/)

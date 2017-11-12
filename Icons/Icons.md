@@ -33,5 +33,6 @@
   * [Feather](https://github.com/colebemis/feather) :gift_heart: - Simply beautiful open source icons. [https://feathericons.com](https://feathericons.com)
   * [Flag Icon CSS](https://github.com/lipis/flag-icon-css) :gift_heart: -  A collection of all country flags in SVG — plus the CSS for easier integration. [http://flag-icon-css.lip.is/](http://flag-icon-css.lip.is/)
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them. [https://nucleoapp.com/](https://nucleoapp.com/)
+  * [Super Tiny Social Icons](https://github.com/edent/SuperTinyIcons) :gift_heart: - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos. [https://edent.github.io/SuperTinyIcons/radius.html](https://edent.github.io/SuperTinyIcons/radius.html)
   * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :gift_heart: - Loading icons and small animations built purely in SVG, no CSS or JS. [http://samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
   * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos. [https://github.com/gilbarbara/logos/](https://github.com/gilbarbara/logos/)

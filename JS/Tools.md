@@ -13,6 +13,8 @@
 - **Browser Support**
   * [ie8linter](https://github.com/israelidanny/ie8linter) :gift_heart: - A little tool to lint websites for IE8 compatibility, with warnings for possible pitfalls.
   * [Modernizr](https://github.com/modernizr/modernizr) :gift_heart: - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+- **Formatters**
+  * [Prettier](https://github.com/prettier/prettier) :gift_heart: - Prettier is an opinionated code formatter. [https://prettier.io/](https://prettier.io/)
 - **Linters**
   * [ESLint](https://github.com/eslint/eslint) :gift_heart: - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
   * [JSHint](https://github.com/jshint/jshint) :gift_heart: - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
@@ -28,3 +30,5 @@
   * [Prepack](https://github.com/facebook/prepack) :gift_heart: - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently. [https://prepack.io](https://prepack.io)
   * [require.js](https://github.com/requirejs/requirejs) :gift_heart: - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
   * [Webpack](https://github.com/webpack/webpack) :gift_heart: - Webpack is a bundler for modules. The main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
+- **Transpilers**
+  * [Decaffeinate](https://github.com/decaffeinate/decaffeinate) :gift_heart: - Goodbye CoffeeScript, hello JavaScript! [http://decaffeinate-project.org/repl/](http://decaffeinate-project.org/repl/)

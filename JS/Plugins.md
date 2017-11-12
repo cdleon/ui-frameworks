@@ -22,6 +22,7 @@
   * [Clipboard.js](https://github.com/zenorocha/clipboard.js) :gift_heart: - Modern copy to clipboard. No Flash. Just 2kb. [https://clipboardjs.com/](https://clipboardjs.com/)
 - **Databases**
   * [Franchise](https://github.com/HVF/franchise) :gift_heart: - A notebook sql client. what you get when have a lot of sequels. [https://franchise.cloud](https://franchise.cloud)
+  * [Gun](https://github.com/amark/gun) :gift_heart: - A realtime, decentralized, offline-first, graph database engine. [http://gun.js.org/](http://gun.js.org/)
   * [Lovefield (browser-database)](https://github.com/google/lovefield) :gift_heart: - Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use. [https://google.github.io/lovefield/](https://google.github.io/lovefield/)
 - **Data Binding**
   * [Way.js](https://github.com/gwendall/way.js) :gift_heart: - Simple, lightweight, persistent two-way databinding. [http://gwendall.github.io/way/](http://gwendall.github.io/way/)
@@ -30,6 +31,7 @@
   * [C3](https://github.com/c3js/c3) :gift_heart: - A D3-based reusable chart library. [http://c3js.org/](http://c3js.org/)
   * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) :gift_heart: - Tiny vanilla JS plugin to display large data sets easily. [https://clusterize.js.org/](https://clusterize.js.org/)
   * [Chart.js](https://github.com/chartjs/Chart.js) :gift_heart: - Simple HTML5 Charts using the ```<canvas>``` tag. [http://www.chartjs.org/](http://www.chartjs.org/)
+  * [Collect.js](https://github.com/ecrmnn/collect.js) :gift_heart: - Convenient and dependency free wrapper for working with arrays and objects. [https://npmjs.com/collect.js](https://npmjs.com/collect.js)
   * [D3](https://github.com/d3/d3) :gift_heart: - A JavaScript visualization library for HTML and SVG. [https://d3js.org/](https://d3js.org/)
   * [D3.Compose](https://github.com/CSNW/d3.compose) :gift_heart: - Compose complex, data-driven visualizations from reusable charts and components with d3. [http://csnw.github.io/d3.compose/](http://csnw.github.io/d3.compose/)
   * [D3-Shape](https://github.com/d3/d3-shape) :gift_heart: - Graphical primitives for visualization, such as lines and areas. [https://tonicdev.com/npm/d3-shape](https://tonicdev.com/npm/d3-shape)
@@ -60,6 +62,8 @@
   * [Grid](https://github.com/hootsuite/grid) :gift_heart: - Drag and drop library for two-dimensional, resizable and responsive lists. [http://hootsuite.github.io/grid/](http://hootsuite.github.io/grid/)
   * [Interact.js](https://github.com/taye/interact.js) :gift_heart: - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+). [http://interactjs.io/](http://interactjs.io/)
   * [Sortable](https://github.com/RubaXa/Sortable) :gift_heart: - Sortable — is a minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer and any CSS library, e.g. Bootstrap. [http://rubaxa.github.io/Sortable/](http://rubaxa.github.io/Sortable/)
+- **Design Tools**
+  * [Coolhue](https://github.com/webkul/coolhue) :gift_heart: - Coolest Gradient Hues and Swatches by UVdesk [https://webkul.github.io/coolhue](https://webkul.github.io/coolhue)
 - **File Upload**
   * [FileDrop](https://github.com/ProgerXP/FileDrop) :gift_heart: - Self-contained cross-browser pure JavaScript class for Drag & Drop and AJAX (multi) file upload. [http://filedropjs.org/](http://filedropjs.org/)
   * [Plupload](https://github.com/moxiecode/plupload) :gift_heart: - Plupload is JavaScript API for building file uploaders. It supports multiple file selection, file filtering, chunked upload, client side image downsizing and when necessary can fallback to alternative runtimes, like Flash and Silverlight. [http://www.plupload.com/](http://www.plupload.com/)
@@ -78,6 +82,11 @@
   * [Taggle](https://github.com/okcoker/taggle.js) :gift_heart: - Form-ready dependency-less tagging. [https://sean.is/poppin/tags](https://sean.is/poppin/tags)
   * [Validate.js](https://github.com/rickharrison/validate.js/) :gift_heart: - Lightweight JavaScript form validation library inspired by CodeIgniter. [http://rickharrison.github.io/validate.js/](http://rickharrison.github.io/validate.js/)
 - **Graphics & Animation**
+  * [Cirque](https://github.com/two-n/cirque) :gift_heart: -  Utilities for negotiating between circles and polygons in SVG. [http://projects.two-n.com/cirque](http://projects.two-n.com/cirque/)
+  * [d3.geo2rect](https://github.com/sebastian-meier/d3.geo2rect) :gift_heart: - Morphing geojson polygons into rectangles. [http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html](http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html)
+  * [d3-interpolate-path](https://github.com/pbeshai/d3-interpolate-path) :gift_heart: - Interpolates path `d` attribute smoothly when A and B have different number of points. [https://peterbeshai.com/d3-interpolate-path/](https://peterbeshai.com/d3-interpolate-path/)
+  * [Flubber](https://github.com/veltman/flubber) :gift_heart: -  Tools for smoother shape animations. [https://veltman.github.io/flubber/demos/circles.html](https://veltman.github.io/flubber/demos/circles.html)
+  * [GreenSock MorphSVGPlugin](https://greensock.com/morphSVG) :moneybag: - MorphSVGPlugin provides advanced control over tweens that morph SVG paths. [https://greensock.com/morphSVG](https://greensock.com/morphSVG)
   * [Layer Visualizer](https://github.com/romannurik/LayerVisualizer) :gift_heart: - A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows). [https://cdn.rawgit.com/romannurik/LayerVisualizer/d3691d20005ba8a86494a1419d5187f5edf8af0d/examples.html](https://cdn.rawgit.com/romannurik/LayerVisualizer/d3691d20005ba8a86494a1419d5187f5edf8af0d/examples.html)
   * [Mojs](https://github.com/legomushroom/mojs) :gift_heart: - Motion graphics toolbelt for the web. [http://mojs.io/](http://mojs.io/)
   * [p5.js](https://github.com/processing/p5.js) :gift_heart: - p5.js is a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing. [http://p5js.org/](http://p5js.org/)
@@ -92,6 +101,7 @@
   * [Velociy](https://github.com/julianshapiro/velocity) :gift_heart: - Accelerated JavaScript animation. [http://velocityjs.org/](http://velocityjs.org/)
   * [Vivus.js (SVG-animations)](https://github.com/maxwellito/vivus) :gift_heart: - JavaScript library to make drawing animation on SVG. [http://maxwellito.github.io/vivus/](http://maxwellito.github.io/vivus/)
   * [WebGLStudio.js](https://github.com/jagenjo/webglstudio.js) :gift_heart: - A full 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more. [http://webglstudio.org/](http://webglstudio.org/)
+  * [Wilderness](https://github.com/colinmeinke/wilderness) :gift_heart: - An SVG animation API [https://wilderness.now.sh](https://wilderness.now.sh)
 - **Grid**
   * [Bricks.js](https://github.com/callmecavs/bricks.js) :gift_heat: - A blazing fast masonry layout generator for fixed width elements. [http://callmecavs.com/bricks.js/](http://callmecavs.com/bricks.js/)
   * [Layout Grid](https://github.com/clippings/layout-grid) :gift_heart: - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile. [http://clippings.github.io/layout-grid/](http://clippings.github.io/layout-grid/)
@@ -184,10 +194,14 @@
   * [Stack.js](https://github.com/mbostock/stack) :gift_heart: - A presentation library with intuitive, scroll-based navigation. [https://mbostock.github.io/stack/](https://mbostock.github.io/stack/)
 - **Search**
   * [Holmes](https://github.com/Haroenv/holmes) :gift_heart: - Fast and easy searching inside a page. [https://haroen.me/holmes/](https://haroen.me/holmes/)
+- **Security**
+  * [StatiCrypt](https://github.com/robinmoisson/staticrypt) :gift_heart: - Password protect a static HTML page. [https://robinmoisson.github.io/staticrypt/](https://robinmoisson.github.io/staticrypt/)
+  * [XSS'OR](https://github.com/evilcos/xssor2) :gift_heart: - XSS'OR Hack with JavaScript. [http://xssor.io/](http://xssor.io/)
 - **Social**
   * [Zuck.js](https://github.com/ramon82/zuck.js) :gift_heart: - A javascript library that lets you add stories EVERYWHERE. [https://ramon.codes/projects/zuck.js](https://ramon.codes/projects/zuck.js)
 - **State Management**
   * [Redux](https://github.com/reactjs/redux) :gift_heart: - Predictable state container for JavaScript apps. [http://redux.js.org/](http://redux.js.org/)
+  * [Redux Offline](https://github.com/redux-offline-team/redux-offline) :gift_heart: - Build Offline-First Apps for Web and React Native. [https://github.com/redux-offline-team/redux-offline](https://github.com/redux-offline-team/redux-offline)
 - **Streaming**
   * [Nile.js](https://github.com/gitsummore/nile.js) :gift_heart: -  Scalable peer to peer live video streaming built on torrents and webRTC [https://nilejs.com](https://nilejs.com/)
 - **Transition & Effects**
@@ -207,6 +221,8 @@
   * [Webtorrent](https://github.com/feross/webtorrent) :gift_heart: - Streaming torrent client for node & the browser. [https://webtorrent.io/](https://webtorrent.io/)
  **Video**
   * [Vidage](https://github.com/dvLden/Vidage) :gift_heart: - Your solution to full-screen background video & image combined. [https://dvlden.github.io/Vidage/](https://dvlden.github.io/Vidage/)
+- **Window & Layout Managers**
+  * [GoldenLayout](https://github.com/deepstreamIO/golden-layout) :gift_heart: - The ultimate Javascript layout manager. [https://golden-layout.com/](https://golden-layout.com/)
 - **WYSIWYG**
   * [Aloha](https://github.com/alohaeditor/Aloha-Editor/tree/howling-mad) :gift_heart: - Aloha Editor is a JavaScript content editing library. [http://www.alohaeditor.org/](http://www.alohaeditor.org/)
   * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart: - The development repository of CKEditor. [http://ckeditor.com/](http://ckeditor.com/)

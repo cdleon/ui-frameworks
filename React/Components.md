@@ -20,11 +20,13 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
 - **Datepickers & Calendars**
   * [react-date-picker](https://github.com/gpbl/react-day-picker) :gift_heart: - Flexible date picker for React. [http://www.gpbl.org/react-day-picker/](http://www.gpbl.org/react-day-picker/)
   * [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) :gift_heart: - Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more. [hhttps://clauderic.github.io/react-infinite-calendar](https://clauderic.github.io/react-infinite-calendar)
+  * [react-svg-morph](https://github.com/gorangajic/react-svg-morph) :gift_heart - Morph your svg component one into another other. [http://gorangajic.github.io/react-svg-morph/](http://gorangajic.github.io/react-svg-morph/)
 - **Form & Input**
   * [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) :gift_heart: - Set of enhancements for input control. [http://alexkuz.github.io/react-input-enhancements/](http://alexkuz.github.io/react-input-enhancements/)
   * [react-select](https://github.com/JedWatson/react-select) :gift_heart: - A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and ajax support. [http://jedwatson.github.io/react-select/](http://jedwatson.github.io/react-select/)
 - **Graphics & Animation**
   * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components. [https://github.com/Flipboard/react-canvas](https://github.com/Flipboard/react-canvas)
+  * [react-flight](https://github.com/jondot/react-flight) :gift_heart: - The best way to build animation compositions for React. [http://www.react-flight.io](http://www.react-flight.io)
   * [react-move](https://github.com/react-tools/react-move) :gift_heart: - Beautiful, data-driven animations for React [https://react-move.js.org](https://react-move.js.org)
 - **Image Processing**
   * [react-imgpro](https://github.com/nitin42/react-imgpro) :gift_heart: - Image Processing Component for React. [https://camo.githubusercontent.com/f7b399fa47ba82ce6ec817428c0f7b9048cb6480/687474703a2f2f672e7265636f726469742e636f2f586d68546950383454442e676966](https://camo.githubusercontent.com/f7b399fa47ba82ce6ec817428c0f7b9048cb6480/687474703a2f2f672e7265636f726469742e636f2f586d68546950383454442e676966)

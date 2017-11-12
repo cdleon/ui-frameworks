@@ -9,3 +9,5 @@
   * [Snipplr](http://snipplr.com/) :gift_heart: - Lets you store and share all of your commonly used pieces of code and HTML with other programmers and designers.
   * [Snipt (tag:javascript)](https://snipt.net/public/tag/javascript/) :gift_heart: -  - The publishing platform for coders.
   * [Snipt (tag:js)](https://snipt.net/public/tag/js/) :gift_heart: -  - The publishing platform for coders.
+- **Misc**
+  * [Wtfjs](https://github.com/denysdovhan/wtfjs) :gift_heart: - A list of funny and tricky JavaScript examples. [http://bit.ly/wtfjavascript](http://bit.ly/wtfjavascript)

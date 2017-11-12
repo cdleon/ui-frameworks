@@ -18,12 +18,16 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [reactable](https://github.com/glittershark/reactable) :gift_heart: - Fast, flexible, and simple data tables in React [http://glittershark.github.io/reactable](http://glittershark.github.io/reactable)
   * [redux-data-table](https://github.com/lewisl9029/redux-data-table) :gift_heart: - Simple React + Redux + ImmutableJS data table with item filtering, sorting, pagination and removal. [https://lewisl9029.github.io/redux-data-table/](https://lewisl9029.github.io/redux-data-table/)
 - **Datepickers & Calendars**
+  * [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) :gift_heart: - Gcal/outlook like calendar component. [https://intljusticemission.github.io/react-big-calendar/examples/index.html](https://intljusticemission.github.io/react-big-calendar/examples/index.html)
   * [react-date-picker](https://github.com/gpbl/react-day-picker) :gift_heart: - Flexible date picker for React. [http://www.gpbl.org/react-day-picker/](http://www.gpbl.org/react-day-picker/)
   * [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) :gift_heart: - Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more. [hhttps://clauderic.github.io/react-infinite-calendar](https://clauderic.github.io/react-infinite-calendar)
   * [react-svg-morph](https://github.com/gorangajic/react-svg-morph) :gift_heart - Morph your svg component one into another other. [http://gorangajic.github.io/react-svg-morph/](http://gorangajic.github.io/react-svg-morph/)
 - **Form & Input**
+  * [Formik](https://github.com/jaredpalmer/formik) :gift_heart: - Build forms in React, without the tears. [https://npm.im/formik](https://npm.im/formik)
   * [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) :gift_heart: - Set of enhancements for input control. [http://alexkuz.github.io/react-input-enhancements/](http://alexkuz.github.io/react-input-enhancements/)
+  * [react-form](https://github.com/react-tools/react-form) :gift_heart: - React Form - Powerful and lightweight forms in React [https://react-form.js.org](https://react-form.js.org)
   * [react-select](https://github.com/JedWatson/react-select) :gift_heart: - A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and ajax support. [http://jedwatson.github.io/react-select/](http://jedwatson.github.io/react-select/)
+  * [redux-form](https://github.com/erikras/redux-form) :gift_heart: - A Higher Order Component using react-redux to keep form state in a Redux store [http://redux-form.com](http://redux-form.com)
 - **Graphics & Animation**
   * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components. [https://github.com/Flipboard/react-canvas](https://github.com/Flipboard/react-canvas)
   * [react-flight](https://github.com/jondot/react-flight) :gift_heart: - The best way to build animation compositions for React. [http://www.react-flight.io](http://www.react-flight.io)
@@ -38,6 +42,8 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [react-gmaps](https://github.com/MicheleBertoli/react-gmaps) :gift_heart: - A Google Maps component for React.js. [http://react-gmaps.herokuapp.com/](http://react-gmaps.herokuapp.com/)
   * [react-google-maps](https://github.com/tomchentw/react-google-maps) :gift_heart: - React.js Google Maps integration component. [https://tomchentw.github.io/react-google-maps/](https://tomchentw.github.io/react-google-maps/)
   * [react-map-gl](https://github.com/uber/react-map-gl) :gift_heart: - react-map-gl provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library. [https://uber.github.io/react-map-gl/](https://uber.github.io/react-map-gl/)
+- **Misc**
+  * [Terminal in React](https://github.com/nitin42/terminal-in-react) :gift_heart: - A component that renders a terminal [http://terminal-in-react.surge.sh/](http://terminal-in-react.surge.sh/)
 - **Office & Documents**
   * [react-pdf](https://github.com/diegomura/react-pdf) :gift_heart: - Create PDF files using React.
 - **VR**

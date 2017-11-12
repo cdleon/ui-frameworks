@@ -4,6 +4,9 @@
   * [Tota11y](https://github.com/Khan/tota11y) :gift_heart: - an accessibility (a11y) visualization toolkit. [http://khan.github.io/tota11y/](http://khan.github.io/tota11y/)
 - **AR**
   * [AR.js](https://github.com/jeromeetienne/AR.js) :gift_heart: - Efficient Augmented Reality for the Web - 60fps on mobile. [https://github.com/jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js)
+- **Automation & Scraping**
+  * [Chromeless](https://github.com/graphcool/chromeless) :gift_heart: - Chrome automation made simple. Runs locally or headless on AWS Lambda. [https://chromeless.netlify.com](https://chromeless.netlify.com)
+  * [Puppeteer](https://github.com/GoogleChrome/puppeteer) :gift_heart: - Headless Chrome Node API. [https://try-puppeteer.appspot.com/](https://try-puppeteer.appspot.com/)
 - **BenchMarking**
   * [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart: - A benchmarking library. As used on jsPerf.com. [https://github.com/bestiejs/benchmark.js](https://github.com/bestiejs/benchmark.js)
   * [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart: - Simple, easy, javascript benchmark testing. [https://github.com/broofa/jslitmus](https://github.com/broofa/jslitmus)
@@ -193,7 +196,9 @@
   * [Skrollr](https://github.com/Prinzhorn/skrollr) :gift_heart: - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love). [http://prinzhorn.github.io/skrollr/](http://prinzhorn.github.io/skrollr/)
   * [Stack.js](https://github.com/mbostock/stack) :gift_heart: - A presentation library with intuitive, scroll-based navigation. [https://mbostock.github.io/stack/](https://mbostock.github.io/stack/)
 - **Search**
+  * [Fuse.js](https://github.com/krisk/Fuse) :gift_heart: - Lightweight fuzzy-search, in JavaScript. [http://fusejs.io/](http://fusejs.io/)
   * [Holmes](https://github.com/Haroenv/holmes) :gift_heart: - Fast and easy searching inside a page. [https://haroen.me/holmes/](https://haroen.me/holmes/)
+  * [Wade](https://github.com/kbrsh/wade) :gift_heart: - Blazing fast 1kb search. [https://github.com/kbrsh/wade](https://github.com/kbrsh/wade)
 - **Security**
   * [StatiCrypt](https://github.com/robinmoisson/staticrypt) :gift_heart: - Password protect a static HTML page. [https://robinmoisson.github.io/staticrypt/](https://robinmoisson.github.io/staticrypt/)
   * [XSS'OR](https://github.com/evilcos/xssor2) :gift_heart: - XSS'OR Hack with JavaScript. [http://xssor.io/](http://xssor.io/)
@@ -219,13 +224,18 @@
   * [Ritzy](https://github.com/ritzyed/ritzy) :gift_heart: - Collaborative web-based rich text editor. [http://ritzyed.github.io/ritzy/](http://ritzyed.github.io/ritzy/)
 - **Torrents**
   * [Webtorrent](https://github.com/feross/webtorrent) :gift_heart: - Streaming torrent client for node & the browser. [https://webtorrent.io/](https://webtorrent.io/)
- **Video**
+- **Utility**
+  * [GPU.js](https://github.com/gpujs/gpu.js) :gift_heart: - GPU Accelerated JavaScript. [http://gpu.rocks](http://gpu.rocks)
+  * [Nanoid](https://github.com/ai/nanoid) :gift_heart: - A tiny (176 bytes), secure, URL-friendly, unique string ID generator for JavaScript. [https://github.com/ai/nanoid](https://github.com/ai/nanoid)
+  * [The Gambler's Fallacy Dice](https://github.com/xori/gamblers-dice) :gift_heart: - A terrible idea, now real. [https://xori.github.io/gamblers-dice](https://xori.github.io/gamblers-dice)
+- **Video**
   * [Vidage](https://github.com/dvLden/Vidage) :gift_heart: - Your solution to full-screen background video & image combined. [https://dvlden.github.io/Vidage/](https://dvlden.github.io/Vidage/)
 - **Window & Layout Managers**
   * [GoldenLayout](https://github.com/deepstreamIO/golden-layout) :gift_heart: - The ultimate Javascript layout manager. [https://golden-layout.com/](https://golden-layout.com/)
 - **WYSIWYG**
   * [Aloha](https://github.com/alohaeditor/Aloha-Editor/tree/howling-mad) :gift_heart: - Aloha Editor is a JavaScript content editing library. [http://www.alohaeditor.org/](http://www.alohaeditor.org/)
   * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart: - The development repository of CKEditor. [http://ckeditor.com/](http://ckeditor.com/)
+  * [Pell](https://github.com/jaredreich/pell) :gift_heart: - The simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies. [https://jaredreich.com/pell](https://jaredreich.com/pell)
   * [ProseMirror](https://github.com/ProseMirror/prosemirror) :gift_heart: - The ProseMirror WYSIWYM editor. [http://prosemirror.net/](http://prosemirror.net/)
   * [Quill](https://github.com/quilljs/quill/) :gift_heart: - A cross browser rich text editor with an API. [http://quilljs.com/](http://quilljs.com/)
   * [Squire](https://github.com/neilj/Squire) :gift_heart: - HTML5 rich text editor. [http://neilj.github.io/Squire/](http://neilj.github.io/Squire/)

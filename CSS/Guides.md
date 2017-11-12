@@ -2,6 +2,7 @@
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
 * [3 Things (Almost) No One Knows About CSS](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - Think you know CSS?
 * [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) :gift_heart: - A collection of awesome design systems.
+* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) :gift_heart: - Some useful websites for programmers.
 * [CSS Guidelines](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - High-level advice and guidelines for writing sane, manageable, scalable CSS.
 * [Grab Front End Guide](https://github.com/grab/front-end-guide) :gift_heart: - Study guide and introduction to the modern front end stack.
 * [Khan Academy CSS Style Guide](https://github.com/Khan/style-guides/blob/master/style/css.md) :gift_heart: - Welcome to the CSS style guide. This guide borrows heavily from Github's Primer CSS guidelines, so thanks to them!

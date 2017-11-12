@@ -23,6 +23,7 @@
 * [Knockout.js](https://github.com/knockout/knockout) :gift_heart: - Knockout makes it easier to create rich, responsive UIs with JavaScript. [http://knockoutjs.com/](http://knockoutjs.com/)
 * [Lazy.js](https://github.com/dtao/lazy.js) :gift_heart: - Lazy.js is a functional utility library for JavaScript, similar to Underscore and Lo-Dash, but with an underlying engine that supports many more use cases than those libraries, while offering comparable or superior performance in most scenarios. [http://danieltao.com/lazy.js/](http://danieltao.com/lazy.js/)
 * [Lodash](https://github.com/lodash/lodash) :gift_heart: - A JavaScript utility library delivering consistency, modularity, performance, & extras. [https://lodash.com/](https://lodash.com/)
+* [Marko.js](https://github.com/marko-js/marko) :gift_heart: - A friendly (and fast!) UI library from eBay that makes building web apps fu. [https://markojs.com/](https://markojs.com/)
 * [Min.js](https://github.com/remy/min.js) :gift_heart: - Super minimal selector and event library. [https://github.com/remy/min.js](https://github.com/remy/min.js)
 * [Moon](https://github.com/kbrsh/moon) :gift_heart: - A minimal, blazing fast UI library. [http://moonjs.ga/](http://moonjs.ga/)
 * [MooTools](http://mootools.net/) :gift_heart: - MooTools is a collection of JavaScript utilities designed for the intermediate to advanced JavaScript developer. It allows you to write powerful and flexible code with its elegant, well documented, and coherent APIs. [http://mootools.net/](http://mootools.net/)

@@ -25,6 +25,8 @@
   * [Typicons](https://github.com/stephenhutchings/typicons.font) :gift_heart: - 336 pixel perfect, all-purpose vector icons in a web-font kit. [http://typicons.com/](http://typicons.com/)
   * [Weather Icons](https://github.com/erikflowers/weather-icons) :gift_heart: - 215 Weather Themed Icons and CSS. [https://erikflowers.github.io/weather-icons/](https://erikflowers.github.io/weather-icons/)
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart: - High quality icons that are easy to use with Bootstrap, other CSS frameworks and in any web projects. [http://www.webhostinghub.com/glyphs/](http://www.webhostinghub.com/glyphs/)
+- **JS**
+  * [Titanic](https://github.com/icons8/titanic) :gift_heart: - A set of animated icons + code to insert them into the webpages [https://icons8.com/c/animated-icons](https://icons8.com/c/animated-icons)
 - **PNG**
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them. [https://nucleoapp.com/](https://nucleoapp.com/)
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart: - High quality icons that are easy to use with Bootstrap, other CSS frameworks and in any web projects. [http://www.webhostinghub.com/glyphs/](http://www.webhostinghub.com/glyphs/)

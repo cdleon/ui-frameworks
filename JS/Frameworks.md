@@ -34,6 +34,7 @@
 * [Serverless](https://github.com/serverless/serverless) :gift_heart: - The Server-less Application Framework. Uses bleeding-edge AWS services to redefine how to build massively scalable (and cheap) apps! [https://serverless.com/](https://serverless.com/)
 * [Skel](https://github.com/ajlkn/skel) :gift_heart: - A lightweight responsive framework for the www. [https://github.com/ajlkn/skel](https://github.com/ajlkn/skel)
 * [Sprint](https://github.com/bendc/sprint) :gift_heart: - A tiny, lightning fast jQuery-like library for modern browsers. [https://github.com/bendc/sprint](https://github.com/bendc/sprint)
+* [Slate](https://github.com/ianstormtaylor/slate) :gift_heart: - A completely customizable framework for building rich text editors. [http://slatejs.org](http://slatejs.org)
 * [Ramda](https://github.com/ramda/ramda) :gift_heart: - A practical functional library for Javascript programmers. [http://ramdajs.com/0.21.0/index.html](http://ramdajs.com/0.21.0/index.html)
 * [Riot.js](https://github.com/riot/riot) :gift_heart: - A React-like, user interface library. [http://riotjs.com/](http://riotjs.com/)
 * [t3js](https://github.com/box/t3js/) :gift_heart: - T3 is a client-side JavaScript framework for building large-scale web applications. [http://t3js.org/](http://t3js.org/)

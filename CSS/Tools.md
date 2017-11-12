@@ -14,4 +14,5 @@
 - **Responsive Analizers**
   * [AmIResponsive](http://ami.responsivedesign.is/) :gift_heart: - See your site responsive.
   * [Responsinator](http://www.responsinator.com/) :gift_heart: - Responsinator helps website makers quickly get an indication of how their responsive site will look on the most popular devices.
+  * [Sizzy](https://github.com/kitze/sizzy) :gift_heart: - A tool for testing responsive websites crazy-fast [https://sizzy.co](https://sizzy.co/)
   * [ViewPortResizer](http://lab.maltewassermann.com/viewport-resizer/) :gift_heart: - Viewport resizer is a browser-based tool to test any website’s responsiveness.

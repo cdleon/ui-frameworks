@@ -22,8 +22,9 @@
   * [Uglify.js](https://github.com/mishoo/UglifyJS) :gift_heart: - JavaScript parser / mangler / compressor / beautifier library for NodeJS.
 - **Network Debuging**
   * [Betwixt](https://github.com/kdzwinel/betwixt) :gift_heart: - Web Debugging Proxy based on Chrome DevTools Network panel.
-- **Package Managers / module loaders**
+- **Package Managers / Module loaders / Compilers**
   * [Bower](https://github.com/bower/bower) :gift_heart: - A package manager for the web.
   * [Browserify](https://github.com/substack/node-browserify) :gift_heart: - Browser-side require() the node.js way.
+  * [Prepack](https://github.com/facebook/prepack) :gift_heart: - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently. [https://prepack.io](https://prepack.io)
   * [require.js](https://github.com/requirejs/requirejs) :gift_heart: - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
   * [Webpack](https://github.com/webpack/webpack) :gift_heart: - Webpack is a bundler for modules. The main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.

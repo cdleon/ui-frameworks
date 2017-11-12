@@ -26,6 +26,7 @@
 - **Data Binding**
   * [Way.js](https://github.com/gwendall/way.js) :gift_heart: - Simple, lightweight, persistent two-way databinding. [http://gwendall.github.io/way/](http://gwendall.github.io/way/)
 - **Data Processing & Visualization**
+  * [Britecharts](https://github.com/eventbrite/britecharts) :gift_heart: - Client-side reusable Charting Library based on D3.js v4 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations. [http://eventbrite.github.io/britecharts/](http://eventbrite.github.io/britecharts/)
   * [C3](https://github.com/c3js/c3) :gift_heart: - A D3-based reusable chart library. [http://c3js.org/](http://c3js.org/)
   * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) :gift_heart: - Tiny vanilla JS plugin to display large data sets easily. [https://clusterize.js.org/](https://clusterize.js.org/)
   * [Chart.js](https://github.com/chartjs/Chart.js) :gift_heart: - Simple HTML5 Charts using the ```<canvas>``` tag. [http://www.chartjs.org/](http://www.chartjs.org/)
@@ -82,6 +83,7 @@
   * [p5.js](https://github.com/processing/p5.js) :gift_heart: - p5.js is a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing. [http://p5js.org/](http://p5js.org/)
   * [Phaser](https://github.com/photonstorm/phaser) :gift_heart: - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. [http://phaser.io/](http://phaser.io/)
   * [Pixi.js](https://github.com/pixijs/pixi.js) :gift_heart: - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback. [http://www.goodboydigital.com/pixijs/examples/15/indexAll.html](http://www.goodboydigital.com/pixijs/examples/15/indexAll.html)
+  * [Planck.js](https://github.com/shakiba/planck.js) :gift_heart: - 2D JavaScript Physics Engine [http://piqnt.com/planck.js/]](http://piqnt.com/planck.js/)
   * [Popmotion](https://github.com/Popmotion/popmotion) :gift_heart: - A 12kb Javascript motion engine. Use for animation, physics and input tracking. [https://popmotion.io/](https://popmotion.io/)
   * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael/) :gift_heart: - JavaScript Vector Library. [https://github.com/DmitryBaranovskiy/raphael/](https://github.com/DmitryBaranovskiy/raphael/)
   * [Rythm.js](https://github.com/Okazari/Rythm.js) :gift_heart: - A javascript library that makes your page dance. [https://okazari.github.io/Rythm.js/](https://okazari.github.io/Rythm.js/)
@@ -115,6 +117,7 @@
   * [Watermark.js](https://github.com/brianium/watermarkjs) :gift_heart: - Watermarking for the browser. [http://brianium.github.io/watermarkjs/](http://brianium.github.io/watermarkjs/)
 - **Key Bindings & Mouse Events**
   * [Keys.js](https://github.com/bitwalker/keys.js) :gift_heart: - Easy keybindings for browser applications! [http://bitwalker.org/keys.js/](http://bitwalker.org/keys.js/)
+  * [Hotkeys](https://github.com/jaywcjlove/hotkeys) :gift_heart: - A robust Javascript library for capturing keyboard input. It has no dependencies. [https://git.io/hotkeys.js](https://git.io/hotkeys.js)
   * [Mousetrap](https://github.com/ccampbell/mousetrap) :gift_heart: - Simple library for handling keyboard shortcuts in Javascript. [https://craig.is/killing/mice](https://craig.is/killing/mice)
   * [Simple Hotkeys](https://github.com/mycolorway/simple-hotkeys) :gift_heart: - Simple hotkeys. [https://github.com/mycolorway/simple-hotkeys](https://github.com/mycolorway/simple-hotkeys)
 - **LazyLoaders**
@@ -150,6 +153,11 @@
   * [jsModal](http://jsmodal.com/) :gift_heart: - Modal generator in pure JavaScript. - An open-source modal box engine written in pure JavaScript. [http://jsmodal.com/](http://jsmodal.com/)
   * [Modal](https://github.com/humaan/Modaal) :gift_heart: - An accessible dialog window library for all humans. [http://humaan.com/modaal/](http://humaan.com/modaal/)
   * [Notiejs](https://github.com/jaredreich/notie) :gift_heart: - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies. [https://jaredreich.com/notie](https://jaredreich.com/notie)
+- **Notifications**
+  * [iNotify](https://github.com/jaywcjlove/iNotify) :gift_heart: - JS achieve the browser title flashing , scrolling, voice prompts , browser notice. [https://git.io/iNotify](https://git.io/iNotify)
+- **Presentations**
+  * [Reveal.js](https://github.com/hakimel/reveal.js) :gift_heart: - The HTML Presentation Framework [http://lab.hakim.se/reveal-js](http://lab.hakim.se/reveal-js/)
+  * [Reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins) :gift_heart: - Plugins for reveal.js. [https://github.com/rajgoel/reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins)
 - **Pointers & Tooltips**
   * [Focusable](https://github.com/zzarcon/focusable) :gift_heart: - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page. [http://zzarcon.github.io/focusable/](http://zzarcon.github.io/focusable/)
   * [Opentip](https://github.com/enyo/opentip) :gift_heart: - Opentip is an open source javascript tooltip based on the protoype framework. [http://www.opentip.org/](http://www.opentip.org/)
@@ -174,11 +182,16 @@
   * [ScrollMonitor](https://github.com/stutrek/scrollMonitor) :gift_heart: - A simple and fast API to monitor elements as you scroll. [http://stutrek.github.io/scrollMonitor/demos/scoreboard.html](http://stutrek.github.io/scrollMonitor/demos/scoreboard.html)
   * [Skrollr](https://github.com/Prinzhorn/skrollr) :gift_heart: - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love). [http://prinzhorn.github.io/skrollr/](http://prinzhorn.github.io/skrollr/)
   * [Stack.js](https://github.com/mbostock/stack) :gift_heart: - A presentation library with intuitive, scroll-based navigation. [https://mbostock.github.io/stack/](https://mbostock.github.io/stack/)
-- **State Management**
-  * [Redux](https://github.com/reactjs/redux) :gift_heart: - Predictable state container for JavaScript apps. [http://redux.js.org/](http://redux.js.org/)
 - **Search**
   * [Holmes](https://github.com/Haroenv/holmes) :gift_heart: - Fast and easy searching inside a page. [https://haroen.me/holmes/](https://haroen.me/holmes/)
+- **Social**
+  * [Zuck.js](https://github.com/ramon82/zuck.js) :gift_heart: - A javascript library that lets you add stories EVERYWHERE. [https://ramon.codes/projects/zuck.js](https://ramon.codes/projects/zuck.js)
+- **State Management**
+  * [Redux](https://github.com/reactjs/redux) :gift_heart: - Predictable state container for JavaScript apps. [http://redux.js.org/](http://redux.js.org/)
+- **Streaming**
+  * [Nile.js](https://github.com/gitsummore/nile.js) :gift_heart: -  Scalable peer to peer live video streaming built on torrents and webRTC [https://nilejs.com](https://nilejs.com/)
 - **Transition & Effects**
+  * [Chromatism](https://github.com/toish/chromatism) :gift_heart: - A simple set of utility functions for colours. [https://github.com/toish/chromatism](https://github.com/toish/chromatism)
   * [Ramjet](https://github.com/Rich-Harris/ramjet) :gift_heart: - Morph DOM elements from one state to another with smooth transitions. [http://www.rich-harris.co.uk/ramjet/](http://www.rich-harris.co.uk/ramjet/)
   * [Snabbt.js](https://github.com/daniel-lundin/snabbt.js) :gift_heart: - Fast animations with javascript and CSS transforms. [http://daniel-lundin.github.io/snabbt.js/](http://daniel-lundin.github.io/snabbt.js/)
 - **Text Effects & Text Manipulation**

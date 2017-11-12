@@ -5,6 +5,8 @@
   * [Zocial CSS Social Buttons](https://github.com/smcllns/css-social-buttons) :gift_heart: - Zocial button set with CSS. Entirely vector-based social buttons. [http://zocial.smcllns.com/](http://zocial.smcllns.com/)
 - **Browser Support**
   * [HTML5 Shiv](https://github.com/afarkas/html5shiv) :gift_heart: - The HTML5 Shiv enables use of HTML5 sectioning elements in legacy Internet Explorer and provides basic HTML5 styling for Internet Explorer 6-9, Safari 4.x (and iPhone 3.x), and Firefox 3.x. [http://www.paulirish.com/2011/the-history-of-the-html5-shiv/](http://www.paulirish.com/2011/the-history-of-the-html5-shiv/)
+- **Placeholders**
+  * [Mocka](https://github.com/Chalarangelo/mocka) :gift_heart: - Simple, elegant content placeholder [https://chalarangelo.github.io/mocka](https://chalarangelo.github.io/mocka/)
 - **Cross Browser Rendering & Consistency**
   * [Normalize.css](https://github.com/necolas/normalize.css/) :gift_heart: - Normalize.css is a customisable CSS file that makes browsers render all elements more consistently and in line with modern standards. [http://necolas.github.io/normalize.css/](http://necolas.github.io/normalize.css/)
 - **Effects**

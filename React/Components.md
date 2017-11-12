@@ -10,6 +10,7 @@
   * [Mattermost](https://github.com/mattermost/platform) :gift_heart: - Open source Slack-alternative in Golang and React. [https://www.mattermost.org/](https://www.mattermost.org/)
 - **Data Processing & Visualization**
   * [fixed-data-table](https://github.com/facebook/fixed-data-table) :gift_heart: - A React table component designed to allow presenting thousands of rows of data.[https://facebook.github.io/fixed-data-table/](https://facebook.github.io/fixed-data-table/)
+  * [react-datasheet](https://github.com/nadbm/react-datasheet) :gift_heart: - Excel-like data grid component for react. [https://nadbm.github.io/react-datasheet/](https://nadbm.github.io/react-datasheet/)
   * [React Data Grid](http://reactdatagrid.com/) :moneybag: - Powerful React DataGrid/DataTable component
 for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](http://reactdatagrid.com/Home/Demo)
   * [react-table](https://github.com/react-tools/react-table) :gift_heart: - React Table - A lightweight, fast and extendable datagrid for React. [http://react-table.js.org](http://react-table.js.org)
@@ -24,6 +25,7 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [react-select](https://github.com/JedWatson/react-select) :gift_heart: - A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and ajax support. [http://jedwatson.github.io/react-select/](http://jedwatson.github.io/react-select/)
 - **Graphics & Animation**
   * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components. [https://github.com/Flipboard/react-canvas](https://github.com/Flipboard/react-canvas)
+  * [react-move](https://github.com/react-tools/react-move) :gift_heart: - Beautiful, data-driven animations for React [https://react-move.js.org](https://react-move.js.org)
 - **Image Processing**
   * [react-imgpro](https://github.com/nitin42/react-imgpro) :gift_heart: - Image Processing Component for React. [https://camo.githubusercontent.com/f7b399fa47ba82ce6ec817428c0f7b9048cb6480/687474703a2f2f672e7265636f726469742e636f2f586d68546950383454442e676966](https://camo.githubusercontent.com/f7b399fa47ba82ce6ec817428c0f7b9048cb6480/687474703a2f2f672e7265636f726469742e636f2f586d68546950383454442e676966)
 - **Loading Bars**
@@ -34,7 +36,9 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [react-gmaps](https://github.com/MicheleBertoli/react-gmaps) :gift_heart: - A Google Maps component for React.js. [http://react-gmaps.herokuapp.com/](http://react-gmaps.herokuapp.com/)
   * [react-google-maps](https://github.com/tomchentw/react-google-maps) :gift_heart: - React.js Google Maps integration component. [https://tomchentw.github.io/react-google-maps/](https://tomchentw.github.io/react-google-maps/)
   * [react-map-gl](https://github.com/uber/react-map-gl) :gift_heart: - react-map-gl provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library. [https://uber.github.io/react-map-gl/](https://uber.github.io/react-map-gl/)
-- **Tools**
-  * [Atellier](https://github.com/scup/atellier) :gift_heart: - The smartest way to share interactive components with your team. [http://scup.github.io/atellier/](http://scup.github.io/atellier/)
-  * [Reactotron](https://github.com/reactotron/reactotron) :gift_heart: - Control, monitor, and instrument your React and React Native apps from the comfort of your TTY. [https://github.com/reactotron/reactotron](https://github.com/reactotron/reactotron)
-  * [Why Did You Update](https://github.com/garbles/why-did-you-update) :gift_heart: - Puts your console on blast when React is making unnecessary updates. [https://github.com/garbles/why-did-you-update](https://github.com/garbles/why-did-you-update)
+- **Office & Documents**
+  * [react-pdf](https://github.com/diegomura/react-pdf) :gift_heart: - Create PDF files using React.
+- **VR**
+  * [react-vr](https://github.com/facebook/react-vr) :gift_heart: - Create amazing 360 and VR content using React [https://facebook.github.io/react-vr](https://facebook.github.io/react-vr)
+- **WYSIWYG**
+  * [Ory](https://github.com/ory/editor) :gift_heart: - Next-gen, highly customizable content editor for the browser - based on React and Redux. WYSIWYG on steroids. (https://editor.ory.am/?utm_source=github&utm_medium=header&utm_campaign=editor)[https://editor.ory.am/?utm_source=github&utm_medium=header&utm_campaign=editor]

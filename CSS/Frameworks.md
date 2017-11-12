@@ -23,6 +23,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - [Pills](https://github.com/rohitkrai03/pills) :gift_heart: - A simple responsive CSS Grid for humans. [http://arkpod.in/pills/](http://arkpod.in/pills/)
 - [Pure](https://github.com/yahoo/pure/) :gift_heart: - A set of small, responsive CSS modules that you can use in every web project. [http://purecss.io/](http://purecss.io/)
 - [Responsive](https://github.com/ResponsiveBP/Responsive) :gift_heart: - A powerful, accessible, developer friendly framework for building responsive websites. [http://responsivebp.com](http://responsivebp.com)
+- [Sakura](https://github.com/oxalorg/sakura) :gift_heart: - A minimal css framework/theme. [https://oxal.org/projects/sakura](https://oxal.org/projects/sakura)
 - [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) :gift_heart: - Semantic is a UI component framework based around useful principles from natural language. [http://semantic-ui.com/](http://semantic-ui.com/)
 - [Skeleton](https://github.com/dhg/Skeleton) :gift_heart: - A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development. [http://getskeleton.com/](http://getskeleton.com/)
 - [Spectre](https://github.com/picturepan2/spectre) :gift_heart: - A lightweight, responsive and modern CSS framework. [https://picturepan2.github.io/spectre/](https://picturepan2.github.io/spectre/)

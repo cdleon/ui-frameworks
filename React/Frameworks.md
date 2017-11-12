@@ -8,5 +8,7 @@
 * [React Toolbox](https://github.com/react-toolbox/react-toolbox) :gift_heart: - A set of React components implementing Google's Material Design specification with the power of CSS Modules. [http://react-toolbox.com/#/](http://react-toolbox.com/#/)
 * [React-MDL](https://github.com/react-mdl/react-mdl) :gift_heart: - React Components for Material Design Lite. [https://react-mdl.github.io/react-mdl/)
 * [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) :gift_heart: - A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
+* [ReactXP](https://github.com/Microsoft/reactxp) :gift_heart: Library for cross-platform app development. [https://microsoft.github.io/reactxp](https://microsoft.github.io/reactxp/)
 * [Reapp](https://github.com/reapp/reapp) :gift_heart: - Reapp - next gen hybrid apps. [https://github.com/reapp/reapp](https://github.com/reapp/reapp)
 * [Relay](https://github.com/facebook/relay) :gift_heart: - Relay is a JavaScript framework for building data-driven React applications. [https://facebook.github.io/relay/](https://facebook.github.io/relay/)
+* [Uiw](https://github.com/uiw-react/uiw) :gift_heart: - A high quality UI Toolkit, A Component Library for React 16+. [https://uiw-react.github.io](https://uiw-react.github.io)

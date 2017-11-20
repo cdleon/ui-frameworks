@@ -31,6 +31,7 @@
 * [Project Guidelines](https://github.com/wearehive/project-guidelines) :gift_heart: - A set of best practices for JavaScript projects.
 * [Solid](https://github.com/solid/solid) :gift_heart: - Re-decentralizing the web.
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) :gift_heart: -  A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
+* [Superhero.js](https://github.com/superherojs/superherojs) :gift_heart: - Creating, testing and maintaining a large JavaScript code base is not easy — especially since great resources on how to do this are hard to find. This page is a collection of the best articles, videos and presentations we've found on the topic. [http://superherojs.com/](http://superherojs.com/)
 * [The JavaScript Behind Touch-Friendly Sliders](https://css-tricks.com/the-javascript-behind-touch-friendly-sliders/) :gift_heart:
 * [The JavaScript Tutorial](https://github.com/iliakan/javascript-tutorial-en) :git_heart: - Modern JavaScript Tutorial. [https://javascript.info](https://javascript.info)
 * [The JavaScript Way](https://github.com/bpesquet/thejsway) :gift_heart: - The JavaScript Way book [https://leanpub.com/thejsway](https://leanpub.com/thejsway)

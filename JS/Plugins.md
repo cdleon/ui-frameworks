@@ -151,6 +151,7 @@
 - **Media Queries**
   * [Enquire.js](https://github.com/WickyNilliams/enquire.js) :gift_heart: - Enquire.js is a lightweight, pure javascript library (with no dependencies) for programmatically responding to media queries. [http://wicky.nillia.ms/enquire.js/](http://wicky.nillia.ms/enquire.js/)
 - **Media Players**
+  * [Audio.js](https://github.com/kolber/audiojs) :fidt_heart: - A cross-browser javascript wrapper for the html5 audio tag. [https://kolber.github.io/audiojs/](https://kolber.github.io/audiojs/)
   * [Canvid.js](https://github.com/gka/canvid) :gift_heart: - tiny js library for playing video on canvas elements (without audio). [https://gka.github.io/canvid/](https://gka.github.io/canvid/)
   * [Clappr](https://github.com/clappr/clappr) :gift_heart: - An extensible media player for the web. [http://clappr.io/](http://clappr.io/)
   * [Flowplayer](https://github.com/flowplayer/flowplayer) :gift_heart: - The HTML5 video player for the web. [https://flowplayer.org/](https://flowplayer.org/)

@@ -1,5 +1,6 @@
 ### JS Guides
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
+* [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/) :gift_heart: - Learn about memory leaks in JavaScript and what can be done to solve it!
 * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart: - JavaScript Style Guide.
 * [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) :gift_heart: - A collection of awesome design systems.
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) :gift_heart: - Checklist of the most important security countermeasures when designing, testing, and releasing your API.
@@ -30,6 +31,7 @@
 * [Practical Node.js](https://github.com/azat-co/practicalnode) :gift_heart: - Practical Node.js, 1st and 2nd Editions [Apress]. [http://practicalnodebook.com](http://practicalnodebook.com)
 * [Project Guidelines](https://github.com/wearehive/project-guidelines) :gift_heart: - A set of best practices for JavaScript projects.
 * [Solid](https://github.com/solid/solid) :gift_heart: - Re-decentralizing the web.
+* [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536) :gift_heart: - Taking that first step to understanding Functional Programming concepts is the most important and sometimes the most difficult step. But it doesn’t have to be. Not with the right perspective.
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) :gift_heart: -  A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
 * [Superhero.js](https://github.com/superherojs/superherojs) :gift_heart: - Creating, testing and maintaining a large JavaScript code base is not easy — especially since great resources on how to do this are hard to find. This page is a collection of the best articles, videos and presentations we've found on the topic. [http://superherojs.com/](http://superherojs.com/)
 * [The JavaScript Behind Touch-Friendly Sliders](https://css-tricks.com/the-javascript-behind-touch-friendly-sliders/) :gift_heart:

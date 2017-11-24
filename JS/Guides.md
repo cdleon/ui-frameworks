@@ -8,6 +8,7 @@
 * [Code Conventions for the JavaScript](http://crockford.com/javascript/) :gift_heart:
 * [ES6](https://github.com/bevacqua/es6) :gift_heart: - ES6 Overview in 350 Bullet Points.
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) :gift_heart: - A collection of (mostly) technical things every software developer should know.
+* [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) :gift_heart: - The perfect Front-End Checklist for modern websites and meticulous developers [https://frontendchecklist.io](https://frontendchecklist.io)
 * [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path):gift_heart: - A learning path for Full-stack web development.
 * [Full Text Search in JavaScript](http://burakkanber.com/blog/machine-learning-full-text-search-in-javascript-relevance-scoring/) :gift_heart: - Full-text search, unlike most of the topics in this machine learning series, is a problem that most web developers have encountered at some point in their daily work.
 * [Getting started with Puppeteer and Chrome Headless for Web Scraping](https://github.com/emadehsan/thal) :gift_heart: - Getting started with Puppeteer and Chrome Headless for Web Scraping. [https://medium.com/@e_mad_ehsan/getting-started-with-puppeteer-and-chrome-headless-for-web-scrapping-6bf5979dee3e](https://medium.com/@e_mad_ehsan/getting-started-with-puppeteer-and-chrome-headless-for-web-scrapping-6bf5979dee3e)

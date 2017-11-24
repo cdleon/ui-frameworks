@@ -2,8 +2,10 @@
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
 * [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) :gift_heart: - A collection of awesome design systems.
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) :gift_heart: - Some useful websites for programmers.
+* [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) :gift_heart: - A collection of (mostly) technical things every software developer should know.
 * [Grab Front End Guide](https://github.com/grab/front-end-guide) :gift_heart: - Study guide and introduction to the modern front end stack.
 * [Khan Academy React Style Guide](https://github.com/Khan/style-guides/blob/master/style/react.md) :gift_heart: - In addition to these style rules, you may also be interested in React best practices.
+* [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) :gift_heart: - The perfect Front-End Checklist for modern websites and meticulous developers [https://frontendchecklist.io](https://frontendchecklist.io)
 * [Project Guidelines](https://github.com/wearehive/project-guidelines) :gift_heart: - A set of best practices for JavaScript projects.
 * [React-howto](https://github.com/petehunt/react-howto) :gift_heart: - Your guide to the (sometimes overwhelming!) React ecosystem.
 * [React Express](https://github.com/dabbott/react-express) :gift_heart: - The all-in-one beginner's guide to modern React application development! [http://www.react.express](http://www.react.express)

@@ -60,6 +60,7 @@
   * [Pikaday](https://github.com/dbushell/Pikaday) :gift_heart: - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS. [http://dbushell.github.io/Pikaday/](http://dbushell.github.io/Pikaday/)
   * [Rome](https://github.com/bevacqua/rome) :gift_heart: - Customizable date (and time) picker. Opt-in UI, no jQuery! [https://bevacqua.github.io/rome/](https://bevacqua.github.io/rome/)
 - **Drag & Drop**
+  * [Draggable](https://github.com/Shopify/draggable) :gift_heart: - The JavaScript Drag & Drop library your grandparents warned you about. [https://shopify.github.io/draggable/](https://shopify.github.io/draggable/)
   * [Layout Grid](https://github.com/clippings/layout-grid) :gift_heart: - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile. [http://clippings.github.io/layout-grid/](http://clippings.github.io/layout-grid/)
   * [Dragula](https://github.com/bevacqua/dragula) :gift_heart: - Drag and drop so simple it hurts. [https://bevacqua.github.io/dragula/](https://bevacqua.github.io/dragula/)
   * [Grid](https://github.com/hootsuite/grid) :gift_heart: - Drag and drop library for two-dimensional, resizable and responsive lists. [http://hootsuite.github.io/grid/](http://hootsuite.github.io/grid/)

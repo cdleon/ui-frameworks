@@ -9,6 +9,7 @@
 * [Marty](https://github.com/martyjs/marty) :gift_heart: - A Javascript library for state management in React applications. [http://martyjs.org/](http://martyjs.org/)
 * [React Toolbox](https://github.com/react-toolbox/react-toolbox) :gift_heart: - A set of React components implementing Google's Material Design specification with the power of CSS Modules. [http://react-toolbox.com/#/](http://react-toolbox.com/#/)
 * [React-MDL](https://github.com/react-mdl/react-mdl) :gift_heart: - React Components for Material Design Lite. [https://react-mdl.github.io/react-mdl/)
+* [React Static](https://github.com/nozzle/react-static) :gift_heart: - A progressive static-site framework for React. [https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc](https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc)
 * [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) :gift_heart: - A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
 * [ReactXP](https://github.com/Microsoft/reactxp) :gift_heart: Library for cross-platform app development. [https://microsoft.github.io/reactxp](https://microsoft.github.io/reactxp/)
 * [Reapp](https://github.com/reapp/reapp) :gift_heart: - Reapp - next gen hybrid apps. [https://github.com/reapp/reapp](https://github.com/reapp/reapp)

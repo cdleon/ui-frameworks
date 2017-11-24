@@ -152,6 +152,7 @@
 - **Media Queries**
   * [Enquire.js](https://github.com/WickyNilliams/enquire.js) :gift_heart: - Enquire.js is a lightweight, pure javascript library (with no dependencies) for programmatically responding to media queries. [http://wicky.nillia.ms/enquire.js/](http://wicky.nillia.ms/enquire.js/)
 - **Media Players**
+  * [Audio.js](https://github.com/kolber/audiojs) :fidt_heart: - A cross-browser javascript wrapper for the html5 audio tag. [https://kolber.github.io/audiojs/](https://kolber.github.io/audiojs/)
   * [Canvid.js](https://github.com/gka/canvid) :gift_heart: - tiny js library for playing video on canvas elements (without audio). [https://gka.github.io/canvid/](https://gka.github.io/canvid/)
   * [Clappr](https://github.com/clappr/clappr) :gift_heart: - An extensible media player for the web. [http://clappr.io/](http://clappr.io/)
   * [Flowplayer](https://github.com/flowplayer/flowplayer) :gift_heart: - The HTML5 video player for the web. [https://flowplayer.org/](https://flowplayer.org/)
@@ -229,6 +230,7 @@
   * [GPU.js](https://github.com/gpujs/gpu.js) :gift_heart: - GPU Accelerated JavaScript. [http://gpu.rocks](http://gpu.rocks)
   * [Nanoid](https://github.com/ai/nanoid) :gift_heart: - A tiny (176 bytes), secure, URL-friendly, unique string ID generator for JavaScript. [https://github.com/ai/nanoid](https://github.com/ai/nanoid)
   * [The Gambler's Fallacy Dice](https://github.com/xori/gamblers-dice) :gift_heart: - A terrible idea, now real. [https://xori.github.io/gamblers-dice](https://xori.github.io/gamblers-dice)
+  * [Underscore.js](https://github.com/jashkenas/underscore) :gift_heart: - Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects. [http://underscorejs.org/](http://underscorejs.org/)
 - **Video**
   * [Vidage](https://github.com/dvLden/Vidage) :gift_heart: - Your solution to full-screen background video & image combined. [https://dvlden.github.io/Vidage/](https://dvlden.github.io/Vidage/)
 - **Window & Layout Managers**

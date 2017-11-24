@@ -11,3 +11,7 @@
   * [Snipt (tag:js)](https://snipt.net/public/tag/js/) :gift_heart: -  - The publishing platform for coders.
 - **Misc**
   * [Wtfjs](https://github.com/denysdovhan/wtfjs) :gift_heart: - A list of funny and tricky JavaScript examples. [http://bit.ly/wtfjavascript](http://bit.ly/wtfjavascript)
+- **Sliders**
+  * [Slider with Sliding Backgrounds](https://css-tricks.com/slider-with-sliding-backgrounds/) :gift_heart: - Slider with Sliding Backgrounds.
+- **Performance**
+  * [Detecting idle time in JavaScript elegantly](https://stackoverflow.com/questions/667555/detecting-idle-time-in-javascript-elegantly) :gift_heart: - Is it possible to detect "idle" time in JavaScript? [https://stackoverflow.com/questions/667555/detecting-idle-time-in-javascript-elegantly]https://stackoverflow.com/questions/667555/detecting-idle-time-in-javascript-elegantly)

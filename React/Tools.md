@@ -6,6 +6,7 @@
   * [StackBlitz ](https://github.com/stackblitz/core) :gift_heart: - Online VS Code IDE for Angular & React. [https://stackblitz.com](https://stackblitz.com)
 - **Generators**
   * [Gatsby](https://github.com/gatsbyjs/gatsby) :gift_heart: - Blazing fast static site generator for React. [https://www.gatsbyjs.org](https://www.gatsbyjs.org)
+  * [Sgvr](https://github.com/smooth-code/svgr) :gift_heart: - Transform SVG into React components. [https://github.com/smooth-code/svgr](https://github.com/smooth-code/svgr)
   * [TypeScript React Starter](https://github.com/Microsoft/TypeScript-React-Starter) :gift_heart: - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - **Integrations**
   * [react-ionize](https://github.com/mhink/react-ionize) :gift_heart: - A React renderer for building your entire Electron app. [https://github.com/mhink/ionize-example-app](https://github.com/mhink/ionize-example-app)

@@ -40,6 +40,8 @@
   * [D3-Shape](https://github.com/d3/d3-shape) :gift_heart: - Graphical primitives for visualization, such as lines and areas. [https://tonicdev.com/npm/d3-shape](https://tonicdev.com/npm/d3-shape)
   * [ECharts](https://github.com/ecomfe/echarts) :gift_heart: - Enterprise Charts. [http://echarts.baidu.com/](http://echarts.baidu.com/)
   * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart: - Draws simple SVG flow chart diagrams from textual representation of the diagram. [http://flowchart.js.org/](http://flowchart.js.org/)
+  * [Frappé Charts](https://github.com/frappe/charts) :gift_heart: -  Simple, responsive, modern SVG Charts with zero dependencies. [https://frappe.github.io/charts](https://frappe.github.io/charts)
+  * [G2](https://github.com/antvis/g2) :gift_heart: - G2 (The Grammar of Graphics). [https://antv.alipay.com/zh-cn/g2/3.x/index.html](https://antv.alipay.com/zh-cn/g2/3.x/index.html)
   * [graph-scroll.js](https://github.com/1wheel/graph-scroll) :gift_heart: - Simple scrolling events for d3 graphs. Based on stack. [https://github.com/1wheel/graph-scroll](https://github.com/1wheel/graph-scroll)
   * [Heatmap.js](https://github.com/pa7/heatmap.js) :gift_heart: - JavaScript Library for HTML5 canvas based heatmaps. [https://www.patrick-wied.at/static/heatmapjs/](https://www.patrick-wied.at/static/heatmapjs/)
   * [Highcharts](http://www.highcharts.com/) :rainbow: - Add interactive charts to your web site or web application. [http://www.highcharts.com/](http://www.highcharts.com/)
@@ -59,6 +61,9 @@
   * [Flatpickr](https://github.com/chmln/flatpickr) :gift_heart: - Lightweight, powerful datetimepicker. Zero dependencies. [https://chmln.github.io/flatpickr/](https://chmln.github.io/flatpickr/)
   * [Pikaday](https://github.com/dbushell/Pikaday) :gift_heart: - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS. [http://dbushell.github.io/Pikaday/](http://dbushell.github.io/Pikaday/)
   * [Rome](https://github.com/bevacqua/rome) :gift_heart: - Customizable date (and time) picker. Opt-in UI, no jQuery! [https://bevacqua.github.io/rome/](https://bevacqua.github.io/rome/)
+- **DateTime**
+  * [Luxon](https://github.com/moment/luxon) :gift_heart: - A library for working with dates and times in JS [https://moment.github.io/luxon](https://moment.github.io/luxon)
+  * [Moment.js](https://github.com/moment/moment) :gift_heart: - Parse, validate, manipulate, and display dates in javascript. [http://momentjs.com](http://momentjs.com)
 - **Drag & Drop**
   * [Draggable](https://github.com/Shopify/draggable) :gift_heart: - The JavaScript Drag & Drop library your grandparents warned you about. [https://shopify.github.io/draggable/](https://shopify.github.io/draggable/)
   * [Layout Grid](https://github.com/clippings/layout-grid) :gift_heart: - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile. [http://clippings.github.io/layout-grid/](http://clippings.github.io/layout-grid/)
@@ -191,6 +196,7 @@
   * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart: - Infinite list in javascript that scrolls in 60fps. [http://roeierez.github.io/infinite-list/examples/react/index.html](http://roeierez.github.io/infinite-list/examples/react/index.html)
   * [iScroll](https://github.com/cubiq/iscroll) :gift_heart: - Smooth scrolling for the web. [http://iscrolljs.com/](http://iscrolljs.com/)
   * [Parallax.js](https://github.com/wagerfield/parallax) :gift_heart: - Parallax Engine that reacts to the orientation of a smart device. [https://github.com/wagerfield/parallax](https://github.com/wagerfield/parallax)
+  * [Scrollama.js](https://github.com/russellgoldenberg/scrollama) : gift_heart: - Scrollytelling with IntersectionObserver. [https://russellgoldenberg.github.io/scrollama/basic/](https://russellgoldenberg.github.io/scrollama/basic/)
   * [Scrollerjs](https://github.com/forcedotcom/scrollerjs) :gift_heart: - A JavaScript library that helps you build performant UI components for the web. [http://scrollerjs.com/](http://scrollerjs.com/)
   * [ScrollMagic](https://github.com/janpaepke/ScrollMagic) :gift_heart: - The javascript library for magical scroll interactions. [http://scrollmagic.io/](http://scrollmagic.io/)
   * [Scroll Menu](https://github.com/s-yadav/ScrollMenu) :gift_heart: - A new interface to replace your old boring scrollbar. [http://ignitersworld.com/lab/scrollmenu/](http://ignitersworld.com/lab/scrollmenu/)

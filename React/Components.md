@@ -46,6 +46,8 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [Terminal in React](https://github.com/nitin42/terminal-in-react) :gift_heart: - A component that renders a terminal [http://terminal-in-react.surge.sh/](http://terminal-in-react.surge.sh/)
 - **Office & Documents**
   * [react-pdf](https://github.com/diegomura/react-pdf) :gift_heart: - Create PDF files using React.
+- **Utility**
+  * [react-fns](https://github.com/jaredpalmer/react-fns) :gift_heart: - Browser API's turned into declarative React components and HoC's. [https://npm.im/react-fns](https://npm.im/react-fns)
 - **VR**
   * [react-vr](https://github.com/facebook/react-vr) :gift_heart: - Create amazing 360 and VR content using React [https://facebook.github.io/react-vr](https://facebook.github.io/react-vr)
 - **WYSIWYG**

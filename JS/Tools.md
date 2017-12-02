@@ -17,6 +17,8 @@
   * [Mesh](https://github.com/chrispsn/mesh) :gift_heart: - Visualise data and edit JavaScript code using a spreadsheet interface. [http://chrispsn.com/try-mesh.html](http://chrispsn.com/try-mesh.html)
 - **Formatters**
   * [Prettier](https://github.com/prettier/prettier) :gift_heart: - Prettier is an opinionated code formatter. [https://prettier.io/](https://prettier.io/)
+- **Generators**
+  * [js2flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) :gift_heart: - A visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - **Linters**
   * [ESLint](https://github.com/eslint/eslint) :gift_heart: - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
   * [JSHint](https://github.com/jshint/jshint) :gift_heart: - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.

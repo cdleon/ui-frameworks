@@ -29,6 +29,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - [Spectre](https://github.com/picturepan2/spectre) :gift_heart: - A lightweight, responsive and modern CSS framework. [https://picturepan2.github.io/spectre/](https://picturepan2.github.io/spectre/)
 - [Topcoat](https://github.com/topcoat/topcoat) :gift_heart: - CSS for clean and fast web apps. [http://topcoat.io](http://topcoat.io)
 - [Tufte-css](https://github.com/edwardtufte/tufte-css) :gift_heart: - Style your webpage like Edward Tufte's handouts. [https://edwardtufte.github.io/tufte-css/](https://edwardtufte.github.io/tufte-css/)
+- [Tailwind.css](https://github.com/tailwindcss/tailwindcss) :gift_heart: - A utility-first CSS framework for rapid UI development. [https://tailwindcss.com/](https://tailwindcss.com/)
 - [Typebase.css](https://github.com/devinhunt/typebase.css) :gift_heart: - A starting point for good typography on the web. [http://devinhunt.github.io/typebase.css/](http://devinhunt.github.io/typebase.css/)
 - [UIKit](https://github.com/uikit/uikit) :gift_heart: - A lightweight and modular front-end framework for developing fast and powerful web interfaces. [http://getuikit.com](http://getuikit.com)
 - [USDS Web Design Standards](https://github.com/18F/web-design-standards) :gift_heart: Open source UI components and visual style guide for U.S. government websites. [https://standards.usa.gov](https://standards.usa.gov)

@@ -178,6 +178,8 @@
 - **Presentations**
   * [Reveal.js](https://github.com/hakimel/reveal.js) :gift_heart: - The HTML Presentation Framework [http://lab.hakim.se/reveal-js](http://lab.hakim.se/reveal-js/)
   * [Reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins) :gift_heart: - Plugins for reveal.js. [https://github.com/rajgoel/reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins)
+- **Printing**
+  * [Print.js](https://github.com/crabbly/Print.js/) :gift_heart: - A tiny javascript library to help printing from the web. [http://printjs.crabbly.com/](http://printjs.crabbly.com/)
 - **Pointers & Tooltips**
   * [Focusable](https://github.com/zzarcon/focusable) :gift_heart: - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page. [http://zzarcon.github.io/focusable/](http://zzarcon.github.io/focusable/)
   * [Opentip](https://github.com/enyo/opentip) :gift_heart: - Opentip is an open source javascript tooltip based on the protoype framework. [http://www.opentip.org/](http://www.opentip.org/)

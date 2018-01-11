@@ -22,7 +22,7 @@ Please read manifest to contribute :)
 * [HTML](#html)
 * [Icons](#icons)
 * [jQuery](#jquery)
-* [JS (No dependencies)](#js)
+* [JS](#js)
 * [React](#react)
 * [Vue](#vue)
 
@@ -72,11 +72,11 @@ Please read manifest to contribute :)
 * [Snippets](https://github.com/cdleon/awesome-front-end/blob/master/jQuery/Snippets.md)
 * [Tools](https://github.com/cdleon/awesome-front-end/blob/master/jQuery/Tools.md)
 
-##### <a id="js"></a>JS (No dependencies)
+##### <a id="js"></a>JS
 * [Frameworks](https://github.com/cdleon/awesome-front-end/blob/master/JS/Frameworks.md)
 * [Guides](https://github.com/cdleon/awesome-front-end/blob/master/JS/Guides.md)
-* [Plugins](https://github.com/cdleon/awesome-front-end/blob/master/JS/Plugins.md)
-* [Snippets ](https://github.com/cdleon/awesome-front-end/blob/master/JS/Snippets.md)
+* [Plugins (No dependencies)](https://github.com/cdleon/awesome-front-end/blob/master/JS/Plugins.md)
+* [Snippets (No dependencies)](https://github.com/cdleon/awesome-front-end/blob/master/JS/Snippets.md)
 * [Tools](https://github.com/cdleon/awesome-front-end/blob/master/JS/Tools.md)
 
 ##### <a id="react"></a>React

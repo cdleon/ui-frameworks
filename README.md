@@ -79,7 +79,7 @@ Please read manifest to contribute :)
 * [Snippets ](https://github.com/cdleon/awesome-front-end/blob/master/JS/Snippets.md)
 * [Tools](https://github.com/cdleon/awesome-front-end/blob/master/JS/Tools.md)
 
-##### <img src="https://www.shareicon.net/data/512x512/2016/07/08/117367_logo_512x512.png" width="50" /><a id="react"></a>React
+##### <a id="react"></a>React
 * [Components](https://github.com/cdleon/awesome-front-end/blob/master/React/Components.md)
 * [Frameworks](https://github.com/cdleon/awesome-front-end/blob/master/React/Frameworks.md)
 * [Guides](https://github.com/cdleon/awesome-front-end/blob/master/React/Guides.md)

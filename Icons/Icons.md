@@ -15,6 +15,7 @@
   * [Ionicons](https://github.com/driftyco/ionicons) :gift_heart: - The premium icon font for Ionic. [http://ionicons.com/](http://ionicons.com/)
   * [IcoMoon](https://icomoon.io/) :gift_heart: - Custom built and crisp icon fonts. [https://icomoon.io/](https://icomoon.io/)
   * [IconFinder](https://www.iconfinder.com/) :rainbow: - Search through 644,909 icons or browse 11,838 icon sets. [https://www.iconfinder.com/](https://www.iconfinder.com/)
+  * [Map Icons](https://github.com/scottdejonge/map-icons) :gift_heart: - An icon font for use with Google Maps API and Google Places API using SVG markers and icon labels [http://map-icons.com/](http://map-icons.com/)
   * [Material Design icons](https://github.com/Templarian/MaterialDesign) :gift_heart: - Design resources for Material Design. [https://materialdesignicons.com/](https://materialdesignicons.com/)
   * [Materialize Icons](http://materializecss.com/icons.html) :gift_heart: - We have included 740 Material Design Icons courtesy of Google. [http://materializecss.com/icons.html](http://materializecss.com/icons.html)
   * [MFG Labs](https://github.com/MfgLabs/mfglabs-iconset) :gift_heart: - Awesome web font icon by MFG Labs. [http://mfglabs.github.io/mfglabs-iconset/](http://mfglabs.github.io/mfglabs-iconset/)

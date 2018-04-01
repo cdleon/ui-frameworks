@@ -6,12 +6,12 @@
 - [cube-ui](https://github.com/didi/cube-ui) :gift_heart: - A fantastic mobile ui lib implement by Vue. [https://didi.github.io/cube-ui/](https://didi.github.io/cube-ui/)
 - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web. [http://element.eleme.io/](http://element.eleme.io/)
 - [fish-ui](https://github.com/myliang/fish-ui) - A Vue.js 2.0 UI Toolkit for Web. [https://myliang.github.io/fish-ui/#/components/index](https://myliang.github.io/fish-ui/#/components/index)
-- [iview-ui](https://www.iviewui.com) - A Vue.js 2.0 UI Framework for web.
+- [iview-ui](https://github.com/iview/iview) - A Vue.js 2.0 UI Framework for web. [https://www.iviewui.com](https://www.iviewui.com)
 - [material-components-vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js. [https://matsp.github.io/material-components-vue/#/](https://matsp.github.io/material-components-vue/#/)
 - [muse-ui](https://github.com/museui/muse-ui) :gift_heart: - Material Design UI library for Vuejs 2.0. [https://museui.github.io](https://museui.github.io)
 - [PrimeVue](https://github.com/primefaces/primevue) - A Vue.js 2.0 UI Component library for Web. [https://github.com/primefaces/primevue](https://github.com/primefaces/primevue)
 - [quasar-framework](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps (that look native on Android and iOS) and Electron apps using same code, with VueJs 2. [http://quasar-framework.org/](http://quasar-framework.org/)
-- [v-semantic](https://www.npmjs.com/package/v-semantic) - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue
+- [v-semantic](https://github.com/eddow/v-semantic) - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue. [https://rawgit.com/eddow/v-semantic/master/test/run/index.html](https://rawgit.com/eddow/v-semantic/master/test/run/index.html)
 - [vue-bulma-components](https://github.com/vouill/vue-bulma-components) - Easily use bulma class syntax with vue components.
 - [vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js.
 - [vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) - Material Components integration for Vue.js as per MDC Team's [guidelines](https://github.com/material-components/material-components-web/blob/master/docs/integrating-into-frameworks.md).

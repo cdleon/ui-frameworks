@@ -1,21 +1,21 @@
 ### Vue Frameworks
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
-- [at-ui](https://github.com/at-ui/at-ui) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0. [https://at.aotu.io](https://at.aotu.io)
-- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - Implementation of [bootstrap-4](https://getbootstrap.com/) grid and components for Vue.js 2. [https://bootstrap-vue.js.org/](https://bootstrap-vue.js.org/)
-- [buefy](https://github.com/buefy/buefy) - Components based on Bulma framework. [https://buefy.github.io/](https://buefy.github.io/)
+- [at-ui](https://github.com/at-ui/at-ui)) :gift_heart: - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0. [https://at.aotu.io](https://at.aotu.io)
+- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)) :gift_heart: - Implementation of [bootstrap-4](https://getbootstrap.com/) grid and components for Vue.js 2. [https://bootstrap-vue.js.org/](https://bootstrap-vue.js.org/)
+- [buefy](https://github.com/buefy/buefy) :gift_heart: - Components based on Bulma framework. [https://buefy.github.io/](https://buefy.github.io/)
 - [cube-ui](https://github.com/didi/cube-ui) :gift_heart: - A fantastic mobile ui lib implement by Vue. [https://didi.github.io/cube-ui/](https://didi.github.io/cube-ui/)
-- [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web. [http://element.eleme.io/](http://element.eleme.io/)
-- [fish-ui](https://github.com/myliang/fish-ui) - A Vue.js 2.0 UI Toolkit for Web. [https://myliang.github.io/fish-ui/#/components/index](https://myliang.github.io/fish-ui/#/components/index)
-- [iview-ui](https://github.com/iview/iview) - A Vue.js 2.0 UI Framework for web. [https://www.iviewui.com](https://www.iviewui.com)
-- [material-components-vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js. [https://matsp.github.io/material-components-vue/#/](https://matsp.github.io/material-components-vue/#/)
+- [element-ui](https://github.com/ElemeFE/element) :gift_heart: - A Vue.js 2.0 UI Toolkit for Web. [http://element.eleme.io/](http://element.eleme.io/)
+- [fish-ui](https://github.com/myliang/fish-ui) :gift_heart: - A Vue.js 2.0 UI Toolkit for Web. [https://myliang.github.io/fish-ui/#/components/index](https://myliang.github.io/fish-ui/#/components/index)
+- [iview-ui](https://github.com/iview/iview) :gift_heart: - A Vue.js 2.0 UI Framework for web. [https://www.iviewui.com](https://www.iviewui.com)
+- [material-components-vue](https://github.com/matsp/material-components-vue) :gift_heart: - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js. [https://matsp.github.io/material-components-vue/#/](https://matsp.github.io/material-components-vue/#/)
 - [muse-ui](https://github.com/museui/muse-ui) :gift_heart: - Material Design UI library for Vuejs 2.0. [https://museui.github.io](https://museui.github.io)
-- [PrimeVue](https://github.com/primefaces/primevue) - A Vue.js 2.0 UI Component library for Web. [https://github.com/primefaces/primevue](https://github.com/primefaces/primevue)
-- [quasar-framework](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps (that look native on Android and iOS) and Electron apps using same code, with VueJs 2. [http://quasar-framework.org/](http://quasar-framework.org/)
-- [v-semantic](https://github.com/eddow/v-semantic) - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue. [https://rawgit.com/eddow/v-semantic/master/test/run/index.html](https://rawgit.com/eddow/v-semantic/master/test/run/index.html)
-- [vue-bulma-components](https://github.com/vouill/vue-bulma-components) - Easily use bulma class syntax with vue components.
-- [vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js.
-- [vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) - Material Components integration for Vue.js as per MDC Team's [guidelines](https://github.com/material-components/material-components-web/blob/master/docs/integrating-into-frameworks.md).
-- [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
+- [PrimeVue](https://github.com/primefaces/primevue) :gift_heart: - A Vue.js 2.0 UI Component library for Web. [https://github.com/primefaces/primevue](https://github.com/primefaces/primevue)
+- [quasar-framework](https://github.com/quasarframework/quasar) :gift_heart: - Quasar Framework. Build responsive websites, hybrid mobile Apps (that look native on Android and iOS) and Electron apps using same code, with VueJs 2. [http://quasar-framework.org/](http://quasar-framework.org/)
+- [v-semantic](https://github.com/eddow/v-semantic) :gift_heart: - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue. [https://rawgit.com/eddow/v-semantic/master/test/run/index.html](https://rawgit.com/eddow/v-semantic/master/test/run/index.html)
+- [vue-bulma-components](https://github.com/vouill/vue-bulma-components) :gift_heart: - Easily use bulma class syntax with vue components.
+- [vue-material](https://github.com/vuematerial/vue-material) :gift_heart: - Material design for Vue.js.
+- [vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) :gift_heart: - Material Components integration for Vue.js as per MDC Team's [guidelines](https://github.com/material-components/material-components-web/blob/master/docs/integrating-into-frameworks.md).
+- [vuesax](https://github.com/lusaxweb/vuesax) :gift_heart: - Frontend vue Components for Vue.js.
 - [vuetify](https://github.com/vuetifyjs/vuetify) :gift_heart: - Material Component Framework for Vue.js 2 [https://vuetifyjs.com](https://vuetifyjs.com)
-- [vulma](https://vulma.org) - Vue + Bulma = Vulma.
-- [Zircle UI](https://zircleui.github.io/zircleUI/) - A lightweight front-end library for developing zoomable user interfaces.
+- [vulma](https://vulma.org) :gift_heart: - Vue + Bulma = Vulma.
+- [Zircle UI](https://zircleui.github.io/zircleUI/) :gift_heart: - A lightweight front-end library for developing zoomable user interfaces.

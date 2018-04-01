@@ -12,8 +12,8 @@
 - [PrimeVue](https://github.com/primefaces/primevue) :gift_heart: - A Vue.js 2.0 UI Component library for Web. [https://github.com/primefaces/primevue](https://github.com/primefaces/primevue)
 - [quasar-framework](https://github.com/quasarframework/quasar) :gift_heart: - Quasar Framework. Build responsive websites, hybrid mobile Apps (that look native on Android and iOS) and Electron apps using same code, with VueJs 2. [http://quasar-framework.org/](http://quasar-framework.org/)
 - [v-semantic](https://github.com/eddow/v-semantic) :gift_heart: - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue. [https://rawgit.com/eddow/v-semantic/master/test/run/index.html](https://rawgit.com/eddow/v-semantic/master/test/run/index.html)
-- [vue-bulma-components](https://github.com/vouill/vue-bulma-components) :gift_heart: - Easily use bulma class syntax with vue components.
-- [vue-material](https://github.com/vuematerial/vue-material) :gift_heart: - Material design for Vue.js.
+- [vue-bulma-components](https://github.com/vouill/vue-bulma-components) :gift_heart: - Easily use bulma class syntax with vue components. [https://teller-multisystems-48055.netlify.com/#/grid](https://teller-multisystems-48055.netlify.com/#/grid)
+- [vue-material](https://github.com/vuematerial/vue-material) :gift_heart: - Material design for Vue.js. [https://vuematerial.io/](https://vuematerial.io/)
 - [vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) :gift_heart: - Material Components integration for Vue.js as per MDC Team's [guidelines](https://github.com/material-components/material-components-web/blob/master/docs/integrating-into-frameworks.md).
 - [vuesax](https://github.com/lusaxweb/vuesax) :gift_heart: - Frontend vue Components for Vue.js.
 - [vuetify](https://github.com/vuetifyjs/vuetify) :gift_heart: - Material Component Framework for Vue.js 2 [https://vuetifyjs.com](https://vuetifyjs.com)

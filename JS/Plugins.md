@@ -17,6 +17,7 @@
 - **Calendar**
   * [FullCalendar](https://github.com/fullcalendar/fullcalendar) :gift_heart: - Full-sized drag & drop event calendar. [https://fullcalendar.io/](https://fullcalendar.io/)
   * [FullCalendar Scheduler](https://github.com/fullcalendar/fullcalendar-scheduler) :gift_heart: - FullCalendar add-on for displaying events and resources. [https://fullcalendar.io/scheduler/](https://fullcalendar.io/scheduler/)
+  * [Toast.ui Calendar](https://github.com/nhnent/tui.calendar) :gift_heart: - A JavaScript calendar that everything you need. [http://ui.toast.com/tui-calendar](http://ui.toast.com/tui-calendar)
 - **Caching & Offline First**
   * [UpUp](https://github.com/TalAter/UpUp/) :gift_heart: - UpUp is a tiny javascript library that makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea. [https://www.talater.com/upup/](https://www.talater.com/upup/)
 - **Chat & Messaging**
@@ -62,6 +63,7 @@
   * [Pikaday](https://github.com/dbushell/Pikaday) :gift_heart: - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS. [http://dbushell.github.io/Pikaday/](http://dbushell.github.io/Pikaday/)
   * [Rome](https://github.com/bevacqua/rome) :gift_heart: - Customizable date (and time) picker. Opt-in UI, no jQuery! [https://bevacqua.github.io/rome/](https://bevacqua.github.io/rome/)
 - **DateTime**
+  * [Day.js](https://github.com/xx45/dayjs) :gift_heart: - Fast 2KB immutable date library alternative to Moment.js with the same modern API. [https://github.com/xx45/dayjs](https://github.com/xx45/dayjs)
   * [Luxon](https://github.com/moment/luxon) :gift_heart: - A library for working with dates and times in JS [https://moment.github.io/luxon](https://moment.github.io/luxon)
   * [Moment.js](https://github.com/moment/moment) :gift_heart: - Parse, validate, manipulate, and display dates in javascript. [http://momentjs.com](http://momentjs.com)
 - **Drag & Drop**
@@ -114,6 +116,7 @@
   * [Wilderness](https://github.com/colinmeinke/wilderness) :gift_heart: - An SVG animation API [https://wilderness.now.sh](https://wilderness.now.sh)
 - **Grid**
   * [Bricks.js](https://github.com/callmecavs/bricks.js) :gift_heat: - A blazing fast masonry layout generator for fixed width elements. [http://callmecavs.com/bricks.js/](http://callmecavs.com/bricks.js/)
+  * [https://github.com/haltu/muuri](https://github.com/haltu/muuri) :gift_heart: - Responsive, sortable, filterable and draggable grid layouts [http://haltu.github.io/muuri/](http://haltu.github.io/muuri/)
   * [Layout Grid](https://github.com/clippings/layout-grid) :gift_heart: - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile. [http://clippings.github.io/layout-grid/](http://clippings.github.io/layout-grid/)
   * [Right Height](https://github.com/cferdinandi/right-height) :gift_heart: - Dynamically set content areas of different lengths to the same height. [http://cferdinandi.github.io/right-height/](http://cferdinandi.github.io/right-height/)
 - **HTTP Clients**
@@ -252,5 +255,6 @@
   * [Quill](https://github.com/quilljs/quill/) :gift_heart: - A cross browser rich text editor with an API. [http://quilljs.com/](http://quilljs.com/)
   * [Squire](https://github.com/neilj/Squire) :gift_heart: - HTML5 rich text editor. [http://neilj.github.io/Squire/](http://neilj.github.io/Squire/)
   * [TinyMCE](https://www.tinymce.com/) :gift_heart: & :moneybag: - inyMCE is a platform independent web-based JavaScript WYSIWYG HTML editor control released as open source under LGPL. [https://www.tinymce.com/](https://www.tinymce.com/)
+  * [Toast.ui Editor](https://github.com/nhnent/tui.editor) :gift_heart: - Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible. [http://ui.toast.com/tui-editor](http://ui.toast.com/tui-editor)
   * [Trix](https://github.com/basecamp/trix) :gift_heart: - A Rich Text Editor for Everyday Writing. [https://trix-editor.org/](https://trix-editor.org/)
   * [Wysihtml](https://github.com/Voog/wysihtml) :gift_heart: - Open source rich text editor for the modern web. [http://wysihtml.com/](http://wysihtml.com/)

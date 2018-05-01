@@ -243,6 +243,8 @@
   * [Nanoid](https://github.com/ai/nanoid) :gift_heart: - A tiny (176 bytes), secure, URL-friendly, unique string ID generator for JavaScript. [https://github.com/ai/nanoid](https://github.com/ai/nanoid)
   * [The Gambler's Fallacy Dice](https://github.com/xori/gamblers-dice) :gift_heart: - A terrible idea, now real. [https://xori.github.io/gamblers-dice](https://xori.github.io/gamblers-dice)
   * [Underscore.js](https://github.com/jashkenas/underscore) :gift_heart: - Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects. [http://underscorejs.org/](http://underscorejs.org/)
+- **Validation**
+  * [Superstruc](https://github.com/ianstormtaylor/superstruc) :gift_heart: -  Simple and composable way to validate data in Javascript. [https://github.com/ianstormtaylor/superstruct#demo](https://github.com/ianstormtaylor/superstruct#demo)
 - **Video**
   * [Vidage](https://github.com/dvLden/Vidage) :gift_heart: - Your solution to full-screen background video & image combined. [https://dvlden.github.io/Vidage/](https://dvlden.github.io/Vidage/)
 - **Window & Layout Managers**

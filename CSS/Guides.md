@@ -4,6 +4,7 @@
 * [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) :gift_heart: - A collection of awesome design systems.
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) :gift_heart: - Some useful websites for programmers.
 * [CSS Guidelines](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - High-level advice and guidelines for writing sane, manageable, scalable CSS.
+* [CSS Protips](https://github.com/AllThingsSmitty/css-protips) :gift_heart: - A collection of tips to help take your CSS skills pro. [https://github.com/AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) :gift_heart: - A collection of (mostly) technical things every software developer should know.
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) :gift_heart: - The perfect Front-End Checklist for modern websites and meticulous developers [https://frontendchecklist.io](https://frontendchecklist.io)
 * [Grab Front End Guide](https://github.com/grab/front-end-guide) :gift_heart: - Study guide and introduction to the modern front end stack.

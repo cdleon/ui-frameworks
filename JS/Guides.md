@@ -1,5 +1,6 @@
 ### JS Guides
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
+* [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) :gift_heart: - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less. [https://30secondsofcode.org/](https://30secondsofcode.org/)
 * [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/) :gift_heart: - Learn about memory leaks in JavaScript and what can be done to solve it!
 * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) :gift_heart: - JavaScript Style Guide.
 * [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) :gift_heart: - A collection of awesome design systems.

@@ -135,6 +135,7 @@
   * [Aviary](https://developers.aviary.com/) :gift_heart: - A complete set of photo editing tools comes standard in Aviary’s cross-platform SDK. Select the tools that are best for your app, or use them all. [https://developers.aviary.com/](https://developers.aviary.com/)
   * [Image Crop Component](http://dev.vizuina.com/cropper/) :gift_heart: - Pure JavaScript Image Crop Component. [http://dev.vizuina.com/cropper/](http://dev.vizuina.com/cropper/)
   * [Nude.js (nudity-detection)](https://github.com/pa7/nude.js) :gift_heart: - Nudity detection with JavaScript and HTMLCanvas. [https://www.patrick-wied.at/static/nudejs/](https://www.patrick-wied.at/static/nudejs/)
+  * [JS Paint](https://github.com/1j01/jspaint) :gift_heart: - Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras [http://1j01.github.io/jspaint/](http://1j01.github.io/jspaint/)
   * [Smartcrop.js](https://github.com/jwagner/smartcrop.js) :gift_heart: - Smartcrop.js implements an algorithm to find good crops for images. [https://29a.ch/2014/04/03/smartcrop-content-aware-image-cropping](https://29a.ch/2014/04/03/smartcrop-content-aware-image-cropping)
   * [SVG Edit](https://github.com/SVG-Edit/svgedit) :gift_heart: - Powerful SVG-Editor on your browser. [https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html)
   * [Watermark.js](https://github.com/brianium/watermarkjs) :gift_heart: - Watermarking for the browser. [http://brianium.github.io/watermarkjs/](http://brianium.github.io/watermarkjs/)

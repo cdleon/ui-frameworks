@@ -35,6 +35,7 @@
   * [Bundle Buddy](https://github.com/samccone/bundle-buddy) :gift_heart: - A tool to identify bundle duplication across splits.
   * [Bundlesize](https://github.com/siddharthkp/bundlesize) :gift_heart: - Keep your bundle size in check.
   * [Jarvis](https://github.com/zouhir/jarvis) :gift_heart: - A very intelligent browser based Webpack dashboard. [https://github.com/zouhir/jarvis](https://github.com/zouhir/jarvis)
+  * [Parcel](https://github.com/parcel-bundler/parcel) :gift_heart: - Blazing fast, zero configuration web application bundler. [https://parceljs.org](https://parceljs.org)
   * [Prepack](https://github.com/facebook/prepack) :gift_heart: - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently. [https://prepack.io](https://prepack.io)
   * [require.js](https://github.com/requirejs/requirejs) :gift_heart: - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
   * [Webpack](https://github.com/webpack/webpack) :gift_heart: - Webpack is a bundler for modules. The main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.

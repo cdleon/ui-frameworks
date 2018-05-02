@@ -8,6 +8,7 @@
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) :gift_heart: - Some useful websites for programmers.
 * [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) :gift_heart: - Clean Code concepts adapted for JavaScript.
 * [Code Conventions for the JavaScript](http://crockford.com/javascript/) :gift_heart:
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university) :gift_heart: - A complete computer science study plan to become a software engineer.
 * [Controlling CSS Animations and Transitions with JavaScript](https://css-tricks.com/controlling-css-animations-transitions-javascript/) :gift_heart:
 * [ES6](https://github.com/bevacqua/es6) :gift_heart: - ES6 Overview in 350 Bullet Points.
 * [ES6 In Depth](https://hacks.mozilla.org/category/es6-in-depth/) :gift_ehart: - ES6 In Depth is a series on new features being added to the JavaScript programming language in the 6th Edition of the ECMAScript standard, ES6 for short.
@@ -28,9 +29,10 @@
 * [jQuery JavaScript Style Guide](http://contribute.jquery.org/style-guide/js/s) :gift_heart: - jQuery Foundation JS style guide.
 * [Khan ACademy JS Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md) :gift_heart: - This guide is adapted from the jQuery style guide.
 * [How JavaScript works: memory management](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec) :gift_heart: - Memory management + how to handle 4 common memory leaks
-* [Making AJAX applications crawlable](https://developers.google.com/webmasters/ajax-crawling/docs/learn-more?csw=1) :gift_heart: - If you're running an AJAX application with content that you'd like to appear in search results, we have a new process that, when implemented, can help Google (and potentially other search engines) crawl and index your content. 
+* [Making AJAX applications crawlable](https://developers.google.com/webmasters/ajax-crawling/docs/learn-more?csw=1) :gift_heart: - If you're running an AJAX application with content that you'd like to appear in search results, we have a new process that, when implemented, can help Google (and potentially other search engines) crawl and index your content.
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) :gift_heart: - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 * [Must-Know URL Hash Techniques for AJAX Applications](http://blog.mgm-tp.com/2011/10/must-know-url-hashtechniques-for-ajax-applications/) :gift_heart: - By coding the page state into the URL, even single-page web applications can support deep bookmarks and the browser’s back button.
+* [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript) :gift_heart: - A useful list of must-watch talks about JavaScript.
 * [Practical Node.js](https://github.com/azat-co/practicalnode) :gift_heart: - Practical Node.js, 1st and 2nd Editions [Apress]. [http://practicalnodebook.com](http://practicalnodebook.com)
 * [Project Guidelines](https://github.com/wearehive/project-guidelines) :gift_heart: - A set of best practices for JavaScript projects.
 * [Solid](https://github.com/solid/solid) :gift_heart: - Re-decentralizing the web.
@@ -43,3 +45,4 @@
 * [Overview of JavaScript ES6 features (a.k.a ECMAScript 6 and ES2015+)](http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/#.WA4G-3dZebs.hackernews) :gift_heart: - JavaScript has changed quite a bit in the last years. These are 12 new features that you can start using today!
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :gift_heart: - A book series on JavaScript.
 * [W3C ALL STANDARDS AND DRAFTS](https://www.w3.org/TR/) :gift_heart:
+* [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap) :gift_heart: - Roadmap to becoming a web developer in 2018.

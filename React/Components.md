@@ -32,8 +32,11 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components. [https://github.com/Flipboard/react-canvas](https://github.com/Flipboard/react-canvas)
   * [react-flight](https://github.com/jondot/react-flight) :gift_heart: - The best way to build animation compositions for React. [http://www.react-flight.io](http://www.react-flight.io)
   * [react-move](https://github.com/react-tools/react-move) :gift_heart: - Beautiful, data-driven animations for React [https://react-move.js.org](https://react-move.js.org)
+  * [react-spring](https://github.com/drcmda/react-spring) :gift_heart: - Helping react-motion and animated to become best friends [http://react-spring.surge.sh/](http://react-spring.surge.sh/)
 - **Image Processing**
   * [react-imgpro](https://github.com/nitin42/react-imgpro) :gift_heart: - Image Processing Component for React. [https://camo.githubusercontent.com/f7b399fa47ba82ce6ec817428c0f7b9048cb6480/687474703a2f2f672e7265636f726469742e636f2f586d68546950383454442e676966](https://camo.githubusercontent.com/f7b399fa47ba82ce6ec817428c0f7b9048cb6480/687474703a2f2f672e7265636f726469742e636f2f586d68546950383454442e676966)
+- **Libraries**
+  * [rsuite](https://github.com/rsuite/rsuite) :gift_heart - A suite of React components. [https://rsuitejs.com]](https://rsuitejs.com)
 - **Loading Bars**
   * [react-progressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart: - Responsive and slick progress bars for React. [http://kimmobrunfeldt.github.io/progressbar.js/](http://kimmobrunfeldt.github.io/progressbar.js/)
 - **Maps**

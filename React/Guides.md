@@ -13,6 +13,7 @@
 * [React Express](https://github.com/dabbott/react-express) :gift_heart: - The all-in-one beginner's guide to modern React application development! [http://www.react.express](http://www.react.express)
 * [React Fundamentals](https://github.com/ReactjsProgram/React-Fundamentals) :gift_heart: - Code for "React Fundamentals" videos. [http://www.reactjsprogram.com/](http://www.reactjsprogram.com/)
 * [react-redux-cheatsheet](https://github.com/uanders/react-redux-cheatsheet) :gift_heart: -  React Redux Cheat Sheet on Workflow & Concept.
+* [React in patterns](https://github.com/krasimir/react-in-patterns) :gift_heart: - A free book that talks about design patterns/techniques used while developing with React. [https://legacy.gitbook.com/book/krasimir/react-in-patterns/details](https://legacy.gitbook.com/book/krasimir/react-in-patterns/details)
 * [RealWorld Example Apps](https://github.com/gothinkster/realworld) :gif_heart: - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more. [https://realworld.io](https://realworld.io/)
 * [Solid](https://github.com/solid/solid) :gift_heart: - Re-decentralizing the web.
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) :gift_heart: -  A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.

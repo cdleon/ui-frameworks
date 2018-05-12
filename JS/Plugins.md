@@ -22,9 +22,14 @@
   * [UpUp](https://github.com/TalAter/UpUp/) :gift_heart: - UpUp is a tiny javascript library that makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea. [https://www.talater.com/upup/](https://www.talater.com/upup/)
 - **Chat & Messaging**
   * [Lets-chat](https://github.com/sdelements/lets-chat) :gift_heart: - Self-hosted chat app for small teams. [http://sdelements.github.io/lets-chat/](http://sdelements.github.io/lets-chat/)
+- **Colors**
+  * [CSS Colorguard](https://github.com/SlexAxton/css-colorguard) :gift_heart: - Keep a watchful eye on your css colors. [https://github.com/SlexAxton/css-colorguard](https://github.com/SlexAxton/css-colorguard)
+- **Computer Vision**
+  * [Tracking.js](https://github.com/eduardolundgren/tracking.js) :gift_heart: - A modern approach for Computer Vision on the web. [https://trackingjs.com/](https://trackingjs.com/)
 - **Cut & Paste**
   * [Clipboard.js](https://github.com/zenorocha/clipboard.js) :gift_heart: - Modern copy to clipboard. No Flash. Just 2kb. [https://clipboardjs.com/](https://clipboardjs.com/)
-- **Databases**
+- **Databases & Persistent layers**
+  * [Basil.js](https://github.com/Wisembly/basil.js) :gift_heart: - The missing Javascript smart persistent layer. [http://wisembly.github.io/basil.js/](http://wisembly.github.io/basil.js/)
   * [Franchise](https://github.com/HVF/franchise) :gift_heart: - A notebook sql client. what you get when have a lot of sequels. [https://franchise.cloud](https://franchise.cloud)
   * [Gun](https://github.com/amark/gun) :gift_heart: - A realtime, decentralized, offline-first, graph database engine. [http://gun.js.org/](http://gun.js.org/)
   * [Lovefield (browser-database)](https://github.com/google/lovefield) :gift_heart: - Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use. [https://google.github.io/lovefield/](https://google.github.io/lovefield/)
@@ -39,7 +44,7 @@
   * [D3](https://github.com/d3/d3) :gift_heart: - A JavaScript visualization library for HTML and SVG. [https://d3js.org/](https://d3js.org/)
   * [D3.Compose](https://github.com/CSNW/d3.compose) :gift_heart: - Compose complex, data-driven visualizations from reusable charts and components with d3. [http://csnw.github.io/d3.compose/](http://csnw.github.io/d3.compose/)
   * [D3-Shape](https://github.com/d3/d3-shape) :gift_heart: - Graphical primitives for visualization, such as lines and areas. [https://tonicdev.com/npm/d3-shape](https://tonicdev.com/npm/d3-shape)
-  * [ECharts](https://github.com/ecomfe/echarts) :gift_heart: - Enterprise Charts. [http://echarts.baidu.com/](http://echarts.baidu.com/)
+  * [ECharts](https://github.com/apache/incubator-echarts) :gift_heart: - A powerful, interactive charting and visualization library for browser. [http://echarts.baidu.com/](http://echarts.baidu.com/)
   * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart: - Draws simple SVG flow chart diagrams from textual representation of the diagram. [http://flowchart.js.org/](http://flowchart.js.org/)
   * [Frappé Charts](https://github.com/frappe/charts) :gift_heart: -  Simple, responsive, modern SVG Charts with zero dependencies. [https://frappe.github.io/charts](https://frappe.github.io/charts)
   * [G2](https://github.com/antvis/g2) :gift_heart: - G2 (The Grammar of Graphics). [https://antv.alipay.com/zh-cn/g2/3.x/index.html](https://antv.alipay.com/zh-cn/g2/3.x/index.html)
@@ -55,7 +60,7 @@
   * [Sigma.js](https://github.com/jacomyal/sigma.js) :gift_heart: - Sigma is a JavaScript library dedicated to graph drawing. [http://sigmajs.org/](http://sigmajs.org/)
   * [Taucharts](https://github.com/TargetProcess/tauCharts) :gift_heart: - D3 based data-focused charting library. Designed with passion. Flexible. [https://www.taucharts.com/](https://www.taucharts.com/)
   * [Timesheets.js](https://github.com/sbstjn/timesheet.js) :gift_heart: - JavaScript library for HTML5 & CSS3 time sheets. [https://sbstjn.com/timesheet.js/](https://sbstjn.com/timesheet.js/)
-  * [Vis](https://github.com/almende/vis) :gift_heart: - Dynamic, browser-based visualization library. [http://visjs.org/](http://visjs.org/)
+  * [Vis.js](https://github.com/almende/vis) :gift_heart: - Dynamic, browser-based visualization library. [http://visjs.org/](http://visjs.org/)
   * [WebCola](https://github.com/tgdwyer/WebCola) :gift_heart: - Javascript constraint-based graph layout. [http://marvl.infotech.monash.edu/webcola/](http://marvl.infotech.monash.edu/webcola/)
 - **Date Pickers**
   * [DatePickr](https://github.com/joshsalverda/datepickr) :gift_heart: - A simple JavaScript date picker. [http://joshsalverda.github.io/datepickr/](http://joshsalverda.github.io/datepickr/)
@@ -83,7 +88,7 @@
   * [Uppy](https://github.com/transloadit/uppy) :gift_heart: - The next open source file uploader for web browsers. [https://uppy.io](https://uppy.io)
 - **Forms & Input**
   * [autoComplete](https://github.com/Pixabay/JavaScript-autoComplete) :gift_heart: - An extremely lightweight and powerful vanilla JavaScript completion suggester. [https://goodies.pixabay.com/javascript/auto-complete/demo.html](https://goodies.pixabay.com/javascript/auto-complete/demo.html)
-  * [Awesomeplete](https://github.com/LeaVerou/awesomplete) :gift_heart: - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. [http://leaverou.github.io/awesomplete/](http://leaverou.github.io/awesomplete/)
+  * [Awesomplete](https://github.com/LeaVerou/awesomplete) :gift_heart: - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. [http://leaverou.github.io/awesomplete/](http://leaverou.github.io/awesomplete/)
   * [Countable](https://github.com/RadLikeWhoa/Countable) :gift_heart: - Add live paragraph-, word- and character-counting to an HTML element. [https://sacha.me/Countable/](https://sacha.me/Countable/)
   * [Floating Label](https://github.com/datuhealth/floating-label) :gift_heart: - A floating label plugin written in vanilla javascript. [https://datuhealth.github.io/floating-label/](https://datuhealth.github.io/floating-label/)
   * [Horsey](https://github.com/bevacqua/horsey) :gift_heart: - Progressive and customizable autocomplete component. [https://bevacqua.github.io/horsey/](https://bevacqua.github.io/horsey/)
@@ -101,6 +106,7 @@
   * [GreenSock MorphSVGPlugin](https://greensock.com/morphSVG) :moneybag: - MorphSVGPlugin provides advanced control over tweens that morph SVG paths. [https://greensock.com/morphSVG](https://greensock.com/morphSVG)
   * [Layer Visualizer](https://github.com/romannurik/LayerVisualizer) :gift_heart: - A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows). [https://cdn.rawgit.com/romannurik/LayerVisualizer/d3691d20005ba8a86494a1419d5187f5edf8af0d/examples.html](https://cdn.rawgit.com/romannurik/LayerVisualizer/d3691d20005ba8a86494a1419d5187f5edf8af0d/examples.html)
   * [Mojs](https://github.com/legomushroom/mojs) :gift_heart: - Motion graphics toolbelt for the web. [http://mojs.io/](http://mojs.io/)
+  * [Particles.js](https://github.com/VincentGarreau/particles.js) :gift_heart: - A lightweight JavaScript library for creating particles. [https://vincentgarreau.com/particles.js/](https://vincentgarreau.com/particles.js/)
   * [p5.js](https://github.com/processing/p5.js) :gift_heart: - p5.js is a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing. [http://p5js.org/](http://p5js.org/)
   * [Phaser](https://github.com/photonstorm/phaser) :gift_heart: - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. [http://phaser.io/](http://phaser.io/)
   * [Pixi.js](https://github.com/pixijs/pixi.js) :gift_heart: - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback. [http://www.goodboydigital.com/pixijs/examples/15/indexAll.html](http://www.goodboydigital.com/pixijs/examples/15/indexAll.html)
@@ -108,7 +114,7 @@
   * [Popmotion](https://github.com/Popmotion/popmotion) :gift_heart: - A 12kb Javascript motion engine. Use for animation, physics and input tracking. [https://popmotion.io/](https://popmotion.io/)
   * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael/) :gift_heart: - JavaScript Vector Library. [https://github.com/DmitryBaranovskiy/raphael/](https://github.com/DmitryBaranovskiy/raphael/)
   * [Rythm.js](https://github.com/Okazari/Rythm.js) :gift_heart: - A javascript library that makes your page dance. [https://okazari.github.io/Rythm.js/](https://okazari.github.io/Rythm.js/)
-  * [Textgen.js](https://github.com/mrdoob/texgen.js) :gift_heart: - Procedural Texture Generator. [http://texgenjs.org/](http://texgenjs.org/)
+  * [Texgen.js](https://github.com/mrdoob/texgen.js) :gift_heart: - Procedural Texture Generator. [http://texgenjs.org/](http://texgenjs.org/)
   * [Trianglify](https://github.com/qrohlf/trianglify) :gift_heart: - Algorithmically generated triangle art. [http://qrohlf.com/trianglify/](http://qrohlf.com/trianglify/)
   * [Velociy](https://github.com/julianshapiro/velocity) :gift_heart: - Accelerated JavaScript animation. [http://velocityjs.org/](http://velocityjs.org/)
   * [Vivus.js (SVG-animations)](https://github.com/maxwellito/vivus) :gift_heart: - JavaScript library to make drawing animation on SVG. [http://maxwellito.github.io/vivus/](http://maxwellito.github.io/vivus/)
@@ -170,6 +176,7 @@
   * [Media Element](https://github.com/johndyer/mediaelement) :gift_heart: - HTML5 ```<audio/>``` or ```<video/>``` player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. [http://mediaelementjs.com/](http://mediaelementjs.com/)
   * [Plyr](https://github.com/Selz/plyr) :gift_heart: - A simple HTML5 media player. [https://plyr.io/](https://plyr.io/)
   * [Streama](https://github.com/dularion/streama) :gift_heart: - It's like Netflix, but self-hosted! [http://dularion.github.io/streama/](http://dularion.github.io/streama/)
+  * [Webamp](https://github.com/captbaritone/webamp) :gift_heart: - A reimplementation of Winamp 2.9 in HTML5 and Javascript. [https://webamp.org](https://webamp.org)
   * [Winamp2-js](https://github.com/captbaritone/winamp2-js) :gift_heart: - A reimplementation of Winamp 2.9 in HTML5 and Javascript. [https://jordaneldredge.com/projects/winamp2-js/](https://jordaneldredge.com/projects/winamp2-js/)
 - **Menus & Navigation**
   * [Intro.js](https://github.com/usablica/intro.js) :gift_heart: - A better way for new feature introduction and step-by-step users guide for your website and project. [http://introjs.com](http://introjs.com)
@@ -178,6 +185,8 @@
   * [jsModal](http://jsmodal.com/) :gift_heart: - Modal generator in pure JavaScript. - An open-source modal box engine written in pure JavaScript. [http://jsmodal.com/](http://jsmodal.com/)
   * [Modal](https://github.com/humaan/Modaal) :gift_heart: - An accessible dialog window library for all humans. [http://humaan.com/modaal/](http://humaan.com/modaal/)
   * [Notiejs](https://github.com/jaredreich/notie) :gift_heart: - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies. [https://jaredreich.com/notie](https://jaredreich.com/notie)
+- **Music**
+  * [Beeplay.js](https://github.com/watilde/beeplay) :gift_heart: - Write A Song In JavaScript. [http://watilde.github.io/beeplay/](http://watilde.github.io/beeplay/)
 - **Notifications**
   * [iNotify](https://github.com/jaywcjlove/iNotify) :gift_heart: - JS achieve the browser title flashing , scrolling, voice prompts , browser notice. [https://git.io/iNotify](https://git.io/iNotify)
 - **Presentations**
@@ -189,6 +198,9 @@
   * [Focusable](https://github.com/zzarcon/focusable) :gift_heart: - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page. [http://zzarcon.github.io/focusable/](http://zzarcon.github.io/focusable/)
   * [Opentip](https://github.com/enyo/opentip) :gift_heart: - Opentip is an open source javascript tooltip based on the protoype framework. [http://www.opentip.org/](http://www.opentip.org/)
   * [Tether](https://github.com/HubSpot/tether) :gift_heart: - A positioning engine to make overlays, tooltips and dropdowns better. [http://tether.io/docs/welcome/](http://tether.io/docs/welcome/)
+- **Polyfills**
+  * [Fd-slider](https://github.com/freqdec/fd-slider) :gift_heart: - An Unobtrusive Accessible Slider script that can also be used as an HTML5 Input Range polyfill solution. [https://github.com/freqdec/fd-slider](https://github.com/freqdec/fd-slider)
+  * [Respond.js](https://github.com/scottjehl/Respond) :gift_heart - A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more). [https://scottjehl.github.io/Respond/test/test.html](https://scottjehl.github.io/Respond/test/test.html)
 - **Progress & Loading Bars**
   * [NProgress](https://github.com/rstacruz/nprogress) :gift_heart: - For slim progress bars like on YouTube, Medium, etc. [http://ricostacruz.com/nprogress/](http://ricostacruz.com/nprogress/)
   * [Pace](https://github.com/HubSpot/pace) :gift_heart: - Automatically add a progress bar to your site. [http://github.hubspot.com/pace/docs/welcome/](http://github.hubspot.com/pace/docs/welcome/)
@@ -230,7 +242,7 @@
   * [Snabbt.js](https://github.com/daniel-lundin/snabbt.js) :gift_heart: - Fast animations with javascript and CSS transforms. [http://daniel-lundin.github.io/snabbt.js/](http://daniel-lundin.github.io/snabbt.js/)
 - **Text Effects & Text Manipulation**
   * [Iconate (icon-effects)](https://github.com/bitshadow/iconate) :gift_heart: - Transform your icons with trendy animations. [https://bitshadow.github.io/iconate/](https://bitshadow.github.io/iconate/)
-  * [Knwl.js (date-parser)](https://github.com/loadfive/Knwl.js) :gift_heart: - Find Dates, Places, Times, and More. A .js library for parsing text for specific information. [https://github.com/loadfive/Knwl.js/issues/97](https://github.com/loadfive/Knwl.js/issues/97)
+  * [Knwl.js (date-parser)](https://github.com/benhmoore/Knwl.js) :gift_heart: - Find Dates, Places, Times, and More. A .js library for parsing text for specific information. [https://github.com/benhmoore/Knwl.js/issues/97](https://github.com/benhmoore/Knwl.js/issues/97)
   * [Highlight.js](https://github.com/isagalaev/highlight.js) :gift_heart: - Javascript syntax highlighter. [https://highlightjs.org/](https://highlightjs.org/)
   * [Underline.js](https://github.com/wentin/underlineJS) :gift_heart: - Pushing the boundary of browser typography rendering! [http://underlinejs.org/](http://underlinejs.org/)
   * [Underscore.string](https://github.com/epeli/underscore.string) :gift_heart: - String manipulation helpers for javascript. [http://epeli.github.io/underscore.string/](http://epeli.github.io/underscore.string/)
@@ -251,9 +263,10 @@
   * [Vidage](https://github.com/dvLden/Vidage) :gift_heart: - Your solution to full-screen background video & image combined. [https://dvlden.github.io/Vidage/](https://dvlden.github.io/Vidage/)
 - **Window & Layout Managers**
   * [GoldenLayout](https://github.com/deepstreamIO/golden-layout) :gift_heart: - The ultimate Javascript layout manager. [https://golden-layout.com/](https://golden-layout.com/)
-- **WYSIWYG**
+- **WYSIWYG & Misc Editors**
   * [Aloha](https://github.com/alohaeditor/Aloha-Editor/tree/howling-mad) :gift_heart: - Aloha Editor is a JavaScript content editing library. [http://www.alohaeditor.org/](http://www.alohaeditor.org/)
   * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart: - The development repository of CKEditor. [http://ckeditor.com/](http://ckeditor.com/)
+  * [Dillinger](https://github.com/joemccann/dillinger) :gift_heart: - The last Markdown editor, ever. [http://dillinger.io](http://dillinger.io)
   * [Pell](https://github.com/jaredreich/pell) :gift_heart: - The simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies. [https://jaredreich.com/pell](https://jaredreich.com/pell)
   * [ProseMirror](https://github.com/ProseMirror/prosemirror) :gift_heart: - The ProseMirror WYSIWYM editor. [http://prosemirror.net/](http://prosemirror.net/)
   * [Quill](https://github.com/quilljs/quill/) :gift_heart: - A cross browser rich text editor with an API. [http://quilljs.com/](http://quilljs.com/)

@@ -9,3 +9,4 @@
 * [HEAD](https://github.com/joshbuchea/HEAD) :gift_heart: - A list of everything that could go in the <head> of your document. [http://gethead.info/](http://gethead.info/)
 * [Solid](https://github.com/solid/solid) :gift_heart: - Re-decentralizing the web.
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) :gift_heart: -  A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
+* [Web Fundamentals](https://github.com/google/WebFundamentals) :gift_heart: - Best practices for modern web development. [https://developers.google.com/web/fundamentals/](https://developers.google.com/web/fundamentals/)

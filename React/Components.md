@@ -50,7 +50,9 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
 - **Office & Documents**
   * [react-pdf](https://github.com/diegomura/react-pdf) :gift_heart: - Create PDF files using React.
 - **State & Store Management**
-  * [Redux](https://github.com/reactjs/redux) :gift_heart: - Predictable state container for JavaScript apps [http://redux.js.org](http://redux.js.org)
+  * [Alt](https://github.com/goatslacker/alt) :gift_heart: - Isomorphic flux implementation. [http://alt.js.org/](http://alt.js.org/)
+  * [Marty](https://github.com/martyjs/marty) :gift_heart: - A Javascript library for state management in React applications. [http://martyjs.org/](http://martyjs.org/)
+  * [Redux](https://github.com/reactjs/redux) :gift_heart: - Predictable state container for JavaScript apps. [http://redux.js.org](http://redux.js.org)
   * [Unistore](https://github.com/developit/unistore) :gift_heart: - 650b state container with component actions for Preact & React [https://npm.im/unistore](https://npm.im/unistore)
 - **Utility**
   * [react-fns](https://github.com/jaredpalmer/react-fns) :gift_heart: - Browser API's turned into declarative React components and HoC's. [https://npm.im/react-fns](https://npm.im/react-fns)

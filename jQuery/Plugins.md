@@ -8,6 +8,7 @@
 - **Data Processing & Visualization**
   * [Flot](https://github.com/flot/flot) :gift_heart: - Attractive JavaScript charts for jQuery. [http://www.flotcharts.org/](http://www.flotcharts.org/)
   * [JQuery Sparklines](http://omnipotent.net/jquery.sparkline/) :gift_heart: - This jQuery plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript. [http://omnipotent.net/jquery.sparkline/](http://omnipotent.net/jquery.sparkline/)
+  * [MetricsGraphics.js](https://github.com/metricsgraphics/metrics-graphics) :gift_heart: - A library optimized for concise and principled data graphics and layouts. [http://metricsgraphicsjs.org](http://metricsgraphicsjs.org)
   * [Peity.js](https://github.com/benpickles/peity) :gift_heart: - Progressive <svg> pie, donut, bar and line charts. [http://benpickles.github.io/peity/](http://benpickles.github.io/peity/)
 - **Date Pickers**
   * [Pickadate](https://github.com/amsul/pickadate.js) :gift_heart: - The mobile-friendly, responsive, and lightweight jQuery date & time input picker. [http://amsul.ca/pickadate.js/](http://amsul.ca/pickadate.js/)
@@ -50,9 +51,13 @@
 - **Modal**
   * [FancyBox](https://github.com/fancyapps/fancyBox) :rainbow: - Tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages. [http://fancyapps.com/fancybox/](http://fancyapps.com/fancybox/)
   * [Magnificent Popup](https://github.com/dimsemenov/Magnific-Popup) :gift_heart: - Light and responsive lightbox script with focus on performance. [http://dimsemenov.com/plugins/magnific-popup/](http://dimsemenov.com/plugins/magnific-popup/)
+- **Polyfills**
+  * [Rangeslider.js](https://github.com/andreruffert/rangeslider.js) :gift_heart: - HTML5 input range slider element polyfill. [http://rangeslider.js.org](http://rangeslider.js.org)
 - **Pointers & Tooltips**
   * [Toolbar](https://github.com/paulkinzett/toolbar) :gift_heart: - A tooltip style toolbar jQuery plugin. [http://paulkinzett.github.io/toolbar/](http://paulkinzett.github.io/toolbar/)
   * [Tooltipster](https://github.com/iamceege/tooltipster) :gift_heart: - A jQuery tooltip plugin. [http://iamceege.github.io/tooltipster/](http://iamceege.github.io/tooltipster/)
+- **Pull to Refresh**
+  * [Hook](https://github.com/jordansinger/Hook) :gift_heart: - Pull to refresh for the web. [https://github.com/jordansinger/Hook](https://github.com/jordansinger/Hook)
 - **Printing**
   * [PDFMake](https://github.com/bpampuch/pdfmake) :gift_heart: - Client/server side PDF printing in pure JavaScript. [http://pdfmake.org/](http://pdfmake.org/)
 - **Progress & Loading Bars**
@@ -60,6 +65,7 @@
   * [PercentageLoader](https://github.com/lepoetemaudit/percentageloader) :gift_heart: - jQuery plugin for displaying an animated percentage loader. [http://widgets.better2web.com/loader/](http://widgets.better2web.com/loader/)
 - **Range Sliders**
   * [jQuery Vertical Slider](http://jqueryui.com/slider/) :gift_heart: - Drag a handle to select a numeric value. [http://jqueryui.com/slider/](http://jqueryui.com/slider/)
+  * [Rangeslider.js](https://github.com/andreruffert/rangeslider.js) :gift_heart: - HTML5 input range slider element polyfill. [http://rangeslider.js.org](http://rangeslider.js.org)
 - **Scrollbars**
   * [Malihu Custom Scrollbar](https://github.com/malihu/malihu-custom-scrollbar-plugin) :gift_heart: - Highly customizable custom scrollbar jQuery plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support etc. [http://manos.malihu.gr/jquery-custom-content-scroller/](http://manos.malihu.gr/jquery-custom-content-scroller/)
   * [nanoScroller.js](https://github.com/jamesflorentino/nanoScrollerJS) :gift_heart: - A jQuery plugin that offers a simplistic way of implementing Lion OS scrollbars. [http://jamesflorentino.github.io/nanoScrollerJS/](http://jamesflorentino.github.io/nanoScrollerJS/)

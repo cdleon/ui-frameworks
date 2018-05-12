@@ -14,7 +14,6 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - [Less Framework](https://github.com/jonikorpi/Less-Framework) :gift_heart: - An adaptive CSS grid system. [http://www.jonikorpi.com/less-framework/](http://www.jonikorpi.com/less-framework/)
 - [Material Design Lite](https://github.com/google/material-design-lite) :gift_heart: - Material Design Lite (MDL) lets you add a Material Design look and feel to your static content websites. It doesn't rely on any JavaScript frameworks or libraries. [https://getmdl.io/](https://getmdl.io/)
 - [Materialize](https://github.com/Dogfalo/materialize) :gift_heart: - CSS Framework based on Material Design. [http://materializecss.com](http://materializecss.com)
-- [Material UI](https://github.com/callemall/material-ui) :gift_heart: - React Components that Implement Google's Material Design. [http://www.material-ui.com](http://www.material-ui.com)
 - [Miligram](https://github.com/milligram/milligram) :gift_heart: A minimalist CSS framework. [https://milligram.github.io/](https://milligram.github.io/)
 - [MUI](https://github.com/muicss/mui) :gift_heart: - MUI is a lightweight CSS framework that follows Google's Material Design guidelines. [https://www.muicss.com](https://www.muicss.com)
 - [Office UI Fabric](https://github.com/OfficeDev/office-ui-fabric-core) :gift_heart: - The front-end framework for building experiences for Office 365. [http://dev.office.com/fabric](http://dev.office.com/fabric)

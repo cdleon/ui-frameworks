@@ -1,8 +1,11 @@
 ### React Components
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
 - **Alerts, Modals & Notifications**
-- **Calendar**
-  * [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) :gift_heart: - gcal/outlook like calendar component [https://intljusticemission.github.io/react-big-calendar/examples/index.html](https://intljusticemission.github.io/react-big-calendar/examples/index.html)
+- **Calendars & Date Pickers**
+  * [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) :gift_heart: - Gcal/outlook like calendar component. [https://intljusticemission.github.io/react-big-calendar/examples/index.html](https://intljusticemission.github.io/react-big-calendar/examples/index.html)
+  * [react-day-picker](https://github.com/gpbl/react-day-picker) :gift_heart: - Flexible date picker for React. [http://www.gpbl.org/react-day-picker/](http://www.gpbl.org/react-day-picker/)
+  * [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) :gift_heart: - Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more. [hhttps://clauderic.github.io/react-infinite-calendar](https://clauderic.github.io/react-infinite-calendar)
+  * [react-svg-morph](https://github.com/gorangajic/react-svg-morph) :gift_heart - Morph your svg component one into another other. [http://gorangajic.github.io/react-svg-morph/](http://gorangajic.github.io/react-svg-morph/)
 - **Charts & Plots**
   * [react-d3](https://github.com/react-d3) :gift_heart: - A solution for building reusable components for d3 charts, still UNDER HEAVY DEVELOPMENT. [http://www.reactd3.org/](http://www.reactd3.org/)
   * [react-d3-library](https://github.com/react-d3-library/react-d3-library) :gift_heart: - Open source library for using D3 in React. http://react-d3-library.github.io/
@@ -18,11 +21,6 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [react-virtualized](https://github.com/bvaughn/react-virtualized) :gift_heart: - React components for efficiently rendering large lists and tabular data [http://www.reactvirtualized.com](http://www.reactvirtualized.com)
   * [reactable](https://github.com/glittershark/reactable) :gift_heart: - Fast, flexible, and simple data tables in React [http://glittershark.github.io/reactable](http://glittershark.github.io/reactable)
   * [redux-data-table](https://github.com/lewisl9029/redux-data-table) :gift_heart: - Simple React + Redux + ImmutableJS data table with item filtering, sorting, pagination and removal. [https://lewisl9029.github.io/redux-data-table/](https://lewisl9029.github.io/redux-data-table/)
-- **Datepickers & Calendars**
-  * [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) :gift_heart: - Gcal/outlook like calendar component. [https://intljusticemission.github.io/react-big-calendar/examples/index.html](https://intljusticemission.github.io/react-big-calendar/examples/index.html)
-  * [react-day-picker](https://github.com/gpbl/react-day-picker) :gift_heart: - Flexible date picker for React. [http://www.gpbl.org/react-day-picker/](http://www.gpbl.org/react-day-picker/)
-  * [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) :gift_heart: - Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more. [hhttps://clauderic.github.io/react-infinite-calendar](https://clauderic.github.io/react-infinite-calendar)
-  * [react-svg-morph](https://github.com/gorangajic/react-svg-morph) :gift_heart - Morph your svg component one into another other. [http://gorangajic.github.io/react-svg-morph/](http://gorangajic.github.io/react-svg-morph/)
 - **Form & Input**
   * [Formik](https://github.com/jaredpalmer/formik) :gift_heart: - Build forms in React, without the tears. [https://npm.im/formik](https://npm.im/formik)
   * [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) :gift_heart: - Set of enhancements for input control. [http://alexkuz.github.io/react-input-enhancements/](http://alexkuz.github.io/react-input-enhancements/)
@@ -51,10 +49,10 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [Terminal in React](https://github.com/nitin42/terminal-in-react) :gift_heart: - A component that renders a terminal [http://terminal-in-react.surge.sh/](http://terminal-in-react.surge.sh/)
 - **Office & Documents**
   * [react-pdf](https://github.com/diegomura/react-pdf) :gift_heart: - Create PDF files using React.
+- **Routing**
+  * [react-enroute](https://github.com/tj/react-enroute) :gift_heart: - React router with a small footprint for modern browsers. [https://github.com/tj/react-enroute](https://github.com/tj/react-enroute)
 - **State & Store Management**
-  * [Alt](https://github.com/goatslacker/alt) :gift_heart: - Isomorphic flux implementation. [http://alt.js.org/](http://alt.js.org/)
   * [Marty](https://github.com/martyjs/marty) :gift_heart: - A Javascript library for state management in React applications. [http://martyjs.org/](http://martyjs.org/)
-  * [Redux](https://github.com/reactjs/redux) :gift_heart: - Predictable state container for JavaScript apps. [http://redux.js.org](http://redux.js.org)
   * [Unistore](https://github.com/developit/unistore) :gift_heart: - 650b state container with component actions for Preact & React [https://npm.im/unistore](https://npm.im/unistore)
 - **Social Media**
   * [react-tweet-embed](https://github.com/capaj/react-tweet-embed) :gift_heart - Component that you supply tweet id and you'll get a tweet embed back, nothing more. [https://dev.twitter.com/web/embedded-tweets/parameters](https://dev.twitter.com/web/embedded-tweets/parameters)
@@ -62,6 +60,7 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [react-countup](https://github.com/glennreyes/react-countup) :gift_heart: - A configurable React component wrapper around CountUp.js. [https://glennreyes.github.io/react-countup/](https://glennreyes.github.io/react-countup/)
 - **Utility**
   * [react-fns](https://github.com/jaredpalmer/react-fns) :gift_heart: - Browser API's turned into declarative React components and HoC's. [https://npm.im/react-fns](https://npm.im/react-fns)
+  * [Recompose](https://github.com/acdlite/recompose) :gift_heart: - A React utility belt for function components and higher-order components. [https://github.com/acdlite/recompose/blob/master/docs/API.md](https://github.com/acdlite/recompose/blob/master/docs/API.md)
 - **VR**
   * [react-vr](https://github.com/facebook/react-vr) :gift_heart: - Create amazing 360 and VR content using React [https://facebook.github.io/react-vr](https://facebook.github.io/react-vr)
 - **WYSIWYG**

@@ -1,17 +1,18 @@
 ### JQuery Plugins
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
 - **Background & Background effects**
-  * [Backstretch](https://github.com/srobbin/jquery-backstretch) :gift_heart: - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes. [http://srobbin.com/jquery-plugins/backstretch/](http://srobbin.com/jquery-plugins/backstretch/)
+  * [Backstretch](https://github.com/jquery-backstretch/jquery-backstretch) :gift_heart: - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will automatically resize as the window/element size changes. [http://srobbin.com/jquery-plugins/backstretch/](http://srobbin.com/jquery-plugins/backstretch/)
   * [JQuery.Bgwitcher](https://github.com/rewish/jquery-bgswitcher) :gift_heart: - Switch the background-image with using effect. [http://rewish.github.io/jquery-bgswitcher/](http://rewish.github.io/jquery-bgswitcher/)
   * [Supersized](https://github.com/buildinternet/supersized) :gift_heart: - Full screen background slideshow plugin for jQuery. [http://www.buildinternet.com/project/supersized/](http://www.buildinternet.com/project/supersized/)
   * [Tubular](http://www.seanmccambridge.com/tubular/) :gift_heart: - Tubular is a jQuery plugin that lets you set a YouTube video as your page background. Just attach it to your page wrapper element, set some options, and you're on your way. [http://www.seanmccambridge.com/tubular/](http://www.seanmccambridge.com/tubular/)
+- **Calendars & Date Pickers**
+  * [Booking.js](https://github.com/timekit-io/booking-js) :gift_heart: - Make a beautiful embeddable booking widget in minutes [http://booking.timekit.io](http://booking.timekit.io)
+  * [Pickadate](https://github.com/amsul/pickadate.js) :gift_heart: - The mobile-friendly, responsive, and lightweight jQuery date & time input picker. [http://amsul.ca/pickadate.js/](http://amsul.ca/pickadate.js/)
 - **Data Processing & Visualization**
   * [Flot](https://github.com/flot/flot) :gift_heart: - Attractive JavaScript charts for jQuery. [http://www.flotcharts.org/](http://www.flotcharts.org/)
   * [JQuery Sparklines](http://omnipotent.net/jquery.sparkline/) :gift_heart: - This jQuery plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript. [http://omnipotent.net/jquery.sparkline/](http://omnipotent.net/jquery.sparkline/)
   * [MetricsGraphics.js](https://github.com/metricsgraphics/metrics-graphics) :gift_heart: - A library optimized for concise and principled data graphics and layouts. [http://metricsgraphicsjs.org](http://metricsgraphicsjs.org)
   * [Peity.js](https://github.com/benpickles/peity) :gift_heart: - Progressive <svg> pie, donut, bar and line charts. [http://benpickles.github.io/peity/](http://benpickles.github.io/peity/)
-- **Date Pickers**
-  * [Pickadate](https://github.com/amsul/pickadate.js) :gift_heart: - The mobile-friendly, responsive, and lightweight jQuery date & time input picker. [http://amsul.ca/pickadate.js/](http://amsul.ca/pickadate.js/)
 - **Dialogs & Alerts**
   * [Alertify](https://github.com/fabien-d/alertify.js) :gift_heart: - JavaScript Alert/Notification System. [http://fabien-d.github.io/alertify.js/](http://fabien-d.github.io/alertify.js/)
   * [Avgrund](https://github.com/voronianski/jquery.avgrund.js) :gift_heart: - Avgrund is a jQuery plugin with new modal concept for popups. [http://labs.voronianski.com/jquery.avgrund.js/](http://labs.voronianski.com/jquery.avgrund.js/)
@@ -88,8 +89,6 @@
   * [Spectagram](https://github.com/adrianengine/jquery-spectragram) :gift_heart: - A jQuery plugin using the Instagram API to fetch and display user, popular or tags photo feeds inside a list or any container you define. [http://spectragram.js.org/](http://spectragram.js.org/)
 - **State Management**
   * [pjax](https://github.com/defunkt/jquery-pjax) :gift_heart: - pushState + ajax = pjax [http://pjax.herokuapp.com/](http://pjax.herokuapp.com/)
-- **Text Editors**
-  * [Markdownify](https://github.com/tibastral/markdownify) :gift_heart: - The simplest markdown editor with built in cloudinary image upload. [http://tibastral.github.io/markdownify/](http://tibastral.github.io/markdownify/)
 - **Text Effects**
   * [Arctext.js](https://github.com/codrops/Arctext) :gift_heart: - While CSS3 allows us to rotate letters, it is quite complicated to arrange each letter along a curved path. Arctext.js is a jQuery plugin that let's you do exactly that. Based on Lettering.js, it calculates the right rotation of each letter and distributes the letters equally across the imaginary arc of the given radius. [http://tympanus.net/Development/Arctext/](http://tympanus.net/Development/Arctext/)
   * [Bacon](https://github.com/hudsonfoo/jQuery-Bacon) :gift_heart: - Allows you to align text to a bezier curve or a line. [http://baconforme.com/](http://baconforme.com/)
@@ -101,3 +100,5 @@
   * [Textillate.js](https://github.com/jschr/textillate) :gift_heart: - Textillate.js combines some awesome libraries to provide an easy-to-use plugin for applying CSS3 animations to any text. [http://textillate.js.org/](http://textillate.js.org/)
 - **Typing**
   * [Long Press](https://github.com/quentint/long-press) :gift_heart: - jQuery plugin to ease the writing of accented or rare characters. [http://toki-woki.net/lab/long-press/](http://toki-woki.net/lab/long-press/)
+- **WYSIWYG, Text Editors & Misc Editors**
+* [Markdownify](https://github.com/tibastral/markdownify) :gift_heart: - The simplest markdown editor with built in cloudinary image upload. [http://tibastral.github.io/markdownify/](http://tibastral.github.io/markdownify/)

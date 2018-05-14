@@ -13,7 +13,9 @@
 * [ES6](https://github.com/bevacqua/es6) :gift_heart: - ES6 Overview in 350 Bullet Points.
 * [ES6 In Depth](https://hacks.mozilla.org/category/es6-in-depth/) :gift_ehart: - ES6 In Depth is a series on new features being added to the JavaScript programming language in the 6th Edition of the ECMAScript standard, ES6 for short.
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) :gift_heart: - A collection of (mostly) technical things every software developer should know.
+* [Exercises](https://github.com/kolodny/exercises) :gift_heart: - Some basic javascript coding challenges and interview questions.
 * [Five Ajax best practices](https://www.ibm.com/developerworks/library/wa-aj-5best/) :gift_heart: - Tips and tools for better Ajax development.
+* [Flux Challenge](https://github.com/staltz/flux-challenge) :gift_heart: - A frontend challenge to test UI architectures and solutions.
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) :gift_heart: - The perfect Front-End Checklist for modern websites and meticulous developers [https://frontendchecklist.io](https://frontendchecklist.io)
 * [Front-end Walkthrough: Designing a Single Page Application Architecture](https://blog.poki.com/front-end-walkthrough-building-a-single-page-application-from-scratch-d47c35fdc830) :gift_heart: - We documented our journey towards a shiny new stack.
 * [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path):gift_heart: - A learning path for Full-stack web development.
@@ -44,5 +46,6 @@
 * [The JavaScript Way](https://github.com/bpesquet/thejsway) :gift_heart: - The JavaScript Way book [https://leanpub.com/thejsway](https://leanpub.com/thejsway)
 * [Overview of JavaScript ES6 features (a.k.a ECMAScript 6 and ES2015+)](http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/#.WA4G-3dZebs.hackernews) :gift_heart: - JavaScript has changed quite a bit in the last years. These are 12 new features that you can start using today!
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :gift_heart: - A book series on JavaScript.
+* [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery) :gift_heart: - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 * [W3C ALL STANDARDS AND DRAFTS](https://www.w3.org/TR/) :gift_heart:
 * [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap) :gift_heart: - Roadmap to becoming a web developer in 2018.

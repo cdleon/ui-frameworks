@@ -8,5 +8,7 @@
 * [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript) :gift_heart: - A useful list of must-watch talks about JavaScript.
 * [Project Guidelines](https://github.com/wearehive/project-guidelines) :gift_heart: - A set of best practices for JavaScript projects.
 * [Solid](https://github.com/solid/solid) :gift_heart: - Re-decentralizing the web.
+* [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox) :gift_heart: - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox. [https://philipwalton.github.io/solved-by-flexbox/](https://philipwalton.github.io/solved-by-flexbox/)
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) :gift_heart: -  A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
+* [Todo MVC](https://github.com/tastejs/todomvc) :gift_heart: - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more. [http://todomvc.com](http://todomvc.com)
 * [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap) :gift_heart: - Roadmap to becoming a web developer in 2018.

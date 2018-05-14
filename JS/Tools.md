@@ -1,18 +1,23 @@
 ### JS Tools
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
-- **BenchMarking & Testing**
+- **Automation**
+  * [Taskr](https://github.com/lukeed/taskr) :gift_heart: - A fast, concurrency-focused task automation tool.
+- **BenchMarking**
   * [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart: - A benchmarking library. As used on jsPerf.com.
-  * [Jest](https://github.com/facebook/jest) :gift_heart: - Painless JavaScript Unit Testing built on top of the Jasmine test framework.
   * [Jslitmus](https://github.com/broofa/jslitmus) :gift_heart: - Simple, easy, javascript benchmark testing.
+  * [jsperf.com](https://github.com/jsperf/jsperf.com) :gift_heart: - jsperf.com v2. [https://jsperf.com/](https://jsperf.com/)
   * [Justice](https://github.com/okor/justice) :gift_heart: - Embeddable script for displaying web page performance metrics.
+  * [Matcha](https://github.com/logicalparadox/matcha) :gift_heart: - A caffeine driven, simplistic approach to benchmarking.
   * [Memory-stats.js](https://github.com/paulirish/memory-stats.js) :gift_heart: - Minimal monitor for JS Heap Size via performance.memory.
-  * [QUnit](https://github.com/jquery/qunitjs.com) :gift_heart: - QUnit is a powerful, easy-to-use JavaScript unit testing framework.
   * [Stats.js](https://github.com/mrdoob/stats.js) :gift_heart: - JavaScript Performance Monitor.
-  * [TestSwarm](https://github.com/jquery/testswarm) :gift_heart: - Distributed continuous integration testing for JavaScript.
   * [Timing.js](https://github.com/addyosmani/timing.js) :gift_heart: - Navigation Timing API measurement helpers.
 - **Browser Support**
+  * [HTML5 Shiv](https://github.com/afarkas/html5shiv) :gift_heart: - The HTML5 Shiv enables use of HTML5 sectioning elements in legacy Internet Explorer and provides basic HTML5 styling for Internet Explorer 6-9, Safari 4.x (and iPhone 3.x), and Firefox 3.x.
   * [ie8linter](https://github.com/israelidanny/ie8linter) :gift_heart: - A little tool to lint websites for IE8 compatibility, with warnings for possible pitfalls.
   * [Modernizr](https://github.com/modernizr/modernizr) :gift_heart: - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+- **Debuggers**
+  * [Chrome DevTools App](https://github.com/auchenberg/chrome-devtools-app) :gift_heart: - Chrome DevTools packaged as an app via Electron. [https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/](https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/)
+  * [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) :gift_heart: - Redux DevTools extension. [http://extension.remotedev.io](http://extension.remotedev.io)
 - **Editors**
   * [Mesh](https://github.com/chrispsn/mesh) :gift_heart: - Visualise data and edit JavaScript code using a spreadsheet interface. [http://chrispsn.com/try-mesh.html](http://chrispsn.com/try-mesh.html)
 - **Formatters**
@@ -39,5 +44,12 @@
   * [Prepack](https://github.com/facebook/prepack) :gift_heart: - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently. [https://prepack.io](https://prepack.io)
   * [require.js](https://github.com/requirejs/requirejs) :gift_heart: - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
   * [Webpack](https://github.com/webpack/webpack) :gift_heart: - Webpack is a bundler for modules. The main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
+  * [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) :gift_heart: - A CLI dashboard for webpack dev server. [https://github.com/FormidableLabs/webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard)
+- **Optimization**
+  * [GPU.js](https://github.com/gpujs/gpu.js) :gift_heart: - GPU Accelerated JavaScript. [http://gpu.rocks](http://gpu.rocks)
+- **Testing**
+  * [Jest](https://github.com/facebook/jest) :gift_heart: - Painless JavaScript Unit Testing built on top of the Jasmine test framework.
+  * [QUnit](https://github.com/jquery/qunitjs.com) :gift_heart: - QUnit is a powerful, easy-to-use JavaScript unit testing framework.
+  * [TestSwarm](https://github.com/jquery/testswarm) :gift_heart: - Distributed continuous integration testing for JavaScript.
 - **Transpilers**
   * [Decaffeinate](https://github.com/decaffeinate/decaffeinate) :gift_heart: - Goodbye CoffeeScript, hello JavaScript! [http://decaffeinate-project.org/repl/](http://decaffeinate-project.org/repl/)

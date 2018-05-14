@@ -7,6 +7,7 @@
   * [CSS Layout Generator](http://csslayoutgenerator.com/) :gift_heart: - CSS layout generator
   * [How to Center in CSS](http://howtocenterincss.com/) :gift_heart: - Centering in CSS is a pain in the ass. There seems to be a gazillion ways to do it, depending on a variety of factors. This consolidates them and gives you the code you need for each situation.
 - **Formatters**
+  * [cssFx](https://github.com/imsky/cssFx) :gift_heart: - CSS3 vendor prefix generator. [http://imsky.github.com/cssFx/](http://imsky.github.com/cssFx/)
   * [Prettier](https://github.com/prettier/prettier) :gift_heart: - Prettier is an opinionated code formatter. [https://prettier.io/](https://prettier.io/)
 - **Layout Generators**
   * [CSS Layout Generator](http://csslayoutgenerator.com/) :gift_heart: - CSS layout generator

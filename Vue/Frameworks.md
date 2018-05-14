@@ -15,6 +15,7 @@
 - [vue-bulma-components](https://github.com/vouill/vue-bulma-components) :gift_heart: - Easily use bulma class syntax with vue components. [https://teller-multisystems-48055.netlify.com/#/grid](https://teller-multisystems-48055.netlify.com/#/grid)
 - [vue-material](https://github.com/vuematerial/vue-material) :gift_heart: - Material design for Vue.js. [https://vuematerial.io/](https://vuematerial.io/)
 - [vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) :gift_heart: - Material Components integration for Vue.js as per MDC Team's [guidelines](https://github.com/material-components/material-components-web/blob/master/docs/integrating-into-frameworks.md). [https://stasson.github.io/vue-mdc-adapter/#/](https://stasson.github.io/vue-mdc-adapter/#/)
+- [vue-strap](https://github.com/yuche/vue-strap) :gift_heart: - Bootstrap components built with Vue.js [http://yuche.github.io/vue-strap/]](http://yuche.github.io/vue-strap/)
 - [vuesax](https://github.com/lusaxweb/vuesax) :gift_heart: - Frontend vue Components for Vue.js. [https://lusaxweb.github.io/vuesax/](https://lusaxweb.github.io/vuesax/)
 - [vuetify](https://github.com/vuetifyjs/vuetify) :gift_heart: - Material Component Framework for Vue.js 2 [https://vuetifyjs.com](https://vuetifyjs.com)
 - [vulma](https://github.com/oswaldofreitas/vulma) :gift_heart: - Vue + Bulma = Vulma. [https://vulma.org](https://vulma.org)

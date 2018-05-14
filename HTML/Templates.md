@@ -11,6 +11,7 @@
 - **HTML**
   * [Cody House](https://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets
   * [Gridgum](http://gridgum.com/themes/) :moneybag: - Gridgum is a marketplace for responsive themes and templates.
+  * [Material Design One Page HTML Template](https://github.com/joashp/material-design-template) :gift_heart: - Material Design Based One Page HTML Template. [https://joashpereira.com/templates/material_one_pager/](https://joashpereira.com/templates/material_one_pager/)
 - **Kanban**
   * [Wekan](https://github.com/wekan/wekan) :gift_heart: - The open-source Trello-like kanban.
 - **Material Design**

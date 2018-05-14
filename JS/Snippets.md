@@ -11,6 +11,8 @@
   * [Snipt (tag:js)](https://snipt.net/public/tag/js/) :gift_heart: -  - The publishing platform for coders.
 - **Misc**
   * [Wtfjs](https://github.com/denysdovhan/wtfjs) :gift_heart: - A list of funny and tricky JavaScript examples. [http://bit.ly/wtfjavascript](http://bit.ly/wtfjavascript)
+- **Scrolling & Parallax**
+  * [Page Scroll Effects](https://github.com/CodyHouse/page-scroll-effects) :gift_heart: - Introducing a mini-library of experimental page scroll effects. All animations have been created using Velocity.js. [https://codyhouse.co/demo/page-scroll-effects/scaledown.html](https://codyhouse.co/demo/page-scroll-effects/scaledown.html)
 - **Sliders**
   * [Slider with Sliding Backgrounds](https://css-tricks.com/slider-with-sliding-backgrounds/) :gift_heart: - Slider with Sliding Backgrounds.
 - **Performance**

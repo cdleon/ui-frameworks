@@ -2,6 +2,12 @@
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
 - **Accesibility**
   * [Tota11y](https://github.com/Khan/tota11y) :gift_heart: - an accessibility (a11y) visualization toolkit. [http://khan.github.io/tota11y/](http://khan.github.io/tota11y/)
+- **Alerts, Modals & Notifications**
+  * [iNotify](https://github.com/jaywcjlove/iNotify) :gift_heart: - JS achieve the browser title flashing , scrolling, voice prompts , browser notice. [https://git.io/iNotify](https://git.io/iNotify)
+  * [jsModal](http://jsmodal.com/) :gift_heart: - Modal generator in pure JavaScript. - An open-source modal box engine written in pure JavaScript. [http://jsmodal.com/](http://jsmodal.com/)
+  * [Modal](https://github.com/humaan/Modaal) :gift_heart: - An accessible dialog window library for all humans. [http://humaan.com/modaal/](http://humaan.com/modaal/)
+  * [Notiejs](https://github.com/jaredreich/notie) :gift_heart: - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies. [https://jaredreich.com/notie](https://jaredreich.com/notie)
+  * [Notification Logger](https://github.com/hkirat/notification-logger) :gift_heart: - Desktop notification for your console Logs. [https://hkirat.github.io/notification-logger/](https://hkirat.github.io/notification-logger/)
 - **AR**
   * [AR.js](https://github.com/jeromeetienne/AR.js) :gift_heart: - Efficient Augmented Reality for the Web - 60fps on mobile. [https://github.com/jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js)
 - **Automation & Scraping**
@@ -25,6 +31,7 @@
 - **Colors**
   * [CSS Colorguard](https://github.com/SlexAxton/css-colorguard) :gift_heart: - Keep a watchful eye on your css colors. [https://github.com/SlexAxton/css-colorguard](https://github.com/SlexAxton/css-colorguard)
 - **Computer Vision**
+  * [Tesseract.js](https://github.com/naptha/tesseract.js) :gift_heart: - Pure Javascript OCR for 62 Languages. [http://tesseract.projectnaptha.com/](http://tesseract.projectnaptha.com/)
   * [Tracking.js](https://github.com/eduardolundgren/tracking.js) :gift_heart: - A modern approach for Computer Vision on the web. [https://trackingjs.com/](https://trackingjs.com/)
 - **Cut & Paste**
   * [Clipboard.js](https://github.com/zenorocha/clipboard.js) :gift_heart: - Modern copy to clipboard. No Flash. Just 2kb. [https://clipboardjs.com/](https://clipboardjs.com/)
@@ -98,6 +105,8 @@
   * [Stretchy](https://github.com/LeaVerou/stretchy) :gift_heart: - Form element autosizing, the way it should be. [http://leaverou.github.io/stretchy/](http://leaverou.github.io/stretchy/)
   * [Taggle](https://github.com/okcoker/taggle.js) :gift_heart: - Form-ready dependency-less tagging. [https://sean.is/poppin/tags](https://sean.is/poppin/tags)
   * [Validate.js](https://github.com/rickharrison/validate.js/) :gift_heart: - Lightweight JavaScript form validation library inspired by CodeIgniter. [http://rickharrison.github.io/validate.js/](http://rickharrison.github.io/validate.js/)
+- **Gaming**
+  * [Warrior.js](https://github.com/olistic/warriorjs) :gift_heart: - An exciting game of programming and Artificial Intelligence. [https://warrior.js.org](https://warrior.js.org)
 - **Graphics & Animation**
   * [Cirque](https://github.com/two-n/cirque) :gift_heart: -  Utilities for negotiating between circles and polygons in SVG. [http://projects.two-n.com/cirque](http://projects.two-n.com/cirque/)
   * [d3.geo2rect](https://github.com/sebastian-meier/d3.geo2rect) :gift_heart: - Morphing geojson polygons into rectangles. [http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html](http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html)
@@ -181,14 +190,8 @@
 - **Menus & Navigation**
   * [Intro.js](https://github.com/usablica/intro.js) :gift_heart: - A better way for new feature introduction and step-by-step users guide for your website and project. [http://introjs.com](http://introjs.com)
   * [Slideout.js (For-Mobile)](https://github.com/Mango/slideout) :gift_heart: - A touch slideout navigation menu for your mobile web apps. [https://mango.github.io/slideout/](https://mango.github.io/slideout/)
-- **Modals & Alerts**
-  * [jsModal](http://jsmodal.com/) :gift_heart: - Modal generator in pure JavaScript. - An open-source modal box engine written in pure JavaScript. [http://jsmodal.com/](http://jsmodal.com/)
-  * [Modal](https://github.com/humaan/Modaal) :gift_heart: - An accessible dialog window library for all humans. [http://humaan.com/modaal/](http://humaan.com/modaal/)
-  * [Notiejs](https://github.com/jaredreich/notie) :gift_heart: - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies. [https://jaredreich.com/notie](https://jaredreich.com/notie)
 - **Music**
   * [Beeplay.js](https://github.com/watilde/beeplay) :gift_heart: - Write A Song In JavaScript. [http://watilde.github.io/beeplay/](http://watilde.github.io/beeplay/)
-- **Notifications**
-  * [iNotify](https://github.com/jaywcjlove/iNotify) :gift_heart: - JS achieve the browser title flashing , scrolling, voice prompts , browser notice. [https://git.io/iNotify](https://git.io/iNotify)
 - **Presentations**
   * [Reveal.js](https://github.com/hakimel/reveal.js) :gift_heart: - The HTML Presentation Framework [http://lab.hakim.se/reveal-js](http://lab.hakim.se/reveal-js/)
   * [Reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins) :gift_heart: - Plugins for reveal.js. [https://github.com/rajgoel/reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins)
@@ -207,10 +210,13 @@
   * [Progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) :gift_heart: - Responsive and slick progress bars. [https://kimmobrunfeldt.github.io/progressbar.js/](https://kimmobrunfeldt.github.io/progressbar.js/)
 - **Range Sliders**
   * [rangeslider.js](https://github.com/andreruffert/rangeslider.js) :gift_heart: - HTML5 input range slider element polyfill. [http://rangeslider.js.org/](http://rangeslider.js.org/)
+- **Randomizers and ID generators**
+  * [The Gambler's Fallacy Dice](https://github.com/xori/gamblers-dice) :gift_heart: - A terrible idea, now real. [https://xori.github.io/gamblers-dice](https://xori.github.io/gamblers-dice)
 - **Scroll Bars**
   * [Tiny Scrollbar](https://github.com/wieringen/tinyscrollbar) :gift_heart: - A lightweight cross browser javascript scrollbar. [http://baijs.com/tinyscrollbar/](http://baijs.com/tinyscrollbar/)
 - **Scrolling & Parallax**
   * [Elevator.js](https://github.com/tholman/elevator.js) :gift_heart: - Finally, a "back to top" button that behaves like a real elevator. [http://tholman.com/elevator.js/](http://tholman.com/elevator.js/)
+  * [Fancy Scroll](https://github.com/peachananr/fancy-scroll) :gift_heart - Add Overflow Scroll Effect like on iOS/Android but for your website. [http://www.thepetedesign.com/demos/fancy_scroll_demo.html](http://www.thepetedesign.com/demos/fancy_scroll_demo.html)
   * [Headroom.js](https://github.com/WickyNilliams/headroom.js) :gift_heart: - Give your pages some headroom. Hide your header until you need it. [http://wicky.nillia.ms/headroom.js/](http://wicky.nillia.ms/headroom.js/)
   * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart: - Infinite list in javascript that scrolls in 60fps. [http://roeierez.github.io/infinite-list/examples/react/index.html](http://roeierez.github.io/infinite-list/examples/react/index.html)
   * [iScroll](https://github.com/cubiq/iscroll) :gift_heart: - Smooth scrolling for the web. [http://iscrolljs.com/](http://iscrolljs.com/)
@@ -236,10 +242,6 @@
   * [Redux Offline](https://github.com/redux-offline-team/redux-offline) :gift_heart: - Build Offline-First Apps for Web and React Native. [https://github.com/redux-offline-team/redux-offline](https://github.com/redux-offline-team/redux-offline)
 - **Streaming**
   * [Nile.js](https://github.com/gitsummore/nile.js) :gift_heart: -  Scalable peer to peer live video streaming built on torrents and webRTC [https://nilejs.com](https://nilejs.com/)
-- **Transition & Effects**
-  * [Chromatism](https://github.com/toish/chromatism) :gift_heart: - A simple set of utility functions for colours. [https://github.com/toish/chromatism](https://github.com/toish/chromatism)
-  * [Ramjet](https://github.com/Rich-Harris/ramjet) :gift_heart: - Morph DOM elements from one state to another with smooth transitions. [http://www.rich-harris.co.uk/ramjet/](http://www.rich-harris.co.uk/ramjet/)
-  * [Snabbt.js](https://github.com/daniel-lundin/snabbt.js) :gift_heart: - Fast animations with javascript and CSS transforms. [http://daniel-lundin.github.io/snabbt.js/](http://daniel-lundin.github.io/snabbt.js/)
 - **Text Effects & Text Manipulation**
   * [Iconate (icon-effects)](https://github.com/bitshadow/iconate) :gift_heart: - Transform your icons with trendy animations. [https://bitshadow.github.io/iconate/](https://bitshadow.github.io/iconate/)
   * [Knwl.js (date-parser)](https://github.com/benhmoore/Knwl.js) :gift_heart: - Find Dates, Places, Times, and More. A .js library for parsing text for specific information. [https://github.com/benhmoore/Knwl.js/issues/97](https://github.com/benhmoore/Knwl.js/issues/97)
@@ -249,8 +251,14 @@
 - **Text Editors**
   * [Highlight.js](https://github.com/isagalaev/highlight.js) :gift_heart: - Javascript syntax highlighter. [https://highlightjs.org/](https://highlightjs.org/)
   * [Ritzy](https://github.com/ritzyed/ritzy) :gift_heart: - Collaborative web-based rich text editor. [http://ritzyed.github.io/ritzy/](http://ritzyed.github.io/ritzy/)
+- **Third Party Integrations**
+  * [Gmail.js](https://github.com/KartikTalwar/gmail.js) :gift_heart: - Gmail JavaScript API. [https://github.com/KartikTalwar/gmail.js](https://github.com/KartikTalwar/gmail.js)
 - **Torrents**
   * [Webtorrent](https://github.com/feross/webtorrent) :gift_heart: - Streaming torrent client for node & the browser. [https://webtorrent.io/](https://webtorrent.io/)
+- **Transition & Effects**
+  * [Chromatism](https://github.com/toish/chromatism) :gift_heart: - A simple set of utility functions for colours. [https://github.com/toish/chromatism](https://github.com/toish/chromatism)
+  * [Ramjet](https://github.com/Rich-Harris/ramjet) :gift_heart: - Morph DOM elements from one state to another with smooth transitions. [http://www.rich-harris.co.uk/ramjet/](http://www.rich-harris.co.uk/ramjet/)
+  * [Snabbt.js](https://github.com/daniel-lundin/snabbt.js) :gift_heart: - Fast animations with javascript and CSS transforms. [http://daniel-lundin.github.io/snabbt.js/](http://daniel-lundin.github.io/snabbt.js/)
 - **Utility**
   * [GPU.js](https://github.com/gpujs/gpu.js) :gift_heart: - GPU Accelerated JavaScript. [http://gpu.rocks](http://gpu.rocks)
   * [Nanoid](https://github.com/ai/nanoid) :gift_heart: - A tiny (176 bytes), secure, URL-friendly, unique string ID generator for JavaScript. [https://github.com/ai/nanoid](https://github.com/ai/nanoid)

@@ -1,5 +1,6 @@
 ### React Components
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
+- **Alerts, Modals & Notifications**
 - **Calendar**
   * [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) :gift_heart: - gcal/outlook like calendar component [https://intljusticemission.github.io/react-big-calendar/examples/index.html](https://intljusticemission.github.io/react-big-calendar/examples/index.html)
 - **Charts & Plots**
@@ -19,7 +20,7 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [redux-data-table](https://github.com/lewisl9029/redux-data-table) :gift_heart: - Simple React + Redux + ImmutableJS data table with item filtering, sorting, pagination and removal. [https://lewisl9029.github.io/redux-data-table/](https://lewisl9029.github.io/redux-data-table/)
 - **Datepickers & Calendars**
   * [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) :gift_heart: - Gcal/outlook like calendar component. [https://intljusticemission.github.io/react-big-calendar/examples/index.html](https://intljusticemission.github.io/react-big-calendar/examples/index.html)
-  * [react-date-picker](https://github.com/gpbl/react-day-picker) :gift_heart: - Flexible date picker for React. [http://www.gpbl.org/react-day-picker/](http://www.gpbl.org/react-day-picker/)
+  * [react-day-picker](https://github.com/gpbl/react-day-picker) :gift_heart: - Flexible date picker for React. [http://www.gpbl.org/react-day-picker/](http://www.gpbl.org/react-day-picker/)
   * [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) :gift_heart: - Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more. [hhttps://clauderic.github.io/react-infinite-calendar](https://clauderic.github.io/react-infinite-calendar)
   * [react-svg-morph](https://github.com/gorangajic/react-svg-morph) :gift_heart - Morph your svg component one into another other. [http://gorangajic.github.io/react-svg-morph/](http://gorangajic.github.io/react-svg-morph/)
 - **Form & Input**
@@ -41,6 +42,7 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [react-progressbar.js](https://github.com/kimmobrunfeldt/react-progressbar.js) :gift_heart: - Responsive and slick progress bars for React. [http://kimmobrunfeldt.github.io/progressbar.js/](http://kimmobrunfeldt.github.io/progressbar.js/)
 - **Maps**
   * [google-map-react](https://github.com/istarkov/google-map-react) :gift_heart: - Universal google map react component, allows render react components on the google map. [http://istarkov.github.io/google-map-react/map/main/](http://istarkov.github.io/google-map-react/map/main/)
+  * [google-map-react](https://github.com/google-map-react/google-map-react) :gift_heart: - Google map library for react that allows rendering components as markers. [http://google-map-react.github.io/google-map-react/map/main/](http://google-map-react.github.io/google-map-react/map/main/)
   * [google-maps-react](https://github.com/fullstackreact/google-maps-react) :gift_heart: - Companion code to the "How to Write a Google Maps React Component" Tutorial. [https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/](https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/)
   * [react-gmaps](https://github.com/MicheleBertoli/react-gmaps) :gift_heart: - A Google Maps component for React.js. [http://react-gmaps.herokuapp.com/](http://react-gmaps.herokuapp.com/)
   * [react-google-maps](https://github.com/tomchentw/react-google-maps) :gift_heart: - React.js Google Maps integration component. [https://tomchentw.github.io/react-google-maps/](https://tomchentw.github.io/react-google-maps/)
@@ -54,6 +56,10 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [Marty](https://github.com/martyjs/marty) :gift_heart: - A Javascript library for state management in React applications. [http://martyjs.org/](http://martyjs.org/)
   * [Redux](https://github.com/reactjs/redux) :gift_heart: - Predictable state container for JavaScript apps. [http://redux.js.org](http://redux.js.org)
   * [Unistore](https://github.com/developit/unistore) :gift_heart: - 650b state container with component actions for Preact & React [https://npm.im/unistore](https://npm.im/unistore)
+- **Social Media**
+  * [react-tweet-embed](https://github.com/capaj/react-tweet-embed) :gift_heart - Component that you supply tweet id and you'll get a tweet embed back, nothing more. [https://dev.twitter.com/web/embedded-tweets/parameters](https://dev.twitter.com/web/embedded-tweets/parameters)
+- **Text Effects & Text Manipulation**
+  * [react-countup](https://github.com/glennreyes/react-countup) :gift_heart: - A configurable React component wrapper around CountUp.js. [https://glennreyes.github.io/react-countup/](https://glennreyes.github.io/react-countup/)
 - **Utility**
   * [react-fns](https://github.com/jaredpalmer/react-fns) :gift_heart: - Browser API's turned into declarative React components and HoC's. [https://npm.im/react-fns](https://npm.im/react-fns)
 - **VR**

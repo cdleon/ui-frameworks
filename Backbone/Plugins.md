@@ -1,7 +1,7 @@
 ### Backbone Plugins
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
 
-- **:pushpin: Plugin Directories**
+- **Plugin Directories :pushpin:**
   * [Backbone Index ](https://backboneindex.com/) :gift_heart: - Backbone Index aims at making the discovery of Backbone resources and plugins easier.
   * [BackPlug](http://backplug.io/) :gift_heart: - Listing all Backbone.js plugins.
 

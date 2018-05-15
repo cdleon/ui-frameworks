@@ -2,9 +2,10 @@
 
 ## Contributing Guidelines
 
+**\[title\]\(github repo url\) :gift_heart|rainbow|moneybag: - description \[website url\]\(website url\) *website link only if website exists**
+
 + Client-side only
 + Titles should be capitilized (unless is intended to start with lower case [like for example the iPhone])
-+ Format -> \[title\]\(github repo url\) :gift_heart|rainbow|moneybag: - description \[website url\]\(website url\) *website link only if website exists
 + Make sure you follow alphabetical order
 + Check your spelling!
 + Check for trailling spaces

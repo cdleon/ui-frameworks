@@ -230,6 +230,7 @@
 
 - **Maps**
 
+  * [Aeris.js](https://github.com/aerisweather/aerisjs) :gift_heart: - A javscript library for maps and weather. [http://demo.aerisjs.com/amd/index.html](http://demo.aerisjs.com/amd/index.html)
   * [Gmaps](https://github.com/hpneo/gmaps) :gift_heart: - The easiest way to use Google Maps. [http://hpneo.github.io/gmaps/](http://hpneo.github.io/gmaps/)
   * [ngraph.path](https://github.com/anvaka/ngraph.path) :gift_heart: - Path finding in a graph. [https://anvaka.github.io/ngraph.path.demo/#?graph=amsterdam-roads](https://anvaka.github.io/ngraph.path.demo/#?graph=amsterdam-roads)
   * [Turf](https://github.com/Turfjs/turf) :gift_heart: - A modular geospatial engine written in JavaScript. [http://turfjs.org/](http://turfjs.org/)
@@ -410,7 +411,7 @@
 
   * [GoldenLayout](https://github.com/deepstreamIO/golden-layout) :gift_heart: - The ultimate Javascript layout manager. [https://golden-layout.com/](https://golden-layout.com/)
 
-- **WYSIWYG, Text Editos & Misc Editors**
+- **WYSIWYG, Text Editors & Misc Editors**
 
   * [Aloha](https://github.com/alohaeditor/Aloha-Editor/tree/howling-mad) :gift_heart: - Aloha Editor is a JavaScript content editing library. [http://www.alohaeditor.org/](http://www.alohaeditor.org/)
   * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart: - The development repository of CKEditor. [http://ckeditor.com/](http://ckeditor.com/)

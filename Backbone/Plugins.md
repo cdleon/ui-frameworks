@@ -223,6 +223,8 @@
 
 - **Utility**
 
+  * [Backbone-callbacks](https://github.com/lorenwest/backbone-callbacks) :gift_heart: - Anonymous callback style interface for Backbone.js async methods.
+  * [Backbone.Collection.sorting](https://github.com/homeslicesolutions/backbone-collection-sorting/) :gift_heart: - A simple sorting plugin solution for Backbone collections with configurable sort order directions (ascending or descending) and types including numeric, alphabet, dates, and boolean values.
 
 - **Validation**
 
@@ -236,5 +238,5 @@
 - **Window & Layout Managers**
 
 
-- **WYSIWYG, Text Editos & Misc Editors**
+- **WYSIWYG, Text Editors & Misc Editors**
 

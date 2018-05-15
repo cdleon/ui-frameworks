@@ -6,6 +6,7 @@
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) :gift_heart: - The perfect Front-End Checklist for modern websites and meticulous developers [https://frontendchecklist.io](https://frontendchecklist.io)
 * [Grab Front End Guide](https://github.com/grab/front-end-guide) :gift_heart: - Study guide and introduction to the modern front end stack.
 * [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript) :gift_heart: - A useful list of must-watch talks about JavaScript.
+* Managing Page Transitions In Backbone Apps[](https://lostechies.com/derickbailey/2011/09/15/zombies-run-managing-page-transitions-in-backbone-apps/) :gift_heart: - Managing Page Transitions In Backbone Apps
 * [Project Guidelines](https://github.com/wearehive/project-guidelines) :gift_heart: - A set of best practices for JavaScript projects.
 * [Solid](https://github.com/solid/solid) :gift_heart: - Re-decentralizing the web.
 * [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox) :gift_heart: - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox. [https://philipwalton.github.io/solved-by-flexbox/](https://philipwalton.github.io/solved-by-flexbox/)

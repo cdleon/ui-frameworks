@@ -2,7 +2,7 @@
 
 ## Contributing Guidelines
 
-**\[title\]\(github repo url\) :gift_heart|rainbow|moneybag: - description \[website url\]\(website url\) *website link only if website exists**
+### \[title\]\(github repo url\) :gift_heart|rainbow|moneybag: - description \[website url\]\(website url\) *website link only if website exists
 
 + Client-side only
 + Titles should be capitilized (unless is intended to start with lower case [like for example the iPhone])

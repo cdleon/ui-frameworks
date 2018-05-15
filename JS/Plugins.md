@@ -2,13 +2,16 @@
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
 - **Accesibility**
   * [Tota11y](https://github.com/Khan/tota11y) :gift_heart: - an accessibility (a11y) visualization toolkit. [http://khan.github.io/tota11y/](http://khan.github.io/tota11y/)
+
 - **Alerts, Modals & Notifications**
+
   * [CSS Modals](https://github.com/drublic/css-modal) :gift_heart: - A modal built with pure CSS, enhanced with JavaScript [https://drublic.github.io/css-modal](https://drublic.github.io/css-modal)
   * [iNotify](https://github.com/jaywcjlove/iNotify) :gift_heart: - JS achieve the browser title flashing , scrolling, voice prompts , browser notice. [https://git.io/iNotify](https://git.io/iNotify)
   * [jsModal](https://github.com/utveckla/jsModal) :gift_heart: - Modal generator in pure JavaScript. - An open-source modal box engine written in pure JavaScript. [http://jsmodal.com/](http://jsmodal.com/)
   * [Modal](https://github.com/humaan/Modaal) :gift_heart: - An accessible dialog window library for all humans. [http://humaan.com/modaal/](http://humaan.com/modaal/)
   * [Notiejs](https://github.com/jaredreich/notie) :gift_heart: - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies. [https://jaredreich.com/notie](https://jaredreich.com/notie)
   * [Notification Logger](https://github.com/hkirat/notification-logger) :gift_heart: - Desktop notification for your console Logs. [https://hkirat.github.io/notification-logger/](https://hkirat.github.io/notification-logger/)
+
 - **AR**
   * [AR.js](https://github.com/jeromeetienne/AR.js) :gift_heart: - Efficient Augmented Reality for the Web - 60fps on mobile. [https://github.com/jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js)
 - **Automation & Scraping**
@@ -245,7 +248,7 @@
   * [Holmes](https://github.com/Haroenv/holmes) :gift_heart: - Fast and easy searching inside a page. [https://haroen.me/holmes/](https://haroen.me/holmes/)
   * [Wade](https://github.com/kbrsh/wade) :gift_heart: - Blazing fast 1kb search. [https://github.com/kbrsh/wade](https://github.com/kbrsh/wade)
 - **Selection Processing & Effects**
- * [Rangy](https://github.com/timdown/rangy) :gift_heart: - A cross-browser JavaScript range and selection library. [https://lezuse.github.io/rangy/demos/core.html](https://lezuse.github.io/rangy/demos/core.html)
+  * [Rangy](https://github.com/timdown/rangy) :gift_heart: - A cross-browser JavaScript range and selection library. [https://lezuse.github.io/rangy/demos/core.html](https://lezuse.github.io/rangy/demos/core.html)
 - **Security**
   * [StatiCrypt](https://github.com/robinmoisson/staticrypt) :gift_heart: - Password protect a static HTML page. [https://robinmoisson.github.io/staticrypt/](https://robinmoisson.github.io/staticrypt/)
   * [XSS'OR](https://github.com/evilcos/xssor2) :gift_heart: - XSS'OR Hack with JavaScript. [http://xssor.io/](http://xssor.io/)

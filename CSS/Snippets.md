@@ -1,6 +1,8 @@
 ### CSS Snippets
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
+
 - **Libraries**
+
   * [1stWebDesigner](http://1stwebdesigner.com/css-cheat-sheet/) :gift_heart: - 25 Incredibly Useful CSS Snippets for Developers.
   * [Bootsnipp](http://bootsnipp.com/) :gift_heart: -  Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework.
   * [Cody House](https://codyhouse.co/) :rainbow: - A free library of HTML, CSS, JS nuggets.
@@ -15,5 +17,7 @@
   * [Snipplr](http://snipplr.com/) :gift_heart: - All of our code snippets are stored in one place.
   * [Snipt](https://snipt.net/public/tag/css/) :gift_heart: - The publishing platform for coders.
   * [Speckyboy](https://speckyboy.com/25-css-snippets-for-some-of-the-most-common-and-frustrating-tasks/) :gift_heart: - 25 CSS Snippets for Some of the Most Common and Frustrating Tasks.
+
 - **Other**
+
   * [Github Corners](https://github.com/tholman/github-corners) :gift_heart: - "Fork me on GitHub" ribbons are 7 years old. This is a cleaner alternative.

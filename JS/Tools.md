@@ -1,6 +1,8 @@
 ### JS Tools
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
 - **Automation**
+  * [Chromeless](https://github.com/graphcool/chromeless) :gift_heart: - Chrome automation made simple. Runs locally or headless on AWS Lambda. [https://chromeless.netlify.com](https://chromeless.netlify.com)
+  * [Puppeteer](https://github.com/GoogleChrome/puppeteer) :gift_heart: - Headless Chrome Node API. [https://try-puppeteer.appspot.com/](https://try-puppeteer.appspot.com/)
   * [Taskr](https://github.com/lukeed/taskr) :gift_heart: - A fast, concurrency-focused task automation tool.
 - **BenchMarking**
   * [Benchmarks.js](https://github.com/bestiejs/benchmark.js) :gift_heart: - A benchmarking library. As used on jsPerf.com.

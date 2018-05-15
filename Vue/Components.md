@@ -2,5 +2,64 @@
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
 - **Admin**
   * [Vuestic Admin Dashboard](https://github.com/epicmaxco/vuestic-admin) :gift_heart: - Vue.js admin dashboar. [http://epicmax.co/vuestic](http://epicmax.co/vuestic)
+- **Accesibility**
+- **Alerts, Modals & Notifications**
+- **AR**
+- **Automation & Scraping**
+- **Calendars & Date Pickers**
+- **Caching & Offline First**
+- **Chat & Messaging**
+- **Colors**
+- **Computer Vision**
+- **Cut & Paste**
+- **Databases & Persistent layers**
+- **Data Binding**
 - **Data Processing & Visualization**
   * [vue-recyclerview](https://github.com/hilongjw/vue-recyclerview) :gift_heart: - Mastering Large Lists with the vue-recyclerview. [https://hilongjw.github.io/vue-recyclerview/](https://hilongjw.github.io/vue-recyclerview/)
+- **DateTime**
+- **Drag & Drop**
+- **Design Tools**
+- **File Upload**
+- **Forms & Input**
+- **Gaming & Game Development**
+- **Graphics & Animation**
+- **Grid**
+- **HTTP Clients**
+- **Image & Content Sliders**
+- **Image Manipulation**
+- **Key Bindings & Mouse Events**
+- **LazyLoaders**
+- **Libraries**
+- **Loaders**
+- **Maps**
+- **Media Queries**
+- **Media Players & Media Manipulators**
+- **Menus & Navigation**
+- **Music**
+- **Natural Language Processing**
+- **Presentations**
+- **Printing**
+- **Pointers & Tooltips**
+- **Polyfills**
+- **Progress & Loading Bars**
+- **Range Sliders**
+- **Randomizers and ID generators**
+- **Routing & Browse History**
+- **Scroll Bars**
+- **Scrolling & Parallax**
+- **Search**
+- **Selection Processing & Effects**
+- **Security**
+- **Social**
+- **State & Store Management**
+- **Streaming**
+- **Text Effects & Text Manipulation**
+- **Third Party Integrations**
+- **Torrents**
+- **Transition & Effects**
+- **Utility**
+- **Validation**
+- **Video**
+- **Virtualization**
+- **Window & Layout Managers**
+- **WYSIWYG, Text Editos & Misc Editors**

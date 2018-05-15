@@ -12,8 +12,6 @@
 - **AR**
   * [AR.js](https://github.com/jeromeetienne/AR.js) :gift_heart: - Efficient Augmented Reality for the Web - 60fps on mobile. [https://github.com/jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js)
 - **Automation & Scraping**
-  * [Chromeless](https://github.com/graphcool/chromeless) :gift_heart: - Chrome automation made simple. Runs locally or headless on AWS Lambda. [https://chromeless.netlify.com](https://chromeless.netlify.com)
-  * [Puppeteer](https://github.com/GoogleChrome/puppeteer) :gift_heart: - Headless Chrome Node API. [https://try-puppeteer.appspot.com/](https://try-puppeteer.appspot.com/)
 - **Calendars & Date Pickers**
   * [DatePickr](https://github.com/joshsalverda/datepickr) :gift_heart: - A simple JavaScript date picker. [http://joshsalverda.github.io/datepickr/](http://joshsalverda.github.io/datepickr/)
   * [Flatpickr](https://github.com/chmln/flatpickr) :gift_heart: - Lightweight, powerful datetimepicker. Zero dependencies. [https://chmln.github.io/flatpickr/](https://chmln.github.io/flatpickr/)

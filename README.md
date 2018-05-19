@@ -36,7 +36,7 @@ Please read manifest to contribute :)
 ##### <a id="backbone"></a>Backbone
 * [Frameworks](https://github.com/cdleon/awesome-front-end/blob/master/Backbone/Frameworks.md)
 * [Guides](https://github.com/cdleon/awesome-front-end/blob/master/Backbone/Guides.md)
-* [Plugins](https://github.com/cdleon/awesome-front-end/blob/master/Backbone/Guides.md)
+* [Plugins](https://github.com/cdleon/awesome-front-end/blob/master/Backbone/Plugins.md)
 * [Snippets](https://github.com/cdleon/awesome-front-end/blob/master/Backbone/Snippets.md)
 * [Tools](https://github.com/cdleon/awesome-front-end/blob/master/Backbone/Tools.md)
 

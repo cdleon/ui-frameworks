@@ -101,6 +101,9 @@
   * [Day.js](https://github.com/xx45/dayjs) :gift_heart: - Fast 2KB immutable date library alternative to Moment.js with the same modern API. [https://github.com/xx45/dayjs](https://github.com/xx45/dayjs)
   * [Luxon](https://github.com/moment/luxon) :gift_heart: - A library for working with dates and times in JS [https://moment.github.io/luxon](https://moment.github.io/luxon)
   * [Moment.js](https://github.com/moment/moment) :gift_heart: - Parse, validate, manipulate, and display dates in javascript. [http://momentjs.com](http://momentjs.com)
+  
+- **Documents**
+  * [ReLaXed](https://github.com/RelaxedJS/ReLaXed) :gift_heart: - Create PDF documents using web technologies. [https://camo.githubusercontent.com/be077d7379399961977b45a802b675f5c18f170a/68747470733a2f2f692e696d6775722e636f6d2f344e34665359592e676966](https://camo.githubusercontent.com/be077d7379399961977b45a802b675f5c18f170a/68747470733a2f2f692e696d6775722e636f6d2f344e34665359592e676966)
 
 - **Drag & Drop**
 

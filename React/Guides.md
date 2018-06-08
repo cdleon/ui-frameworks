@@ -21,6 +21,7 @@
 * [RealWorld Example Apps](https://github.com/gothinkster/realworld) :gif_heart: - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more. [https://realworld.io](https://realworld.io/)
 * [Solid](https://github.com/solid/solid) :gift_heart: - Re-decentralizing the web.
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) :gift_heart: -  A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
+* [The Meteor Chef](https://themeteorchef.com/) :gift_heart: - Our entire catalog of tutorials, essays, and blog posts.
 * [Todo MVC](https://github.com/tastejs/todomvc) :gift_heart: - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more. [http://todomvc.com](http://todomvc.com)
 * [Under the hood: React](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS) :gift_heart: - Entire React code base explanation by visual block schemes (Stack+Fiber versions). [https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
 * [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap) :gift_heart: - Roadmap to becoming a web developer in 2018.

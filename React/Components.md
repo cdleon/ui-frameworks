@@ -1,6 +1,10 @@
 ### React Components
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
 
+- **:pushpin: Component Directories :pushpin:**
+  * [awesome-react](https://github.com/enaqx/awesome-react) :gift_heart: - A collection of awesome things regarding React ecosystem.
+  * [awesome-react-components](https://github.com/brillout/awesome-react-components) :gift_heart: - Catalog of React Components & Libraries. https://devarchy.com/react
+
 - **Alerts, Modals & Notifications**
 
 

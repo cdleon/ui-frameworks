@@ -35,6 +35,12 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [react-virtualized](https://github.com/bvaughn/react-virtualized) :gift_heart: - React components for efficiently rendering large lists and tabular data [http://www.reactvirtualized.com](http://www.reactvirtualized.com)
   * [reactable](https://github.com/glittershark/reactable) :gift_heart: - Fast, flexible, and simple data tables in React [http://glittershark.github.io/reactable](http://glittershark.github.io/reactable)
   * [redux-data-table](https://github.com/lewisl9029/redux-data-table) :gift_heart: - Simple React + Redux + ImmutableJS data table with item filtering, sorting, pagination and removal. [https://lewisl9029.github.io/redux-data-table/](https://lewisl9029.github.io/redux-data-table/)
+  
+
+- **Docs & Office**
+
+  * [Handsontable](https://github.com/handsontable/handsontable) :gift_heart: - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue, Angular and Polymer. [https://handsontable.com](https://handsontable.com)
+  * [react-pdf](https://github.com/diegomura/react-pdf) :gift_heart: - Create PDF files using React.
 
 - **Form & Input**
 
@@ -75,10 +81,6 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
 - **Misc**
 
   * [Terminal in React](https://github.com/nitin42/terminal-in-react) :gift_heart: - A component that renders a terminal [http://terminal-in-react.surge.sh/](http://terminal-in-react.surge.sh/)
-
-- **Office & Documents**
-
-  * [react-pdf](https://github.com/diegomura/react-pdf) :gift_heart: - Create PDF files using React.
 
 - **Routing**
 

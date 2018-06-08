@@ -10,10 +10,12 @@
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) :gift_heart: - The perfect Front-End Checklist for modern websites and meticulous developers [https://frontendchecklist.io](https://frontendchecklist.io)
 * [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript) :gift_heart: - A useful list of must-watch talks about JavaScript.
 * [Project Guidelines](https://github.com/wearehive/project-guidelines) :gift_heart: - A set of best practices for JavaScript projects.
+* [react-demos](https://github.com/ruanyf/react-demos) :gift_heart: - A collection of simple demos of React.js.
 * [React-howto](https://github.com/petehunt/react-howto) :gift_heart: - Your guide to the (sometimes overwhelming!) React ecosystem.
 * [React Express](https://github.com/dabbott/react-express) :gift_heart: - The all-in-one beginner's guide to modern React application development! [http://www.react.express](http://www.react.express)
 * [React Fundamentals](https://github.com/ReactjsProgram/React-Fundamentals) :gift_heart: - Code for "React Fundamentals" videos. [http://www.reactjsprogram.com/](http://www.reactjsprogram.com/)
 * [react-redux-cheatsheet](https://github.com/uanders/react-redux-cheatsheet) :gift_heart: -  React Redux Cheat Sheet on Workflow & Concept.
+* [react-redux-links](https://github.com/markerikson/react-redux-links) :gift_heart: - Curated tutorial and resource links I've collected on React, Redux, ES6, and more.
 * [React in patterns](https://github.com/krasimir/react-in-patterns) :gift_heart: - A free book that talks about design patterns/techniques used while developing with React. [https://legacy.gitbook.com/book/krasimir/react-in-patterns/details](https://legacy.gitbook.com/book/krasimir/react-in-patterns/details)
 * [react-yelp-clone](https://github.com/fullstackreact/react-yelp-clone) :gift_heart: - Tutorial: Build a Yelp-clone in React. [https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
 * [RealWorld Example Apps](https://github.com/gothinkster/realworld) :gif_heart: - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more. [https://realworld.io](https://realworld.io/)

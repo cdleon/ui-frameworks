@@ -85,8 +85,9 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [Marty](https://github.com/martyjs/marty) :gift_heart: - A Javascript library for state management in React applications. [http://martyjs.org/](http://martyjs.org/)
   * [Unistore](https://github.com/developit/unistore) :gift_heart: - 650b state container with component actions for Preact & React [https://npm.im/unistore](https://npm.im/unistore)
 
-- **Social Media**
+- **Social Media & Community**
 
+  * [react-rating](https://github.com/dreyescat/react-rating) :gift_heart: - A rating react component with custom symbols. [http://dreyescat.github.io/react-rating/](http://dreyescat.github.io/react-rating/)
   * [react-tweet-embed](https://github.com/capaj/react-tweet-embed) :gift_heart - Component that you supply tweet id and you'll get a tweet embed back, nothing more. [https://dev.twitter.com/web/embedded-tweets/parameters](https://dev.twitter.com/web/embedded-tweets/parameters)
 
 - **Text Effects & Text Manipulation**
@@ -104,4 +105,8 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
 
 - **WYSIWYG**
 
+  * [draft.js](https://github.com/facebook/draft-js) :gift_heart: - A React framework for building text editors. [https://draftjs.org/](https://draftjs.org/)
   * [Ory](https://github.com/ory/editor) :gift_heart: - Next-gen, highly customizable content editor for the browser - based on React and Redux. WYSIWYG on steroids. (https://editor.ory.am/?utm_source=github&utm_medium=header&utm_campaign=editor)[https://editor.ory.am/?utm_source=github&utm_medium=header&utm_campaign=editor]
+  * [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) :gift_heart: - A Wysiwyg editor build on top of ReactJS and DraftJS. [https://jpuri.github.io/react-draft-wysiwyg](https://jpuri.github.io/react-draft-wysiwyg)
+  * [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg) :gift_heart: - React component for Froala WYSIWYG HTML Rich Text Editor. [https://froala.com/wysiwyg-editor](https://froala.com/wysiwyg-editor)
+  * [react-quill](https://github.com/zenoamaro/react-quill) :gift_heart: - A Quill component for React. [https://zenoamaro.github.io/react-quill](https://zenoamaro.github.io/react-quill)

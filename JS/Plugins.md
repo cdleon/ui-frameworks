@@ -117,6 +117,9 @@
 - **Design Tools**
 
   * [Coolhue](https://github.com/webkul/coolhue) :gift_heart: - Coolest Gradient Hues and Swatches by UVdesk [https://webkul.github.io/coolhue](https://webkul.github.io/coolhue)
+  
+- **Docs & Office**
+  * [SheetJS js-xlsx](https://github.com/SheetJS/js-xlsx) :gift_heart: - SheetJS Community Edition -- Spreadsheet Parser and Writer [https://sheetjs.com/](https://sheetjs.com/)
 
 - **File Upload**
 

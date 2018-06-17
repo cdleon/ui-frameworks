@@ -17,3 +17,4 @@
 * [Relay](https://github.com/facebook/relay) :gift_heart: - Relay is a JavaScript framework for building data-driven React applications. [https://facebook.github.io/relay/](https://facebook.github.io/relay/)
 * [Ring UI](https://github.com/JetBrains/ring-ui) :gift_heart: - A collection of JetBrains Web UI components. [https://jetbrains.org/ring-ui](https://jetbrains.org/ring-ui)
 * [Uiw](https://github.com/uiw-react/uiw) :gift_heart: - A high quality UI Toolkit, A Component Library for React 16+. [https://uiw-react.github.io](https://uiw-react.github.io)
+* [wired-elements](https://github.com/wiredjs/wired-elements) :gift_heart: - Collection of elements that appear hand drawn. Great for wireframes. [https://wiredjs.com](https://wiredjs.com)

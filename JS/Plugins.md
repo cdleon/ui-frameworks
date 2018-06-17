@@ -328,6 +328,7 @@
   * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart: - Infinite list in javascript that scrolls in 60fps. [http://roeierez.github.io/infinite-list/examples/react/index.html](http://roeierez.github.io/infinite-list/examples/react/index.html)
   * [iScroll](https://github.com/cubiq/iscroll) :gift_heart: - Smooth scrolling for the web. [http://iscrolljs.com/](http://iscrolljs.com/)
   * [Parallax.js](https://github.com/wagerfield/parallax) :gift_heart: - Parallax Engine that reacts to the orientation of a smart device. [https://github.com/wagerfield/parallax](https://github.com/wagerfield/parallax)
+  * [PullToRefresh.js](https://github.com/BoxFactura/pulltorefresh.js) :gift_heart: - A quick and powerful plugin for your pull-to-refresh needs in your webapp. [http://boxfactura.com/pulltorefresh.js/](http://boxfactura.com/pulltorefresh.js/)
   * [Scrollama.js](https://github.com/russellgoldenberg/scrollama) : gift_heart: - Scrollytelling with IntersectionObserver. [https://russellgoldenberg.github.io/scrollama/basic/](https://russellgoldenberg.github.io/scrollama/basic/)
   * [Scrollerjs](https://github.com/forcedotcom/scrollerjs) :gift_heart: - A JavaScript library that helps you build performant UI components for the web. [http://scrollerjs.com/](http://scrollerjs.com/)
   * [ScrollMagic](https://github.com/janpaepke/ScrollMagic) :gift_heart: - The javascript library for magical scroll interactions. [http://scrollmagic.io/](http://scrollmagic.io/)

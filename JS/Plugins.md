@@ -105,6 +105,7 @@
   
 - **Documents**
   * [ReLaXed](https://github.com/RelaxedJS/ReLaXed) :gift_heart: - Create PDF documents using web technologies. [https://camo.githubusercontent.com/be077d7379399961977b45a802b675f5c18f170a/68747470733a2f2f692e696d6775722e636f6d2f344e34665359592e676966](https://camo.githubusercontent.com/be077d7379399961977b45a802b675f5c18f170a/68747470733a2f2f692e696d6775722e636f6d2f344e34665359592e676966)
+  * [Strapdown.js](https://github.com/arturadib/strapdown) :gift_heart: - Instant and elegant Markdown documents in the browser. [http://strapdownjs.com](http://strapdownjs.com)
 
 - **Drag & Drop**
 

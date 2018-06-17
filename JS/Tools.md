@@ -77,6 +77,7 @@
 - **Testing**
 
   * [Jest](https://github.com/facebook/jest) :gift_heart: - Painless JavaScript Unit Testing built on top of the Jasmine test framework.
+  * [Polly.js](https://github.com/Netflix/pollyjs) :gift_heart: - Record, Replay, and Stub HTTP Interactions. [https://netflix.github.io/pollyjs](https://netflix.github.io/pollyjs)
   * [QUnit](https://github.com/jquery/qunitjs.com) :gift_heart: - QUnit is a powerful, easy-to-use JavaScript unit testing framework.
   * [TestSwarm](https://github.com/jquery/testswarm) :gift_heart: - Distributed continuous integration testing for JavaScript.
 

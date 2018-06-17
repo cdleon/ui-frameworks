@@ -57,8 +57,9 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [react-move](https://github.com/react-tools/react-move) :gift_heart: - Beautiful, data-driven animations for React [https://react-move.js.org](https://react-move.js.org)
   * [react-spring](https://github.com/drcmda/react-spring) :gift_heart: - Helping react-motion and animated to become best friends [http://react-spring.surge.sh/](http://react-spring.surge.sh/)
 
-- **Image Processing**
+- **Images && Image Processing**
 
+  * [react-ideal-image](https://github.com/stereobooster/react-ideal-image) :gift_heart: - An Almost Ideal React Image Component. [https://stereobooster.github.io/react-ideal-image-experiments/](https://stereobooster.github.io/react-ideal-image-experiments/)
   * [react-imgpro](https://github.com/nitin42/react-imgpro) :gift_heart: - Image Processing Component for React. [https://camo.githubusercontent.com/f7b399fa47ba82ce6ec817428c0f7b9048cb6480/687474703a2f2f672e7265636f726469742e636f2f586d68546950383454442e676966](https://camo.githubusercontent.com/f7b399fa47ba82ce6ec817428c0f7b9048cb6480/687474703a2f2f672e7265636f726469742e636f2f586d68546950383454442e676966)
 
 - **Libraries**

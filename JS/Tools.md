@@ -47,6 +47,10 @@
   * [JSHint](https://github.com/jshint/jshint) :gift_heart: - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
   * [JSLint](https://github.com/reid/node-jslint) :gift_heart: - The JavaScript Code Quality Tool — for Node.js.
 
+- **Managing**
+
+  * [JSUI](https://github.com/kitze/JSUI) :gift_heart: - A powerful UI toolkit for managing JavaScript apps. [https://github.com/kitze/JSUI](https://github.com/kitze/JSUI)
+
 - **Minifiers**
 
   * [Javscript Minifier](http://javascript-minifier.com/) :gift_heart: - JavaScript Minifier/Compressor. Free! Provides an API. Simple Quick and Fast.

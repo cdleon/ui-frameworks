@@ -15,6 +15,7 @@
 - **Databases & Persistent layers**
 - **Data Binding**
 - **Data Processing & Visualization**
+  * [v-charts](https://github.com/ElemeFE/v-charts) :gift_heart: - Vue2.0 ECharts [https://v-charts.js.org/#/](https://v-charts.js.org/#/)
   * [vue-recyclerview](https://github.com/hilongjw/vue-recyclerview) :gift_heart: - Mastering Large Lists with the vue-recyclerview. [https://hilongjw.github.io/vue-recyclerview/](https://hilongjw.github.io/vue-recyclerview/)
 - **DateTime**
 - **Drag & Drop**

@@ -80,6 +80,7 @@
   * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart: - Draws simple SVG flow chart diagrams from textual representation of the diagram. [http://flowchart.js.org/](http://flowchart.js.org/)
   * [Frappé Charts](https://github.com/frappe/charts) :gift_heart: -  Simple, responsive, modern SVG Charts with zero dependencies. [https://frappe.github.io/charts](https://frappe.github.io/charts)
   * [G2](https://github.com/antvis/g2) :gift_heart: - G2 (The Grammar of Graphics). [https://antv.alipay.com/zh-cn/g2/3.x/index.html](https://antv.alipay.com/zh-cn/g2/3.x/index.html)
+  * [g6](https://github.com/antvis/g6) :gift_heart: - A Graph Visualization Framework in JavaScript. [https://antv.alipay.com/zh-cn/g6/1.x/index.html](https://antv.alipay.com/zh-cn/g6/1.x/index.html)
   * [graph-scroll.js](https://github.com/1wheel/graph-scroll) :gift_heart: - Simple scrolling events for d3 graphs. Based on stack. [https://github.com/1wheel/graph-scroll](https://github.com/1wheel/graph-scroll)
   * [Heatmap.js](https://github.com/pa7/heatmap.js) :gift_heart: - JavaScript Library for HTML5 canvas based heatmaps. [https://www.patrick-wied.at/static/heatmapjs/](https://www.patrick-wied.at/static/heatmapjs/)
   * [Highcharts](http://www.highcharts.com/) :rainbow: - Add interactive charts to your web site or web application. [http://www.highcharts.com/](http://www.highcharts.com/)
@@ -208,6 +209,7 @@
   * [JS Paint](https://github.com/1j01/jspaint) :gift_heart: - Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras [http://1j01.github.io/jspaint/](http://1j01.github.io/jspaint/)
   * [Smartcrop.js](https://github.com/jwagner/smartcrop.js) :gift_heart: - Smartcrop.js implements an algorithm to find good crops for images. [https://29a.ch/2014/04/03/smartcrop-content-aware-image-cropping](https://29a.ch/2014/04/03/smartcrop-content-aware-image-cropping)
   * [SVG Edit](https://github.com/SVG-Edit/svgedit) :gift_heart: - Powerful SVG-Editor on your browser. [https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html)
+  * [Vivid.js](https://github.com/webkul/vivid) :gift_heart: - A JavaScript library which is built to easily customize and use the SVG Icons with a blaze. [https://webkul.github.io/vivid](https://webkul.github.io/vivid)
   * [Watermark.js](https://github.com/brianium/watermarkjs) :gift_heart: - Watermarking for the browser. [http://brianium.github.io/watermarkjs/](http://brianium.github.io/watermarkjs/)
 
 - **Key Bindings & Mouse Events**

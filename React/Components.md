@@ -90,10 +90,10 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
 
 - **Scrolling & Parallax**
   * [react-custom-scroll](https://github.com/rommguy/react-custom-scroll) :gift_heart: - Easily customize the browser scroll bar with native OS scroll behavior/ [https://rommguy.github.io/react-custom-scroll/example/demo.html](https://rommguy.github.io/react-custom-scroll/example/demo.html)
+  * [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) :gift_heart: - React scrollbars component. [https://malte-wessel.github.io/react-custom-scrollbars/](https://malte-wessel.github.io/react-custom-scrollbars/)
   * [react-gemini-scrollbar](https://github.com/noeldelgado/react-gemini-scrollbar) :gift_heart: - React component for custom overlay-scrollbars with native scrolling mechanism. [https://noeldelgado.github.io/gemini-scrollbar/](https://noeldelgado.github.io/gemini-scrollbar/)
   * [react-perfect-scrollbar](https://github.com/goldenyz/react-perfect-scrollbar) :gift_heart: - A react wrapper for perfect-scrollbar. [https://utatti.github.io/perfect-scrollbar/](https://utatti.github.io/perfect-scrollbar/)
   * [react-scrollbar](https://github.com/souhe/reactScrollbar) :gift_heart: - Scrollbar component for React. [https://souhe.github.io/reactScrollbar/](https://souhe.github.io/reactScrollbar/)
-  * [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) :gift_heart: - React scrollbars component. [https://malte-wessel.github.io/react-custom-scrollbars/](https://malte-wessel.github.io/react-custom-scrollbars/)
   * [simple-scrollbar](https://github.com/buzinas/simple-scrollbar) :gift_heart: - Very simple and lightweight vanilla javascript library for creating a custom scrollbar cross-browser. [https://buzinas.github.io/simple-scrollbar/](https://buzinas.github.io/simple-scrollbar/)
 
 - **State & Store Management**

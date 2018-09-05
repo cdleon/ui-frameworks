@@ -124,6 +124,6 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [draft.js](https://github.com/facebook/draft-js) :gift_heart: - A React framework for building text editors. [https://draftjs.org/](https://draftjs.org/)
   * [Ory](https://github.com/ory/editor) :gift_heart: - Next-gen, highly customizable content editor for the browser - based on React and Redux. WYSIWYG on steroids. [https://editor.ory.am](https://editor.ory.am)
   * [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) :gift_heart: - A Wysiwyg editor build on top of ReactJS and DraftJS. [https://jpuri.github.io/react-draft-wysiwyg](https://jpuri.github.io/react-draft-wysiwyg)
-  * [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg) :gift_heart: - React component for Froala WYSIWYG HTML Rich Text Editor. [https://froala.com/wysiwyg-editor](https://froala.com/wysiwyg-editor)
+  * [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg) :moneybag: - React component for Froala WYSIWYG HTML Rich Text Editor. [https://froala.com/wysiwyg-editor](https://froala.com/wysiwyg-editor)
   * [react-quill](https://github.com/zenoamaro/react-quill) :gift_heart: - A Quill component for React. [https://zenoamaro.github.io/react-quill](https://zenoamaro.github.io/react-quill)
   * [react-rte](https://github.com/sstur/react-rte) :gift_heart: - Pure React rich text "WYSISYG" editor based on draft-js. [https://react-rte.org](https://react-rte.org)

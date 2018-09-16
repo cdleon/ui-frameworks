@@ -254,7 +254,8 @@
 
   * [Audio.js](https://github.com/kolber/audiojs) :fidt_heart: - A cross-browser javascript wrapper for the html5 audio tag. [https://kolber.github.io/audiojs/](https://kolber.github.io/audiojs/)
   * [Canvid.js](https://github.com/gka/canvid) :gift_heart: - tiny js library for playing video on canvas elements (without audio). [https://gka.github.io/canvid/](https://gka.github.io/canvid/)
-  * [Clappr](https://github.com/clappr/clappr) :gift_heart: - An extensible media player for the web. [http://clappr.io/](http://clappr.io/)
+  * [Clappr](https://github.com/clappr/clappr) :gift_heart: - An extensible media player for the web. (http://clappr.io)[http://clappr.io/](http://clappr.io/)
+  * [clappr-rtmp-plugin](https://github.com/video-dev/clappr-rtmp-plugin) :gift_heart: - RTMP support for Clappr player. (http://clappr.io)[http://clappr.io)
   * [Dash.js](https://github.com/Dash-Industry-Forum/dash.js) :gift_heart: - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers. [http://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/index.html](http://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/index.html)
   * [Flowplayer](https://github.com/flowplayer/flowplayer) :gift_heart: - The HTML5 video player for the web. [https://flowplayer.org/](https://flowplayer.org/)
   * [Hls.js](https://github.com/video-dev/hls.js) :gift_heart: - JavaScript HLS client using Media Source Extension [http://video-dev.github.io/hls.js/demo](http://video-dev.github.io/hls.js/demo)

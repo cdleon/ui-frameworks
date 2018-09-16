@@ -78,6 +78,7 @@
   * [D3.Compose](https://github.com/CSNW/d3.compose) :gift_heart: - Compose complex, data-driven visualizations from reusable charts and components with d3. [http://csnw.github.io/d3.compose/](http://csnw.github.io/d3.compose/)
   * [D3-Shape](https://github.com/d3/d3-shape) :gift_heart: - Graphical primitives for visualization, such as lines and areas. [https://tonicdev.com/npm/d3-shape](https://tonicdev.com/npm/d3-shape)
   * [ECharts](https://github.com/apache/incubator-echarts) :gift_heart: - A powerful, interactive charting and visualization library for browser. [http://echarts.baidu.com/](http://echarts.baidu.com/)
+  * [F2](https://github.com/antvis/f2) :gift_heart: - An elegant, interactive and flexible charting library for mobile. [https://antv.alipay.com/zh-cn/f2/3.x/index.html](https://antv.alipay.com/zh-cn/f2/3.x/index.html)
   * [Flowchart.js](https://github.com/adrai/flowchart.js) :gift_heart: - Draws simple SVG flow chart diagrams from textual representation of the diagram. [http://flowchart.js.org/](http://flowchart.js.org/)
   * [Frappé Charts](https://github.com/frappe/charts) :gift_heart: -  Simple, responsive, modern SVG Charts with zero dependencies. [https://frappe.github.io/charts](https://frappe.github.io/charts)
   * [G2](https://github.com/antvis/g2) :gift_heart: - G2 (The Grammar of Graphics). [https://antv.alipay.com/zh-cn/g2/3.x/index.html](https://antv.alipay.com/zh-cn/g2/3.x/index.html)

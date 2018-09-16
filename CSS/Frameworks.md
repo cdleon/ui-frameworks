@@ -6,6 +6,7 @@
 - [Bootmetro](https://github.com/aozora/bootmetro) :gift_heart: - Simple and flexible web framework to create elegant and modern web applications
 with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](http://www.marcellop.com/bootmetro/)
 - [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart: - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. [http://getbootstrap.com](http://getbootstrap.com)
+- [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) :gift_heart: - Material design theme for Bootstrap 3 and 4. [https://fezvrasta.github.io/bootstrap-material-design/](https://fezvrasta.github.io/bootstrap-material-design/)
 - [Bulma](https://github.com/jgthms/bulma) :gift_heart: - Modern CSS framework based on Flexbox. [http://bulma.io](http://bulma.io)
 - [Cascade](https://github.com/jslegers/cascadeframework/) :gift_heart: Cascade Framework. [http://cascade-framework.com/](http://cascade-framework.com/)
 - [ConciseCSS](https://github.com/ConciseCSS/concise.css) :gift_heart: A CSS framework that's lightweight and easy-to-use. Give up the bloat. Stop tripping over your classes. Be Concise. [http://concisecss.com/](http://concisecss.com/)

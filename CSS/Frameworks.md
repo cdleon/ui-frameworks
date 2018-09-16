@@ -1,6 +1,8 @@
 ### CSS Frameworks
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
+- [960 Grid System](https://github.com/nathansmith/960-Grid-System) :gift_heart: - The 960 Grid System is an effort to streamline web development workflow. [http://960.gs](http://960.gs)
 - [Amaze UI](https://github.com/amazeui/amazeui) :gift_heart: - Amaze UI, a mobile-first and modular front-end framework. [http://amazeui.org/](http://amazeui.org/)
+- [Blueprint](https://github.com/joshuaclayton/blueprint-css) :gift_heart: - A CSS framework that aims to cut down on your CSS development time [http://www.blueprintcss.org](http://www.blueprintcss.org)
 - [Bootmetro](https://github.com/aozora/bootmetro) :gift_heart: - Simple and flexible web framework to create elegant and modern web applications
 with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](http://www.marcellop.com/bootmetro/)
 - [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart: - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. [http://getbootstrap.com](http://getbootstrap.com)
@@ -14,6 +16,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - [Less Framework](https://github.com/jonikorpi/Less-Framework) :gift_heart: - An adaptive CSS grid system. [http://www.jonikorpi.com/less-framework/](http://www.jonikorpi.com/less-framework/)
 - [Material Design Lite](https://github.com/google/material-design-lite) :gift_heart: - Material Design Lite (MDL) lets you add a Material Design look and feel to your static content websites. It doesn't rely on any JavaScript frameworks or libraries. [https://getmdl.io/](https://getmdl.io/)
 - [Materialize](https://github.com/Dogfalo/materialize) :gift_heart: - CSS Framework based on Material Design. [http://materializecss.com](http://materializecss.com)
+- [Metro UI](https://github.com/olton/Metro-UI-CSS) :gift_heart: - Build responsive, mobile-first projects on the web with the first front-end component library in Metro Style. [http://metroui.org.ua/](http://metroui.org.ua/)
 - [Miligram](https://github.com/milligram/milligram) :gift_heart: A minimalist CSS framework. [https://milligram.github.io/](https://milligram.github.io/)
 - [MUI](https://github.com/muicss/mui) :gift_heart: - MUI is a lightweight CSS framework that follows Google's Material Design guidelines. [https://www.muicss.com](https://www.muicss.com)
 - [Office UI Fabric](https://github.com/OfficeDev/office-ui-fabric-core) :gift_heart: - The front-end framework for building experiences for Office 365. [http://dev.office.com/fabric](http://dev.office.com/fabric)

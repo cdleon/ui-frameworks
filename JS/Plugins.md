@@ -160,6 +160,7 @@
   * [Cirque](https://github.com/two-n/cirque) :gift_heart: -  Utilities for negotiating between circles and polygons in SVG. [http://projects.two-n.com/cirque](http://projects.two-n.com/cirque/)
   * [d3.geo2rect](https://github.com/sebastian-meier/d3.geo2rect) :gift_heart: - Morphing geojson polygons into rectangles. [http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html](http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html)
   * [d3-interpolate-path](https://github.com/pbeshai/d3-interpolate-path) :gift_heart: - Interpolates path `d` attribute smoothly when A and B have different number of points. [https://peterbeshai.com/d3-interpolate-path/](https://peterbeshai.com/d3-interpolate-path/)
+  * [dynamics.js](https://github.com/michaelvillar/dynamics.js) :gift_heart: - Javascript library to create physics-based animations [http://dynamicsjs.com](http://dynamicsjs.com)
   * [Flubber](https://github.com/veltman/flubber) :gift_heart: -  Tools for smoother shape animations. [https://veltman.github.io/flubber/demos/circles.html](https://veltman.github.io/flubber/demos/circles.html)
   * [GreenSock MorphSVGPlugin](https://greensock.com/morphSVG) :moneybag: - MorphSVGPlugin provides advanced control over tweens that morph SVG paths. [https://greensock.com/morphSVG](https://greensock.com/morphSVG)
   * [HTML5 Deck of Cards](https://github.com/pakastin/deck-of-cards) :gift_heart: - HTML5 Deck of Cards [https://deck-of-cards.js.org](https://deck-of-cards.js.org)

@@ -24,6 +24,9 @@
 - **Chat & Messaging**
 
   * [Mattermost](https://github.com/mattermost/platform) :gift_heart: - Open source Slack-alternative in Golang and React. [https://www.mattermost.org/](https://www.mattermost.org/)
+  
+- **Code**
+  * [Code Surfer](https://github.com/pomber/code-surfer) :gift_heart: - React component for scrolling, zooming and highlighting code samples. [https://codesurfer.js.org/sample/#0](https://codesurfer.js.org/sample/#0)
 
 - **Data Processing & Visualization**
 

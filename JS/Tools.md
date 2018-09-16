@@ -28,6 +28,9 @@
 
   * [Chrome DevTools App](https://github.com/auchenberg/chrome-devtools-app) :gift_heart: - Chrome DevTools packaged as an app via Electron. [https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/](https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/)
   * [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) :gift_heart: - Redux DevTools extension. [http://extension.remotedev.io](http://extension.remotedev.io)
+  
+- **Dependency Managers**
+  * [Tink](https://github.com/npm/tink) :gift_heart: - A dependency unwinder for javascript.
 
 - **Editors**
 

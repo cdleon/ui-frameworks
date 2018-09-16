@@ -3,6 +3,7 @@
 - [960 Grid System](https://github.com/nathansmith/960-Grid-System) :gift_heart: - The 960 Grid System is an effort to streamline web development workflow. [http://960.gs](http://960.gs)
 - [Amaze UI](https://github.com/amazeui/amazeui) :gift_heart: - Amaze UI, a mobile-first and modular front-end framework. [http://amazeui.org/](http://amazeui.org/)
 - [Blueprint](https://github.com/joshuaclayton/blueprint-css) :gift_heart: - A CSS framework that aims to cut down on your CSS development time [http://www.blueprintcss.org](http://www.blueprintcss.org)
+- [Bluetrip](https://github.com/mikecrittenden/bluetrip) :gift_heart: - A full-featured and beautiful CSS grid framework with an emphasis on typographical goodness. [http://bluetrip.org](http://bluetrip.org)
 - [Bootmetro](https://github.com/aozora/bootmetro) :gift_heart: - Simple and flexible web framework to create elegant and modern web applications
 with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](http://www.marcellop.com/bootmetro/)
 - [Bootsrap](https://github.com/twbs/bootstrap) :gift_heart: - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. [http://getbootstrap.com](http://getbootstrap.com)

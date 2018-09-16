@@ -435,6 +435,7 @@
   * [Quill](https://github.com/quilljs/quill/) :gift_heart: - A cross browser rich text editor with an API. [http://quilljs.com/](http://quilljs.com/)
   * [Ritzy](https://github.com/ritzyed/ritzy) :gift_heart: - Collaborative web-based rich text editor. [http://ritzyed.github.io/ritzy/](http://ritzyed.github.io/ritzy/)
   * [Squire](https://github.com/neilj/Squire) :gift_heart: - HTML5 rich text editor. [http://neilj.github.io/Squire/](http://neilj.github.io/Squire/)
+  * [TinyEditor](https://github.com/umpox/TinyEditor) :gift_heart: - A functional HTML/CSS/JS editor in less than 400 bytes. [https://github.com/umpox/TinyEditor/blob/master/index.html](https://github.com/umpox/TinyEditor/blob/master/index.html)
   * [TinyMCE](https://www.tinymce.com/) :gift_heart: & :moneybag: - inyMCE is a platform independent web-based JavaScript WYSIWYG HTML editor control released as open source under LGPL. [https://www.tinymce.com/](https://www.tinymce.com/)
   * [Toast.ui Editor](https://github.com/nhnent/tui.editor) :gift_heart: - Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible. [http://ui.toast.com/tui-editor](http://ui.toast.com/tui-editor)
   * [Trix](https://github.com/basecamp/trix) :gift_heart: - A Rich Text Editor for Everyday Writing. [https://trix-editor.org/](https://trix-editor.org/)

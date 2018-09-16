@@ -48,5 +48,6 @@
 * [Overview of JavaScript ES6 features (a.k.a ECMAScript 6 and ES2015+)](http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/#.WA4G-3dZebs.hackernews) :gift_heart: - JavaScript has changed quite a bit in the last years. These are 12 new features that you can start using today!
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :gift_heart: - A book series on JavaScript.
 * [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery) :gift_heart: - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+* [You don't (may not) need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs) :gift_heart: - List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin.
 * [W3C ALL STANDARDS AND DRAFTS](https://www.w3.org/TR/) :gift_heart:
 * [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap) :gift_heart: - Roadmap to becoming a web developer in 2018.

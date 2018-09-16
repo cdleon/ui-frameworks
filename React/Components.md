@@ -100,6 +100,7 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
 
   * [Marty](https://github.com/martyjs/marty) :gift_heart: - A Javascript library for state management in React applications. [http://martyjs.org/](http://martyjs.org/)
   * [Unistore](https://github.com/developit/unistore) :gift_heart: - 650b state container with component actions for Preact & React [https://npm.im/unistore](https://npm.im/unistore)
+  * [WatermelonDB](https://github.com/Nozbe/WatermelonDB) :gift_heart: - Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast. [https://github.com/Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB)
 
 - **Social Media & Community**
 

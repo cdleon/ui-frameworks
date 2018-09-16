@@ -4,6 +4,7 @@
 - **CSS**
 
   * [CSS Sans](https://github.com/yusugomori/csssans) :gift_heart: - CSS SANS is the font created by CSS, the programming language for web designing and typesetting. [https://yusugomori.com/projects/css-sans/](https://yusugomori.com/projects/css-sans/)
+  * [Fonts.css](https://github.com/zenozeng/fonts.css) :gift_heart: - OS Fonts in your browser [https://zenozeng.github.io/fonts.css/](https://zenozeng.github.io/fonts.css/)
 
 - **OpenType**
 

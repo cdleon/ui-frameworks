@@ -68,6 +68,7 @@
 
 - **Data Processing & Visualization**
 
+  * [Apexcharts.js](https://github.com/apexcharts/apexcharts.js) :gift_heart: - Interactive and Modern SVG Charts [https://apexcharts.com](https://apexcharts.com)
   * [Britecharts](https://github.com/eventbrite/britecharts) :gift_heart: - Client-side reusable Charting Library based on D3.js v4 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations. [http://eventbrite.github.io/britecharts/](http://eventbrite.github.io/britecharts/)
   * [C3](https://github.com/c3js/c3) :gift_heart: - A D3-based reusable chart library. [http://c3js.org/](http://c3js.org/)
   * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) :gift_heart: - Tiny vanilla JS plugin to display large data sets easily. [https://clusterize.js.org/](https://clusterize.js.org/)

@@ -9,4 +9,5 @@
 * [Solid](https://github.com/solid/solid) :gift_heart: - Re-decentralizing the web.
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) :gift_heart: -  A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
 * [Todo MVC](https://github.com/tastejs/todomvc) :gift_heart: - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more. [http://todomvc.com](http://todomvc.com)
+* [vue-patterns](https://github.com/learn-vuejs/vue-patterns) :gift_heart: - Useful Vue patterns, techniques, tips and tricks and helpful curated links.
 * [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap) :gift_heart: - Roadmap to becoming a web developer in 2018.

@@ -4,6 +4,7 @@
 * [Draft.js](https://github.com/facebook/draft-js) :gift_heart: - A React framework for building text editors. [https://facebook.github.io/draft-js/](https://facebook.github.io/draft-js/)
 * [Elemental UI](https://github.com/elementalui/elemental) :gift_heart: - A UI Toolkit for React.js Websites and Apps. [http://elemental-ui.com/](http://elemental-ui.com/)
 * [Essential](http://pheuter.github.io/essential-react/) :gift_heart: - A minimal skeleton for building testable React apps using ES6. [https://github.com/pheuter/essential-react](https://github.com/pheuter/essential-react)
+* [Evergreen](https://github.com/segmentio/evergreen) :gift_heart: - Evergreen React UI Framework by Segment [https://evergreen.surge.sh/](https://evergreen.surge.sh/)
 * [Flux](https://github.com/facebook/flux) :gift_heart: - An application architecture for React utilizing a unidirectional data flow. [http://facebook.github.io/flux/](http://facebook.github.io/flux/)
 * [Ink](https://github.com/vadimdemedes/ink) :gift_heart: - React for interactive command-line apps.
 * [Maple.js](https://github.com/Wildhoney/Maple.js) :gift_heart: - Maple.js is a React webcomponents based framework mixing ES6 with Custom Elements, HTML Imports and Shadow DOM. It has in-built support for SASS and JSX, including a Gulp task for vulcanizing your project. [http://maple-app.herokuapp.com/](http://maple-app.herokuapp.com/)

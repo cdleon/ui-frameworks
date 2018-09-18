@@ -145,7 +145,6 @@
   * [Selected.js](https://github.com/Fizzadar/selected.js) :gift_heart: - A simple, dependency free ```<select>``` replacement [http://fizzadar.com/selected.js/](http://fizzadar.com/selected.js/)
   * [Stretchy](https://github.com/LeaVerou/stretchy) :gift_heart: - Form element autosizing, the way it should be. [http://leaverou.github.io/stretchy/](http://leaverou.github.io/stretchy/)
   * [Taggle](https://github.com/okcoker/taggle.js) :gift_heart: - Form-ready dependency-less tagging. [https://sean.is/poppin/tags](https://sean.is/poppin/tags)
-  * [Validate.js](https://github.com/rickharrison/validate.js/) :gift_heart: - Lightweight JavaScript form validation library inspired by CodeIgniter. [http://rickharrison.github.io/validate.js/](http://rickharrison.github.io/validate.js/)
 
 - **Gaming & Game Development**
 
@@ -415,6 +414,8 @@
 - **Validation**
 
   * [Superstruc](https://github.com/ianstormtaylor/superstruc) :gift_heart: -  Simple and composable way to validate data in Javascript. [https://github.com/ianstormtaylor/superstruct#demo](https://github.com/ianstormtaylor/superstruct#demo)
+  * [Validate.js](https://github.com/rickharrison/validate.js/) :gift_heart: - Lightweight JavaScript form validation library inspired by CodeIgniter. [http://rickharrison.github.io/validate.js/](http://rickharrison.github.io/validate.js/)
+  * [v8n](https://github.com/imbrn/v8n) :gift_heart: - JavaScript fluent validation library [https://imbrn.github.io/v8n](https://imbrn.github.io/v8n)
 
 - **Video**
 

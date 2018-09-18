@@ -87,6 +87,9 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
 - **Misc**
 
   * [Terminal in React](https://github.com/nitin42/terminal-in-react) :gift_heart: - A component that renders a terminal [http://terminal-in-react.surge.sh/](http://terminal-in-react.surge.sh/)
+  
+- **Presentations**
+  * [mdx-deck](https://github.com/jxnblk/mdx-deck) :gift_heart: - MDX-based presentation decks [https://jxnblk.com/mdx-deck](https://jxnblk.com/mdx-deck)
 
 - **Routing**
   * [@reach/router](https://github.com/reach/router) :gift_heart: - Reach Router. [https://reach.tech/router](https://reach.tech/router)

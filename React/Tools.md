@@ -54,6 +54,9 @@
 
   * [MDX](https://github.com/mdx-js/mdx) :gift_heart: - A fully-featured MDX parser, loader and JSX renderer for ambitious projects. [https://github.com/mdx-js/specification](https://github.com/mdx-js/specification)
 
+- **Scaffolding**
+  * [create-react-app](https://github.com/facebook/create-react-app) - :gift_heart: - Create React apps with no build configuration.
+
 - **Optimization**
 
   * [Reactopt](https://github.com/reactopt/reactopt) :gift_heart: - A CLI React performance optimization tool that identifies potential unnecessary re-rendering. [https://github.com/reactopt/reactopt](https://github.com/reactopt/reactopt)

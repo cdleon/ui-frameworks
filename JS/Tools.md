@@ -86,6 +86,7 @@
   * [Polly.js](https://github.com/Netflix/pollyjs) :gift_heart: - Record, Replay, and Stub HTTP Interactions. [https://netflix.github.io/pollyjs](https://netflix.github.io/pollyjs)
   * [QUnit](https://github.com/jquery/qunitjs.com) :gift_heart: - QUnit is a powerful, easy-to-use JavaScript unit testing framework.
   * [TestSwarm](https://github.com/jquery/testswarm) :gift_heart: - Distributed continuous integration testing for JavaScript.
+  * [volkswagen](https://github.com/auchenberg/volkswagen) :gift_heart: - Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 
 - **Transpilers**
 

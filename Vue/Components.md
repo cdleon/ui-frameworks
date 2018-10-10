@@ -39,6 +39,7 @@
 - **Music**
 - **Natural Language Processing**
 - **Presentations**
+  * [eagle.js](https://github.com/Zulko/eagle.js) :gift_heart: - A hackable slideshow framework built with Vue.js. [https://zulko.github.io/eaglejs-demo/](https://zulko.github.io/eaglejs-demo/)
 - **Printing**
 - **Pointers & Tooltips**
 - **Polyfills**

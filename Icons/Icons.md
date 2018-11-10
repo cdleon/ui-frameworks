@@ -9,6 +9,7 @@
   * [Analog Clock](https://github.com/jhogue/PE-Analog-Clock-icon-font) :gift_heart: - A set of icons for displaying a visual ("analog") representation of time stamps. [https://github.com/jhogue/PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font)
   * [Black Tie](http://blacktie.io/) :moneybag: - The multi-weight icon font from the creator of Font Awesome. [http://blacktie.io/](http://blacktie.io/)
   * [Devicons](https://github.com/vorillaz/devicons) :gift_heart: - An iconic font made for developers. [http://vorillaz.github.io/devicons/](http://vorillaz.github.io/devicons/)
+  * [Eva Icons](https://github.com/akveo/eva-icons) :gift_heart: - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support. [https://akveo.github.io/eva-icons/](https://akveo.github.io/eva-icons/)
   * [Font Awesome](https://github.com/FortAwesome/Font-Awesome) :gift_heart: - The iconic font and CSS toolkit. [http://fontawesome.io/](http://fontawesome.io/)
   * [Fontello](https://github.com/fontello/fontello) :gift_heart: - Icon fonts generator. [http://fontello.com/](http://fontello.com/)
   * [Glyhish](http://www.glyphish.com/) :rainbow: - Great icons for everything. [http://www.glyphish.com/](http://www.glyphish.com/)
@@ -30,9 +31,11 @@
 - **JS**
   * [Titanic](https://github.com/icons8/titanic) :gift_heart: - A set of animated icons + code to insert them into the webpages [https://icons8.com/c/animated-icons](https://icons8.com/c/animated-icons)
 - **PNG**
+  * [Eva Icons](https://github.com/akveo/eva-icons) :gift_heart: - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support. [https://akveo.github.io/eva-icons/](https://akveo.github.io/eva-icons/)
   * [Nucleo](https://nucleoapp.com) :moneybag: - Nucleo is a library of 2085 responsive icons and a web app to manage and customize them. [https://nucleoapp.com/](https://nucleoapp.com/)
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart: - High quality icons that are easy to use with Bootstrap, other CSS frameworks and in any web projects. [http://www.webhostinghub.com/glyphs/](http://www.webhostinghub.com/glyphs/)
 - **SVG**
+  * [Eva Icons](https://github.com/akveo/eva-icons) :gift_heart: - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support. [https://akveo.github.io/eva-icons/](https://akveo.github.io/eva-icons/)
   * [Evil Icons](https://github.com/outpunk/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. [http://evil-icons.io/](http://evil-icons.io/)
   * [Feather](https://github.com/colebemis/feather) :gift_heart: - Simply beautiful open source icons. [https://feathericons.com](https://feathericons.com)
   * [Flag Icon CSS](https://github.com/lipis/flag-icon-css) :gift_heart: -  A collection of all country flags in SVG — plus the CSS for easier integration. [http://flag-icon-css.lip.is/](http://flag-icon-css.lip.is/)

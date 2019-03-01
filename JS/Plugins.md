@@ -137,6 +137,7 @@
 
   * [autoComplete](https://github.com/Pixabay/JavaScript-autoComplete) :gift_heart: - An extremely lightweight and powerful vanilla JavaScript completion suggester. [https://goodies.pixabay.com/javascript/auto-complete/demo.html](https://goodies.pixabay.com/javascript/auto-complete/demo.html)
   * [Awesomplete](https://github.com/LeaVerou/awesomplete) :gift_heart: - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. [http://leaverou.github.io/awesomplete/](http://leaverou.github.io/awesomplete/)
+  * [Cleave.js](https://github.com/nosir/cleave.js) :gift_heart: - Format input text content when you are typing. [https://nosir.github.io/cleave.js/](https://nosir.github.io/cleave.js/)
   * [Countable](https://github.com/RadLikeWhoa/Countable) :gift_heart: - Add live paragraph-, word- and character-counting to an HTML element. [https://sacha.me/Countable/](https://sacha.me/Countable/)
   * [Floating Label](https://github.com/datuhealth/floating-label) :gift_heart: - A floating label plugin written in vanilla javascript. [https://datuhealth.github.io/floating-label/](https://datuhealth.github.io/floating-label/)
   * [Horsey](https://github.com/bevacqua/horsey) :gift_heart: - Progressive and customizable autocomplete component. [https://bevacqua.github.io/horsey/](https://bevacqua.github.io/horsey/)

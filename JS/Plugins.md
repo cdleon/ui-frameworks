@@ -158,6 +158,7 @@
 - **Graphics & Animation**
 
   * [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) :gift_heart: - Algorithm Visualizer [http://algo-visualizer.jasonpark.me](http://algo-visualizer.jasonpark.me)
+  * [Anime.js](https://github.com/juliangarnier/anime) :gift_heart: - JavaScript animation engine [https://animejs.com](https://animejs.com)
   * [CamanJS](https://github.com/meltingice/CamanJS) :gift_heart: - Javascript HTML5 (Ca)nvas (Man)ipulation [http://camanjs.com](http://camanjs.com)
   * [Cirque](https://github.com/two-n/cirque) :gift_heart: -  Utilities for negotiating between circles and polygons in SVG. [http://projects.two-n.com/cirque](http://projects.two-n.com/cirque/)
   * [d3.geo2rect](https://github.com/sebastian-meier/d3.geo2rect) :gift_heart: - Morphing geojson polygons into rectangles. [http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html](http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html)

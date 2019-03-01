@@ -35,6 +35,7 @@
 * [jQuery JavaScript Style Guide](http://contribute.jquery.org/style-guide/js/s) :gift_heart: - jQuery Foundation JS style guide.
 * [Khan ACademy JS Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md) :gift_heart: - This guide is adapted from the jQuery style guide.
 * [How JavaScript works: memory management](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec) :gift_heart: - Memory management + how to handle 4 common memory leaks
+* [learn-react-app](https://github.com/tyroprogrammer/learn-react-app) :gift_heart: - Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!
 * [Making AJAX applications crawlable](https://developers.google.com/webmasters/ajax-crawling/docs/learn-more?csw=1) :gift_heart: - If you're running an AJAX application with content that you'd like to appear in search results, we have a new process that, when implemented, can help Google (and potentially other search engines) crawl and index your content.
 * [math-as-code](https://github.com/Jam3/math-as-code) - gift_heart: - a cheat-sheet for mathematical notation in code form.
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) :gift_heart: - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.

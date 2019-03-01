@@ -11,6 +11,7 @@
 * [Code Conventions for the JavaScript](http://crockford.com/javascript/) :gift_heart:
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university) :gift_heart: - A complete computer science study plan to become a software engineer.
 * [Controlling CSS Animations and Transitions with JavaScript](https://css-tricks.com/controlling-css-animations-transitions-javascript/) :gift_heart:
+* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) :gift_heart: - Roadmap to becoming a web developer in 2019.
 * [ES6](https://github.com/bevacqua/es6) :gift_heart: - ES6 Overview in 350 Bullet Points.
 * [ES6 In Depth](https://hacks.mozilla.org/category/es6-in-depth/) :gift_ehart: - ES6 In Depth is a series on new features being added to the JavaScript programming language in the 6th Edition of the ECMAScript standard, ES6 for short.
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) :gift_heart: - A collection of (mostly) technical things every software developer should know.

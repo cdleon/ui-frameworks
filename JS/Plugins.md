@@ -218,6 +218,9 @@
   * [SVG Edit](https://github.com/SVG-Edit/svgedit) :gift_heart: - Powerful SVG-Editor on your browser. [https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html)
   * [Vivid.js](https://github.com/webkul/vivid) :gift_heart: - A JavaScript library which is built to easily customize and use the SVG Icons with a blaze. [https://webkul.github.io/vivid](https://webkul.github.io/vivid)
   * [Watermark.js](https://github.com/brianium/watermarkjs) :gift_heart: - Watermarking for the browser. [http://brianium.github.io/watermarkjs/](http://brianium.github.io/watermarkjs/)
+  
+- **Internationalization**
+  * [fbt](https://github.com/facebookincubator/fbt) :gift_heart: - A JavaScript Internationalization Framework. [https://facebookincubator.github.io/fbt](https://facebookincubator.github.io/fbt)
 
 - **Key Bindings & Mouse Events**
 

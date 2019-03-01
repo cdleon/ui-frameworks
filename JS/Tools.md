@@ -68,6 +68,7 @@
   * [Bundle Buddy](https://github.com/samccone/bundle-buddy) :gift_heart: - A tool to identify bundle duplication across splits.
   * [Bundlesize](https://github.com/siddharthkp/bundlesize) :gift_heart: - Keep your bundle size in check.
   * [Jarvis](https://github.com/zouhir/jarvis) :gift_heart: - A very intelligent browser based Webpack dashboard. [https://github.com/zouhir/jarvis](https://github.com/zouhir/jarvis)
+  * [Jetpack](https://github.com/KidkArolis/jetpack) : gift_heart: -  Jetpack – Webpack made more convenient.
   * [Parcel](https://github.com/parcel-bundler/parcel) :gift_heart: - Blazing fast, zero configuration web application bundler. [https://parceljs.org](https://parceljs.org)
   * [Prepack](https://github.com/facebook/prepack) :gift_heart: - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently. [https://prepack.io](https://prepack.io)
   * [require.js](https://github.com/requirejs/requirejs) :gift_heart: - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
@@ -91,3 +92,9 @@
 - **Transpilers**
 
   * [Decaffeinate](https://github.com/decaffeinate/decaffeinate) :gift_heart: - Goodbye CoffeeScript, hello JavaScript! [http://decaffeinate-project.org/repl/](http://decaffeinate-project.org/repl/)
+  
+  
+- **Website Builders**
+
+  * [VvvebJs](https://github.com/givanz/VvvebJs) :gift_heart: - Drag and drop website builder javascript library. [http://www.vvveb.com/vvvebjs/editor.html](http://www.vvveb.com/vvvebjs/editor.html)
+

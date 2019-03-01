@@ -10,6 +10,7 @@
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) :gift_heart: - The perfect Front-End Checklist for modern websites and meticulous developers [https://frontendchecklist.io](https://frontendchecklist.io)
 * [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript) :gift_heart: - A useful list of must-watch talks about JavaScript.
 * [Project Guidelines](https://github.com/wearehive/project-guidelines) :gift_heart: - A set of best practices for JavaScript projects.
+* [Reactjs.org](https://github.com/reactjs/reactjs.org) :gift_heart: - The React documentation website. [https://reactjs.org/](https://reactjs.org/)
 * [react-demos](https://github.com/ruanyf/react-demos) :gift_heart: - A collection of simple demos of React.js.
 * [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) :gift_heart: - Roadmap to becoming a React developer in 2018.
 * [React Express](https://github.com/dabbott/react-express) :gift_heart: - The all-in-one beginner's guide to modern React application development! [http://www.react.express](http://www.react.express)

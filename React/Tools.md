@@ -4,6 +4,9 @@
 - **Application Managers & Task Runners**
   * [Guppy](https://github.com/joshwcomeau/guppy) :gift_heart: - A friendly application manager and task runner for React.js.
 
+- **CRA**
+  * [customize-cra](https://github.com/arackaf/customize-cra) :gift_heart: - Override webpack configurations for create-react-app 2.0.
+
 - **Collaboration**
 
   * [Atellier](https://github.com/scup/atellier) :gift_heart: - The smartest way to share interactive components with your team. [http://scup.github.io/atellier/](http://scup.github.io/atellier/)

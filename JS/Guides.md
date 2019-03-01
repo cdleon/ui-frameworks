@@ -17,6 +17,7 @@
 * [Exercises](https://github.com/kolodny/exercises) :gift_heart: - Some basic javascript coding challenges and interview questions.
 * [Five Ajax best practices](https://www.ibm.com/developerworks/library/wa-aj-5best/) :gift_heart: - Tips and tools for better Ajax development.
 * [Flux Challenge](https://github.com/staltz/flux-challenge) :gift_heart: - A frontend challenge to test UI architectures and solutions.
+* [Frontend Bootcamp / Days in the Web](https://github.com/Microsoft/frontend-bootcamp) :gift_heart: - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux [https://microsoft.github.io/frontend-bootcamp/](https://microsoft.github.io/frontend-bootcamp/)
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) :gift_heart: - The perfect Front-End Checklist for modern websites and meticulous developers [https://frontendchecklist.io](https://frontendchecklist.io)
 * [Front-end Walkthrough: Designing a Single Page Application Architecture](https://blog.poki.com/front-end-walkthrough-building-a-single-page-application-from-scratch-d47c35fdc830) :gift_heart: - We documented our journey towards a shiny new stack.
 * [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path):gift_heart: - A learning path for Full-stack web development.

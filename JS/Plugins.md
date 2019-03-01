@@ -123,7 +123,8 @@
   * [Coolhue](https://github.com/webkul/coolhue) :gift_heart: - Coolest Gradient Hues and Swatches by UVdesk [https://webkul.github.io/coolhue](https://webkul.github.io/coolhue)
   
 - **Docs & Office**
-  * [SheetJS js-xlsx](https://github.com/SheetJS/js-xlsx) :gift_heart: - SheetJS Community Edition -- Spreadsheet Parser and Writer [https://sheetjs.com/](https://sheetjs.com/)
+  * [SheetJS js-xlsx](https://github.com/SheetJS/js-xlsx) :gift_heart: - SheetJS Community Edition -- Spreadsheet Parser and Writer [https://sheetjs.com/](https://sheetjs.com
+  * [x-spreadsheet](https://github.com/myliang/x-spreadsheet) :gift_heart: - A web-based JavaScript（canvas）spreadsheet [https://myliang.github.io/x-spreadsheet](https://myliang.github.io/x-spreadsheet)
 
 - **File Upload**
 
@@ -175,6 +176,7 @@
   * [Popmotion](https://github.com/Popmotion/popmotion) :gift_heart: - A 12kb Javascript motion engine. Use for animation, physics and input tracking. [https://popmotion.io/](https://popmotion.io/)
   * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael/) :gift_heart: - JavaScript Vector Library. [https://github.com/DmitryBaranovskiy/raphael/](https://github.com/DmitryBaranovskiy/raphael/)
   * [Rythm.js](https://github.com/Okazari/Rythm.js) :gift_heart: - A javascript library that makes your page dance. [https://okazari.github.io/Rythm.js/](https://okazari.github.io/Rythm.js/)
+  * [Shiny](https://github.com/rikschennink/shiny) :gift_heart: - Shiny reflections for mobile websites [https://pqina.nl/shiny/](https://pqina.nl/shiny/)
   * [Texgen.js](https://github.com/mrdoob/texgen.js) :gift_heart: - Procedural Texture Generator. [http://texgenjs.org/](http://texgenjs.org/)
   * [Textures.js](https://github.com/riccardoscalco/textures) :gift_heart: - Textures.js is a JavaScript library for creating SVG patterns. [http://riccardoscalco.github.io/textures/](http://riccardoscalco.github.io/textures/)
   * [Trianglify](https://github.com/qrohlf/trianglify) :gift_heart: - Algorithmically generated triangle art. [http://qrohlf.com/trianglify/](http://qrohlf.com/trianglify/)

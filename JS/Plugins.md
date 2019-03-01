@@ -327,6 +327,9 @@
 
   * [History.js](https://github.com/browserstate/history.js) :gift_heart: - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype. [http://browserstate.github.io/history.js/demo/](http://browserstate.github.io/history.js/demo/)
 
+- **Screen Recording**
+  * [rrweb](https://github.com/rrweb-io/rrweb) :gift_heart: - Record and replay the web. [https://www.rrweb.io/](https://www.rrweb.io/)
+
 - **Scroll Bars**
 
   * [Tiny Scrollbar](https://github.com/wieringen/tinyscrollbar) :gift_heart: - A lightweight cross browser javascript scrollbar. [http://baijs.com/tinyscrollbar/](http://baijs.com/tinyscrollbar/)
@@ -349,7 +352,8 @@
   * [Stack.js](https://github.com/mbostock/stack) :gift_heart: - A presentation library with intuitive, scroll-based navigation. [https://mbostock.github.io/stack/](https://mbostock.github.io/stack/)
 
 - **Search**
-
+  
+  * [Flexsearch.js](https://github.com/nextapps-de/flexsearch) :gift_heart: - Next-Generation full text search library for Browser and Node.js. [https://raw.githack.com/nextapps-de/flexsearch/master/demo/autocomplete.html](https://raw.githack.com/nextapps-de/flexsearch/master/demo/autocomplete.html)
   * [Fuse.js](https://github.com/krisk/Fuse) :gift_heart: - Lightweight fuzzy-search, in JavaScript. [http://fusejs.io/](http://fusejs.io/)
   * [Holmes](https://github.com/Haroenv/holmes) :gift_heart: - Fast and easy searching inside a page. [https://haroen.me/holmes/](https://haroen.me/holmes/)
   * [Wade](https://github.com/kbrsh/wade) :gift_heart: - Blazing fast 1kb search. [https://github.com/kbrsh/wade](https://github.com/kbrsh/wade)

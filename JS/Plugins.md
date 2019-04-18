@@ -4,6 +4,39 @@
 - **Accesibility**
 
   * [Tota11y](https://github.com/Khan/tota11y) :gift_heart: - an accessibility (a11y) visualization toolkit. [http://khan.github.io/tota11y/](http://khan.github.io/tota11y/)
+  
+- **Animation & Graphics**
+
+  * [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) :gift_heart: - Algorithm Visualizer [http://algo-visualizer.jasonpark.me](http://algo-visualizer.jasonpark.me)
+  * [Anime.js](https://github.com/juliangarnier/anime) :gift_heart: - JavaScript animation engine [https://animejs.com](https://animejs.com)
+  * [CamanJS](https://github.com/meltingice/CamanJS) :gift_heart: - Javascript HTML5 (Ca)nvas (Man)ipulation [http://camanjs.com](http://camanjs.com)
+  * [Cirque](https://github.com/two-n/cirque) :gift_heart: -  Utilities for negotiating between circles and polygons in SVG. [http://projects.two-n.com/cirque](http://projects.two-n.com/cirque/)
+  * [d3.geo2rect](https://github.com/sebastian-meier/d3.geo2rect) :gift_heart: - Morphing geojson polygons into rectangles. [http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html](http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html)
+  * [d3-interpolate-path](https://github.com/pbeshai/d3-interpolate-path) :gift_heart: - Interpolates path `d` attribute smoothly when A and B have different number of points. [https://peterbeshai.com/d3-interpolate-path/](https://peterbeshai.com/d3-interpolate-path/)
+  * [dynamics.js](https://github.com/michaelvillar/dynamics.js) :gift_heart: - Javascript library to create physics-based animations [http://dynamicsjs.com](http://dynamicsjs.com)
+  * [Flubber](https://github.com/veltman/flubber) :gift_heart: -  Tools for smoother shape animations. [https://veltman.github.io/flubber/demos/circles.html](https://veltman.github.io/flubber/demos/circles.html)
+  * [GSAP](https://github.com/greensock/GreenSock-JS/) :gift_heart: - GreenSock's GSAP JavaScript animation library (including Draggable). [https://greensock.com](https://greensock.com)
+  * [GreenSock MorphSVGPlugin](https://greensock.com/morphSVG) :moneybag: - MorphSVGPlugin provides advanced control over tweens that morph SVG paths. [https://greensock.com/morphSVG](https://greensock.com/morphSVG)
+  * [HTML5 Deck of Cards](https://github.com/pakastin/deck-of-cards) :gift_heart: - HTML5 Deck of Cards [https://deck-of-cards.js.org](https://deck-of-cards.js.org)
+  * [Layer Visualizer](https://github.com/romannurik/LayerVisualizer) :gift_heart: - A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows). [https://cdn.rawgit.com/romannurik/LayerVisualizer/d3691d20005ba8a86494a1419d5187f5edf8af0d/examples.html](https://cdn.rawgit.com/romannurik/LayerVisualizer/d3691d20005ba8a86494a1419d5187f5edf8af0d/examples.html)
+  * [Lax.js](https://github.com/alexfoxy/laxxx) :gift_heart: - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
+  * [Mojs](https://github.com/legomushroom/mojs) :gift_heart: - Motion graphics toolbelt for the web. [http://mojs.io/](http://mojs.io/)
+  * [Particles.js](https://github.com/VincentGarreau/particles.js) :gift_heart: - A lightweight JavaScript library for creating particles. [https://vincentgarreau.com/particles.js/](https://vincentgarreau.com/particles.js/)
+  * [p5.js](https://github.com/processing/p5.js) :gift_heart: - p5.js is a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing. [http://p5js.org/](http://p5js.org/)
+  * [Phaser](https://github.com/photonstorm/phaser) :gift_heart: - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. [http://phaser.io/](http://phaser.io/)
+  * [Pixi.js](https://github.com/pixijs/pixi.js) :gift_heart: - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback. [http://www.goodboydigital.com/pixijs/examples/15/indexAll.html](http://www.goodboydigital.com/pixijs/examples/15/indexAll.html)
+  * [Planck.js](https://github.com/shakiba/planck.js) :gift_heart: - 2D JavaScript Physics Engine [http://piqnt.com/planck.js/]](http://piqnt.com/planck.js/)
+  * [Popmotion](https://github.com/Popmotion/popmotion) :gift_heart: - A 12kb Javascript motion engine. Use for animation, physics and input tracking. [https://popmotion.io/](https://popmotion.io/)
+  * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael/) :gift_heart: - JavaScript Vector Library. [https://github.com/DmitryBaranovskiy/raphael/](https://github.com/DmitryBaranovskiy/raphael/)
+  * [Rythm.js](https://github.com/Okazari/Rythm.js) :gift_heart: - A javascript library that makes your page dance. [https://okazari.github.io/Rythm.js/](https://okazari.github.io/Rythm.js/)
+  * [Shiny](https://github.com/rikschennink/shiny) :gift_heart: - Shiny reflections for mobile websites [https://pqina.nl/shiny/](https://pqina.nl/shiny/)
+  * [Texgen.js](https://github.com/mrdoob/texgen.js) :gift_heart: - Procedural Texture Generator. [http://texgenjs.org/](http://texgenjs.org/)
+  * [Textures.js](https://github.com/riccardoscalco/textures) :gift_heart: - Textures.js is a JavaScript library for creating SVG patterns. [http://riccardoscalco.github.io/textures/](http://riccardoscalco.github.io/textures/)
+  * [Trianglify](https://github.com/qrohlf/trianglify) :gift_heart: - Algorithmically generated triangle art. [http://qrohlf.com/trianglify/](http://qrohlf.com/trianglify/)
+  * [Velociy](https://github.com/julianshapiro/velocity) :gift_heart: - Accelerated JavaScript animation. [http://velocityjs.org/](http://velocityjs.org/)
+  * [Vivus.js (SVG-animations)](https://github.com/maxwellito/vivus) :gift_heart: - JavaScript library to make drawing animation on SVG. [http://maxwellito.github.io/vivus/](http://maxwellito.github.io/vivus/)
+  * [WebGLStudio.js](https://github.com/jagenjo/webglstudio.js) :gift_heart: - A full 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more. [http://webglstudio.org/](http://webglstudio.org/)
+  * [Wilderness](https://github.com/colinmeinke/wilderness) :gift_heart: - An SVG animation API [https://wilderness.now.sh](https://wilderness.now.sh)
 
 - **Alerts, Modals & Notifications**
 
@@ -154,37 +187,6 @@
   * [Phaser](https://github.com/photonstorm/phaser) :gift_heart: - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. [http://phaser.io/](http://phaser.io/)
   * [Pokémon Showdown](https://github.com/Zarel/Pokemon-Showdown) :gift_heart: - Pokémon battle simulator. [http://pokemonshowdown.com](http://pokemonshowdown.com)
   * [Warrior.js](https://github.com/olistic/warriorjs) :gift_heart: - An exciting game of programming and Artificial Intelligence. [https://warrior.js.org](https://warrior.js.org)
-
-- **Graphics & Animation**
-
-  * [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) :gift_heart: - Algorithm Visualizer [http://algo-visualizer.jasonpark.me](http://algo-visualizer.jasonpark.me)
-  * [Anime.js](https://github.com/juliangarnier/anime) :gift_heart: - JavaScript animation engine [https://animejs.com](https://animejs.com)
-  * [CamanJS](https://github.com/meltingice/CamanJS) :gift_heart: - Javascript HTML5 (Ca)nvas (Man)ipulation [http://camanjs.com](http://camanjs.com)
-  * [Cirque](https://github.com/two-n/cirque) :gift_heart: -  Utilities for negotiating between circles and polygons in SVG. [http://projects.two-n.com/cirque](http://projects.two-n.com/cirque/)
-  * [d3.geo2rect](https://github.com/sebastian-meier/d3.geo2rect) :gift_heart: - Morphing geojson polygons into rectangles. [http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html](http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html)
-  * [d3-interpolate-path](https://github.com/pbeshai/d3-interpolate-path) :gift_heart: - Interpolates path `d` attribute smoothly when A and B have different number of points. [https://peterbeshai.com/d3-interpolate-path/](https://peterbeshai.com/d3-interpolate-path/)
-  * [dynamics.js](https://github.com/michaelvillar/dynamics.js) :gift_heart: - Javascript library to create physics-based animations [http://dynamicsjs.com](http://dynamicsjs.com)
-  * [Flubber](https://github.com/veltman/flubber) :gift_heart: -  Tools for smoother shape animations. [https://veltman.github.io/flubber/demos/circles.html](https://veltman.github.io/flubber/demos/circles.html)
-  * [GreenSock MorphSVGPlugin](https://greensock.com/morphSVG) :moneybag: - MorphSVGPlugin provides advanced control over tweens that morph SVG paths. [https://greensock.com/morphSVG](https://greensock.com/morphSVG)
-  * [HTML5 Deck of Cards](https://github.com/pakastin/deck-of-cards) :gift_heart: - HTML5 Deck of Cards [https://deck-of-cards.js.org](https://deck-of-cards.js.org)
-  * [Layer Visualizer](https://github.com/romannurik/LayerVisualizer) :gift_heart: - A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows). [https://cdn.rawgit.com/romannurik/LayerVisualizer/d3691d20005ba8a86494a1419d5187f5edf8af0d/examples.html](https://cdn.rawgit.com/romannurik/LayerVisualizer/d3691d20005ba8a86494a1419d5187f5edf8af0d/examples.html)
-  * [Mojs](https://github.com/legomushroom/mojs) :gift_heart: - Motion graphics toolbelt for the web. [http://mojs.io/](http://mojs.io/)
-  * [Particles.js](https://github.com/VincentGarreau/particles.js) :gift_heart: - A lightweight JavaScript library for creating particles. [https://vincentgarreau.com/particles.js/](https://vincentgarreau.com/particles.js/)
-  * [p5.js](https://github.com/processing/p5.js) :gift_heart: - p5.js is a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing. [http://p5js.org/](http://p5js.org/)
-  * [Phaser](https://github.com/photonstorm/phaser) :gift_heart: - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. [http://phaser.io/](http://phaser.io/)
-  * [Pixi.js](https://github.com/pixijs/pixi.js) :gift_heart: - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback. [http://www.goodboydigital.com/pixijs/examples/15/indexAll.html](http://www.goodboydigital.com/pixijs/examples/15/indexAll.html)
-  * [Planck.js](https://github.com/shakiba/planck.js) :gift_heart: - 2D JavaScript Physics Engine [http://piqnt.com/planck.js/]](http://piqnt.com/planck.js/)
-  * [Popmotion](https://github.com/Popmotion/popmotion) :gift_heart: - A 12kb Javascript motion engine. Use for animation, physics and input tracking. [https://popmotion.io/](https://popmotion.io/)
-  * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael/) :gift_heart: - JavaScript Vector Library. [https://github.com/DmitryBaranovskiy/raphael/](https://github.com/DmitryBaranovskiy/raphael/)
-  * [Rythm.js](https://github.com/Okazari/Rythm.js) :gift_heart: - A javascript library that makes your page dance. [https://okazari.github.io/Rythm.js/](https://okazari.github.io/Rythm.js/)
-  * [Shiny](https://github.com/rikschennink/shiny) :gift_heart: - Shiny reflections for mobile websites [https://pqina.nl/shiny/](https://pqina.nl/shiny/)
-  * [Texgen.js](https://github.com/mrdoob/texgen.js) :gift_heart: - Procedural Texture Generator. [http://texgenjs.org/](http://texgenjs.org/)
-  * [Textures.js](https://github.com/riccardoscalco/textures) :gift_heart: - Textures.js is a JavaScript library for creating SVG patterns. [http://riccardoscalco.github.io/textures/](http://riccardoscalco.github.io/textures/)
-  * [Trianglify](https://github.com/qrohlf/trianglify) :gift_heart: - Algorithmically generated triangle art. [http://qrohlf.com/trianglify/](http://qrohlf.com/trianglify/)
-  * [Velociy](https://github.com/julianshapiro/velocity) :gift_heart: - Accelerated JavaScript animation. [http://velocityjs.org/](http://velocityjs.org/)
-  * [Vivus.js (SVG-animations)](https://github.com/maxwellito/vivus) :gift_heart: - JavaScript library to make drawing animation on SVG. [http://maxwellito.github.io/vivus/](http://maxwellito.github.io/vivus/)
-  * [WebGLStudio.js](https://github.com/jagenjo/webglstudio.js) :gift_heart: - A full 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more. [http://webglstudio.org/](http://webglstudio.org/)
-  * [Wilderness](https://github.com/colinmeinke/wilderness) :gift_heart: - An SVG animation API [https://wilderness.now.sh](https://wilderness.now.sh)
 
 - **Grid**
 
@@ -342,6 +344,7 @@
 
 - **Scrolling & Parallax**
 
+  * [Aos](https://github.com/michalsnik/aos) :gift_heart: - Animate on scroll library. [http://michalsnik.github.io/aos/](http://michalsnik.github.io/aos/)
   * [Elevator.js](https://github.com/tholman/elevator.js) :gift_heart: - Finally, a "back to top" button that behaves like a real elevator. [http://tholman.com/elevator.js/](http://tholman.com/elevator.js/)
   * [Fancy Scroll](https://github.com/peachananr/fancy-scroll) :gift_heart - Add Overflow Scroll Effect like on iOS/Android but for your website. [http://www.thepetedesign.com/demos/fancy_scroll_demo.html](http://www.thepetedesign.com/demos/fancy_scroll_demo.html)
   * [Headroom.js](https://github.com/WickyNilliams/headroom.js) :gift_heart: - Give your pages some headroom. Hide your header until you need it. [http://wicky.nillia.ms/headroom.js/](http://wicky.nillia.ms/headroom.js/)
@@ -349,6 +352,7 @@
   * [iScroll](https://github.com/cubiq/iscroll) :gift_heart: - Smooth scrolling for the web. [http://iscrolljs.com/](http://iscrolljs.com/)
   * [Parallax.js](https://github.com/wagerfield/parallax) :gift_heart: - Parallax Engine that reacts to the orientation of a smart device. [https://github.com/wagerfield/parallax](https://github.com/wagerfield/parallax)
   * [PullToRefresh.js](https://github.com/BoxFactura/pulltorefresh.js) :gift_heart: - A quick and powerful plugin for your pull-to-refresh needs in your webapp. [http://boxfactura.com/pulltorefresh.js/](http://boxfactura.com/pulltorefresh.js/)
+  * [Sal.js](https://github.com/mciastek/sal) :gift_heart: - Performance focused, lightweight scroll animation library. [https://mciastek.github.io/sal/](https://mciastek.github.io/sal/)
   * [Scrollama.js](https://github.com/russellgoldenberg/scrollama) : gift_heart: - Scrollytelling with IntersectionObserver. [https://russellgoldenberg.github.io/scrollama/basic/](https://russellgoldenberg.github.io/scrollama/basic/)
   * [Scrollerjs](https://github.com/forcedotcom/scrollerjs) :gift_heart: - A JavaScript library that helps you build performant UI components for the web. [http://scrollerjs.com/](http://scrollerjs.com/)
   * [ScrollMagic](https://github.com/janpaepke/ScrollMagic) :gift_heart: - The javascript library for magical scroll interactions. [http://scrollmagic.io/](http://scrollmagic.io/)

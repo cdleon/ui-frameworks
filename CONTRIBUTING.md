@@ -1,6 +1,6 @@
 # CONTRIBUTING GUIDELINES
 
-#### \[title\]\(github repo url\) :gift_heart|rainbow|moneybag: - description \[website or demo url\]\(website or url\)
+#### \[title\]\(github repo url\) :gift_heart|rainbow|moneybag: - description. \[website or demo url\]\(website or url\)
 _add website/demo link only if exists_
 
 + Client-side only.

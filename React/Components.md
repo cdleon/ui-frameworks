@@ -8,6 +8,13 @@
 
 - **Alerts, Modals & Notifications**
 
+- **Animation & Graphics**
+  * [Animated](https://github.com/animatedjs/animated) :gift_heart: - Declarative Animations Library for React and React Native. [http://animatedjs.github.io/interactive-docs/](http://animatedjs.github.io/interactive-docs/)
+  * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components. [https://github.com/Flipboard/react-canvas](https://github.com/Flipboard/react-canvas)
+  * [react-flight](https://github.com/jondot/react-flight) :gift_heart: - The best way to build animation compositions for React. [http://www.react-flight.io](http://www.react-flight.io)
+  * [react-move](https://github.com/react-tools/react-move) :gift_heart: - Beautiful, data-driven animations for React [https://react-move.js.org](https://react-move.js.org)
+  * [react-motion](https://github.com/chenglou/react-motion) :gift_heart: - A spring that solves your animation problems. [http://chenglou.github.io/react-motion/demos/demo7-water-ripples/](http://chenglou.github.io/react-motion/demos/demo7-water-ripples/)
+  * [react-spring](https://github.com/drcmda/react-spring) :gift_heart: - Helping react-motion and animated to become best friends [http://react-spring.surge.sh/](http://react-spring.surge.sh/)
 
 - **Calendars & Date Pickers**
 
@@ -55,13 +62,6 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [react-form](https://github.com/react-tools/react-form) :gift_heart: - React Form - Powerful and lightweight forms in React [https://react-form.js.org](https://react-form.js.org)
   * [react-select](https://github.com/JedWatson/react-select) :gift_heart: - A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and ajax support. [http://jedwatson.github.io/react-select/](http://jedwatson.github.io/react-select/)
   * [redux-form](https://github.com/erikras/redux-form) :gift_heart: - A Higher Order Component using react-redux to keep form state in a Redux store [http://redux-form.com](http://redux-form.com)
-
-- **Graphics & Animation**
-
-  * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components. [https://github.com/Flipboard/react-canvas](https://github.com/Flipboard/react-canvas)
-  * [react-flight](https://github.com/jondot/react-flight) :gift_heart: - The best way to build animation compositions for React. [http://www.react-flight.io](http://www.react-flight.io)
-  * [react-move](https://github.com/react-tools/react-move) :gift_heart: - Beautiful, data-driven animations for React [https://react-move.js.org](https://react-move.js.org)
-  * [react-spring](https://github.com/drcmda/react-spring) :gift_heart: - Helping react-motion and animated to become best friends [http://react-spring.surge.sh/](http://react-spring.surge.sh/)
 
 - **Images && Image Processing**
 

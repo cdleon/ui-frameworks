@@ -71,7 +71,7 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
 
 - **Libraries**
 
-  * [rsuite](https://github.com/rsuite/rsuite) :gift_heart - A suite of React components. [https://rsuitejs.com]](https://rsuitejs.com)
+  * [rsuite](https://github.com/rsuite/rsuite) :gift_heart: - A suite of React components. [https://rsuitejs.com]](https://rsuitejs.com)
 
 - **Loading Bars**
 

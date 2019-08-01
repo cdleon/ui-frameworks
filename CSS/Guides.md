@@ -3,6 +3,7 @@
 * [3 Things (Almost) No One Knows About CSS](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - Think you know CSS?
 * [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) :gift_heart: - A collection of awesome design systems.
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) :gift_heart: - Some useful websites for programmers.
+* [CSS Animation 101](https://github.com/cssanimation/css-animation-101) :gift_heart: - Learn how to bring animation to your web projects [https://cssanimation.rocks](https://cssanimation.rocks)
 * [CSS Guidelines](https://www.sitepoint.com/3-things-almost-one-knows-css/) :gift_heart: - High-level advice and guidelines for writing sane, manageable, scalable CSS.
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips) :gift_heart: - A collection of tips to help take your CSS skills pro. [https://github.com/AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university) :gift_heart: - A complete computer science study plan to become a software engineer.

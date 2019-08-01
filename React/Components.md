@@ -39,6 +39,7 @@
 - **Data Processing & Visualization**
 
   * [kepler.gl](https://github.com/uber/kepler.gl) :gift_heart: - kepler.gl is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets. [https://uber.github.io/kepler.gl/#/](https://uber.github.io/kepler.gl/#/)
+  * [nivo](https://github.com/plouc/nivo) :gift_heart: - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries. [https://nivo.rocks](https://nivo.rocks)
   * [fixed-data-table](https://github.com/facebook/fixed-data-table) :gift_heart: - A React table component designed to allow presenting thousands of rows of data.[https://facebook.github.io/fixed-data-table/](https://facebook.github.io/fixed-data-table/)
   * [react-datasheet](https://github.com/nadbm/react-datasheet) :gift_heart: - Excel-like data grid component for react. [https://nadbm.github.io/react-datasheet/](https://nadbm.github.io/react-datasheet/)
   * [React Data Grid](http://reactdatagrid.com/) :moneybag: - Powerful React DataGrid/DataTable component

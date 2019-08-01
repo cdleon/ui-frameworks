@@ -21,7 +21,7 @@
   * [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) :gift_heart: - Gcal/outlook like calendar component. [https://intljusticemission.github.io/react-big-calendar/examples/index.html](https://intljusticemission.github.io/react-big-calendar/examples/index.html)
   * [react-day-picker](https://github.com/gpbl/react-day-picker) :gift_heart: - Flexible date picker for React. [http://www.gpbl.org/react-day-picker/](http://www.gpbl.org/react-day-picker/)
   * [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) :gift_heart: - Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more. [hhttps://clauderic.github.io/react-infinite-calendar](https://clauderic.github.io/react-infinite-calendar)
-  * [react-svg-morph](https://github.com/gorangajic/react-svg-morph) :gift_heart - Morph your svg component one into another other. [http://gorangajic.github.io/react-svg-morph/](http://gorangajic.github.io/react-svg-morph/)
+  * [react-svg-morph](https://github.com/gorangajic/react-svg-morph) :gift_heart: - Morph your svg component one into another other. [http://gorangajic.github.io/react-svg-morph/](http://gorangajic.github.io/react-svg-morph/)
 
 - **Charts & Plots**
 

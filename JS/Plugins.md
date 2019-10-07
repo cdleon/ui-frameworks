@@ -46,6 +46,7 @@
   * [Modal](https://github.com/humaan/Modaal) :gift_heart: - An accessible dialog window library for all humans. [http://humaan.com/modaal/](http://humaan.com/modaal/)
   * [Notiejs](https://github.com/jaredreich/notie) :gift_heart: - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies. [https://jaredreich.com/notie](https://jaredreich.com/notie)
   * [Notification Logger](https://github.com/hkirat/notification-logger) :gift_heart: - Desktop notification for your console Logs. [https://hkirat.github.io/notification-logger/](https://hkirat.github.io/notification-logger/)
+  * [SweetAlert](https://github.com/t4t5/sweetalert) :gift_heart: - A beautiful replacement for JavaScript's "alert".  [https://sweetalert.js.org](https://sweetalert.js.org)
 
 - **AR**
 

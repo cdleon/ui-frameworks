@@ -139,6 +139,7 @@
   * [Moment.js](https://github.com/moment/moment) :gift_heart: - Parse, validate, manipulate, and display dates in javascript. [http://momentjs.com](http://momentjs.com)
   
 - **Documents**
+  * [jsPDF](https://github.com/MrRio/jsPDF) :gift_heart: - Client-side JavaScript PDF generation for everyone. [https://parall.ax/products/jspdf](https://parall.ax/products/jspdf)
   * [ReLaXed](https://github.com/RelaxedJS/ReLaXed) :gift_heart: - Create PDF documents using web technologies. [https://camo.githubusercontent.com/be077d7379399961977b45a802b675f5c18f170a/68747470733a2f2f692e696d6775722e636f6d2f344e34665359592e676966](https://camo.githubusercontent.com/be077d7379399961977b45a802b675f5c18f170a/68747470733a2f2f692e696d6775722e636f6d2f344e34665359592e676966)
   * [Strapdown.js](https://github.com/arturadib/strapdown) :gift_heart: - Instant and elegant Markdown documents in the browser. [http://strapdownjs.com](http://strapdownjs.com)
 
@@ -193,6 +194,7 @@
   * [Bricks.js](https://github.com/callmecavs/bricks.js) :gift_heat: - A blazing fast masonry layout generator for fixed width elements. [http://callmecavs.com/bricks.js/](http://callmecavs.com/bricks.js/)
   * [https://github.com/haltu/muuri](https://github.com/haltu/muuri) :gift_heart: - Responsive, sortable, filterable and draggable grid layouts [http://haltu.github.io/muuri/](http://haltu.github.io/muuri/)
   * [Layout Grid](https://github.com/clippings/layout-grid) :gift_heart: - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile. [http://clippings.github.io/layout-grid/](http://clippings.github.io/layout-grid/)
+  * [Magic Grid](https://github.com/e-oj/Magic-Grid) :gift_heart: - A simple, lightweight Javascript library for dynamic grid layouts. [https://www.npmjs.com/package/magic-grid](https://www.npmjs.com/package/magic-grid)
   * [Right Height](https://github.com/cferdinandi/right-height) :gift_heart: - Dynamically set content areas of different lengths to the same height. [http://cferdinandi.github.io/right-height/](http://cferdinandi.github.io/right-height/)
 
 - **HTTP Clients**
@@ -249,6 +251,10 @@
 
   * [Spin.js](https://github.com/fgnass/spin.js) :gift_heart: - A spinning activity indicator. [http://spin.js.org/](http://spin.js.org/)
 
+- **Machine Learning**
+
+  * [brain.js](https://github.com/BrainJS/brain.js) :gift_heart: - Neural networks in JavaScript [https://brain.js.org](https://brain.js.org)
+
 - **Maps**
 
   * [Aeris.js](https://github.com/aerisweather/aerisjs) :gift_heart: - A javscript library for maps and weather. [http://demo.aerisjs.com/amd/index.html](http://demo.aerisjs.com/amd/index.html)
@@ -271,6 +277,7 @@
   * [Hls.js](https://github.com/video-dev/hls.js) :gift_heart: - JavaScript HLS client using Media Source Extension [http://video-dev.github.io/hls.js/demo](http://video-dev.github.io/hls.js/demo)
   * [Howler.js](https://github.com/goldfire/howler.js) :gift_heart: - Javascript audio library for the modern web. [https://howlerjs.com](https://howlerjs.com)
   * [flashls](https://github.com/mangui/flashls) :gift_heart: - HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) [http://www.flashls.org](http://www.flashls.org)
+  * [generative.fm](https://github.com/generative-music/generative.fm) :gift_heart: - A platform for playing generative music in the browser. [https://generative.fm](https://generative.fm)
   * [Grind Player](https://github.com/kutu/GrindPlayer) :gift_heart: - OSMF + Flex based flash video player, which provides most needed functionality in nowadays [http://osmfhls.kutu.ru/docs/grind/](http://osmfhls.kutu.ru/docs/grind/)
   * [JWPlayer](https://www.jwplayer.com/) :gift_heart: & :moneybag: - The most-used and fastest loading video player on the web, our signature product enables online publishers to deliver and monetize video across all devices in any browser. [https://www.jwplayer.com/](https://www.jwplayer.com/)
   * [Media Element](https://github.com/mediaelement/mediaelement) :gift_heart: - HTML5 ```<audio/>``` or ```<video/>``` player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. [http://mediaelementjs.com/](http://mediaelementjs.com/)
@@ -440,6 +447,7 @@
 - **Virtualization**
 
   * [v86](https://github.com/copy/v86) :gift_heart: - x86 virtualization in JavaScript, running in your browser and NodeJS. [https://copy.sh/v86/?profile=windows98](https://copy.sh/v86/?profile=windows98)
+  * [WinXP](https://github.com/ShizukuIchi/winXP) :gift_heart: - Web based Windows XP desktop recreation. [https://winxp.now.sh](https://winxp.now.sh)
 
 - **Window & Layout Managers**
 

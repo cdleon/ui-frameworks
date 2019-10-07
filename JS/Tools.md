@@ -72,6 +72,7 @@
   * [Parcel](https://github.com/parcel-bundler/parcel) :gift_heart: - Blazing fast, zero configuration web application bundler. [https://parceljs.org](https://parceljs.org)
   * [Prepack](https://github.com/facebook/prepack) :gift_heart: - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently. [https://prepack.io](https://prepack.io)
   * [require.js](https://github.com/requirejs/requirejs) :gift_heart: - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
+  * [swc](https://github.com/swc-project/swc) :gift_heart: - Super-fast javascript to javascript compiler written in rust [https://swc-project.github.io](https://swc-project.github.io)
   * [Tink](https://github.com/npm/tink) :gift_heart: - A dependency unwinder for javascript.
   * [Webpack](https://github.com/webpack/webpack) :gift_heart: - Webpack is a bundler for modules. The main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
   * [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) :gift_heart: - A CLI dashboard for webpack dev server. [https://github.com/FormidableLabs/webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard)

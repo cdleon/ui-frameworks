@@ -37,6 +37,7 @@
   * [Vivus.js (SVG-animations)](https://github.com/maxwellito/vivus) :gift_heart: - JavaScript library to make drawing animation on SVG. [http://maxwellito.github.io/vivus/](http://maxwellito.github.io/vivus/)
   * [WebGLStudio.js](https://github.com/jagenjo/webglstudio.js) :gift_heart: - A full 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more. [http://webglstudio.org/](http://webglstudio.org/)
   * [Wilderness](https://github.com/colinmeinke/wilderness) :gift_heart: - An SVG animation API [https://wilderness.now.sh](https://wilderness.now.sh)
+  * [Zdog](https://github.com/metafizzy/zdog) :gift_heart: - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG. [https://zzz.dog](https://zzz.dog)
 
 - **Alerts, Modals & Notifications**
 

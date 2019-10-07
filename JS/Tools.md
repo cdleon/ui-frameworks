@@ -26,7 +26,7 @@
 
 - **CI/CD & Deployments**
 
- * [SCAR](https://github.com/cloudkj/scar) :gift_heart: - Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains. 
+  * [SCAR](https://github.com/cloudkj/scar) :gift_heart: - Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains. 
 
 - **Debuggers**
 
@@ -71,6 +71,7 @@
   * [Browserify](https://github.com/substack/node-browserify) :gift_heart: - Browser-side require() the node.js way.
   * [Bundle Buddy](https://github.com/samccone/bundle-buddy) :gift_heart: - A tool to identify bundle duplication across splits.
   * [Bundlesize](https://github.com/siddharthkp/bundlesize) :gift_heart: - Keep your bundle size in check.
+  * [Entropic](https://github.com/entropic-dev/entropic) :gift_heart: - A package registry for anything, but mostly javascript.  [https://discourse.entropic.dev/](https://discourse.entropic.dev/)
   * [Jarvis](https://github.com/zouhir/jarvis) :gift_heart: - A very intelligent browser based Webpack dashboard. [https://github.com/zouhir/jarvis](https://github.com/zouhir/jarvis)
   * [Jetpack](https://github.com/KidkArolis/jetpack) : gift_heart: -  Jetpack – Webpack made more convenient.
   * [Parcel](https://github.com/parcel-bundler/parcel) :gift_heart: - Blazing fast, zero configuration web application bundler. [https://parceljs.org](https://parceljs.org)

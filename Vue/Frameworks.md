@@ -4,6 +4,7 @@
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) :gift_heart: - Implementation of [bootstrap-4](https://getbootstrap.com/) grid and components for Vue.js 2. [https://bootstrap-vue.js.org/](https://bootstrap-vue.js.org/)
 - [buefy](https://github.com/buefy/buefy) :gift_heart: - Components based on Bulma framework. [https://buefy.github.io/](https://buefy.github.io/)
 - [cube-ui](https://github.com/didi/cube-ui) :gift_heart: - A fantastic mobile ui lib implement by Vue. [https://didi.github.io/cube-ui/](https://didi.github.io/cube-ui/)
+- [Element](https://github.com/ElemeFE/element) :gift_heart: - A Vue.js 2.0 UI Toolkit for Web [https://element.eleme.io/](https://element.eleme.io/)
 - [element-ui](https://github.com/ElemeFE/element) :gift_heart: - A Vue.js 2.0 UI Toolkit for Web. [http://element.eleme.io/](http://element.eleme.io/)
 - [fish-ui](https://github.com/myliang/fish-ui) :gift_heart: - A Vue.js 2.0 UI Toolkit for Web. [https://myliang.github.io/fish-ui/#/components/index](https://myliang.github.io/fish-ui/#/components/index)
 - [Framework7](https://github.com/framework7io/framework7/) :gift_heart: - Full featured HTML framework for building iOS & Android apps [http://framework7.io](http://framework7.io)

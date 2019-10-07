@@ -24,6 +24,10 @@
   * [ie8linter](https://github.com/israelidanny/ie8linter) :gift_heart: - A little tool to lint websites for IE8 compatibility, with warnings for possible pitfalls.
   * [Modernizr](https://github.com/modernizr/modernizr) :gift_heart: - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 
+- **CI/CD & Deployments**
+
+ * [SCAR](https://github.com/cloudkj/scar) :gift_heart: - Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains. 
+
 - **Debuggers**
 
   * [Chrome DevTools App](https://github.com/auchenberg/chrome-devtools-app) :gift_heart: - Chrome DevTools packaged as an app via Electron. [https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/](https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/)

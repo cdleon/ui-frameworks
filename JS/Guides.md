@@ -44,6 +44,7 @@
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) :gift_heart: - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 * [Must-Know URL Hash Techniques for AJAX Applications](http://blog.mgm-tp.com/2011/10/must-know-url-hashtechniques-for-ajax-applications/) :gift_heart: - By coding the page state into the URL, even single-page web applications can support deep bookmarks and the browser’s back button.
 * [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript) :gift_heart: - A useful list of must-watch talks about JavaScript.
+* [overreacted.io](https://github.com/gaearon/overreacted.io) :gift_heart: - Personal blog by Dan Abramov. [https://overreacted.io](https://overreacted.io)
 * [Practical Node.js](https://github.com/azat-co/practicalnode) :gift_heart: - Practical Node.js, 1st and 2nd Editions [Apress]. [http://practicalnodebook.com](http://practicalnodebook.com)
 * [Project Guidelines](https://github.com/wearehive/project-guidelines) :gift_heart: - A set of best practices for JavaScript projects.
 * [Solid](https://github.com/solid/solid) :gift_heart: - Re-decentralizing the web.

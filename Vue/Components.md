@@ -24,6 +24,7 @@
 - **Forms & Input**
 - **Gaming & Game Development**
 - **Graphics & Animation**
+  * [CSSeffectsSnippets](https://github.com/emilkowalski/css-effects-snippets) :gift_heart: - A collection of CSS effects made with Vue.js. [https://emilkowalski.github.io/css-effects-snippets/](https://emilkowalski.github.io/css-effects-snippets/)
 - **Grid**
 - **HTTP Clients**
 - **Image & Content Sliders**

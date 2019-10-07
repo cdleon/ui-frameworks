@@ -301,6 +301,10 @@
 
   * [Compromise](https://github.com/spencermountain/compromise) :gift_heart: - Modest natural-language processing in javascript. [http://compromise.cool](http://compromise.cool)
 
+- **Prefetch**
+
+  * [quicklink](https://github.com/GoogleChromeLabs/quicklink) :gift_heart: - Faster subsequent page-loads by prefetching in-viewport links during idle time.
+
 - **Presentations**
 
   * [Reveal.js](https://github.com/hakimel/reveal.js) :gift_heart: - The HTML Presentation Framework [http://lab.hakim.se/reveal-js](http://lab.hakim.se/reveal-js/)

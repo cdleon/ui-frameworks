@@ -16,6 +16,7 @@
 * [ES6 In Depth](https://hacks.mozilla.org/category/es6-in-depth/) :gift_ehart: - ES6 In Depth is a series on new features being added to the JavaScript programming language in the 6th Edition of the ECMAScript standard, ES6 for short.
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) :gift_heart: - A collection of (mostly) technical things every software developer should know.
 * [Exercises](https://github.com/kolodny/exercises) :gift_heart: - Some basic javascript coding challenges and interview questions.
+* [FAQGURU](https://github.com/FAQGURU/FAQGURU) :gift_heart: - A list of interview questions. This repository is everything you need to prepare for your technical interview.
 * [Five Ajax best practices](https://www.ibm.com/developerworks/library/wa-aj-5best/) :gift_heart: - Tips and tools for better Ajax development.
 * [Flux Challenge](https://github.com/staltz/flux-challenge) :gift_heart: - A frontend challenge to test UI architectures and solutions.
 * [Frontend Bootcamp / Days in the Web](https://github.com/Microsoft/frontend-bootcamp) :gift_heart: - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux [https://microsoft.github.io/frontend-bootcamp/](https://microsoft.github.io/frontend-bootcamp/)
@@ -30,6 +31,7 @@
 * [Introduction to Touch events in JavaScript](http://www.javascriptkit.com/javatutors/touchevents.shtml) :gift_heart: - In this tutorial lets get touchy feely with JavaScript, by examining its touch related events and how they are used to detect and respond to touch and swipe events.
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) :gift_heart: - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 * [JavaScript Tutorial - Hiding Script](https://trans4mind.com/personal_development/JavaScript2/hidingScript.htm) :gift_heart: - Information contained in webpages - script, data, images, etc, cannot be hidden securely with JavaScript. The following information may be helpful as a deterent, but it isn't foolproof by any means.
+* [Javascript Questions](https://github.com/lydiahallie/javascript-questions) :gift_heart: -  A long list of (advanced) JavaScript questions, and their explanations.
 * [JavaScript Style Guides And Beautifiers](https://addyosmani.com/blog/javascript-style-guides-and-beautifiers/) :gift_heart: - Today we're going to explore JavaScript style guides, specifically: their importance, style guides worth reviewing and tools that can assist in automated code beautification or style enforcement.
 * [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp) :gift_heart: - Always use the same coding conventions for all your JavaScript projects.
 * [JavaScript The Right Way](http://jstherightway.org/) :gift_heart: - This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices.
@@ -49,6 +51,7 @@
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) :gift_heart: -  A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
 * [Superhero.js](https://github.com/superherojs/superherojs) :gift_heart: - Creating, testing and maintaining a large JavaScript code base is not easy — especially since great resources on how to do this are hard to find. This page is a collection of the best articles, videos and presentations we've found on the topic. [http://superherojs.com/](http://superherojs.com/)
 * [The JavaScript Behind Touch-Friendly Sliders](https://css-tricks.com/the-javascript-behind-touch-friendly-sliders/) :gift_heart:
+* [The JavaScript Developer's Reading List](https://github.com/twhite96/js-dev-reads) :gift_heart: - A list of books 📚and articles 📝 for the discerning web developer to read. 
 * [The JavaScript Tutorial](https://github.com/iliakan/javascript-tutorial-en) :git_heart: - Modern JavaScript Tutorial. [https://javascript.info](https://javascript.info)
 * [The JavaScript Way](https://github.com/bpesquet/thejsway) :gift_heart: - The JavaScript Way book [https://leanpub.com/thejsway](https://leanpub.com/thejsway)
 * [Overview of JavaScript ES6 features (a.k.a ECMAScript 6 and ES2015+)](http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/#.WA4G-3dZebs.hackernews) :gift_heart: - JavaScript has changed quite a bit in the last years. These are 12 new features that you can start using today!

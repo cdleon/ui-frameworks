@@ -50,6 +50,7 @@
   * [ESLint](https://github.com/eslint/eslint) :gift_heart: - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
   * [JSHint](https://github.com/jshint/jshint) :gift_heart: - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
   * [JSLint](https://github.com/reid/node-jslint) :gift_heart: - The JavaScript Code Quality Tool — for Node.js.
+  * [lint-staged](https://github.com/okonet/lint-staged) :gift_heart: - Run linters on git staged files.
 
 - **Managing**
 

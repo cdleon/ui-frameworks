@@ -24,6 +24,7 @@
   * [CSSFX](https://github.com/jolaleye/cssfx) :gift_heart: - Beautifully simple click-to-copy CSS effects.  [https://cssfx.netlify.dev](https://cssfx.netlify.dev)
   * [Hover](https://github.com/IanLunn/Hover) :gift_heart: - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. [http://ianlunn.github.io/Hover/](http://ianlunn.github.io/Hover/)
   * [iHover](https://github.com/gudh/ihover) :gift_heart: - iHover is a collection of hover effects using pure CSS, powered by Sass. [http://gudh.github.io/ihover/dist/index.html](http://gudh.github.io/ihover/dist/index.html)
+  * [imagehover.css](https://github.com/ciar4n/imagehover.css) :gift_heart: - Pure CSS Image Hover Effect Library [http://imagehover.io](http://imagehover.io)
 
 - **Graphics & Animations**
 

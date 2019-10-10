@@ -9,6 +9,7 @@
 
   * [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) :gift_heart: - Algorithm Visualizer [http://algo-visualizer.jasonpark.me](http://algo-visualizer.jasonpark.me)
   * [Anime.js](https://github.com/juliangarnier/anime) :gift_heart: - JavaScript animation engine [https://animejs.com](https://animejs.com)
+  * [brusher](https://github.com/kamranahmedse/brusher) :gift_heart: - Create beautiful webpage backgrounds [http://kamranahmed.info/brusher](http://kamranahmed.info/brusher)
   * [CamanJS](https://github.com/meltingice/CamanJS) :gift_heart: - Javascript HTML5 (Ca)nvas (Man)ipulation [http://camanjs.com](http://camanjs.com)
   * [Cirque](https://github.com/two-n/cirque) :gift_heart: -  Utilities for negotiating between circles and polygons in SVG. [http://projects.two-n.com/cirque](http://projects.two-n.com/cirque/)
   * [d3.geo2rect](https://github.com/sebastian-meier/d3.geo2rect) :gift_heart: - Morphing geojson polygons into rectangles. [http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html](http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html)
@@ -20,6 +21,7 @@
   * [HTML5 Deck of Cards](https://github.com/pakastin/deck-of-cards) :gift_heart: - HTML5 Deck of Cards [https://deck-of-cards.js.org](https://deck-of-cards.js.org)
   * [Layer Visualizer](https://github.com/romannurik/LayerVisualizer) :gift_heart: - A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows). [https://cdn.rawgit.com/romannurik/LayerVisualizer/d3691d20005ba8a86494a1419d5187f5edf8af0d/examples.html](https://cdn.rawgit.com/romannurik/LayerVisualizer/d3691d20005ba8a86494a1419d5187f5edf8af0d/examples.html)
   * [Lax.js](https://github.com/alexfoxy/laxxx) :gift_heart: - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
+  * [micron.js](https://github.com/webkul/micron) :gift_heart: - A [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power. [https://webkul.github.io/micron/](https://webkul.github.io/micron/)
   * [Mojs](https://github.com/legomushroom/mojs) :gift_heart: - Motion graphics toolbelt for the web. [http://mojs.io/](http://mojs.io/)
   * [Particles.js](https://github.com/VincentGarreau/particles.js) :gift_heart: - A lightweight JavaScript library for creating particles. [https://vincentgarreau.com/particles.js/](https://vincentgarreau.com/particles.js/)
   * [p5.js](https://github.com/processing/p5.js) :gift_heart: - p5.js is a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing. [http://p5js.org/](http://p5js.org/)
@@ -35,6 +37,7 @@
   * [Trianglify](https://github.com/qrohlf/trianglify) :gift_heart: - Algorithmically generated triangle art. [http://qrohlf.com/trianglify/](http://qrohlf.com/trianglify/)
   * [Velociy](https://github.com/julianshapiro/velocity) :gift_heart: - Accelerated JavaScript animation. [http://velocityjs.org/](http://velocityjs.org/)
   * [Vivus.js (SVG-animations)](https://github.com/maxwellito/vivus) :gift_heart: - JavaScript library to make drawing animation on SVG. [http://maxwellito.github.io/vivus/](http://maxwellito.github.io/vivus/)
+  * [WebGL Fluid Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) :gift_heart: -  Play with fluids in your browser (works even on mobile). [https://paveldogreat.github.io/WebGL-Fluid-Simulation/](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
   * [WebGLStudio.js](https://github.com/jagenjo/webglstudio.js) :gift_heart: - A full 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more. [http://webglstudio.org/](http://webglstudio.org/)
   * [Wilderness](https://github.com/colinmeinke/wilderness) :gift_heart: - An SVG animation API [https://wilderness.now.sh](https://wilderness.now.sh)
   * [Zdog](https://github.com/metafizzy/zdog) :gift_heart: - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG. [https://zzz.dog](https://zzz.dog)

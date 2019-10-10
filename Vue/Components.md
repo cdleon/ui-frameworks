@@ -25,6 +25,7 @@
 - **Gaming & Game Development**
 - **Graphics & Animation**
   * [CSSeffectsSnippets](https://github.com/emilkowalski/css-effects-snippets) :gift_heart: - A collection of CSS effects made with Vue.js. [https://emilkowalski.github.io/css-effects-snippets/](https://emilkowalski.github.io/css-effects-snippets/)
+  * [vue-particle-effect-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons) :gift_heart: - A bursting particles effects buttons component. [https://dreambo8563.github.io/vue-particle-effect-buttons/](https://dreambo8563.github.io/vue-particle-effect-buttons/)
 - **Grid**
 - **HTTP Clients**
 - **Image & Content Sliders**

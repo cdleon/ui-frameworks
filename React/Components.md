@@ -109,17 +109,18 @@ for React based Enterprise Applications. [http://reactdatagrid.com/Home/Demo](ht
   * [react-scroll-parallax](https://github.com/jscottsmith/react-scroll-parallax) :gift_heart: - React components to create parallax scroll effects for banners, images or any other DOM elements. [https://jscottsmith.github.io/react-scroll-parallax-examples/examples/parallax-example/](https://jscottsmith.github.io/react-scroll-parallax-examples/examples/parallax-example/)
   * [react-scrollbar](https://github.com/souhe/reactScrollbar) :gift_heart: - Scrollbar component for React. [https://souhe.github.io/reactScrollbar/](https://souhe.github.io/reactScrollbar/)
   * [simple-scrollbar](https://github.com/buzinas/simple-scrollbar) :gift_heart: - Very simple and lightweight vanilla javascript library for creating a custom scrollbar cross-browser. [https://buzinas.github.io/simple-scrollbar/](https://buzinas.github.io/simple-scrollbar/)
+  
+- **Social Media & Community**
+
+  * [react-rating](https://github.com/dreyescat/react-rating) :gift_heart: - A rating react component with custom symbols. [http://dreyescat.github.io/react-rating/](http://dreyescat.github.io/react-rating/)
+  * [react-social-login-buttons](https://github.com/MichalSzorad/react-social-login-buttons) :gift_heart: - Social login buttons for React. [https://codesandbox.io/s/3rpq558rv5](https://codesandbox.io/s/3rpq558rv5)
+  * [react-tweet-embed](https://github.com/capaj/react-tweet-embed) :gift_heart - Component that you supply tweet id and you'll get a tweet embed back, nothing more. [https://dev.twitter.com/web/embedded-tweets/parameters](https://dev.twitter.com/web/embedded-tweets/parameters)
 
 - **State & Store Management**
 
   * [Marty](https://github.com/martyjs/marty) :gift_heart: - A Javascript library for state management in React applications. [http://martyjs.org/](http://martyjs.org/)
   * [Unistore](https://github.com/developit/unistore) :gift_heart: - 650b state container with component actions for Preact & React [https://npm.im/unistore](https://npm.im/unistore)
   * [WatermelonDB](https://github.com/Nozbe/WatermelonDB) :gift_heart: - Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast. [https://github.com/Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB)
-
-- **Social Media & Community**
-
-  * [react-rating](https://github.com/dreyescat/react-rating) :gift_heart: - A rating react component with custom symbols. [http://dreyescat.github.io/react-rating/](http://dreyescat.github.io/react-rating/)
-  * [react-tweet-embed](https://github.com/capaj/react-tweet-embed) :gift_heart - Component that you supply tweet id and you'll get a tweet embed back, nothing more. [https://dev.twitter.com/web/embedded-tweets/parameters](https://dev.twitter.com/web/embedded-tweets/parameters)
 
 - **Text Effects & Text Manipulation**
 

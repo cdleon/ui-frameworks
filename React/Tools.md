@@ -25,6 +25,7 @@
 
   * [essential-react](https://github.com/pheuter/essential-react) :gift_heart: - A minimal skeleton for building testable React apps using Babel.
   * [Gatsby](https://github.com/gatsbyjs/gatsby) :gift_heart: - Blazing fast static site generator for React. [https://www.gatsbyjs.org](https://www.gatsbyjs.org)
+  * [Microsoft Web Template Studio](https://github.com/microsoft/WebTemplateStudio) :gift_heart: - Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices [https://aka.ms/webtsinstall](https://aka.ms/webtsinstall)
   * [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) :gift_heart: - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices. [https://www.reactboilerplate.com](https://www.reactboilerplate.com)
   * [react-hot-boilerplate](https://github.com/gaearon/react-hot-boilerplate) :gift_heart: - Minimal live-editing example for React.
   * [Sgvr](https://github.com/smooth-code/svgr) :gift_heart: - Transform SVG into React components. [https://github.com/smooth-code/svgr](https://github.com/smooth-code/svgr)

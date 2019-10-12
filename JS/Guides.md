@@ -16,6 +16,7 @@
 * [ES6 In Depth](https://hacks.mozilla.org/category/es6-in-depth/) :gift_ehart: - ES6 In Depth is a series on new features being added to the JavaScript programming language in the 6th Edition of the ECMAScript standard, ES6 for short.
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) :gift_heart: - A collection of (mostly) technical things every software developer should know.
 * [Exercises](https://github.com/kolodny/exercises) :gift_heart: - Some basic javascript coding challenges and interview questions.
+* [Fantastic Front-End Toolbox](https://github.com/jamesctucker/Fantastic-Front-End-Toolbox) - A catalogue of front-end tools, technologies, and resources for developers.
 * [FAQGURU](https://github.com/FAQGURU/FAQGURU) :gift_heart: - A list of interview questions. This repository is everything you need to prepare for your technical interview.
 * [Five Ajax best practices](https://www.ibm.com/developerworks/library/wa-aj-5best/) :gift_heart: - Tips and tools for better Ajax development.
 * [Flux Challenge](https://github.com/staltz/flux-challenge) :gift_heart: - A frontend challenge to test UI architectures and solutions.

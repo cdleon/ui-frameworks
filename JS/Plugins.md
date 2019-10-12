@@ -81,6 +81,12 @@
 
   * [CSS Colorguard](https://github.com/SlexAxton/css-colorguard) :gift_heart: - Keep a watchful eye on your css colors. [https://github.com/SlexAxton/css-colorguard](https://github.com/SlexAxton/css-colorguard)
 
+- **Compression**
+  * [zstd-codec](https://github.com/yoshihitoh/zstd-codec) :gift_heart: - Zstandard codec for Node.js and Web, powered by Emscripten.
+
+- **Computation**
+  * [Rematrix](https://github.com/jlmakes/rematrix) :gift_heart: - Matrix transformations made easy. [https://rematrix.now.sh/](https://rematrix.now.sh/)
+
 - **Computer Vision**
 
   * [OCR](https://github.com/mateogianolio/ocr) :gift_heart: - Neural network OCR. [https://github.com/mateogianolio/ocr](https://github.com/mateogianolio/ocr)

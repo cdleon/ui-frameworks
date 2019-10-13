@@ -421,6 +421,7 @@
   * [Highlight.js](https://github.com/isagalaev/highlight.js) :gift_heart: - Javascript syntax highlighter. [https://highlightjs.org/](https://highlightjs.org/)
   * [Lazy.js](https://github.com/dtao/lazy.js) :gift_heart: - Like Underscore, but lazier [http://danieltao.com/lazy.js/](http://danieltao.com/lazy.js/)
   * [Randexp.js](https://github.com/fent/randexp.js) :gift_heart: - Create random strings that match a given regular expression. [http://fent.github.io/randexp.js/](http://fent.github.io/randexp.js/)
+  * [TheaterJS](https://github.com/Zhouzi/TheaterJS) :gift_heart: - Typing animation mimicking human behavior. [https://codepen.io/Zhouzi/pen/JoRazP](https://codepen.io/Zhouzi/pen/JoRazP)
   * [Underline.js](https://github.com/wentin/underlineJS) :gift_heart: - Pushing the boundary of browser typography rendering! [http://underlinejs.org/](http://underlinejs.org/)
   * [Underscore.string](https://github.com/epeli/underscore.string) :gift_heart: - String manipulation helpers for javascript. [http://epeli.github.io/underscore.string/](http://epeli.github.io/underscore.string/)
 

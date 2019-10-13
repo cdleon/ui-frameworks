@@ -203,7 +203,8 @@
 - **Grid**
 
   * [Bricks.js](https://github.com/callmecavs/bricks.js) :gift_heat: - A blazing fast masonry layout generator for fixed width elements. [http://callmecavs.com/bricks.js/](http://callmecavs.com/bricks.js/)
-  * [https://github.com/haltu/muuri](https://github.com/haltu/muuri) :gift_heart: - Responsive, sortable, filterable and draggable grid layouts [http://haltu.github.io/muuri/](http://haltu.github.io/muuri/)
+  * [Isotope](https://github.com/metafizzy/isotope) :gift_heart: - Filter & sort magical layouts [https://isotope.metafizzy.co](https://isotope.metafizzy.co)
+  * [Muuri](https://github.com/haltu/muuri) :gift_heart: - Responsive, sortable, filterable and draggable grid layouts [http://haltu.github.io/muuri/](http://haltu.github.io/muuri/)
   * [Layout Grid](https://github.com/clippings/layout-grid) :gift_heart: - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile. [http://clippings.github.io/layout-grid/](http://clippings.github.io/layout-grid/)
   * [Magic Grid](https://github.com/e-oj/Magic-Grid) :gift_heart: - A simple, lightweight Javascript library for dynamic grid layouts. [https://www.npmjs.com/package/magic-grid](https://www.npmjs.com/package/magic-grid)
   * [Right Height](https://github.com/cferdinandi/right-height) :gift_heart: - Dynamically set content areas of different lengths to the same height. [http://cferdinandi.github.io/right-height/](http://cferdinandi.github.io/right-height/)

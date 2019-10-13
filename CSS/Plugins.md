@@ -5,6 +5,7 @@
 
   * [Animate.css](https://github.com/daneden/animate.css) :gift_heart: - A cross-browser library of CSS animations. As easy to use as an easy thing. [https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/)
   * [CSSFX](https://github.com/jolaleye/cssfx) :gift_heart: - Beautifully simple click-to-copy CSS effects.  [https://cssfx.netlify.dev](https://cssfx.netlify.dev)
+  * [Hamburgers](https://github.com/jonsuh/hamburgers) :gift_heart - Tasty CSS-animated Hamburgers. [https://jonsuh.com/hamburgers](https://jonsuh.com/hamburgers)
   * [Hover](https://github.com/IanLunn/Hover) :gift_heart: - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. [http://ianlunn.github.io/Hover/](http://ianlunn.github.io/Hover/)
   * [iHover](https://github.com/gudh/ihover) :gift_heart: - iHover is a collection of hover effects using pure CSS, powered by Sass. [http://gudh.github.io/ihover/dist/index.html](http://gudh.github.io/ihover/dist/index.html)
   * [imagehover.css](https://github.com/ciar4n/imagehover.css) :gift_heart: - Pure CSS Image Hover Effect Library [http://imagehover.io](http://imagehover.io)
@@ -26,6 +27,10 @@
 - **Cross Browser Rendering & Consistency**
 
   * [Normalize.css](https://github.com/necolas/normalize.css/) :gift_heart: - Normalize.css is a customisable CSS file that makes browsers render all elements more consistently and in line with modern standards. [http://necolas.github.io/normalize.css/](http://necolas.github.io/normalize.css/)
+
+- **Forms**
+
+- [wtf-forms.css](https://github.com/mdo/wtf-forms) :gift_heart: - Friendlier HTML form controls with a little CSS magic. [http://wtfforms.com](http://wtfforms.com)
 
 - **Graphics & Animations**
 
@@ -53,6 +58,7 @@
 
 - **Pointers & Tooltips**
 
+  * [Balloon.css](https://github.com/kazzkiq/balloon.css) :gift_heart: - Simple tooltips made of pure CSS [https://kazzkiq.github.io/balloon.css/](https://kazzkiq.github.io/balloon.css/)
   * [Hint.css](https://github.com/chinchang/hint.css) :gift_heart: - A CSS only tooltip library for your lovely websites. [http://kushagragour.in/lab/hint/](http://kushagragour.in/lab/hint/)
 
 - **Text Effects**

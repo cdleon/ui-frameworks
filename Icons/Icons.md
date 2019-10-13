@@ -36,7 +36,7 @@
   * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/) :gift_heart: - High quality icons that are easy to use with Bootstrap, other CSS frameworks and in any web projects. [http://www.webhostinghub.com/glyphs/](http://www.webhostinghub.com/glyphs/)
 - **SVG**
   * [Eva Icons](https://github.com/akveo/eva-icons) :gift_heart: - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support. [https://akveo.github.io/eva-icons/](https://akveo.github.io/eva-icons/)
-  * [Evil Icons](https://github.com/outpunk/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. [http://evil-icons.io/](http://evil-icons.io/)
+  * [Evil Icons](https://github.com/evil-icons/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. [http://evil-icons.io/](http://evil-icons.io/)
   * [Feather](https://github.com/colebemis/feather) :gift_heart: - Simply beautiful open source icons. [https://feathericons.com](https://feathericons.com)
   * [Flag Icon CSS](https://github.com/lipis/flag-icon-css) :gift_heart: -  A collection of all country flags in SVG — plus the CSS for easier integration. [http://flag-icon-css.lip.is/](http://flag-icon-css.lip.is/)
   * [Ikonate](https://github.com/mikolajdobrucki/ikonate) :gift_heart: - Fully customisable & accessible vector icons. [https://ikonate.com](https://ikonate.com)

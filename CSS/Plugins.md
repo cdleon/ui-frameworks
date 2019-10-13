@@ -10,6 +10,7 @@
   * [iHover](https://github.com/gudh/ihover) :gift_heart: - iHover is a collection of hover effects using pure CSS, powered by Sass. [http://gudh.github.io/ihover/dist/index.html](http://gudh.github.io/ihover/dist/index.html)
   * [imagehover.css](https://github.com/ciar4n/imagehover.css) :gift_heart: - Pure CSS Image Hover Effect Library [http://imagehover.io](http://imagehover.io)
   * [magic](https://github.com/miniMAC/magic) :gift_heart: - CSS3 Animations with special effects. [https://www.minimamente.com/project/magic/](https://www.minimamente.com/project/magic/)
+  * [starwarsintro.css](https://github.com/PolarNotion/starwarsintro) :gift_heart: - A CSS Library for the Star Wars Intro Crawl . [https://polarnotion.github.io/starwarsintro/](https://polarnotion.github.io/starwarsintro/)
 
 - **Button groups**
 

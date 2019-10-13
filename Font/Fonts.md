@@ -14,6 +14,7 @@
 - **Typeface**
 
   * [FiraCode](https://github.com/tonsky/FiraCode) :gift_heart: - Monospaced font with programming ligatures.
+  * [Google Fonts Files](https://github.com/google/fonts) :gift_heart: - Font files available from Google Fonts [https://fonts.google.com](https://fonts.google.com)
   * [Hack](https://github.com/chrissimpkins/Hack) :gift_heart: - A typeface designed for source code. [http://sourcefoundry.org/hack/](http://sourcefoundry.org/hack/)
   * [Inter](https://github.com/rsms/inter) :gift_heart: - The Inter font family [https://rsms.me/inter/](https://rsms.me/inter/)
   * [Iosevka](https://github.com/be5invis/Iosevka) :gift_heart: - Slender typeface for code, from code. [http://be5invis.github.io/Iosevka](http://be5invis.github.io/Iosevka)

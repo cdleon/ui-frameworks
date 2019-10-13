@@ -7,6 +7,7 @@
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) :gift_heart: - The perfect Front-End Checklist for modern websites and meticulous developers [https://frontendchecklist.io](https://frontendchecklist.io)
 * [Grab Front End Guide](https://github.com/grab/front-end-guide) :gift_heart: - Study guide and introduction to the modern front end stack.
 * [HEAD](https://github.com/joshbuchea/HEAD) :gift_heart: - A list of everything that could go in the <head> of your document. [http://gethead.info/](http://gethead.info/)
+* [SingleDivProject](https://github.com/manrajgrover/SingleDivProject) :gift_heart: - One <div>. Many possibilities.
 * [Solid](https://github.com/solid/solid) :gift_heart: - Re-decentralizing the web.
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) :gift_heart: -  A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
 * [Web Fundamentals](https://github.com/google/WebFundamentals) :gift_heart: - Best practices for modern web development. [https://developers.google.com/web/fundamentals/](https://developers.google.com/web/fundamentals/)

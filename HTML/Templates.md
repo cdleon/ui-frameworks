@@ -1,6 +1,10 @@
 ### HTML Templates
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
 
+- **Angular**
+ 
+   * [rdash-angular](https://github.com/invertase/rdash-angular) :gift_heart: - AngularJS implementation of the RDash admin dashboard theme. [http://rdash.github.io](http://rdash.github.io)
+
 - **Bootstrap**
 
   * [Bootstrap/386](https://github.com/kristopolous/BOOTSTRA.386) :gift_heart: - A vintage 1980s DOS inspired Twitter Bootstrap theme.

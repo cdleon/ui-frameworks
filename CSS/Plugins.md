@@ -4,6 +4,7 @@
 - **Animations & Effects**
 
   * [Animate.css](https://github.com/daneden/animate.css) :gift_heart: - A cross-browser library of CSS animations. As easy to use as an easy thing. [https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/)
+  * [css-camera](https://github.com/WoodNeck/css-camera) :gift_heart: - New way to see a web page with CSS3 3D transform. [https://woodneck.github.io/css-camera/](https://woodneck.github.io/css-camera/)
   * [CSSFX](https://github.com/jolaleye/cssfx) :gift_heart: - Beautifully simple click-to-copy CSS effects.  [https://cssfx.netlify.dev](https://cssfx.netlify.dev)
   * [Hamburgers](https://github.com/jonsuh/hamburgers) :gift_heart - Tasty CSS-animated Hamburgers. [https://jonsuh.com/hamburgers](https://jonsuh.com/hamburgers)
   * [Hover](https://github.com/IanLunn/Hover) :gift_heart: - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. [http://ianlunn.github.io/Hover/](http://ianlunn.github.io/Hover/)

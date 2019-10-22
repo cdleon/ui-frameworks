@@ -36,6 +36,7 @@
   * [iCheck](https://github.com/fronteed/iCheck) :gift_heart: - Highly customizable checkboxes and radio buttons. [http://icheck.fronteed.com/](http://icheck.fronteed.com/)
   * [jQuery Knobs](https://github.com/aterrien/jQuery-Knob) :gift_heart: - Nice, downward compatible, touchable, jQuery dial. [http://anthonyterrien.com/knob/](http://anthonyterrien.com/knob/)
   * [Parsley](https://github.com/guillaumepotier/Parsley.js/) :gift_heart: - Validate your forms, frontend, without writing a single line of javascript. [http://parsleyjs.org/](http://parsleyjs.org/)
+  * [Select2](https://github.com/select2/select2) :gift_heart: - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results. [https://select2.org/](https://select2.org/)
   * [Tag-it](https://github.com/aehlke/tag-it) :gift_heart: - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete. [http://aehlke.github.io/tag-it/](http://aehlke.github.io/tag-it/)
   * [Typehead](https://github.com/twitter/typeahead.js/) :gift_heart: - Typeahead.js is a fast and fully-featured autocomplete library. [http://twitter.github.io/typeahead.js/](http://twitter.github.io/typeahead.js/)
 

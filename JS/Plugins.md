@@ -193,6 +193,7 @@
   * [Selected.js](https://github.com/Fizzadar/selected.js) :gift_heart: - A simple, dependency free ```<select>``` replacement [http://fizzadar.com/selected.js/](http://fizzadar.com/selected.js/)
   * [Stretchy](https://github.com/LeaVerou/stretchy) :gift_heart: - Form element autosizing, the way it should be. [http://leaverou.github.io/stretchy/](http://leaverou.github.io/stretchy/)
   * [Taggle](https://github.com/okcoker/taggle.js) :gift_heart: - Form-ready dependency-less tagging. [https://sean.is/poppin/tags](https://sean.is/poppin/tags)
+  * [validator.js](https://github.com/validatorjs/validator.js) :gift_heart: - String validation.
 
 - **Gaming & Game Development**
 

@@ -174,6 +174,7 @@
 - **File Upload**
 
   * [FileDrop](https://github.com/ProgerXP/FileDrop) :gift_heart: - Self-contained cross-browser pure JavaScript class for Drag & Drop and AJAX (multi) file upload. [http://filedropjs.org/](http://filedropjs.org/)
+  * [FileSaver.js](https://github.com/eligrey/FileSaver.js) :gift_heart: - An HTML5 saveAs() FileSaver implementation. [https://eligrey.com/blog/saving-generated-files-on-the-client-side/](https://eligrey.com/blog/saving-generated-files-on-the-client-side/)
   * [Plupload](https://github.com/moxiecode/plupload) :gift_heart: - Plupload is JavaScript API for building file uploaders. It supports multiple file selection, file filtering, chunked upload, client side image downsizing and when necessary can fallback to alternative runtimes, like Flash and Silverlight. [http://www.plupload.com/](http://www.plupload.com/)
   * [Simple Ajax Uploader](https://github.com/LPology/Simple-Ajax-Uploader) :gift_heart: - Javascript plugin for cross-browser Ajax file uploading with progress bar support. Works in all major browsers, including IE7+, Chrome, Firefox, Safari, and Opera. No dependencies - use it with or without jQuery. [https://www.lpology.com/code/ajaxuploader/](https://www.lpology.com/code/ajaxuploader/)
   * [Valum's File Uploader](https://github.com/Valums-File-Uploader/file-uploader) :gift_heart: - Multiple file upload plugin for HTML forms. User-friendly progress-bar + uploads via drag-and-drop. Coded in Javascript + AJAX, not Flash. Server-side PHP, Java, & ColdFusion examples included. [http://valums-file-uploader.github.io/file-uploader/](http://valums-file-uploader.github.io/file-uploader/)
@@ -252,6 +253,7 @@
   * [Echo.js](https://github.com/toddmotto/echo) :gift_heart: - Lazy-loading images with data-* attributes. [https://toddmotto.com/labs/echo/](https://toddmotto.com/labs/echo/)
   * [Layzr.js](https://github.com/callmecavs/layzr.js) :gift_heart: - A small, fast, modern, and dependency-free library for lazy loading. [http://callmecavs.com/layzr.js/](http://callmecavs.com/layzr.js/)
   * [LazyLoad](https://github.com/vvo/lazyload) :gift_heart: - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader. [https://vvo.github.io/lazyload/](https://vvo.github.io/lazyload/)
+  * [lazysizes](https://github.com/aFarkas/lazysizes) :gift_heart: - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration. 
   * [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) :gift_heart: - Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more. [https://apoorv.pro/lozad.js/demo/](https://apoorv.pro/lozad.js/demo/)
   * [Responsively Lazy](https://github.com/ivopetkov/responsively-lazy) :gift_heart: - Lazy load responsive images. [https://ivopetkov.com/b/lazy-load-responsive-images/](https://ivopetkov.com/b/lazy-load-responsive-images/)
 

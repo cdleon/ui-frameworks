@@ -136,6 +136,7 @@
   * [Plottable.js](https://github.com/palantir/plottable) :gift_heart: - A library of modular chart components built on D3. [http://plottablejs.org/](http://plottablejs.org/)
   * [Plotly.js](https://github.com/plotly/plotly.js) :rainbow: - Built on top of d3.js and stack.gl, plotly.js is a high-level, declarative charting library. plotly.js ships with 20 chart types, including 3D charts, statistical graphs, and SVG maps. [https://plot.ly/javascript/](https://plot.ly/javascript/)
   * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael/) :gift_heart: - JavaScript Vector Library. [https://github.com/DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovskiy/raphael)
+  * [SandDance](https://github.com/microsoft/SandDance) :gift_heart: - Visually explore, understand, and present your data. [https://sanddance.js.org/](https://sanddance.js.org/)
   * [Sigma.js](https://github.com/jacomyal/sigma.js) :gift_heart: - Sigma is a JavaScript library dedicated to graph drawing. [http://sigmajs.org/](http://sigmajs.org/)
   * [Taucharts](https://github.com/TargetProcess/tauCharts) :gift_heart: - D3 based data-focused charting library. Designed with passion. Flexible. [https://www.taucharts.com/](https://www.taucharts.com/)
   * [Textures.js](https://github.com/riccardoscalco/textures) :gift_heart: - Textures.js is a JavaScript library for creating SVG patterns. [http://riccardoscalco.github.io/textures/](http://riccardoscalco.github.io/textures/)
@@ -420,6 +421,7 @@
 
 - **Text Effects & Text Manipulation**
 
+  * [bullshit.js](https://github.com/mourner/bullshit.js) :gift_heart: - A bookmarklet for translating marketing speak into human-readable text. 💩 [https://mourner.github.io/bullshit.js/](https://mourner.github.io/bullshit.js/)
   * [Iconate (icon-effects)](https://github.com/bitshadow/iconate) :gift_heart: - Transform your icons with trendy animations. [https://bitshadow.github.io/iconate/](https://bitshadow.github.io/iconate/)
   * [Knwl.js (date-parser)](https://github.com/benhmoore/Knwl.js) :gift_heart: - Find Dates, Places, Times, and More. A .js library for parsing text for specific information. [https://github.com/benhmoore/Knwl.js/issues/97](https://github.com/benhmoore/Knwl.js/issues/97)
   * [Highlight.js](https://github.com/isagalaev/highlight.js) :gift_heart: - Javascript syntax highlighter. [https://highlightjs.org/](https://highlightjs.org/)

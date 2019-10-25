@@ -2,6 +2,7 @@
 [Go to index](https://github.com/cdleon/awesome-front-end#index)
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) :gift_heart: - Some useful websites for programmers.
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university) :gift_heart: - A complete computer science study plan to become a software engineer.
+* [Designing Effective Vue Components](https://www.bignerdranch.com/blog/designing-effective-vue-components/) - While developing a Vue application it is common to create many different components to provide reusable logic and structure. While there are various design methodologies to accomplish this, let’s look at some Vue specific tools that can make our components more effective.
 * [Grab Front End Guide](https://github.com/grab/front-end-guide) :gift_heart: - Study guide and introduction to the modern front end stack.
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) :gift_heart: - The perfect Front-End Checklist for modern websites and meticulous developers [https://frontendchecklist.io](https://frontendchecklist.io)
 * [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript) :gift_heart: - A useful list of must-watch talks about JavaScript.

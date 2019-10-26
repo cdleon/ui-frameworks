@@ -88,6 +88,10 @@
 
   * [GPU.js](https://github.com/gpujs/gpu.js) :gift_heart: - GPU Accelerated JavaScript. [http://gpu.rocks](http://gpu.rocks)
   * [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) :gift_heart: - Track compressed Webpack asset sizes over time. [https://npm.im/size-plugin](https://npm.im/size-plugin)
+  
+- **Security**
+
+  * [is-website-vulnerable ](https://github.com/lirantal/is-website-vulnerable) :gift_heart: - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
 
 - **Testing**
 

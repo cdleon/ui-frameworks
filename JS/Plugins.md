@@ -162,6 +162,7 @@
   * [Dragula](https://github.com/bevacqua/dragula) :gift_heart: - Drag and drop so simple it hurts. [https://bevacqua.github.io/dragula/](https://bevacqua.github.io/dragula/)
   * [Grid](https://github.com/hootsuite/grid) :gift_heart: - Drag and drop library for two-dimensional, resizable and responsive lists. [http://hootsuite.github.io/grid/](http://hootsuite.github.io/grid/)
   * [Interact.js](https://github.com/taye/interact.js) :gift_heart: - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+). [http://interactjs.io/](http://interactjs.io/)
+  * [Moveable](https://github.com/daybrush/moveable) :gift_heart: - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable! [https://daybrush.com/moveable/](https://daybrush.com/moveable/)
   * [Sortable](https://github.com/RubaXa/Sortable) :gift_heart: - Sortable — is a minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer and any CSS library, e.g. Bootstrap. [http://rubaxa.github.io/Sortable/](http://rubaxa.github.io/Sortable/)
 
 - **Design Tools**

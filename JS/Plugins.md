@@ -106,6 +106,7 @@
   * [Gun](https://github.com/amark/gun) :gift_heart: - A realtime, decentralized, offline-first, graph database engine. [http://gun.js.org/](http://gun.js.org/)
   * [localForage](https://github.com/localForage/localForage) :gift_heart: - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API. [https://localforage.github.io/localForage/](https://localforage.github.io/localForage/)
   * [Lovefield (browser-database)](https://github.com/google/lovefield) :gift_heart: - Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use. [https://google.github.io/lovefield/](https://google.github.io/lovefield/)
+  * [RxDB](https://github.com/pubkey/rxdb) :gift_heart: - A realtime Database for JavaScript Applications [https://rxdb.info/](https://rxdb.info/)
 
 - **Data Binding**
 

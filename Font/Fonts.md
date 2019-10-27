@@ -13,6 +13,7 @@
 
 - **Typeface**
 
+  * [Cascadia Code](https://github.com/microsoft/cascadia-code) :gift_heart: - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. 
   * [FiraCode](https://github.com/tonsky/FiraCode) :gift_heart: - Monospaced font with programming ligatures.
   * [Google Fonts Files](https://github.com/google/fonts) :gift_heart: - Font files available from Google Fonts [https://fonts.google.com](https://fonts.google.com)
   * [Hack](https://github.com/chrissimpkins/Hack) :gift_heart: - A typeface designed for source code. [http://sourcefoundry.org/hack/](http://sourcefoundry.org/hack/)

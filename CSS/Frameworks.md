@@ -11,6 +11,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - [Bulma](https://github.com/jgthms/bulma) :gift_heart: - Modern CSS framework based on Flexbox. [http://bulma.io](http://bulma.io)
 - [Cascade](https://github.com/jslegers/cascadeframework/) :gift_heart: Cascade Framework. [http://cascade-framework.com/](http://cascade-framework.com/)
 - [ConciseCSS](https://github.com/ConciseCSS/concise.css) :gift_heart: A CSS framework that's lightweight and easy-to-use. Give up the bloat. Stop tripping over your classes. Be Concise. [http://concisecss.com/](http://concisecss.com/)
+- [Cutestrap](https://github.com/tylerchilds/cutestrap) :gift_heart: - A strong, independent CSS Framework. Only 2.7KB minified & gzipped. [https://www.cutestrap.com](https://www.cutestrap.com)
 - [Foundation](https://github.com/zurb/foundation-sites) :gift_heart: - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device. [http://foundation.zurb.com](http://foundation.zurb.com)
 - [Grd](https://github.com/1000ch/grd) :gift_heart: - A CSS grid framework using Flexbox. Only 321 bytes (Gzipped). [https://1000ch.github.io/grd/](https://1000ch.github.io/grd/)
 - [Gumby](https://github.com/GumbyFramework/Gumby) :gift_heart: - A Flexible, Responsive CSS Framework - Powered by Sass. [http://www.gumbyframework.com/](http://www.gumbyframework.com/)

@@ -35,6 +35,7 @@
   * [Rythm.js](https://github.com/Okazari/Rythm.js) :gift_heart: - A javascript library that makes your page dance. [https://okazari.github.io/Rythm.js/](https://okazari.github.io/Rythm.js/)
   * [Scene.js](https://github.com/daybrush/scenejs) :gift_heart: - Scene.js is JavaScript & CSS timeline-based animation library. [https://daybrush.com/scenejs](https://daybrush.com/scenejs)
   * [Shiny](https://github.com/rikschennink/shiny) :gift_heart: - Shiny reflections for mobile websites [https://pqina.nl/shiny/](https://pqina.nl/shiny/)
+  * [spacekit](https://github.com/typpo/spacekit) :gift_heart: -  Javascript library for 3D space visualizations. [https://www.spacereference.org/solar-system#ob=2001-einstein-1973-eb,7672-hawking-1995-uo2,2709-sagan-1982-fh](https://www.spacereference.org/solar-system#ob=2001-einstein-1973-eb,7672-hawking-1995-uo2,2709-sagan-1982-fh)
   * [Texgen.js](https://github.com/mrdoob/texgen.js) :gift_heart: - Procedural Texture Generator. [http://texgenjs.org/](http://texgenjs.org/)
   * [Textures.js](https://github.com/riccardoscalco/textures) :gift_heart: - Textures.js is a JavaScript library for creating SVG patterns. [http://riccardoscalco.github.io/textures/](http://riccardoscalco.github.io/textures/)
   * [Trianglify](https://github.com/qrohlf/trianglify) :gift_heart: - Algorithmically generated triangle art. [http://qrohlf.com/trianglify/](http://qrohlf.com/trianglify/)

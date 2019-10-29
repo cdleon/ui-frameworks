@@ -22,6 +22,7 @@
 - **Design Tools**
 - **File Upload**
 - **Forms & Input**
+  * [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) :gift_heart: - Credit card form with smooth and sweet micro-interactions. [https://codepen.io/JavaScriptJunkie/pen/YzzNGeR](https://codepen.io/JavaScriptJunkie/pen/YzzNGeR)
 - **Gaming & Game Development**
 - **Graphics & Animation**
   * [CSSeffectsSnippets](https://github.com/emilkowalski/css-effects-snippets) :gift_heart: - A collection of CSS effects made with Vue.js. [https://emilkowalski.github.io/css-effects-snippets/](https://emilkowalski.github.io/css-effects-snippets/)

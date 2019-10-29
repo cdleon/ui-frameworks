@@ -10,6 +10,7 @@
 
 - **Animation & Graphics**
   * [Animated](https://github.com/animatedjs/animated) :gift_heart: - Declarative Animations Library for React and React Native. [http://animatedjs.github.io/interactive-docs/](http://animatedjs.github.io/interactive-docs/)
+  * [mobile-first-animation](https://github.com/aholachek/mobile-first-animation) :gift_heart: - Performant gesture-driven animation on the mobile web. [https://codesandbox.io/s/github/aholachek/mobile-first-animation](https://codesandbox.io/s/github/aholachek/mobile-first-animation)
   * [react-canvas](https://github.com/Flipboard/react-canvas) :gift_heart: - High performance ```<canvas>``` rendering for React components. [https://github.com/Flipboard/react-canvas](https://github.com/Flipboard/react-canvas)
   * [react-flight](https://github.com/jondot/react-flight) :gift_heart: - The best way to build animation compositions for React. [http://www.react-flight.io](http://www.react-flight.io)
   * [react-move](https://github.com/react-tools/react-move) :gift_heart: - Beautiful, data-driven animations for React [https://react-move.js.org](https://react-move.js.org)

@@ -383,6 +383,7 @@
   * [Headroom.js](https://github.com/WickyNilliams/headroom.js) :gift_heart: - Give your pages some headroom. Hide your header until you need it. [http://wicky.nillia.ms/headroom.js/](http://wicky.nillia.ms/headroom.js/)
   * [Infinte List (Mobile-only)](https://github.com/roeierez/infinite-list) :gift_heart: - Infinite list in javascript that scrolls in 60fps. [http://roeierez.github.io/infinite-list/examples/react/index.html](http://roeierez.github.io/infinite-list/examples/react/index.html)
   * [iScroll](https://github.com/cubiq/iscroll) :gift_heart: - Smooth scrolling for the web. [http://iscrolljs.com/](http://iscrolljs.com/)
+  * [Sal](https://github.com/parcel-bundler/parcel) :gift_heart: - Performance focused, lightweight scroll animation library. [https://mciastek.github.io/sal/](https://mciastek.github.io/sal/)
   * [Parallax.js](https://github.com/wagerfield/parallax) :gift_heart: - Parallax Engine that reacts to the orientation of a smart device. [https://github.com/wagerfield/parallax](https://github.com/wagerfield/parallax)
   * [PullToRefresh.js](https://github.com/BoxFactura/pulltorefresh.js) :gift_heart: - A quick and powerful plugin for your pull-to-refresh needs in your webapp. [http://boxfactura.com/pulltorefresh.js/](http://boxfactura.com/pulltorefresh.js/)
   * [Sal.js](https://github.com/mciastek/sal) :gift_heart: - Performance focused, lightweight scroll animation library. [https://mciastek.github.io/sal/](https://mciastek.github.io/sal/)

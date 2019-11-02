@@ -7,6 +7,7 @@
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) :gift_heart: - The perfect Front-End Checklist for modern websites and meticulous developers [https://frontendchecklist.io](https://frontendchecklist.io)
 * [Grab Front End Guide](https://github.com/grab/front-end-guide) :gift_heart: - Study guide and introduction to the modern front end stack.
 * [HEAD](https://github.com/joshbuchea/HEAD) :gift_heart: - A list of everything that could go in the <head> of your document. [http://gethead.info/](http://gethead.info/)
+* [Mastering The HTML <audio> Tag](https://catswhocode.com/html-audio-tag/) :gift_heart: - Introduced with HTML5, the <audio> tag defines a sound and is used to embed audio content such as music or other streams in HTML documents.
 * [SingleDivProject](https://github.com/manrajgrover/SingleDivProject) :gift_heart: - One <div>. Many possibilities.
 * [Solid](https://github.com/solid/solid) :gift_heart: - Re-decentralizing the web.
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) :gift_heart: -  A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.

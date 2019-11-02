@@ -20,5 +20,6 @@
   * [Inter](https://github.com/rsms/inter) :gift_heart: - The Inter font family [https://rsms.me/inter/](https://rsms.me/inter/)
   * [Iosevka](https://github.com/be5invis/Iosevka) :gift_heart: - Slender typeface for code, from code. [http://be5invis.github.io/Iosevka](http://be5invis.github.io/Iosevka)
   * [Monoid](https://github.com/larsenwork/monoid) :gift_heart: - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. [http://larsenwork.com/monoid/](http://larsenwork.com/monoid/)
+  * [Leon Sans](https://github.com/cmiscm/leonsans) :gift_heart: - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim. [https://leon-kim.com/](https://leon-kim.com/)
   * [Public Sans](https://github.com/uswds/public-sans) :gift_heart: - A strong, neutral, principles-driven, open source typeface for text or display. [https://public-sans.digital.gov/](https://public-sans.digital.gov/)
   * [Sans Bullshit Sans](https://github.com/RoelN/SansBullshitSans) :gift_heart: - Source for the Sans Bullshit Sans font. [http://www.sansbullshitsans.com/](http://www.sansbullshitsans.com/)

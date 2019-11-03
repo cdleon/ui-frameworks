@@ -199,6 +199,7 @@
   * [Places](https://github.com/algolia/places) :gift_heart: - Turn any <input> into an address autocomplete. [https://community.algolia.com/places/](https://community.algolia.com/places/)
   * [Selected.js](https://github.com/Fizzadar/selected.js) :gift_heart: - A simple, dependency free ```<select>``` replacement [http://fizzadar.com/selected.js/](http://fizzadar.com/selected.js/)
   * [Stretchy](https://github.com/LeaVerou/stretchy) :gift_heart: - Form element autosizing, the way it should be. [http://leaverou.github.io/stretchy/](http://leaverou.github.io/stretchy/)
+  * [SurveyJS](https://github.com/surveyjs/survey-library) :gift_heart: - JavaScript Survey and Form Library. [https://surveyjs.io/Library](https://surveyjs.io/Library)
   * [Taggle](https://github.com/okcoker/taggle.js) :gift_heart: - Form-ready dependency-less tagging. [https://sean.is/poppin/tags](https://sean.is/poppin/tags)
 
 - **Gaming & Game Development**

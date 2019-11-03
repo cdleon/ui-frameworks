@@ -22,6 +22,7 @@
 - **Design Tools**
 - **File Upload**
 - **Forms & Input**
+  * [vee-validate](https://github.com/logaretm/vee-validate) :gift_heart: - Template Driven Validation Framework for Vue.js [https://logaretm.github.io/vee-validate/](https://logaretm.github.io/vee-validate/)
   * [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) :gift_heart: - Credit card form with smooth and sweet micro-interactions. [https://codepen.io/JavaScriptJunkie/pen/YzzNGeR](https://codepen.io/JavaScriptJunkie/pen/YzzNGeR)
 - **Gaming & Game Development**
 - **Graphics & Animation**

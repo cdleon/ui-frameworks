@@ -196,6 +196,7 @@
   * [Countable](https://github.com/RadLikeWhoa/Countable) :gift_heart: - Add live paragraph-, word- and character-counting to an HTML element. [https://sacha.me/Countable/](https://sacha.me/Countable/)
   * [Floating Label](https://github.com/datuhealth/floating-label) :gift_heart: - A floating label plugin written in vanilla javascript. [https://datuhealth.github.io/floating-label/](https://datuhealth.github.io/floating-label/)
   * [Horsey](https://github.com/bevacqua/horsey) :gift_heart: - Progressive and customizable autocomplete component. [https://bevacqua.github.io/horsey/](https://bevacqua.github.io/horsey/)
+  * [HTML Form Persistence](https://github.com/FThompson/FormPersistence.js) :gift_heart: - A simple JavaScript library for preserving HTML form data across multiple sessions. 
   * [List.js](https://github.com/javve/list.js) :gift_heart: - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML. [http://www.listjs.com/examples/existing-list](http://www.listjs.com/examples/existing-list)
   * [Places](https://github.com/algolia/places) :gift_heart: - Turn any <input> into an address autocomplete. [https://community.algolia.com/places/](https://community.algolia.com/places/)
   * [Selected.js](https://github.com/Fizzadar/selected.js) :gift_heart: - A simple, dependency free ```<select>``` replacement [http://fizzadar.com/selected.js/](http://fizzadar.com/selected.js/)
@@ -308,6 +309,7 @@
   * [Plyr](https://github.com/Selz/plyr) :gift_heart: - A simple HTML5 media player. [https://plyr.io/](https://plyr.io/)
   * [Shaka Player](https://github.com/google/shaka-player) :gift_heart: - JavaScript player library / DASH client / MSE-EME player. [https://shaka-player-demo.appspot.com/demo/#build=uncompiled](https://shaka-player-demo.appspot.com/demo/#build=uncompiled)
   * [Streama](https://github.com/dularion/streama) :gift_heart: - It's like Netflix, but self-hosted! [http://dularion.github.io/streama/](http://dularion.github.io/streama/)
+  * [Wad](https://github.com/rserota/wad) :gift_heart: - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
   * [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) :gift_heart: - Navigable waveform built on Web Audio and Canvas. [https://wavesurfer-js.org](https://wavesurfer-js.org)
   * [Webamp](https://github.com/captbaritone/webamp) :gift_heart: - A reimplementation of Winamp 2.9 in HTML5 and Javascript. [https://webamp.org](https://webamp.org)
   * [Winamp2-js](https://github.com/captbaritone/winamp2-js) :gift_heart: - A reimplementation of Winamp 2.9 in HTML5 and Javascript. [https://jordaneldredge.com/projects/winamp2-js/](https://jordaneldredge.com/projects/winamp2-js/)
@@ -394,6 +396,7 @@
   * [ScrollMagic](https://github.com/janpaepke/ScrollMagic) :gift_heart: - The javascript library for magical scroll interactions. [http://scrollmagic.io/](http://scrollmagic.io/)
   * [Scroll Menu](https://github.com/s-yadav/ScrollMenu) :gift_heart: - A new interface to replace your old boring scrollbar. [http://ignitersworld.com/lab/scrollmenu/](http://ignitersworld.com/lab/scrollmenu/)
   * [ScrollMonitor](https://github.com/stutrek/scrollMonitor) :gift_heart: - A simple and fast API to monitor elements as you scroll. [http://stutrek.github.io/scrollMonitor/demos/scoreboard.html](http://stutrek.github.io/scrollMonitor/demos/scoreboard.html)
+  * [simpleParallax](https://github.com/geosigno/simpleParallax/) :gift_heart: - Simple and tiny JavaScript library which adds parallax animations on any images [https://simpleparallax.com](https://simpleparallax.com)
   * [Skrollr](https://github.com/Prinzhorn/skrollr) :gift_heart: - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love). [http://prinzhorn.github.io/skrollr/](http://prinzhorn.github.io/skrollr/)
   * [Stack.js](https://github.com/mbostock/stack) :gift_heart: - A presentation library with intuitive, scroll-based navigation. [https://mbostock.github.io/stack/](https://mbostock.github.io/stack/)
 

@@ -151,6 +151,7 @@
 
 - **DateTime**
 
+  * [date-fns](https://github.com/date-fns/date-fns) :gift_heart: - Modern JavaScript date utility library. [https://date-fns.org/](https://date-fns.org/)
   * [Day.js](https://github.com/xx45/dayjs) :gift_heart: - Fast 2KB immutable date library alternative to Moment.js with the same modern API. [https://github.com/xx45/dayjs](https://github.com/xx45/dayjs)
   * [Luxon](https://github.com/moment/luxon) :gift_heart: - A library for working with dates and times in JS [https://moment.github.io/luxon](https://moment.github.io/luxon)
   * [Moment.js](https://github.com/moment/moment) :gift_heart: - Parse, validate, manipulate, and display dates in javascript. [http://momentjs.com](http://momentjs.com)

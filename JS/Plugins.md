@@ -39,6 +39,7 @@
   * [Texgen.js](https://github.com/mrdoob/texgen.js) :gift_heart: - Procedural Texture Generator. [http://texgenjs.org/](http://texgenjs.org/)
   * [Textures.js](https://github.com/riccardoscalco/textures) :gift_heart: - Textures.js is a JavaScript library for creating SVG patterns. [http://riccardoscalco.github.io/textures/](http://riccardoscalco.github.io/textures/)
   * [Trianglify](https://github.com/qrohlf/trianglify) :gift_heart: - Algorithmically generated triangle art. [http://qrohlf.com/trianglify/](http://qrohlf.com/trianglify/)
+  * [TWGL](https://github.com/greggman/twgl.js) :gift_heart: - A Tiny WebGL helper Library. [http://twgljs.org](http://twgljs.org)
   * [Velociy](https://github.com/julianshapiro/velocity) :gift_heart: - Accelerated JavaScript animation. [http://velocityjs.org/](http://velocityjs.org/)
   * [Vivus.js (SVG-animations)](https://github.com/maxwellito/vivus) :gift_heart: - JavaScript library to make drawing animation on SVG. [http://maxwellito.github.io/vivus/](http://maxwellito.github.io/vivus/)
   * [WebGL Fluid Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) :gift_heart: -  Play with fluids in your browser (works even on mobile). [https://paveldogreat.github.io/WebGL-Fluid-Simulation/](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
@@ -442,6 +443,10 @@
   * [TheaterJS](https://github.com/Zhouzi/TheaterJS) :gift_heart: - Typing animation mimicking human behavior. [https://codepen.io/Zhouzi/pen/JoRazP](https://codepen.io/Zhouzi/pen/JoRazP)
   * [Underline.js](https://github.com/wentin/underlineJS) :gift_heart: - Pushing the boundary of browser typography rendering! [http://underlinejs.org/](http://underlinejs.org/)
   * [Underscore.string](https://github.com/epeli/underscore.string) :gift_heart: - String manipulation helpers for javascript. [http://epeli.github.io/underscore.string/](http://epeli.github.io/underscore.string/)
+
+- **Text-to-Speech**
+
+  * [speak.js](https://github.com/kripken/speak.js) :gift_heart: - Text-to-Speech in JavaScript using eSpeak. [https://github.com/kripken/speak.js](https://github.com/kripken/speak.js)
 
 - **Third Party Integrations**
 

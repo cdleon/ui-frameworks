@@ -3,6 +3,7 @@
 
 - **Accesibility**
 
+  * [darkmodejs](https://github.com/Assortment/darkmodejs) :gift_heart: - Utility package for managing Dark Mode on the web [https://darkmodejs-demo.netlify.com/](https://darkmodejs-demo.netlify.com/)
   * [Tota11y](https://github.com/Khan/tota11y) :gift_heart: - an accessibility (a11y) visualization toolkit. [http://khan.github.io/tota11y/](http://khan.github.io/tota11y/)
   
 - **Animation & Graphics**
@@ -17,6 +18,7 @@
   * [d3-interpolate-path](https://github.com/pbeshai/d3-interpolate-path) :gift_heart: - Interpolates path `d` attribute smoothly when A and B have different number of points. [https://peterbeshai.com/d3-interpolate-path/](https://peterbeshai.com/d3-interpolate-path/)
   * [dynamics.js](https://github.com/michaelvillar/dynamics.js) :gift_heart: - Javascript library to create physics-based animations [http://dynamicsjs.com](http://dynamicsjs.com)
   * [Flubber](https://github.com/veltman/flubber) :gift_heart: -  Tools for smoother shape animations. [https://veltman.github.io/flubber/demos/circles.html](https://veltman.github.io/flubber/demos/circles.html)
+  * [Freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js/) :gift_heart: - freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions. [https://ctrl-freaks.github.io/freezeframe.js/](https://ctrl-freaks.github.io/freezeframe.js/)
   * [GSAP](https://github.com/greensock/GreenSock-JS/) :gift_heart: - GreenSock's GSAP JavaScript animation library (including Draggable). [https://greensock.com](https://greensock.com)
   * [GreenSock MorphSVGPlugin](https://greensock.com/morphSVG) :moneybag: - MorphSVGPlugin provides advanced control over tweens that morph SVG paths. [https://greensock.com/morphSVG](https://greensock.com/morphSVG)
   * [HTML5 Deck of Cards](https://github.com/pakastin/deck-of-cards) :gift_heart: - HTML5 Deck of Cards [https://deck-of-cards.js.org](https://deck-of-cards.js.org)

@@ -28,6 +28,7 @@ Please read manifest to contribute :)
 * [Vue](#vue)
 
 ##### <a id="angular"></a>Angular
+* [Components](https://github.com/cdleon/awesome-front-end/blob/master/Angular/Components.md)
 * [Directives](https://github.com/cdleon/awesome-front-end/blob/master/Angular/Directives.md)
 * [Frameworks](https://github.com/cdleon/awesome-front-end/blob/master/Angular/Frameworks.md)
 * [Guides](https://github.com/cdleon/awesome-front-end/blob/master/Angular/Guides.md)

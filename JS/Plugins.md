@@ -68,6 +68,9 @@
 - **Automation & Scraping**
 
 
+- **Browser Detect**
+  * [UAParser.js](https://github.com/faisalman/ua-parser-js) :gift_heart: - UAParser.js - JavaScript library to detect browser, engine, OS, CPU, and device type/model from userAgent string. Supports browser & node.js environment. Also available as jQuery/Zepto plugin, Bower/Meteor package, RequireJS/AMD module, & CLI tool. [http://faisalman.github.io/ua-parser-js](http://faisalman.github.io/ua-parser-js)
+
 - **Calendars & Date Pickers**
 
   * [DatePickr](https://github.com/joshsalverda/datepickr) :gift_heart: - A simple JavaScript date picker. [http://joshsalverda.github.io/datepickr/](http://joshsalverda.github.io/datepickr/)

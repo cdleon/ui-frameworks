@@ -16,6 +16,7 @@
   * [Cirque](https://github.com/two-n/cirque) :gift_heart: -  Utilities for negotiating between circles and polygons in SVG. [http://projects.two-n.com/cirque](http://projects.two-n.com/cirque/)
   * [d3.geo2rect](https://github.com/sebastian-meier/d3.geo2rect) :gift_heart: - Morphing geojson polygons into rectangles. [http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html](http://prjcts.sebastianmeier.eu/geo2rect/example/index_de.html)
   * [d3-interpolate-path](https://github.com/pbeshai/d3-interpolate-path) :gift_heart: - Interpolates path `d` attribute smoothly when A and B have different number of points. [https://peterbeshai.com/d3-interpolate-path/](https://peterbeshai.com/d3-interpolate-path/)
+  * [driver.js](https://github.com/kamranahmedse/driver.js) :gift_heart: - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page. [http://kamranahmed.info/driver.js](http://kamranahmed.info/driver.js)
   * [dynamics.js](https://github.com/michaelvillar/dynamics.js) :gift_heart: - Javascript library to create physics-based animations [http://dynamicsjs.com](http://dynamicsjs.com)
   * [Flubber](https://github.com/veltman/flubber) :gift_heart: -  Tools for smoother shape animations. [https://veltman.github.io/flubber/demos/circles.html](https://veltman.github.io/flubber/demos/circles.html)
   * [Freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js/) :gift_heart: - freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions. [https://ctrl-freaks.github.io/freezeframe.js/](https://ctrl-freaks.github.io/freezeframe.js/)
@@ -57,6 +58,7 @@
   * [Modal](https://github.com/humaan/Modaal) :gift_heart: - An accessible dialog window library for all humans. [http://humaan.com/modaal/](http://humaan.com/modaal/)
   * [Notiejs](https://github.com/jaredreich/notie) :gift_heart: - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies. [https://jaredreich.com/notie](https://jaredreich.com/notie)
   * [Notification Logger](https://github.com/hkirat/notification-logger) :gift_heart: - Desktop notification for your console Logs. [https://hkirat.github.io/notification-logger/](https://hkirat.github.io/notification-logger/)
+  * [Popbox.js](https://github.com/oncebot/popbox.js) :gift_heart: - A tiny and simple stackable modal plugin for web apps . [https://oncebot.github.io/popbox.js/](https://oncebot.github.io/popbox.js/)
   * [SweetAlert](https://github.com/t4t5/sweetalert) :gift_heart: - A beautiful replacement for JavaScript's "alert".  [https://sweetalert.js.org](https://sweetalert.js.org)
 
 - **AR**
@@ -201,6 +203,7 @@
   * [Horsey](https://github.com/bevacqua/horsey) :gift_heart: - Progressive and customizable autocomplete component. [https://bevacqua.github.io/horsey/](https://bevacqua.github.io/horsey/)
   * [HTML Form Persistence](https://github.com/FThompson/FormPersistence.js) :gift_heart: - A simple JavaScript library for preserving HTML form data across multiple sessions. 
   * [List.js](https://github.com/javve/list.js) :gift_heart: - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML. [http://www.listjs.com/examples/existing-list](http://www.listjs.com/examples/existing-list)
+  * [Multi.js](https://github.com/Fabianlindfors/multi.js) :gift_heart: - A user-friendly replacement for select boxes with multiple attribute enabled [http://fabianlindfors.se/multijs](http://fabianlindfors.se/multijs)
   * [Places](https://github.com/algolia/places) :gift_heart: - Turn any <input> into an address autocomplete. [https://community.algolia.com/places/](https://community.algolia.com/places/)
   * [Selected.js](https://github.com/Fizzadar/selected.js) :gift_heart: - A simple, dependency free ```<select>``` replacement [http://fizzadar.com/selected.js/](http://fizzadar.com/selected.js/)
   * [Stretchy](https://github.com/LeaVerou/stretchy) :gift_heart: - Form element autosizing, the way it should be. [http://leaverou.github.io/stretchy/](http://leaverou.github.io/stretchy/)
@@ -269,6 +272,7 @@
   * [lazysizes](https://github.com/aFarkas/lazysizes) :gift_heart: - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration. 
   * [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) :gift_heart: - Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more. [https://apoorv.pro/lozad.js/demo/](https://apoorv.pro/lozad.js/demo/)
   * [Responsively Lazy](https://github.com/ivopetkov/responsively-lazy) :gift_heart: - Lazy load responsive images. [https://ivopetkov.com/b/lazy-load-responsive-images/](https://ivopetkov.com/b/lazy-load-responsive-images/)
+  * [Yall.js](https://github.com/malchata/yall.js) :gift_heart: - A fast, flexible, and small SEO-friendly lazy loader.
 
 - **Libraries**
 

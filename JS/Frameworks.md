@@ -28,6 +28,7 @@
 * [Lodash](https://github.com/lodash/lodash) :gift_heart: - A JavaScript utility library delivering consistency, modularity, performance, & extras. [https://lodash.com/](https://lodash.com/)
 * [Marko.js](https://github.com/marko-js/marko) :gift_heart: - A friendly (and fast!) UI library from eBay that makes building web apps fu. [https://markojs.com/](https://markojs.com/)
 * [Min.js](https://github.com/remy/min.js) :gift_heart: - Super minimal selector and event library. [https://github.com/remy/min.js](https://github.com/remy/min.js)
+* [Mithril.js](https://github.com/MithrilJS/mithril.js) :gift_heart: - A JavaScript Framework for Building Brilliant Applications [https://mithril.js.org](https://mithril.js.org)
 * [Moon](https://github.com/kbrsh/moon) :gift_heart: - A minimal, blazing fast UI library. [http://moonjs.ga/](http://moonjs.ga/)
 * [MooTools](http://mootools.net/) :gift_heart: - MooTools is a collection of JavaScript utilities designed for the intermediate to advanced JavaScript developer. It allows you to write powerful and flexible code with its elegant, well documented, and coherent APIs. [http://mootools.net/](http://mootools.net/)
 * [Mustache.js](https://github.com/janl/mustache.js/) :gift_heart: - Minimal templating with {{mustaches}} in JavaScript. [http://mustache.github.io/](http://mustache.github.io/)

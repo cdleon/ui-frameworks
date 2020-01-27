@@ -35,6 +35,7 @@
   * [Planck.js](https://github.com/shakiba/planck.js) :gift_heart: - 2D JavaScript Physics Engine [http://piqnt.com/planck.js/]](http://piqnt.com/planck.js/)
   * [Popmotion](https://github.com/Popmotion/popmotion) :gift_heart: - A 12kb Javascript motion engine. Use for animation, physics and input tracking. [https://popmotion.io/](https://popmotion.io/)
   * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael/) :gift_heart: - JavaScript Vector Library. [https://github.com/DmitryBaranovskiy/raphael/](https://github.com/DmitryBaranovskiy/raphael/)
+  * [Rough.js](https://github.com/pshihn/rough) :gift_heart: - Create graphics with a hand-drawn, sketchy, appearance [http://roughjs.com](http://roughjs.com)
   * [Rythm.js](https://github.com/Okazari/Rythm.js) :gift_heart: - A javascript library that makes your page dance. [https://okazari.github.io/Rythm.js/](https://okazari.github.io/Rythm.js/)
   * [Scene.js](https://github.com/daybrush/scenejs) :gift_heart: - Scene.js is JavaScript & CSS timeline-based animation library. [https://daybrush.com/scenejs](https://daybrush.com/scenejs)
   * [Shiny](https://github.com/rikschennink/shiny) :gift_heart: - Shiny reflections for mobile websites [https://pqina.nl/shiny/](https://pqina.nl/shiny/)

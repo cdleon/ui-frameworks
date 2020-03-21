@@ -46,3 +46,4 @@
   * [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) :gift_heart: - Loading icons and small animations built purely in SVG, no CSS or JS. [http://samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
   * [SVG Logos](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos [http://svgporn.com/](http://svgporn.com/)
   * [SVG Porn](https://github.com/gilbarbara/logos) :gift_heart: - A huge collection of SVG logos. [https://github.com/gilbarbara/logos/](https://github.com/gilbarbara/logos/)
+  * [Tabler Icons](https://github.com/tabler/tabler-icons) :gift_heart: - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.

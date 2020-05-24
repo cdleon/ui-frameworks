@@ -509,6 +509,7 @@
   * [CKEditor](https://github.com/ckeditor/ckeditor-dev) :gift_heart: - The development repository of CKEditor. [http://ckeditor.com/](http://ckeditor.com/)
   * [Dillinger](https://github.com/joemccann/dillinger) :gift_heart: - The last Markdown editor, ever. [http://dillinger.io](http://dillinger.io)
   * [Editor.js](https://github.com/codex-team/editor.js) :gift_heart: - A block-styled editor with clean JSON output. [https://editorjs.io](https://editorjs.io)
+  * [GitHub WYSIWYG Rich-Text Editor](https://github.com/ckeditor/github-writer) :gift_heart: -  GitHub Writer - WYSIWYG Rich-Text Editor for GitHub, powered by CKEditor. [https://ckeditor.com/](https://ckeditor.com/)
   * [Highlight.js](https://github.com/isagalaev/highlight.js) :gift_heart: - Javascript syntax highlighter. [https://highlightjs.org/](https://highlightjs.org/)
   * [Monaco Editor](https://github.com/Microsoft/monaco-editor) :gift_heart: - A browser based code editor. [https://microsoft.github.io/monaco-editor/](https://microsoft.github.io/monaco-editor/)
   * [Pell](https://github.com/jaredreich/pell) :gift_heart: - The simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies. [https://jaredreich.com/pell](https://jaredreich.com/pell)

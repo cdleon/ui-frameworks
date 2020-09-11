@@ -1,13 +1,12 @@
 # UI Frameworks
 
-[![Build Status](https://api.travis-ci.org/cdleon/awesome-browser-dev.svg?branch=master)](https://travis-ci.org/cdleon/awesome-browser-dev)
+[![Build Status](https://api.travis-ci.org/cdleon/ui-frameworks.svg?branch=master)](https://travis-ci.org/cdleon/ui-frameworks)
 
 ## CSS
 
 - [960 Grid System](https://github.com/nathansmith/960-Grid-System) - The 960 Grid System is an effort to streamline web development workflow. [http://960.gs](http://960.gs)
 - [Amaze UI](https://github.com/amazeui/amazeui) - Amaze UI, a mobile-first and modular front-end framework. [http://amazeui.org/](http://amazeui.org/)
 - [Blueprint](https://github.com/joshuaclayton/blueprint-css) - A CSS framework that aims to cut down on your CSS development time [http://www.blueprintcss.org](http://www.blueprintcss.org)
-- [Bluetrip](https://github.com/mikecrittenden/bluetrip) - A full-featured and beautiful CSS grid framework with an emphasis on typographical goodness. [http://bluetrip.org](http://bluetrip.org)
 - [Bootmetro](https://github.com/aozora/bootmetro) - Simple and flexible web framework to create elegant and modern web applications
 with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](http://www.marcellop.com/bootmetro/)
 - [Bootsrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. [http://getbootstrap.com](http://getbootstrap.com)
@@ -27,8 +26,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - [Miligram](https://github.com/milligram/milligram) A minimalist CSS framework. [https://milligram.github.io/](https://milligram.github.io/)
 - [MUI](https://github.com/muicss/mui) - MUI is a lightweight CSS framework that follows Google's Material Design guidelines. [https://www.muicss.com](https://www.muicss.com)
 - [NES](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework. [https://nostalgic-css.github.io/NES.css/](https://nostalgic-css.github.io/NES.css/)
-- [Office UI Fabric](https://github.com/OfficeDev/office-ui-fabric-core) - The front-end framework for building experiences for Office 365. [http://dev.office.com/fabric](http://dev.office.com/fabric)
-- [Penguin](https://github.com/bq/penguin) - A front-end framework created for front-end developers. [http://penguin.docs.bqws.io/](http://penguin.docs.bqws.io/)
+- [Office UI Fabric](https://github.com/OfficeDev/office-ui-fabric-core) - The front-end framework for building experiences for Office 365. [https://developer.microsoft.com/en-us/fluentui](https://developer.microsoft.com/en-us/fluentui)
 - [Pills](https://github.com/rohitkrai03/pills) - A simple responsive CSS Grid for humans. [http://arkpod.in/pills/](http://arkpod.in/pills/)
 - [Primer](https://github.com/primer/primer) - The base coat of GitHub. Our internal CSS toolkit and guidelines. [https://github.com/primer/primer](https://github.com/primer/primer)
 - [Pure](https://github.com/yahoo/pure/) - A set of small, responsive CSS modules that you can use in every web project. [http://purecss.io/](http://purecss.io/)
@@ -46,7 +44,6 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - [Unnamed](https://github.com/smakosh/unnamed-css-framework) - A simple colorful css framework [https://unnamed.smakosh.com](https://unnamed.smakosh.com)
 - [U.S. Web Design System](https://github.com/uswds/uswds) The U.S. Web Design System is a design system for building fast, accessible, mobile-friendly federal government websites. [https://designsystem.digital.gov](https://designsystem.digital.gov)
 - [Water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer. [https://watercss.netlify.com/](https://watercss.netlify.com/)
-- [Winstrap](https://github.com/winjs/winstrap) - The official Bootstrap theme for Microsoft's Modern design language. [http://winstrap.azurewebsites.net/](http://winstrap.azurewebsites.net/)
 - [Yaml](https://github.com/yamlcss/yaml) - YAML (Yet Another Multicolumn Layout) is a modular CSS framework for truly flexible, accessible and responsive websites. It is based on Sass and has a very slim framework core that weights only ~6kB. [http://www.yaml.de](http://www.yaml.de)
 - [Yahoo User Interface Library](https://github.com/yui/yui3) - YUI is a free, open source JavaScript and CSS framework for building richly interactive web applications. [http://yuilibrary.com/](http://yuilibrary.com/)
 
@@ -73,7 +70,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 * [Fn.js](https://github.com/CrowdHailer/fn.js) - A JavaScript library built to encourage a functional programming style & strategy [http://eliperelman.com/fn.js/](http://eliperelman.com/fn.js/)
 * [Handlebars.js](https://github.com/wycats/handlebars.js) - Handlebars.js is an extension to the Mustache templating language created by Chris Wanstrath. Handlebars.js and Mustache are both logicless templating languages that keep the view and the code separated like we all know they should be. [http://handlebarsjs.com/](http://handlebarsjs.com/)
 * [Hilo](https://github.com/hiloteam/Hilo) - A Cross-end HTML5 Game development solution developed by Alibaba Group [https://hiloteam.github.io/](https://hiloteam.github.io/)
-* [Hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building frontend applications. [https://hyperapp.js.org](https://hyperapp.js.org)
+* [Hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building frontend applications. [https://hyperapp.glitch.me)
 * [Inferno](https://github.com/trueadm/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces. [http://infernojs.org/](http://infernojs.org/)
 * [jQuery](https://github.com/jquery/jquery) - jQuery JavaScript Library. [https://jquery.com/](https://jquery.com/)
 * [jQuery Mobile](https://github.com/jquery/jquery-mobile) - jQuery Mobile is a unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation. [https://jquerymobile.com/](https://jquerymobile.com/)
@@ -122,7 +119,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 * [Polaris](https://polaris.shopify.com/) - Our design system helps us work together to build a great experience for all of Shopify’s merchants.
 * [React95](https://github.com/arturbien/React95) - Refreshed Windows 95 style UI components for your React app [https://react95.io/](https://react95.io/)
 * [React Toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules. [http://react-toolbox.com/#/](http://react-toolbox.com/#/)
-* [React-MDL](https://github.com/react-mdl/react-mdl) - React Components for Material Design Lite. [https://react-mdl.github.io/react-mdl/)
+* [React-MDL](https://github.com/react-mdl/react-mdl) - React Components for Material Design Lite. [https://tleunen.github.io/react-mdl/)(https://tleunen.github.io/react-mdl/)
 * [React Static](https://github.com/nozzle/react-static) - A progressive static-site framework for React. [https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc](https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc)
 * [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) - A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
 * [ReactXP](https://github.com/Microsoft/reactxp) Library for cross-platform app development. [https://microsoft.github.io/reactxp](https://microsoft.github.io/reactxp/)
@@ -130,7 +127,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 * [Relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications. [https://facebook.github.io/relay/](https://facebook.github.io/relay/)
 * [Rebass](https://github.com/rebassjs/rebass) - React primitive UI components built with styled-system. [https://rebassjs.org](https://rebassjs.org)
 * [Ring UI](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components. [https://jetbrains.org/ring-ui](https://jetbrains.org/ring-ui)
-* [Uiw](https://github.com/uiw-react/uiw) - A high quality UI Toolkit, A Component Library for React 16+. [https://uiw-react.github.io](https://uiw-react.github.io)
+* [Uiw](https://github.com/uiw-react/uiw) - A high quality UI Toolkit, A Component Library for React 16+. [https://uiwjs.github.io/#/](https://uiwjs.github.io/#/)
 * [wired-elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn. Great for wireframes. [https://wiredjs.com](https://wiredjs.com)
 * [Yoshino](https://github.com/Yoshino-UI/Yoshino) - A themable React component library！Flexible Lightweight PC UI Components built on React! Anyone can generate easily all kinds of themes by it! [https://yoshino-ui.github.io](https://yoshino-ui.github.io)
 
@@ -138,7 +135,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 
 - [at-ui](https://github.com/at-ui/at-ui) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0. [https://at.aotu.io](https://at.aotu.io)
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - Implementation of [bootstrap-4](https://getbootstrap.com/) grid and components for Vue.js 2. [https://bootstrap-vue.js.org/](https://bootstrap-vue.js.org/)
-- [buefy](https://github.com/buefy/buefy) - Components based on Bulma framework. [https://buefy.github.io/](https://buefy.github.io/)
+- [buefy](https://github.com/buefy/buefy) - Components based on Bulma framework. [https://buefy.org/](https://buefy.org/)
 - [cube-ui](https://github.com/didi/cube-ui) - A fantastic mobile ui lib implement by Vue. [https://didi.github.io/cube-ui/](https://didi.github.io/cube-ui/)
 - [Element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web [https://element.eleme.io/](https://element.eleme.io/)
 - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web. [http://element.eleme.io/](http://element.eleme.io/)
@@ -146,18 +143,17 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - [Framework7](https://github.com/framework7io/framework7/) - Full featured HTML framework for building iOS & Android apps [http://framework7.io](http://framework7.io)
 - [iview-ui](https://github.com/iview/iview) - A Vue.js 2.0 UI Framework for web. [https://www.iviewui.com](https://www.iviewui.com)
 - [Keen-UI](https://github.com/JosephusPaye/Keen-UI) - A lightweight Vue.js UI library with a simple API, inspired by Google's Material Design. [https://josephuspaye.github.io/Keen-UI/](https://josephuspaye.github.io/Keen-UI/)
-- [material-components-vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js. [https://matsp.github.io/material-components-vue/#/](https://matsp.github.io/material-components-vue/#/)
-- [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js [http://mint-ui.github.io/#!/en](http://mint-ui.github.io/#!/en)
+- [material-components-vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js. [https://matsp.github.io/material-components-vue/](https://matsp.github.io/material-components-vue/)
+- [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js. [https://mint-ui.github.io/#!/en](https://mint-ui.github.io/#!/en)
 - [muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0. [https://museui.github.io](https://museui.github.io)
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js. [https://onsen.io/](https://onsen.io/)
 - [PrimeVue](https://github.com/primefaces/primevue) - A Vue.js 2.0 UI Component library for Web. [https://github.com/primefaces/primevue](https://github.com/primefaces/primevue)
 - [Quasar Framework](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps (that look native on Android and iOS) and Electron apps using same code, with VueJs 2. [http://quasar-framework.org/](http://quasar-framework.org/)
 - [Semantic UI Vue](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue) - Semantic UI integration for Vue [https://semantic-ui-vue.github.io](https://semantic-ui-vue.github.io)
-- [v-semantic](https://github.com/eddow/v-semantic) - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue. [https://rawgit.com/eddow/v-semantic/master/test/run/index.html](https://rawgit.com/eddow/v-semantic/master/test/run/index.html)
-- [vue-blu](https://github.com/chenz24/vue-blu) - UI Component Library Base on Vue.js(2.x) and Bulma. [https://chenz24.github.io/vue-blu/#/](https://chenz24.github.io/vue-blu/#/)
-- [vue-bulma-components](https://github.com/vouill/vue-bulma-components) - Easily use bulma class syntax with vue components. [https://teller-multisystems-48055.netlify.com/#/grid](https://teller-multisystems-48055.netlify.com/#/grid)
+- [v-semantic](https://github.com/eddow/v-semantic) - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue. [https://semantic-ui.com/](https://semantic-ui.com/)
+- [vue-blu](https://github.com/chenz24/vue-blu) - UI Component Library Base on Vue.js(2.x) and Bulma. [https://chenz24.github.io/vue-blu](https://chenz24.github.io/vue-blu)
+- [vue-bulma-components](https://github.com/vouill/vue-bulma-components) - Easily use bulma class syntax with vue components. [https://codesandbox.io/s/wk2w3z0zk5](https://codesandbox.io/s/wk2w3z0zk5)
 - [vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js. [https://vuematerial.io/](https://vuematerial.io/)
-- [vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) - Material Components integration for Vue.js as per MDC Team's [guidelines](https://github.com/material-components/material-components-web/blob/master/docs/integrating-into-frameworks.md). [https://stasson.github.io/vue-mdc-adapter/#/](https://stasson.github.io/vue-mdc-adapter/#/)
 - [vue-strap](https://github.com/yuche/vue-strap) - Bootstrap components built with Vue.js [http://yuche.github.io/vue-strap/]](http://yuche.github.io/vue-strap/)
 - [vuikit](https://github.com/vuikit/vuikit) - A responsive Vue UI library for web site interfaces [https://vuikit.js.org](https://vuikit.js.org)
 - [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js. [https://lusaxweb.github.io/vuesax/](https://lusaxweb.github.io/vuesax/)

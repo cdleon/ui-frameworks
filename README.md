@@ -118,8 +118,8 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - [Material UI](https://github.com/callemall/material-ui) - React Components that Implement Google's Material Design. [http://www.material-ui.com](http://www.material-ui.com)
 * [Polaris](https://polaris.shopify.com/) - Our design system helps us work together to build a great experience for all of Shopify’s merchants.
 * [React95](https://github.com/arturbien/React95) - Refreshed Windows 95 style UI components for your React app [https://react95.io/](https://react95.io/)
-* [React Toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules. [http://react-toolbox.com/#/](http://react-toolbox.com/#/)
-* [React-MDL](https://github.com/react-mdl/react-mdl) - React Components for Material Design Lite. [https://tleunen.github.io/react-mdl)(https://tleunen.github.io/react-mdl)
+* [React Toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules.
+* [React-MDL](https://github.com/react-mdl/react-mdl) - React Components for Material Design Lite. [https://tleunen.github.io/react-mdl](https://tleunen.github.io/react-mdl)
 * [React Static](https://github.com/nozzle/react-static) - A progressive static-site framework for React. [https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc](https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc)
 * [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) - A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
 * [ReactXP](https://github.com/Microsoft/reactxp) Library for cross-platform app development. [https://microsoft.github.io/reactxp](https://microsoft.github.io/reactxp/)

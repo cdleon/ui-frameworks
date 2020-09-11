@@ -119,7 +119,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 * [Polaris](https://polaris.shopify.com/) - Our design system helps us work together to build a great experience for all of Shopify’s merchants.
 * [React95](https://github.com/arturbien/React95) - Refreshed Windows 95 style UI components for your React app [https://react95.io/](https://react95.io/)
 * [React Toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules. [http://react-toolbox.com/#/](http://react-toolbox.com/#/)
-* [React-MDL](https://github.com/react-mdl/react-mdl) - React Components for Material Design Lite. [https://tleunen.github.io/react-mdl/)(https://tleunen.github.io/react-mdl/)
+* [React-MDL](https://github.com/react-mdl/react-mdl) - React Components for Material Design Lite. [https://tleunen.github.io/react-mdl)(https://tleunen.github.io/react-mdl)
 * [React Static](https://github.com/nozzle/react-static) - A progressive static-site framework for React. [https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc](https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc)
 * [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) - A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
 * [ReactXP](https://github.com/Microsoft/reactxp) Library for cross-platform app development. [https://microsoft.github.io/reactxp](https://microsoft.github.io/reactxp/)
@@ -127,7 +127,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 * [Relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications. [https://facebook.github.io/relay/](https://facebook.github.io/relay/)
 * [Rebass](https://github.com/rebassjs/rebass) - React primitive UI components built with styled-system. [https://rebassjs.org](https://rebassjs.org)
 * [Ring UI](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components. [https://jetbrains.org/ring-ui](https://jetbrains.org/ring-ui)
-* [Uiw](https://github.com/uiw-react/uiw) - A high quality UI Toolkit, A Component Library for React 16+. [https://uiwjs.github.io/#/](https://uiwjs.github.io/#/)
+* [Uiw](https://github.com/uiw-react/uiw) - A high quality UI Toolkit, A Component Library for React 16+. [https://uiwjs.github.io](https://uiwjs.github.io)
 * [wired-elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn. Great for wireframes. [https://wiredjs.com](https://wiredjs.com)
 * [Yoshino](https://github.com/Yoshino-UI/Yoshino) - A themable React component library！Flexible Lightweight PC UI Components built on React! Anyone can generate easily all kinds of themes by it! [https://yoshino-ui.github.io](https://yoshino-ui.github.io)
 
@@ -139,12 +139,12 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 - [cube-ui](https://github.com/didi/cube-ui) - A fantastic mobile ui lib implement by Vue. [https://didi.github.io/cube-ui/](https://didi.github.io/cube-ui/)
 - [Element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web [https://element.eleme.io/](https://element.eleme.io/)
 - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web. [http://element.eleme.io/](http://element.eleme.io/)
-- [fish-ui](https://github.com/myliang/fish-ui) - A Vue.js 2.0 UI Toolkit for Web. [https://myliang.github.io/fish-ui/#/components/index](https://myliang.github.io/fish-ui/#/components/index)
+- [fish-ui](https://github.com/myliang/fish-ui) - A Vue.js 2.0 UI Toolkit for Web. [https://myliang.github.io/fish-ui](https://myliang.github.io/fish-ui)
 - [Framework7](https://github.com/framework7io/framework7/) - Full featured HTML framework for building iOS & Android apps [http://framework7.io](http://framework7.io)
 - [iview-ui](https://github.com/iview/iview) - A Vue.js 2.0 UI Framework for web. [https://www.iviewui.com](https://www.iviewui.com)
 - [Keen-UI](https://github.com/JosephusPaye/Keen-UI) - A lightweight Vue.js UI library with a simple API, inspired by Google's Material Design. [https://josephuspaye.github.io/Keen-UI/](https://josephuspaye.github.io/Keen-UI/)
 - [material-components-vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js. [https://matsp.github.io/material-components-vue/](https://matsp.github.io/material-components-vue/)
-- [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js. [https://mint-ui.github.io/#!/en](https://mint-ui.github.io/#!/en)
+- [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js. [https://mint-ui.github.io](https://mint-ui.github.io)
 - [muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0. [https://museui.github.io](https://museui.github.io)
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js. [https://onsen.io/](https://onsen.io/)
 - [PrimeVue](https://github.com/primefaces/primevue) - A Vue.js 2.0 UI Component library for Web. [https://github.com/primefaces/primevue](https://github.com/primefaces/primevue)

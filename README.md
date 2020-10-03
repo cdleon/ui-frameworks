@@ -106,6 +106,7 @@ with the same look & feel of Windows 8 [http://www.marcellop.com/bootmetro/](htt
 
 ## React
 
+* [Chakra UI](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications. [https://chakra-ui.com/](https://chakra-ui.com/)
 * [CSS Blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets. [http://css-blocks.com/](http://css-blocks.com/)
 * [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors. [https://facebook.github.io/draft-js/](https://facebook.github.io/draft-js/)
 * [Elemental UI](https://github.com/elementalui/elemental) - A UI Toolkit for React.js Websites and Apps. [http://elemental-ui.com/](http://elemental-ui.com/)
